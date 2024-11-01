@@ -1,0 +1,40 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - SAVES-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003FD149h]
+Size  [000000DBh][00000103h][2]
+pStart[003FD13Bh]
+pFirst[CF49h-7]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Gib einen Namen ein und(A)
+drücke dann Start.(END)
+
+[>Pointer 2<]
+Gegner können auch angreifen,(A)
+wenn du nicht bereit bist!(END)
+
+[>Pointer 3<]
+Dir bleibt genug Zeit, um(A)
+strategisch vorzugehen.(END)
+
+[>Pointer 4<]
+Spielstand(A)
+wählen...(END)
+
+[>Pointer 5<]
+Wen(A)
+ersetzen?(END)
+
+[>Pointer 6<]
+Das geht(A)
+nicht!(END)
+
+[>Pointer 7<]
+kann benutzen:(END)
+
+
+[>DUMP END<]----------------------------------------------------------

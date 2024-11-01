@@ -1,0 +1,1 @@
+decomp.exe Chrono.swc ctcopyright.bin 3e6202 12 0

@@ -1,0 +1,5349 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 4]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [00375466h]
+Size  [0000A60Bh][00011D1Bh][2]
+pStart[00374B00h]
+pFirst[5266h-1203]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 2<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 3<]
+Das Amulett beginnt zu leuchten...!(END)
+
+[>Pointer 4<]
+Marle: Iiiih!(END)
+
+[>Pointer 5<]
+Lucca: Autsch...!(END)
+
+[>Pointer 6<]
+Marle: Hier findet uns der Kanzler(AÜ)
+nie und nimmer.(END)
+
+[>Pointer 7<]
+Marle: Aber wo sind wir...?(END)
+
+[>Pointer 8<]
+Lucca: Die Zivilisation hier scheint(AÜ)
+sehr fortschrittlich zu sein...(END)
+
+[>Pointer 9<]
+Marle: Als wären wir in einer(AÜ)
+anderen Welt.(END)
+
+[>Pointer 10<]
+Da ist ein seltsames Emblem.(A)
+Durch Kraftfeld versiegelt.(END)
+
+[>Pointer 11<]
+Essen? Gibt's hier nicht!(END)
+
+[>Pointer 12<]
+Ihr bringt Licht in mein Leben...(A)
+Nein, ehrlich!(END)
+
+[>Pointer 13<]
+Friedenskuppel? Nie gehört.(A)
+Dies ist die Trannkuppel.(END)
+
+[>Pointer 14<]
+Was ist das?(KN)
+Eine Pflanze?(A)
+Was soll das sein?(END)
+
+[>Pointer 15<]
+Königreich...?(A)
+Wo...?(END)
+
+[>Pointer 16<]
+Noch nie so etwas gesehen...(END)
+
+[>Pointer 17<]
+Essen gibt's in der Arriskuppel im(A)
+Nordosten, jenseits von Lab 16...(KN)
+Aber den Monstern machen Schwerter(A)
+und Pistolen nichts aus.(END)
+
+[>Pointer 18<]
+Also gibt es auch in der Arriskuppel(A)
+Menschen!(END)
+
+[>Pointer 19<]
+Dies ist ein Enertron.(A)
+In ein paar Sekunden fühlt man(A)
+sich ausgeruht, aber den Hunger stillt(A)
+er nicht.(END)
+
+[>Pointer 20<]
+Ist das eßbar...?(END)
+
+[>Pointer 21<]
+Keuch, keuch...(KN)
+Hab's endlich durch die Ruinen(A)
+geschafft und den jungen Baum(A)
+mitgebracht, der aus dem Samen(A)
+gewachsen ist!(KN)
+Manchmal hat man mehr Kraft, als(A)
+man denkt...(END)
+
+[>Pointer 22<]
+Im Enertron ausruhen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 23<]
+(AÜ)
+        LP/MP wiederhergestellt!(END)
+
+[>Pointer 24<]
+(AÜ)
+        Aber der Hunger bleibt...(END)
+
+[>Pointer 25<]
+Alter Mann: Ihr da, woher seid ihr?(END)
+
+[>Pointer 26<]
+Lucca: Wir kommen von den(AÜ)
+Labors im Westen.(END)
+
+[>Pointer 27<]
+Alter Mann: Was!?(END)
+
+[>Pointer 28<]
+Alter Mann: Hey, diese Leute hier(AÜ)
+haben sich durch die Ruinen(AÜ)
+geschlagen!(END)
+
+[>Pointer 29<]
+Wirklich!?(END)
+
+[>Pointer 30<]
+Ist das ein Scherz?(END)
+
+[>Pointer 31<]
+Alter Mann: Also gibt es Menschen,(AÜ)
+die diese Mutanten besiegen(AÜ)
+können.(END)
+
+[>Pointer 32<]
+Alter Mann: Verzeiht. Ich bin Doan,(AÜ)
+Nachfahre des Direktors dieses(AÜ)
+Info-Zentrums.(KNÜ)
+Im Keller ist ein Großrechner(AÜ)
+und eine Lagerhalle mit Nahrung.(KNÜ)
+Aber wir kommen nicht bis dahin(AÜ)
+durch, wegen der Wächterroboter.(AÜ)
+Es ist schlimm.(END)
+
+[>Pointer 33<]
+Doan: Geht ihr nach unten?(END)
+
+[>Pointer 34<]
+Marle: Na sicher!(END)
+
+[>Pointer 35<]
+Doan: Aber niemand ist jemals(AÜ)
+wieder hochgekommen.(END)
+
+[>Pointer 36<]
+Lucca: Wir versuchen's eben.(END)
+
+[>Pointer 37<]
+Doan: ......(KNÜ)
+Wie schön, solch beherzte junge(AÜ)
+Menschen wie euch zu sehen.(END)
+
+[>Pointer 38<]
+Doan: Seid vorsichtig.(AÜ)
+Und kommt lebend zurück.(END)
+
+[>Pointer 39<]
+Doan: He, Leute!(AÜ)
+Seht!(AÜ)
+Der Samen ist aufgegangen!(END)
+
+[>Pointer 40<]
+Die Tür mit dem Emblem?(A)
+Nicht einmal mit Dynamit geht sie auf.(END)
+
+[>Pointer 41<]
+Eine alte Fabrik namens Protokuppel(A)
+ist im Osten. Ein paar verrückte(A)
+Roboter bewachen sie.(END)
+
+[>Pointer 42<]
+Seit ihr gekommen seid, haben(A)
+wir neuen Lebensmut.(END)
+
+[>Pointer 43<]
+Auf den Kontinent im Süden kommt(A)
+man durch die Kanalisation.(A)
+Aber haltet euch vom "Todesgipfel''(A)
+fern.(END)
+
+[>Pointer 44<]
+Ein alter Mann lebt nahe beim(A)
+Todesgipfel in einer Kuppel, die(A)
+er selbst gebaut hat.(A)
+Muß ein Spinner sein!(END)
+
+[>Pointer 45<]
+Wart ihr wirklich in der Kuppel(A)
+im Westen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 46<]
+Aha...(A)
+Nicht daß es mich wirklich(A)
+interessiert...(END)
+
+[>Pointer 47<]
+Ein Zeittor? Was soll das heißen?(A)
+Na ja, vielleicht gibt es Daten(A)
+darüber in unserem Computer...(END)
+
+[>Pointer 48<]
+Danke...(A)
+Ihr habt mir Hoffnung gegeben.(END)
+
+[>Pointer 49<]
+Was für eine Frucht da wohl(A)
+rauskommt?(END)
+
+[>Pointer 50<]
+Papa bringt uns was zu essen!(END)
+
+[>Pointer 51<]
+Papa ist unterwegs.(END)
+
+[>Pointer 52<]
+Mein Mann ging hinunter in die(A)
+Lagerhalle. Seither ist er verschollen...(END)
+
+[>Pointer 53<]
+Aber ich gebe nicht auf.(A)
+Dieses Kind und dieser Sämling(A)
+wachsen ja auch.(END)
+
+[>Pointer 54<]
+Wer seid ihr?(END)
+
+[>Pointer 55<]
+Hey!(A)
+SIE sind es wieder!(END)
+
+[>Pointer 56<]
+Hey!(A)
+Da sind sie wieder!(END)
+
+[>Pointer 57<]
+Lucca: Also das ist das(AÜ)
+Info-Zentrum!(END)
+
+[>Pointer 58<]
+Lucca: Klasse!(AÜ)
+Der Computer ist noch intakt.(AÜ)
+Mit der Suchfunktion finden wir(AÜ)
+vielleicht ein anderes Tor!(END)
+
+[>Pointer 59<]
+Lucca: Da!(END)
+
+[>Pointer 60<]
+Lucca: Östlich der Arriskuppel...(END)
+
+[>Pointer 61<]
+Lucca: Das muß die Protokuppel(AÜ)
+sein.(END)
+
+[>Pointer 62<]
+Marle: Du bist einsame Spitze,(AÜ)
+Lucca! Mit diesem Ding könntest(AÜ)
+du sicher alles finden!(END)
+
+[>Pointer 63<]
+Marle: Sag, was macht dieser(AÜ)
+Knopf hier?(END)
+
+[>Pointer 64<]
+Lucca: 1999 A.D.?(AÜ)
+Eine visuelle Aufzeichnung(AÜ)
+vom "Tag des Lavos''...(END)
+
+[>Pointer 65<]
+Marle: W...was...IST das?(END)
+
+[>Pointer 66<]
+Lucca: Lavos?...(AÜ)
+Unsere Welt...hat etwa er sie(AÜ)
+zerstört!?(END)
+
+[>Pointer 67<]
+Marle: Wir müssen wirklich in(AÜ)
+der Zukunft sein...(END)
+
+[>Pointer 68<]
+Marle: Nein!(AÜ)
+NEIN!(AÜ)
+Ich weigere mich, das zu glauben!(END)
+
+[>Pointer 69<]
+Marle: So...(END)
+
+[>Pointer 70<]
+Marle: ...so kann unsere Welt(AÜ)
+nicht enden...(END)
+
+[>Pointer 71<]
+Lucca: ......(END)
+
+[>Pointer 72<]
+Marle: Crono...(END)
+
+[>Pointer 73<]
+Marle: Dann gibt's nur eins!(AÜ)
+Wir müssen die Geschichte verändern!(AÜ)
+Genau wie Crono, als er mich(AÜ)
+gerettet hat!(END)
+
+[>Pointer 74<]
+Marle: Okay, Lucca?(END)
+
+[>Pointer 75<]
+Marle: Okay, Crono!?(END)
+
+[>Pointer 76<]
+Lucca: Ich...denke mal...(END)
+
+[>Pointer 77<]
+Lucca: Wir können jetzt nicht(AÜ)
+einfach in unsere Zeit zurückgehen(AÜ)
+und gemütlich weiterleben...(END)
+
+[>Pointer 78<]
+Lucca: Es war ein Glück, daß wir(AÜ)
+durch dieses Tor hierhergesandt(AÜ)
+wurden.(END)
+
+[>Pointer 79<]
+Lucca: Crono, gehen wir!(AÜ)
+   Okay!(AÜ)
+   Nein...(END)
+
+[>Pointer 80<]
+Lucca: Los doch!(AÜ)
+Zeig Marle, aus welchem Eisen(AÜ)
+du bist!(END)
+
+[>Pointer 81<]
+Marle: Crono!(AÜ)
+Lucca!(AÜ)
+Zusammen schaffen wir das!(END)
+
+[>Pointer 82<]
+Lucca: Aber laßt uns noch(AÜ)
+genauer über Lavos' Aktivitäten(AÜ)
+in unserer Epoche nachforschen!(END)
+
+[>Pointer 83<]
+Lucca: Auf zur Protokuppel!(END)
+
+[>Pointer 84<]
+Doan: Ihr seid zurück!(END)
+
+[>Pointer 85<]
+Doan: Nun?(AÜ)
+Was habt ihr entdeckt?(END)
+
+[>Pointer 86<]
+Marle: Dies ist...die Zukunft!(END)
+
+[>Pointer 87<]
+Doan: ...?(END)
+
+[>Pointer 88<]
+Mann: Wen kümmert's, was gibt's zu(AÜ)
+essen?(END)
+
+[>Pointer 89<]
+Marle: Wir fanden nur das hier...(END)
+
+[>Pointer 90<]
+Doan: Samen...?(END)
+
+[>Pointer 91<]
+Lucca: Ihr wißt nicht, wie lange(AÜ)
+der Enertron noch arbeitet.(AÜ)
+Diese Samen sind eure letzte(AÜ)
+Hoffnung.(END)
+
+[>Pointer 92<]
+Marle: Ihr müßt am Leben bleiben!(AÜ)
+Wie wir auch!(END)
+
+[>Pointer 93<]
+Doan: Hm...(KNÜ)
+Ihr seid seltsam...(AÜ)
+...anders als wir...(END)
+
+[>Pointer 94<]
+Marle: Wahrscheinlich weil wir(AÜ)
+gesund sind!(END)
+
+[>Pointer 95<]
+Doan: Gesund?(AÜ)
+Das klingt gut!(KNÜ)
+Wir werden versuchen, die Samen(AÜ)
+zu säen.(END)
+
+[>Pointer 96<]
+Kind: Was ist das?(END)
+
+[>Pointer 97<]
+Doan: Vielleicht unsere Zukunft...(END)
+
+[>Pointer 98<]
+Doan: Ihr geht zur Protokuppel?(AÜ)
+Geht durch Lab 32, und nehmt(AÜ)
+dies hier mit.(END)
+
+[>Pointer 99<]
+Doan: Es ist der Schlüssel zu einer(AÜ)
+Düsenmaschine.(KNÜ)
+Früher, als ich jung war, bin(AÜ)
+ich damit herumgefahren.(AÜ)
+Hoffentlich ist sie noch intakt...(END)
+
+[>Pointer 100<]
+Doan: Da drüben hat es stärkere(AÜ)
+Roboter. Gebt acht, und bleibt(AÜ)
+gesund!(END)
+
+[>Pointer 101<]
+Mein Mann...er...er...ist tot...(A)
+Aber was er hinterlassen hat!(A)
+Die Samenkörner...und unser Kind.(END)
+
+[>Pointer 102<]
+Papi nimmt sich Zeit.(END)
+
+[>Pointer 103<]
+[Robo]: Wo sind wir?(END)
+
+[>Pointer 104<]
+Alter Mann: Ah, Besucher!(END)
+
+[>Pointer 105<]
+Marle: Äh...wo sind wir?(END)
+
+[>Pointer 106<]
+Lucca: Was heißt das, "Besucher''...?(AÜ)
+Und WO sind wir hier?(END)
+
+[>Pointer 107<]
+Alter Mann: Nun, dies ist natürlich(AÜ)
+das "Zeitenende''!(KNÜ)
+Alle verirrten Zeitreisenden(AÜ)
+landen hier!(AÜ)
+Aber wo kommt ihr her?(END)
+
+[>Pointer 108<]
+Lucca: Wir sind vom Königreich(AÜ)
+Guardia, 1000 A.D.!(END)
+
+[>Pointer 109<]
+[Robo]: Ich komme von 2300 A.D.(END)
+
+[>Pointer 110<]
+Alter Mann: Wenn vier oder mehr(AÜ)
+Wesen ein Zeittor durchschreiten,(AÜ)
+landen sie gemäß dem Satz der(AÜ)
+Zeiterhaltung...(KNÜ)
+...am Raum-Zeit-Knotenpunkt(AÜ)
+geringsten Widerstandes.(AÜ)
+Kurz gesagt, hier.(KNÜ)
+Störungen im Raum-Zeit-Kontinuum(AÜ)
+haben in letzter Zeit zugenommen.(AÜ)
+Viel zu viele Leute tauchen plötzlich(AÜ)
+hier auf...(KNÜ)
+Ich fürchte, irgendetwas hat einen(AÜ)
+starken Einfluß auf das Zeitgefüge...(END)
+
+[>Pointer 111<]
+Lucca: Was bedeutet, daß einer von(AÜ)
+uns hierbleiben muß.(END)
+
+[>Pointer 112<]
+Marle: HIERBLEIBEN?(AÜ)
+ALLEIN?(END)
+
+[>Pointer 113<]
+Alter Mann: Es ist ziemlich öde hier...(KNÜ)
+Aber keine Sorge.(AÜ)
+Alle Epochen laufen hier zusammen.(KNÜ)
+Ihr könnt eure Freunde jederzeit(AÜ)
+besuchen! Aber Gruppen dürfen nicht(AÜ)
+größer als drei Personen sein.(END)
+
+[>Pointer 114<]
+[Robo]: Also muß jemand bleiben.(END)
+
+[>Pointer 115<]
+Lucca: Wer ist es, Crono?(END)
+
+[>Pointer 116<]
+Marle: Wähle du, Crono!(END)
+
+[>Pointer 117<]
+Lucca: Aber komm nicht auf(AÜ)
+dumme Gedanken, Freundchen!(END)
+
+[>Pointer 118<]
+[Robo]: Bitte hole mich ab, wenn(AÜ)
+es nötig ist.(END)
+
+[>Pointer 119<]
+Alter Mann: Du kannst sofort jede(AÜ)
+Person in deine Gruppe holen,(AÜ)
+wenn nötig...(END)
+
+[>Pointer 120<]
+Alter Mann: Wähle, wen immer du(AÜ)
+möchtest.(KNÜ)
+Nicht vergessen, mit dem Y-Knopf(AÜ)
+kannst du Personen austauschen.(END)
+
+[>Pointer 121<]
+Marle: Wie kommen wir in unsere(AÜ)
+Zeit zurück?(END)
+
+[>Pointer 122<]
+Alter Mann: Seht ihr die Lichtsäulen?(AÜ)
+Sie führen in verschiedene Epochen.(KNÜ)
+Wenn ihr durch ein Tor gegangen(AÜ)
+seid, könnt ihr damit immer(AÜ)
+hierherkommen.(KNÜ)
+Um ein Tor von hier aus zu benutzen,(AÜ)
+stellt euch hinein und drückt A.(AÜ)
+Aber bleibt weg von dem Tor in(AÜ)
+diesem Eimer...(END)
+
+[>Pointer 123<]
+Alter Mann: Dieses Tor führt nach(AÜ)
+1999 A.D. ...(AÜ)
+...zum "Tag des Lavos''.(KNÜ)
+Geht nur, wenn ihr des Lebens(AÜ)
+müde seid...(KNÜ)
+Lavos wird euch helfen, dieses(AÜ)
+Jammertal zu verlassen.(END)
+
+[>Pointer 124<]
+Alter Mann: Hey.(END)
+
+[>Pointer 125<]
+Alter Mann: Ihr habt's aber eilig!(AÜ)
+Bevor ihr geht, solltet ihr in(AÜ)
+den Raum hinter mir schauen!(END)
+
+[>Pointer 126<]
+Fest verschlossen.(END)
+
+[>Pointer 127<]
+Alter Mann: Tjaja!(AÜ)
+Menschen längst vergangener Tage(AÜ)
+besaßen ALLE diese Kräfte...(KNÜ)
+Nun juckt es euch sicherlich, in der(AÜ)
+Zeit vor- und zurückzugehen, aber(AÜ)
+zuerst müßt ihr in eure eigene(AÜ)
+Epoche zurück.(KNÜ)
+Und beeilt euch.(AÜ)
+Je länger ihr hierbleibt, desto(AÜ)
+schwieriger wird es sein, etwas zu(AÜ)
+bewirken...(KNÜ)
+Aber schaut ab und zu vorbei!(END)
+
+[>Pointer 128<]
+Alter Mann: Besucht mich jederzeit.(AÜ)
+Ich bin eine Art Helfer...(END)
+
+[>Pointer 129<]
+Crono der Gruppe hinzufügen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 130<]
+Marle: Nehmt mich mit!(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 131<]
+Marle: OKAY!(END)
+
+[>Pointer 132<]
+Marle: Och...kommt schon!(END)
+
+[>Pointer 133<]
+Lucca: Braucht ihr mein(AÜ)
+Denkvermögen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 134<]
+Lucca: Eben!(AÜ)
+Ich bin unersetzlich!(END)
+
+[>Pointer 135<]
+Lucca: Pff... Dann haut ab!(END)
+
+[>Pointer 136<]
+[Robo]: Darf ich euch begleiten?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 137<]
+[Robo]: Ich bin bereit, Partymgl1!(END)
+
+[>Pointer 138<]
+[Robo]: Also warte ich auf euch.(END)
+
+[>Pointer 139<]
+Frog: Itzo ist ein(AÜ)
+Schwertkämpfer vonnöten?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 140<]
+Frog: Gut, brechen wir auf!(END)
+
+[>Pointer 141<]
+Frog: Klinge und Technik werden(AÜ)
+einrosten...(END)
+
+[>Pointer 142<]
+Ayla: Ayla gehen.(AÜ)
+Hier viel gähnen!(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 143<]
+Ayla: Für Welt kämpfen!(END)
+
+[>Pointer 144<]
+Ayla: Ayla böse, Crono(2)!(END)
+
+[>Pointer 145<]
+Ayla: Ayla böse, Partymgl1!(END)
+
+[>Pointer 146<]
+Magus: Geht ihr mit mir?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 147<]
+Magus: Jetzt habt ihr eine(AÜ)
+Chance!(END)
+
+[>Pointer 148<]
+Magus: Schwächlinge...(END)
+
+[>Pointer 149<]
+Zum "Tag des Lavos'',(A)
+1999 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein.(END)
+
+[>Pointer 150<]
+Zur "Protokuppel'',(A)
+2300 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 151<]
+Nach "Medina'',(A)
+1000 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 152<]
+Zu den "Mystischen Bergen'',(A)
+65000000 v.C.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 153<]
+Zu "Lenas Platz'',(A)
+1000 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 154<]
+Zur "Friedensschlucht'',(A)
+600 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 155<]
+Zum "Guardia-Wald'',(A)
+1000 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 156<]
+Zur "Bangorkuppel'',(A)
+2300 A.D.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 157<]
+Zur "Tyranohöhle'',(A)
+65000000 v.C.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 158<]
+Zur "Insel der Erdgebundenen'',(A)
+12000 v.C.?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 159<]
+      Volle Kraft voraus!(AÜ)
+   Aussteigen.(END)
+
+[>Pointer 160<]
+Marle: Laßt uns abfliegen!(END)
+
+[>Pointer 161<]
+Lucca: Zeit für Taten,(AÜ)
+[Epoch]!(END)
+
+[>Pointer 162<]
+[Robo]: [Epoch] bereit zum(AÜ)
+Start!(END)
+
+[>Pointer 163<]
+Frog: Heyo, [Epoch]!!!(END)
+
+[>Pointer 164<]
+Ayla: [Epoch]!(AÜ)
+Los!!!(END)
+
+[>Pointer 165<]
+Magus: Vorwärts...(END)
+
+[>Pointer 166<]
+In [Epoch] einsteigen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 167<]
+Habt ihr Geld?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 168<]
+Das soll Geld sein?(A)
+Na ja, ich habe jedenfalls gute(A)
+Sachen.(END)
+
+[>Pointer 169<]
+Ich habe nichts für euch Spinner.(END)
+
+[>Pointer 170<]
+Geld sparen.(A)
+Irgendwann zahlt es sich aus.(A)
+Ist mein Motto.(END)
+
+[>Pointer 171<]
+Habt ihr Geld?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 172<]
+Sicher, daß das Geld ist...?(A)
+Egal, ich muß einiges loswerden.(END)
+
+[>Pointer 173<]
+Ich hasse Philosophen!(END)
+
+[>Pointer 174<]
+Geld sparen.(A)
+Irgendwann zahlt es sich aus.(A)
+Behauptete der Typ, der zur(A)
+anderen Kuppel ging.(END)
+
+[>Pointer 175<]
+Alter Mann: Hey, wo ist der muntere(AÜ)
+Junge mit der radikalen Frisur?(END)
+
+[>Pointer 176<]
+Alter Mann: ...(KNÜ)
+Das sind üble Neuigkeiten...(KNÜ)
+Ich kann euch nur dieses Lied(AÜ)
+geben. Es heißt...(KNÜ)
+(AÜ)
+      "Erinnerungen an Crono''(END)
+
+[>Pointer 177<]
+Alter Mann: Ich wünschte, ich könnte(AÜ)
+etwas tun...(END)
+
+[>Pointer 178<]
+Marle: Wir suchen den Guru der(AÜ)
+Zeit...(END)
+
+[>Pointer 179<]
+Magus: Nur der Guru der Zeit(AÜ)
+kann uns jetzt helfen...(END)
+
+[>Pointer 180<]
+Ayla: Ayla Guru der Zeit(AÜ)
+brauchen. Suchen!(END)
+
+[>Pointer 181<]
+[Robo]: Wir suchen den Guru der(AÜ)
+Zeit...(END)
+
+[>Pointer 182<]
+Alter Mann: Hey, Janus! Wo warst du?(END)
+
+[>Pointer 183<]
+Alter Mann: Was für eine Geschichte...(AÜ)
+Und sieh dich nur an! Als(AÜ)
+Erwachsener bist du ziemlich(AÜ)
+ehrfurchtgebietend!(END)
+
+[>Pointer 184<]
+Magus: Hmh...?(END)
+
+[>Pointer 185<]
+Alter Mann: Der Guru der Zeit...?(KNÜ)
+Habe natürlich von ihm gehört,(AÜ)
+aber was wollt ihr von ihm?(END)
+
+[>Pointer 186<]
+Marle: Er weiß, wie wir(AÜ)
+Crono zurückbringen können...(END)
+
+[>Pointer 187<]
+Frog: Wir hörten, er möge in(AÜ)
+der Lage sein, unseren Crono(AÜ)
+zurückzubringen...(END)
+
+[>Pointer 188<]
+Ayla: Er Crono(2) zurückbringen!(AÜ)
+Er stark.(END)
+
+[>Pointer 189<]
+Lucca: Er scheint zu wissen,(AÜ)
+wie Crono wiederbelebt werden(AÜ)
+kann.(END)
+
+[>Pointer 190<]
+Alter Mann: Geliebte Menschen(AÜ)
+zurückholen...alle möchten das.(KNÜ)
+Crono könnte...auf Freunde(AÜ)
+wie euch nur stolz sein...(END)
+
+[>Pointer 191<]
+Alter Mann: Hier.(AÜ)
+Nehmt dies.(END)
+
+[>Pointer 192<]
+Ayla: Ei!(AÜ)
+Ayla Hunger, essen wollen!(END)
+
+[>Pointer 193<]
+Frog: Was mag dies sein?(AÜ)
+Mich dünkt...ein Ei?(END)
+
+[>Pointer 194<]
+[Robo]: Ist dies...eine Art Ei?(END)
+
+[>Pointer 195<]
+Lucca: Ein Ei?(AÜ)
+Ist es hartgekocht oder 3-Minuten-(AÜ)
+weich?(END)
+
+[>Pointer 196<]
+Alter Mann: Nennen wir es den(AÜ)
+"Chrono Trigger''. Es ist reines(AÜ)
+Potential.(KNÜ)
+Indem es einen bestimmten(AÜ)
+Ereignisverlauf auslöst, kann(AÜ)
+es einen großen Einfluß auf(AÜ)
+die Zeit nehmen.(KNÜ)
+Fragt denjenigen, der [Epoch](AÜ)
+gemacht hat, wie es auszubrüten(AÜ)
+ist...(KNÜ)
+Wie jedes Ei repräsentiert es(AÜ)
+eine Möglichkeit. Entweder etwas(AÜ)
+schlüpft daraus...oder nicht.(KNÜ)
+Aber der Chrono Trigger verleiht(AÜ)
+euch das Potential, euren Freund(AÜ)
+zurückzubringen...(KNÜ)
+Das Ergebnis wird den Bemühungen(AÜ)
+eurer Suche entsprechen.(AÜ)
+Nicht mehr, nicht weniger.(KNÜ)
+Vergeßt das nicht.(AÜ)
+Solange ihr Crono in euren(AÜ)
+Herzen bewahrt, kann der Tag(AÜ)
+eurer Träume wahr werden...(END)
+
+[>Pointer 197<]
+Magus: Ich wette...du bist es,(AÜ)
+nicht?(END)
+
+[>Pointer 198<]
+Marle: Sekunde mal...(KNÜ)
+Bist DU Kaspar, der Guru der Zeit?(END)
+
+[>Pointer 199<]
+Lucca: Du bist es, oder!?(KNÜ)
+Kaspar, der Guru der Zeit!(END)
+
+[>Pointer 200<]
+[Robo]: Das kann nur bedeuten...(KNÜ)
+...Ihr seid der Guru der Zeit...(AÜ)
+Herr Kaspar, nehme ich an!?(END)
+
+[>Pointer 201<]
+Frog: W...was?(AÜ)
+Also...(KNÜ)
+...Ihr seid Kaspar, der Guru(AÜ)
+der Zeit!(END)
+
+[>Pointer 202<]
+Alter Mann: Äh...tja...(KNÜ)
+So hat man mich wohl genannt...(KNÜ)
+...vor langer Zeit...(END)
+
+[>Pointer 203<]
+Lucca: Dieses Pult steuert den(AÜ)
+Durchgang. Wir brauchen ein Paßwort(AÜ)
+dazu.(END)
+
+[>Pointer 204<]
+Marle: Crono!(AÜ)
+Holen wir Crono zurück!(END)
+
+[>Pointer 205<]
+Lucca: ...(KNÜ)
+Er war anstrengend, aber jetzt,(AÜ)
+wo er weg ist...(KNÜ)
+Kommt nicht auf dumme Ideen!(AÜ)
+Er war wie ein Bruder für mich!(END)
+
+[>Pointer 206<]
+[Robo]: Ohne Crono sind alle(AÜ)
+deprimiert...(END)
+
+[>Pointer 207<]
+Frog: Der arme Kerl...(KNÜ)
+Niemand sollte in so jungen(AÜ)
+Jahren diese Erde verlassen müssen...(END)
+
+[>Pointer 208<]
+Ayla: Crono(2) stark!(AÜ)
+Noch nicht tot!(AÜ)
+Ayla Crono(2) finden!(END)
+
+[>Pointer 209<]
+Magus: Es ist egal, ob ER hier ist(AÜ)
+oder nicht.(KNÜ)
+Meine Aufmerksamkeit gilt(AÜ)
+anderen Dingen...(END)
+
+[>Pointer 210<]
+Marle: Ich glaube es kaum!(AÜ)
+Ich bin so glücklich!(END)
+
+[>Pointer 211<]
+Lucca: Tu uns das nicht(AÜ)
+nochmal an!(END)
+
+[>Pointer 212<]
+[Robo]: Nun, da Crono hier(AÜ)
+ist, sind alle fröhlich!(END)
+
+[>Pointer 213<]
+Frog: Sieh dich an...Damen zur(AÜ)
+Linken wie zur Rechten...(END)
+
+[>Pointer 214<]
+Ayla: Crono(2)!(AÜ)
+Crono(2)!!(AÜ)
+Crono(2)!!(END)
+
+[>Pointer 215<]
+Magus: ...(KNÜ)
+Ihr seid schwach und deshalb(AÜ)
+erfolglos.(END)
+
+[>Pointer 216<]
+Alter Mann: Aha!(AÜ)
+Ihr wart also erfolgreich!(KNÜ)
+Nein, dankt nicht mir.(AÜ)
+Ich habe ja nichts dazu beigetragen,(AÜ)
+nur einen Anhaltspunkt gegeben...(KNÜ)
+Aber ihr könnt mich gerne in(AÜ)
+euer Team aufnehmen!(KNÜ)
+Übrigens, die Zeitmaschine(AÜ)
+wartet hier auf euch.(AÜ)
+Die Flügel der Zeit scheinen Herz(AÜ)
+und Verstand zu besitzen...(END)
+
+[>Pointer 217<]
+Alter Mann: Ihr wollt Lavos bekämpfen,(AÜ)
+korrekt?(KNÜ)
+Viele Pfade stehen euch offen.(AÜ)
+Nehmt den Eimer. Oder steuert(AÜ)
+die Flügel der Zeit zum "Tag(AÜ)
+des Lavos''...(KNÜ)
+Oder besucht das Düsteromen,(AÜ)
+das über eurer Welt am Himmel(AÜ)
+schwebt. Lavos ist mit ihm(AÜ)
+verbunden.(KNÜ)
+Es liegt an euch zu entscheiden,(AÜ)
+wann und wo ihr Lavos bekämpft.(KNÜ)
+Aber ihr seid die einzigen, die(AÜ)
+gegen ihn eine Chance haben...(KNÜ)
+Allerdings seid ihr nicht allein.(AÜ)
+Ich habe eine ungefähre Ahnung(AÜ)
+der Dinge, Menschen und Orte, die(AÜ)
+euch Kraft geben...(END)
+
+[>Pointer 218<]
+In der Mittleren Ära verhilft die(A)
+Entschlossenheit einer Frau dem(A)
+Wald zum Leben...(END)
+
+[>Pointer 219<]
+Ein Flüchtling in der Mittleren Ära,(A)
+Ozzie, haust in einem bösen Fort...(END)
+
+[>Pointer 220<]
+In der Zukunft gibt es ein Problem,(A)
+wo die Maschinen entstanden.(END)
+
+[>Pointer 221<]
+Ein ganz besonderer Stein kann sein(A)
+Leuchten auf jede Generation werfen,(A)
+von der tiefen Vergangenheit bis in(A)
+die ferne Zukunft.(END)
+
+[>Pointer 222<]
+Der Geist eines edlen Ritters, den(A)
+Magus in der Mittleren Ära getötet(A)
+hat, sucht die Gegenwart heim...(END)
+
+[>Pointer 223<]
+In der Mittleren Ära gibt es ein(A)
+Objekt, das wie der Regenbogen(A)
+schimmert...(END)
+
+[>Pointer 224<]
+Alter Mann: Am besten sprichst du(AÜ)
+mit deinen hier wartenden Freunden.(KNÜ)
+Sie werden dir Hinweise geben, wie(AÜ)
+du ihnen in ihren jeweiligen Epochen(AÜ)
+helfen kannst.(KNÜ)
+Wenn ihr anderen Menschen und(AÜ)
+Wesen zur Seite steht, werden sie(AÜ)
+es euch nicht nur mit neuen Objekten(AÜ)
+danken!(KNÜ)
+Erschließt ihr nicht euer Potential,(AÜ)
+so werdet ihr nie gewinnen...(KNÜ)
+Leider muß ich die Ereignisse(AÜ)
+von meiner hiesigen, exponierten(AÜ)
+Position aus verfolgen.(END)
+
+[>Pointer 225<]
+Alter Mann: Diese arme Frau ist(AÜ)
+endlich erlöst, nun, da das(AÜ)
+Düsteromen fort ist.(AÜ)
+Sie ist wieder ein Mensch geworden...(KNÜ)
+Jetzt müßt ihr von dem Tor in(AÜ)
+diesem Eimer Gebrauch machen!(KNÜ)
+Ihr kämpft nicht nur für euch(AÜ)
+selbst, sondern für alle Lebewesen...(KNÜ)
+Dies ist ein Kampf zwischen Lavos(AÜ)
+und der ganzen Welt!(END)
+
+[>Pointer 226<]
+Alter Mann: Aha!(AÜ)
+Ihr wart im Land der Magie...(KNÜ)
+Da das Zeittor nun versiegelt(AÜ)
+ist, braucht ihr eine Art(AÜ)
+Zeitmaschine.(KNÜ)
+Ich erinnere mich an jemanden,(AÜ)
+der eine solche gebaut hat. Er(AÜ)
+nannte sie die "Flügel der Zeit''.(KNÜ)
+Ich fürchte allerdings, er wurde(AÜ)
+ein wenig verrückt, weil er so(AÜ)
+viele Nachforschungen anstellte.(END)
+
+[>Pointer 227<]
+Alter Mann: Interessant.(AÜ)
+Er hat die "Flügel der Zeit'' also(AÜ)
+tatsächlich fertiggestellt.(KNÜ)
+Er hat sogar sein Leben dafür(AÜ)
+gegeben.(KNÜ)
+Nun setzt das Ding sinnvoll ein!(AÜ)
+Fliegt damit ins Land der(AÜ)
+Magie!(END)
+
+[>Pointer 228<]
+Alter Mann: Traumstein?...(KNÜ)
+Ich habe natürlich davon gehört.(AÜ)
+Ein prähistorisches Mineral...(KNÜ)
+Vielleicht ist es in grauer(AÜ)
+Vorzeit zu finden!(END)
+
+[>Pointer 229<]
+Alter Mann: Ihr habt einen Traumstein(AÜ)
+gefunden!(AÜ)
+Ich wußte gar nicht mehr, wie(AÜ)
+schön sie sind.(KNÜ)
+Jemand muß ihn nun bearbeiten.(AÜ)
+Sucht in der Gegend von Medina(AÜ)
+nach ihm, nahe der Heckran-Höhle.(END)
+
+[>Pointer 230<]
+Alter Mann: Welch ein Glanz!(AÜ)
+Das Masa...mune, richtig?(AÜ)
+Eine...Person in der Mittleren Ära(AÜ)
+möchte Magus damit bekämpfen.(END)
+
+[>Pointer 231<]
+Alter Mann: Welch seltsamer neuer(AÜ)
+Gast! Bist du aus der Mittleren(AÜ)
+Ära?(END)
+
+[>Pointer 232<]
+Kaspar: D...das ist...(END)
+
+[>Pointer 233<]
+   Hey.(END)
+
+[>Pointer 234<]
+   Hier ist nichts...(AÜ)
+Das muß...(KNÜ)
+...das Zeitenende sein...(END)
+
+[>Pointer 235<]
+Magus: ......(KNÜ)
+Schwachköpfe!(AÜ)
+Und sie sind noch am Leben!?(KNÜ)
+Übrigens, Ozzie hatte ein Versteck,(AÜ)
+das meinem Schloß ähnelte...(END)
+
+[>Pointer 236<]
+Marle: Was tust du...(KNÜ)
+Vater...(END)
+
+[>Pointer 237<]
+[Robo]: Die Maschinen?(AÜ)
+Heißt das, ich habe eine Art(AÜ)
+Geburtsort?(END)
+
+[>Pointer 238<]
+Frog: Der wandernde Geist des(AÜ)
+Kriegers...(KNÜ)
+Ich frage mich...?(END)
+
+[>Pointer 239<]
+Ayla: Ayla kämpfen!(AÜ)
+Dorf hat starkes Verteidigungsding!(AÜ)
+Ansehen!!(END)
+
+[>Pointer 240<]
+Lucca: Sonnenenergie wurde(AÜ)
+lange vor Lavos' Energie genutzt...(KNÜ)
+Vielleicht brauchen wir gerade(AÜ)
+sie, um Lavos zu besiegen...(END)
+
+[>Pointer 241<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 242<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 243<]
+Frog: Das kann nur...(END)
+
+[>Pointer 244<]
+Frog: Magus's Schloß...!(END)
+
+[>Pointer 245<]
+Frog: Ozzie!(END)
+
+[>Pointer 246<]
+Ozzie: Willkommen, Glenn! Oder sollte(AÜ)
+ich dich Sir Frog nennen!?(AÜ)
+Huach! Oh, du hast wieder mal(AÜ)
+ein paar Cyrusse mitgebracht!(KNÜ)
+Magus ist gerade sehr beschäftigt.(AÜ)
+Du mußt es wohl mit mir(AÜ)
+aufnehmen...(KNÜ)
+...und dem Schwertkämpfer Slash(AÜ)
+und Flea, dem Magier...(AÜ)
+Und...!(END)
+
+[>Pointer 247<]
+Ozzie: Du mußt alle 100 Monster(AÜ)
+in Magus's Schloß besiegen...!(END)
+
+[>Pointer 248<]
+Bitte helft mir...(END)
+
+[>Pointer 249<]
+Erlöst uns von diesem Elend!(END)
+
+[>Pointer 250<]
+......(END)
+
+[>Pointer 251<]
+Ha...ha...ha...(END)
+
+[>Pointer 252<]
+Wir wollen spielen...(END)
+
+[>Pointer 253<]
+Unser Schatz...(END)
+
+[>Pointer 254<]
+Wollt ihr unseren Schatz...?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 255<]
+Ist was Tolles...(END)
+
+[>Pointer 256<]
+In diesem Fall...(KN)
+Spielt ihr mit uns?(A)
+Bitte!(A)
+Bittebitte!(END)
+
+[>Pointer 257<]
+Hmmm...(KN)
+Wie seid ihr an meinen(A)
+Leichenfreunden vorbeigekommen?(END)
+
+[>Pointer 258<]
+Frog: Lang ist's her, Sir Slush!(END)
+
+[>Pointer 259<]
+Slash: SLASH heiße ich, du(AÜ)
+Schleimbeutel! Immer noch so(AÜ)
+witzig, was, Glenn?(KNÜ)
+Wäre Cyrus das letzte Mal nicht(AÜ)
+dagewesen, würdest du jetzt anders(AÜ)
+reden!(END)
+
+[>Pointer 260<]
+Slash: Du hättest auch einer von(AÜ)
+diesen Knochenmännern werden(AÜ)
+sollen!(END)
+
+[>Pointer 261<]
+Slash: Okay, machen wir ernst.(AÜ)
+Das wird mir verdammt guttun!(END)
+
+[>Pointer 262<]
+Slash: Und diesmal ist kein Cyrus(AÜ)
+da, der dich beschützt!(END)
+
+[>Pointer 263<]
+Slash: Ihr wagt es, euch mir(AÜ)
+entgegenzustellen!?(END)
+
+[>Pointer 264<]
+Slash: Unfaßbar...!(AÜ)
+Aber da ich es Magus nun einmal(AÜ)
+schuldig war...(END)
+
+[>Pointer 265<]
+Slash: ...bereue ich keine Minute...!(END)
+
+[>Pointer 266<]
+Frog: Der Magier Flea, nehme(AÜ)
+ich an?(END)
+
+[>Pointer 267<]
+Frog: Halt!(AÜ)
+Das war nicht Flea...(AÜ)
+Wo ist der ECHTE Flea!?(END)
+
+[>Pointer 268<]
+Wahaha...(A)
+Hier, hier drüben...(END)
+
+[>Pointer 269<]
+Gibst du auf, kleine Kaulquappe?(END)
+
+[>Pointer 270<]
+Marle: Wer IST das?(END)
+
+[>Pointer 271<]
+Lucca: Hey!(AÜ)
+WER bist du!?(END)
+
+[>Pointer 272<]
+[Robo]: Wer ist diese Person?(END)
+
+[>Pointer 273<]
+Frog: Seid auf der Hut!(AÜ)
+Das ist keine gewöhnliche(AÜ)
+Frau, sondern Flea, die Magierin!(END)
+
+[>Pointer 274<]
+Flea: Was...!?(AÜ)
+Hey, ich bin EIN MAGIER!(END)
+
+[>Pointer 275<]
+Marle: Du bist ein KERL!?(END)
+
+[>Pointer 276<]
+Lucca: Wie bitte!?(AÜ)
+Ein Kerl!?(END)
+
+[>Pointer 277<]
+[Robo]: Aber sein Äußeres ist(AÜ)
+das einer weiblichen Person...(END)
+
+[>Pointer 278<]
+Flea: Männlich...weiblich...(AÜ)
+Was bedeutet das schon?(AÜ)
+Macht ist schön, und ich besitze(AÜ)
+genug davon!(END)
+
+[>Pointer 279<]
+Flea: Armer kleiner Frosch!(AÜ)
+Du bist sicher einsam, so ganz(AÜ)
+ohne Cyrus.(KNÜ)
+Und in so etwas Ekliges verwandelt!(AÜ)
+Furchtbar!(END)
+
+[>Pointer 280<]
+Flea: Aber da du deine Freunde(AÜ)
+zum Spielen mitgebracht hast...(END)
+
+[>Pointer 281<]
+Flea: ...werde ich es euch(AÜ)
+allen sehr angenehm machen!(END)
+
+[>Pointer 282<]
+Flea: Wie kann das sein...(KNÜ)
+Sir Magus...(END)
+
+[>Pointer 283<]
+Crono! Also DAMIT hast du deine(A)
+Zeit seit dem Fest vergeudet!(A)
+Ich war schrecklich besorgt!(END)
+
+[>Pointer 284<]
+So böse Kinder...(KN)
+...verdienen eine gerechte Strafe!(END)
+
+[>Pointer 285<]
+Prinzessin Nadia...(KN)
+Ich war ungerecht!(A)
+Bitte komm ins Schloß zurück...(END)
+
+[>Pointer 286<]
+...als Unfallopfer, meine Liebe!(END)
+
+[>Pointer 287<]
+Wenn das nicht Lucca ist!(END)
+
+[>Pointer 288<]
+Du lebst IMMER noch, meine Liebe!?(END)
+
+[>Pointer 289<]
+[Robo], vergeude deine Kraft(A)
+nicht!(END)
+
+[>Pointer 290<]
+Egal was du tust,(A)
+ich zerstöre dich trotzdem!(END)
+
+[>Pointer 291<]
+Frog, Euch geht es gut!(END)
+
+[>Pointer 292<]
+Dagegen müssen wir etwas tun!(END)
+
+[>Pointer 293<]
+Tanzt, TANZT!!!(A)
+Denn heute nacht wird unser(A)
+Anführer geboren!(END)
+
+[>Pointer 294<]
+Ah!(A)
+Hier kommen die Opfer!(END)
+
+[>Pointer 295<]
+Nur ein Narr würde etwas töten(A)
+wollen, das schon tot ist!(END)
+
+[>Pointer 296<]
+M...Menschen!(END)
+
+[>Pointer 297<]
+Bitte laßt mich gehen...(END)
+
+[>Pointer 298<]
+Erlöst mich von diesem Elend...(END)
+
+[>Pointer 299<]
+Oh...(END)
+
+[>Pointer 300<]
+Bitte macht, daß es aufhört...!(END)
+
+[>Pointer 301<]
+Ozzie: Das ermüdet mich!(END)
+
+[>Pointer 302<]
+Ozzie: Flea!(END)
+
+[>Pointer 303<]
+Ozzie: Slash!!(END)
+
+[>Pointer 304<]
+Frog: Tut uns leid, aber sie(AÜ)
+können dir nicht helfen...(END)
+
+[>Pointer 305<]
+Ozzie: Du fliegenfressender...!(END)
+
+[>Pointer 306<]
+Ozzie: Oz...(KNÜ)
+Ozzie sitzt in der Patsche!(END)
+
+[>Pointer 307<]
+Frog: Es gibt kein Entkommen!(END)
+
+[>Pointer 308<]
+Ozzie: Willkommen...!(END)
+
+[>Pointer 309<]
+Ozzie: Huachuach...(AÜ)
+Wie wär's damit?(END)
+
+[>Pointer 310<]
+Ozzie: Arrrrrgh...(END)
+
+[>Pointer 311<]
+Ozzie: Aber...!?(AÜ)
+Unmöglich...!(END)
+
+[>Pointer 312<]
+Ozzie: Grr...das ist der Gipfel!(END)
+
+[>Pointer 313<]
+Frog: Du bist dran, Ozzie.(END)
+
+[>Pointer 314<]
+Ozzie: Harharhar...(KNÜ)
+Sicher hat Sir Magus bereits(AÜ)
+die Verstärkung gerufen...!(KNÜ)
+Wartet nur, bis Lavos kommt!!(END)
+
+[>Pointer 315<]
+Ozzie: Ich bin unbesiegbar!(AÜ)
+Kein Angriff wird meine Barriere(AÜ)
+durchbrechen!(END)
+
+[>Pointer 316<]
+Ozzie: Hahahahaha!!(END)
+
+[>Pointer 317<]
+Ozzie: Paßt auf, worauf ihr zielt!(AÜ)
+Guwahaha...(END)
+
+[>Pointer 318<]
+Ozzie: Wihihihi...(END)
+
+[>Pointer 319<]
+Ozzie: Äh!?(END)
+
+[>Pointer 320<]
+Marle: Das war ja leicht!(END)
+
+[>Pointer 321<]
+Lucca: Der Typ war aber(AÜ)
+total daneben...(END)
+
+[>Pointer 322<]
+[Robo]: Was hatte dieser(AÜ)
+Ozzie nur für ein Problem?(END)
+
+[>Pointer 323<]
+Frog: Wir müssen uns beeilen(AÜ)
+und Magus finden!(END)
+
+[>Pointer 324<]
+Neuga, ziena, zieber, zommen...(END)
+
+[>Pointer 325<]
+Nun ist die Zeit gekommen...(END)
+
+[>Pointer 326<]
+Tauschen wir diese Welt gegen...!(END)
+
+[>Pointer 327<]
+Frog: Magus!!(END)
+
+[>Pointer 328<]
+Magus: Es...es ist dieser dumme Frosch!(KNÜ)
+Irgendwelche Prinzessinnen geküßt!?(END)
+
+[>Pointer 329<]
+Frog: Ich mag diese Erscheinung.(AÜ)
+Und ich verdanke sie dir!(END)
+
+[>Pointer 330<]
+Frog: Ich habe etwas für dich!(END)
+
+[>Pointer 331<]
+Magus: Ah...!(AÜ)
+Das Masamune!!!
+>H<03
+(AÜ)
+(NÜ)
+Du willst es sicher gleich benutzen!
+>H<03
+(KAÜ)
+>H<03
+(END)
+
+[>Pointer 332<]
+Magus: Der schwarze Wind wird(AÜ)
+stärker...
+>H<03
+(AÜ)
+(NÜ)
+Zeig mir, was du kannst...
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 333<]
+Magus: ...wenn du für die(AÜ)
+Leere bereit bist!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 334<]
+Magus: Was...hast du mit dem(AÜ)
+Masamune gemacht...?(END)
+
+[>Pointer 335<]
+Marle: Was...!?(END)
+
+[>Pointer 336<]
+Lucca: Was ist los!?(END)
+
+[>Pointer 337<]
+[Robo]: Eine gewaltige(AÜ)
+Energiereaktion!(END)
+
+[>Pointer 338<]
+Frog: Ist es...Lavos!?(END)
+
+[>Pointer 339<]
+Magus: Schlechtes Timing...!(AÜ)
+Wach nicht gerade jetzt auf...!(END)
+
+[>Pointer 340<]
+Marle: Aufwachen?(AÜ)
+DU hast ihn GESCHAFFEN!(END)
+
+[>Pointer 341<]
+Lucca: Was meinst du damit!?(AÜ)
+Hast DU ihn nicht geschaffen!?(END)
+
+[>Pointer 342<]
+[Robo]: Was heißt das?(AÜ)
+Nach meinen Aufzeichnungen wurde(AÜ)
+Lavos hier geboren, präzise in(AÜ)
+DIESEM Moment...(END)
+
+[>Pointer 343<]
+Magus: Idioten!(AÜ)
+Ich habe ihn nur "gerufen''!(KNÜ)
+Seit geraumer Zeit lebt er in(AÜ)
+der Erde und entzieht ihr Kraft,(AÜ)
+wodurch er immer stärker wird!(END)
+
+[>Pointer 344<]
+Marle: Was!?(END)
+
+[>Pointer 345<]
+Lucca: Also wurde er nicht in(AÜ)
+dieser Epoche geboren...(END)
+
+[>Pointer 346<]
+[Robo]: Dann sind meine Daten(AÜ)
+falsch...(END)
+
+[>Pointer 347<]
+Frog: Was geschieht!?(END)
+
+[>Pointer 348<]
+Marle: Ein...ein Tor!?(END)
+
+[>Pointer 349<]
+Lucca: Ein Tor!?(AÜ)
+Es ist riesig...!(END)
+
+[>Pointer 350<]
+[Robo]: Unmöglich!(AÜ)
+Ein so großes Tor kann es(AÜ)
+nicht geben!(END)
+
+[>Pointer 351<]
+Magus: Wenn ihr nicht gekommen(AÜ)
+wärt...!(END)
+
+[>Pointer 352<]
+Marle: Crono!(END)
+
+[>Pointer 353<]
+Lucca: Es zieht uns hinein!(END)
+
+[>Pointer 354<]
+[Robo]: Enorme Schwerkraft geht(AÜ)
+davon aus!(END)
+
+[>Pointer 355<]
+Frog: Oh...!(END)
+
+[>Pointer 356<]
+Lucca: Puh...(AÜ)
+Du bist vielleicht stur.
+>H<03
+(KNÜ)
+(N)
+[Robo]: Verzeihung, Lucca...
+>H<03
+(AÜ)
+(N)
+Lucca: Es ist nicht deine(AÜ)
+Schuld.(AÜ)
+Wir sind es, die die Waffen(AÜ)
+erfunden haben...
+>H<030F03
+(END)
+
+[>Pointer 357<]
+Lucca: Mann, der schläft aber viel.(AÜ)
+Wir sollten ihn für uns arbeiten(AÜ)
+lassen!
+>H<030F
+(N)
+ Nein!
+>H<030403
+(END)
+
+[>Pointer 358<]
+Marle: Laßt ihn schlafen.(AÜ)
+Er hat lange und hart gekämpft.
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 359<]
+Frog: ......
+>H<030403
+(END)
+
+[>Pointer 360<]
+Lucca: Pff...na gut.
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 361<]
+Marle: Wohin gehst du?(AÜ)
+Es wird gerade gemütlich.
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 362<]
+Frog: ...muß mich um etwas(AÜ)
+kümmern...
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 363<]
+Marle: Tihihi...
+>H<030403
+(END)
+
+[>Pointer 364<]
+Werd erwachsen...!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 365<]
+Endlich haben wir jemanden,(A)
+der jung sterben möchte!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 366<]
+Haha, wie komisch...!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 367<]
+Du meinst wirklich, DU kannst(A)
+uns besiegen?
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 368<]
+D...du bist...!!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 369<]
+Neuga, ziena, zieber, zommen...(A)
+Nun ist die Zeit gekommen...
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 370<]
+Tausche diese Welt gegen...!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 371<]
+Magus: Du bist gekommen...
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 372<]
+Magus: Wir Zauberer und(AÜ)
+Menschen haben unseren(AÜ)
+Untergang heraufbeschworen...
+>H<03
+(KNÜ)
+(NÜ)
+Außer dir und mir leben nur(AÜ)
+Schafsköpfe in dieser Welt...
+>H<03
+(KNÜ)
+(NÜ)
+Wer diese Schlacht gewinnt...(AÜ)
+ ...wird die Welt beherrschen...
+>H<03
+(KNÜ)
+(NÜ)
+Oder vielmehr, DIE ZUKUNFT(AÜ)
+BEHERRSCHEN...
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 373<]
+Frog: Nein...(AÜ)
+Darum geht es mir nicht.
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 374<]
+Frog: Sondern um die Ehre,(AÜ)
+dich besiegen zu dürfen!(AÜ)
+...
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 375<]
+Magus: Hmmm...(AÜ)
+Du hast das Masamune...
+>H<03
+(KNÜ)
+(NÜ)
+Ob du es auch zu führen vermagst?
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 376<]
+Was glotzt ihr so?(KN)
+Ich bin Spekkio.(A)
+Der Meister des Krieges!(A)
+Von hier aus sehe ich alle(A)
+Arten von Schlachten.(END)
+
+[>Pointer 377<]
+Spekkio: Wie sehe ich aus?(AÜ)
+   Stark!(AÜ)
+   Schwach!(END)
+
+[>Pointer 378<]
+Spekkio: Aha. Sagen wir so...(AÜ)
+Wenn ihr stark seid, sehe ich(AÜ)
+stark aus. Wenn ihr schwach seid,(AÜ)
+sehe ich schwach aus.(END)
+
+[>Pointer 379<]
+Spekkio: Ihr habt einen starken(AÜ)
+Willen. Deshalb ließ euch der(AÜ)
+Alte durch.(KNÜ)
+Lange vor eurer Geburt...(AÜ)
+...gab es ein Reich, in dem Magie(AÜ)
+blühte. Jeder besaß sie!(KNÜ)
+Aber die Menschen begannen, ihre(AÜ)
+Kräfte zu mißbrauchen, und das(AÜ)
+Reich zerfiel. Seither können nur(AÜ)
+noch die Mystiker Magie benutzen.(KNÜ)
+Aber ihr habt sie...(AÜ)
+...Entschlossenheit, meine ich!(AÜ)
+Magie braucht Kraft aus dem(AÜ)
+Herzen, innere Kraft.(KNÜ)
+Sie teilt sich in vier Typen auf:(AÜ)
+Gewitter, Feuer, Wasser und Schatten.(END)
+
+[>Pointer 380<]
+Spekkio: Du, mit der Punkfrisur!(AÜ)
+Du bist "Gewitter''.(END)
+
+[>Pointer 381<]
+Spekkio: Die mit dem Pony ist(AÜ)
+"Wasser''.(END)
+
+[>Pointer 382<]
+Spekkio: Die mit der schrägen Brille(AÜ)
+ist "Feuer''.(END)
+
+[>Pointer 383<]
+Spekkio: So ein riesiges Spielzeug habe(AÜ)
+ich noch nie gesehen...(AÜ)
+Hey, du bist nicht aus Fleisch(AÜ)
+und Blut, oder?(KNÜ)
+Du hast viel Kraft, aber da ich(AÜ)
+deinen Charakter nicht bestimmen(AÜ)
+kann, gibt's für dich auch keine(AÜ)
+Magie.(KNÜ)
+Aber deine Laserwaffen reichen ja.(AÜ)
+Sie können Schaden vom Typ(AÜ)
+"Schatten'' anrichten.(END)
+
+[>Pointer 384<]
+Spekkio: Nicht nur Magie, sondern(AÜ)
+ALLES basiert auf dem Gleichgewicht(AÜ)
+dieser vier Kräfte.(END)
+
+[>Pointer 385<]
+Spekkio: Denkt "MAGIE'' und lauft,(AÜ)
+bei der Tür beginnend, dreimal im(AÜ)
+Uhrzeigersinn an der Wand meines(AÜ)
+Raums entlang.(KNÜ)
+Aber schön die Ecken ablaufen!(END)
+
+[>Pointer 386<]
+Spekkio: Schummeln gilt nicht!(AÜ)
+Ich seh's genau!(KNÜ)
+Macht es nochmal!(AÜ)
+Von der Tür an der Wand entlang,(AÜ)
+dreimal!(END)
+
+[>Pointer 387<]
+Spekkio: Sehr gut!(END)
+
+[>Pointer 388<]
+Spekkio: Ipso facto, mieni mo...(AÜ)
+M A G I C O !!!(END)
+
+[>Pointer 389<]
+(AÜ)
+    Crono hat Magie erlernt!(END)
+
+[>Pointer 390<]
+(AÜ)
+    Marle hat Magie erlernt!(END)
+
+[>Pointer 391<]
+(AÜ)
+    Lucca hat Magie erlernt!(END)
+
+[>Pointer 392<]
+(AÜ)
+    [Robo] kann keine Magie(AÜ)
+    benutzen!(END)
+
+[>Pointer 393<]
+Spekkio: So! Mit Magie gestärkt!(AÜ)
+Wollt ihr sie ausprobieren?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 394<]
+Spekkio: Gut!(END)
+
+[>Pointer 395<]
+Spekkio: Hi!(AÜ)
+Wollt ihr ein bißchen üben?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 396<]
+Spekkio: Jederzeit, Freunde.(AÜ)
+Denkt daran, ICH bin der(AÜ)
+Meister des Krieges!(END)
+
+[>Pointer 397<]
+Spekkio: GRRRR...(KNÜ)
+DAS hat vielleicht genervt!(END)
+
+[>Pointer 398<]
+Spekkio: Augenblick!(AÜ)
+ICH bin der Meister des Krieges!(END)
+
+[>Pointer 399<]
+Spekkio: Seht ihr, ICH bin der(AÜ)
+Meister des Krieges!(AÜ)
+Hehehe!(END)
+
+[>Pointer 400<]
+Spekkio: Harumpf...(AÜ)
+Macht das nicht zur Gewohnheit.(AÜ)
+Hier, für euch.(END)
+
+[>Pointer 401<]
+Spekkio: ICH bin der Meister des(AÜ)
+Krieges!(AÜ)
+Puh! Manchmal jage ich mir selber(AÜ)
+Angst ein!(END)
+
+[>Pointer 402<]
+Spekkio: HEHEHEHEHE!!(AÜ)
+GEWONNEN!(END)
+
+[>Pointer 403<]
+Spekkio: Ihr seid zum Schießen!(AÜ)
+Bringt mal neue Freunde her!(END)
+
+[>Pointer 404<]
+Spekkio: Ein seltsamer Kerl.(AÜ)
+Als Frosch steht ihm "Wasser''(AÜ)
+wohl gut zu Gesicht!(END)
+
+[>Pointer 405<]
+(AÜ)
+    Frog hat Magie erlernt!(END)
+
+[>Pointer 406<]
+Spekkio: Oh, hallo, Süße!(KNÜ)
+Dummerweise bist du älter als die(AÜ)
+Magie! Aber du scheinst mit deinen(AÜ)
+anderen Fähigkeiten ganz gut(AÜ)
+klarzukommen.(END)
+
+[>Pointer 407<]
+(AÜ)
+    Ayla kann keine Magie(AÜ)
+    benutzen!(END)
+
+[>Pointer 408<]
+Spekkio: Einen seltsamen Fang habt(AÜ)
+ihr da gemacht!(KNÜ)
+Er ist "Schatten''...(AÜ)
+...und kann vielleicht sogar mir(AÜ)
+noch was beibringen!(END)
+
+[>Pointer 409<]
+Spekkio: Hey? Wo ist der spunky(AÜ)
+Rotschopf abgeblieben?(END)
+
+[>Pointer 410<]
+Spekkio: Hey!(AÜ)
+Spunky! Wo warst du?(END)
+
+[>Pointer 411<]
+(AÜ)
+   Spekkios Spezialerfrischung!(KN)
+(AÜ)
+  1[mal] Magiepille und(AÜ)
+  5[mal] Ether erhalten!(END)
+
+[>Pointer 412<]
+(AÜ)
+    Spekkios Empfehlung!(KN)
+(AÜ)
+  1[mal] Magiepille und(AÜ)
+  5[mal] Ether med. erhalten!(END)
+
+[>Pointer 413<]
+(AÜ)
+    Spekkios Gesundheitsmenü!(KN)
+(AÜ)
+  1[mal] Magiepille und(AÜ)
+  5[mal] Ether voll erhalten!(END)
+
+[>Pointer 414<]
+(AÜ)
+    Spekkios Eleganz-Ausrüstung!(KN)
+(AÜ)
+       1[mal] Magiepille,(AÜ)
+       1[mal] Hastpille,(AÜ)
+       1[mal] Kraftpille...(KN)
+(AÜ)
+     ...sowie 10[mal] Elixier erhalten!(END)
+
+[>Pointer 415<]
+(AÜ)
+    Spekkios Gute-Laune-Set!(KN)
+(AÜ)
+         10[mal] Magiepille,(AÜ)
+         10[mal] Hastpille,(AÜ)
+         10[mal] Kraftpille...(KN)
+(AÜ)
+   ...sowie 10[mal] Megalixier erhalten!(KN)
+(AÜ)
+Genug von Spekkios Lob für viele(AÜ)
+Jahre erhalten!(END)
+
+[>Pointer 416<]
+Spekkio: Das war's, Leute.(AÜ)
+Ich bin völlig blank!(END)
+
+[>Pointer 417<]
+Spekkio: Warum lacht ihr...?(KNÜ)
+Bewertet ein Buch nicht nach(AÜ)
+seinem Einband...(END)
+
+[>Pointer 418<]
+(AÜ)
+                    Leer!(END)
+
+[>Pointer 419<]
+Marle: Was!?(END)
+
+[>Pointer 420<]
+Lucca: Das ist...(END)
+
+[>Pointer 421<]
+[Robo]: Energiewert bei 100!(AÜ)
+200!(AÜ)
+Und steigend...!(END)
+
+[>Pointer 422<]
+Frog: Was geht hier vor!?(END)
+
+[>Pointer 423<]
+Ayla: !!!(END)
+
+[>Pointer 424<]
+Magus: Er kommt...(END)
+
+[>Pointer 425<]
+Marle: Oh nein...!(END)
+
+[>Pointer 426<]
+Lucca: Das kann nicht sein!(END)
+
+[>Pointer 427<]
+[Robo]: A.D. 1999, um 1:24 Uhr!(AÜ)
+Daten bestätigt!(END)
+
+[>Pointer 428<]
+Frog: Lavos...!?(END)
+
+[>Pointer 429<]
+Ayla: Starker Typ!(AÜ)
+Sehr SEHR starker Typ!!!(END)
+
+[>Pointer 430<]
+Magus: Na los, mach schon...!(END)
+
+[>Pointer 431<]
+Marle: Das ist...(END)
+
+[>Pointer 432<]
+Lucca: Mein Gott......(END)
+
+[>Pointer 433<]
+[Robo]: Kann Angriffswerte(AÜ)
+nicht berechnen!(END)
+
+[>Pointer 434<]
+Frog: Teufel auch...er ist(AÜ)
+so groß!(END)
+
+[>Pointer 435<]
+Ayla: Uooo...(END)
+
+[>Pointer 436<]
+Magus: Darauf habe ich(AÜ)
+gewartet!(END)
+
+[>Pointer 437<]
+Lavos...(END)
+
+[>Pointer 438<]
+Marle: Partymgl1! Was tun wir?(AÜ)
+   Kämpfen!(AÜ)
+   Abhauen!(END)
+
+[>Pointer 439<]
+Lucca: Gehen wir WIRKLICH hin?(AÜ)
+   Kämpfen!(AÜ)
+   Nichts wie weg!(END)
+
+[>Pointer 440<]
+[Robo]: Partymgl1, was meinst du?(AÜ)
+   Kämpfen!(AÜ)
+   Nichts wie weg!(END)
+
+[>Pointer 441<]
+Frog: Partymgl1! Gib uns Rat!(AÜ)
+   Kämpfen!(AÜ)
+   Fliehen!(END)
+
+[>Pointer 442<]
+Ayla: Kämpfen?(AÜ)
+   Na klar!(AÜ)
+   Nein, fliehen!(END)
+
+[>Pointer 443<]
+Magus: Hm, haben wir Angst?(AÜ)
+   Nein, wir kämpfen!(AÜ)
+   Ja! Weg hier!(END)
+
+[>Pointer 444<]
+Marle: Stimmt!(AÜ)
+Für Doan und die anderen!(END)
+
+[>Pointer 445<]
+Lucca: Unsere Jugend...war(AÜ)
+allzu kurz!(END)
+
+[>Pointer 446<]
+[Robo]: Gehen wir!!(END)
+
+[>Pointer 447<]
+Frog: Frischauf, Masamune!(END)
+
+[>Pointer 448<]
+Ayla: Ayla nicht rennen!(AÜ)
+Ayla kämpfen!!(END)
+
+[>Pointer 449<]
+Magus: Endlich werde ich dich(AÜ)
+vernichten!(END)
+
+[>Pointer 450<]
+War's das!?(END)
+
+[>Pointer 451<]
+Marle: Unglaublich...!(END)
+
+[>Pointer 452<]
+Lucca: Ist es endlich(AÜ)
+vorbei...?(END)
+
+[>Pointer 453<]
+[Robo]: Mission erfüllt...?(END)
+
+[>Pointer 454<]
+Frog: Ist es schon vorbei!?(END)
+
+[>Pointer 455<]
+Ayla: Lavos besiegt!(AÜ)
+Ayla Nr. 1!!!(END)
+
+[>Pointer 456<]
+Magus: Das war's schon?(END)
+
+[>Pointer 457<]
+Marle: Seht, ein Loch!(END)
+
+[>Pointer 458<]
+Lucca: Haben wir das gemacht...?(END)
+
+[>Pointer 459<]
+[Robo]: Ein...Loch...(AÜ)
+Waren WIR das etwa!?(END)
+
+[>Pointer 460<]
+Frog: Dieses Loch...(AÜ)
+Waren wir das!??(END)
+
+[>Pointer 461<]
+Ayla: Lavos Loch haben!(END)
+
+[>Pointer 462<]
+Magus: Zumindest die Schale(AÜ)
+ist hinüber...(END)
+
+[>Pointer 463<]
+Marle: Also DAS kann's noch(AÜ)
+nicht gewesen sein...!(END)
+
+[>Pointer 464<]
+Lucca: Er ist wohl noch(AÜ)
+nicht erledigt...(END)
+
+[>Pointer 465<]
+[Robo]: Ich fühle mächtige(AÜ)
+Lebenskraft in Lavos.(END)
+
+[>Pointer 466<]
+Frog: Die Schlacht ist(AÜ)
+noch nicht zu Ende...(END)
+
+[>Pointer 467<]
+Ayla: Das Lavos' Schale!(AÜ)
+Innen immer noch stark!(END)
+
+[>Pointer 468<]
+Magus: Wir sind noch nicht(AÜ)
+fertig...(END)
+
+[>Pointer 469<]
+Marle: G...gehen wir rein!(END)
+
+[>Pointer 470<]
+Lucca: Wir haben also keine(AÜ)
+Wahl. Aber...(END)
+
+[>Pointer 471<]
+[Robo]: Wir müssen hineingehen(AÜ)
+und seinen Kern angreifen!(END)
+
+[>Pointer 472<]
+Frog: Das ist nur die Rüstung!(AÜ)
+Mich dünkt, der innere Teil(AÜ)
+muß zerstört werden!(END)
+
+[>Pointer 473<]
+Ayla: Ayla nicht aufgeben!!(END)
+
+[>Pointer 474<]
+Magus: Wir kriegen dich schon,(AÜ)
+Lavos...(END)
+
+[>Pointer 475<]
+Operator: Direkter Angriff auf(AÜ)
+die Friedenskuppel!(END)
+
+[>Pointer 476<]
+Aufseher: Ruhig Blut!(AÜ)
+Wie sieht es weiter im Süden(AÜ)
+aus?(END)
+
+[>Pointer 477<]
+Operator: Porre...Choras...Medina...!(AÜ)
+Alles ist zerstört!!!(END)
+
+[>Pointer 478<]
+Direktor: ...(END)
+
+[>Pointer 479<]
+Operator: Direktor!(AÜ)
+Wir werden angegriffen!(END)
+
+[>Pointer 480<]
+Direktor: Gehen Sie hinüber in(AÜ)
+die Schutzkuppel!(END)
+
+[>Pointer 481<]
+Operator: Direktor!(AÜ)
+Sie müssen mit uns kommen!(END)
+
+[>Pointer 482<]
+Direktor: Wir haben keine Zeit mehr!(AÜ)
+Gehen Sie!!!(END)
+
+[>Pointer 483<]
+Operator: J...ja, Direktor!(END)
+
+[>Pointer 484<]
+Direktor: ......(KNÜ)
+Lavos......(END)
+
+[>Pointer 485<]
+Marle: Irre!!!(END)
+
+[>Pointer 486<]
+Lucca: Wir sind okay, oder!?(END)
+
+[>Pointer 487<]
+[Robo]: Unvorstellbare Energie!(KNÜ)
+Als würde die gesamte menschliche(AÜ)
+spirituelle Kraft, die es jemals(AÜ)
+gab, auf irgendeine Weise(AÜ)
+verstärkt...(END)
+
+[>Pointer 488<]
+Frog: Was geschieht jetzt!?(END)
+
+[>Pointer 489<]
+Ayla: [Epoch] lebendig?(END)
+
+[>Pointer 490<]
+Marle: Wahnsinn!(END)
+
+[>Pointer 491<]
+Lucca: Wir reisen mit Warpantrieb!(END)
+
+[>Pointer 492<]
+[Robo]: Sogar in meiner Zeit haben(AÜ)
+wir keine Maschinen wie diese!(END)
+
+[>Pointer 493<]
+Frog: Oooh!(END)
+
+[>Pointer 494<]
+Ayla: Das toll!(AÜ)
+Das schnell!!!(END)
+
+[>Pointer 495<]
+Wahnsinn, was [Epoch] kann!!!(END)
+
+[>Pointer 496<]
+Marle: Crono muß irgendwo(AÜ)
+sein! Ich werde ihn finden!!(END)
+
+[>Pointer 497<]
+Lucca: Crono könnte auf(AÜ)
+dieser Insel sein...(END)
+
+[>Pointer 498<]
+[Robo]: Finden wir Crono!(END)
+
+[>Pointer 499<]
+Frog: Wir werden Crono(AÜ)
+finden...tot oder lebendig!(END)
+
+[>Pointer 500<]
+Ayla: Crono(2) finden!(AÜ)
+Crono(2) noch am Leben!!(END)
+
+[>Pointer 501<]
+Marle: Was ist das!?(END)
+
+[>Pointer 502<]
+Lucca: Wir kriegen Interferenzen(AÜ)
+von einem enormen Tor!(AÜ)
+Das kann nicht sein! Lavos?!?(END)
+
+[>Pointer 503<]
+[Robo]: Der Raum-Zeit-Kompaß(AÜ)
+von [Epoch] spielt verrückt!(END)
+
+[>Pointer 504<]
+Frog: !?(END)
+
+[>Pointer 505<]
+Magus: Das ist...!(END)
+
+[>Pointer 506<]
+Marle: Ich glaube, die sind(AÜ)
+sauer auf uns...(END)
+
+[>Pointer 507<]
+Lucca: Es scheint, als würden(AÜ)
+wir von dort angezogen...(END)
+
+[>Pointer 508<]
+[Robo]: Es ist enorm!(AÜ)
+Ich spüre eine ungeheure Menge an(AÜ)
+spiritueller Energie!(END)
+
+[>Pointer 509<]
+Frog: Der Seepalast ist(AÜ)
+emporgestiegen...alldieweil er(AÜ)
+sich uns zeigt!?(END)
+
+[>Pointer 510<]
+Ayla: Ich hassen!(AÜ)
+Ayla Palastding nicht mögen!!(END)
+
+[>Pointer 511<]
+Magus: Der Seepalast?(AÜ)
+Das ist unmöglich...!(END)
+
+[>Pointer 512<]
+Magus: Wir fliegen einfach(AÜ)
+durch den Feuerball durch.(END)
+
+[>Pointer 513<]
+Ayla: Weiter, weiter!(AÜ)
+[Epoch]!!!(END)
+
+[>Pointer 514<]
+Frog: Ein Kampf scheint mir(AÜ)
+aussichtslos zu sein. Wir(AÜ)
+müssen mit [Epoch] vorpreschen!(END)
+
+[>Pointer 515<]
+Marle: Brechen wir durch Lavos(AÜ)
+einfach mit [Epoch] hindurch!(END)
+
+[>Pointer 516<]
+[Robo]: Das wird Lavos nicht(AÜ)
+im mindesten beeindrucken.(KNÜ)
+Was meint ihr...ob [Epoch](AÜ)
+uns durch seinen Panzer(AÜ)
+bringen kann?(END)
+
+[>Pointer 517<]
+Lucca: Ob wir mit [Epoch] die(AÜ)
+Schale durchbrechen können?(END)
+
+[>Pointer 518<]
+Lucca: [Epoch] könnte dabei(AÜ)
+draufgehen! Aber...wir haben(AÜ)
+eigentlich keine Wahl...(END)
+
+[>Pointer 519<]
+[Robo]: [Epoch] ist stark genug,(AÜ)
+Lavos' Schale zu durchbrechen...aber(AÜ)
+wir sind vielleicht nicht stark genug,(AÜ)
+den Schock zu überleben...(END)
+
+[>Pointer 520<]
+Marle: Was!?(AÜ)
+So werden wir doch alle(AÜ)
+draufgehen!(END)
+
+[>Pointer 521<]
+Frog: Irren wir uns, ist es(AÜ)
+aus...(END)
+
+[>Pointer 522<]
+Ayla: [Epoch] okay!?(AÜ)
+Nicht sterben!(END)
+
+[>Pointer 523<]
+Magus: Was glaubt ihr...?(AÜ)
+Ob das klappen kann?(END)
+
+[>Pointer 524<]
+Magus: Hmph... Das sind auf(AÜ)
+jeden Fall nette Aussichten...(END)
+
+[>Pointer 525<]
+Marle: Setzen wir unser(AÜ)
+Vertrauen in [Epoch]!(END)
+
+[>Pointer 526<]
+Lucca: [Epoch] wird uns(AÜ)
+reinbringen...(END)
+
+[>Pointer 527<]
+[Robo]: Die Chancen stehen(AÜ)
+schlecht...(KNÜ)
+Aber wenn [Epoch]'s Energie(AÜ)
+und unsere Lebenskraft(AÜ)
+zusammenwirken...(END)
+
+[>Pointer 528<]
+Frog: Uns bleibt keine Wahl!(AÜ)
+Wagen wir's!(END)
+
+[>Pointer 529<]
+Ayla: [Epoch] gewinnen!(AÜ)
+Ayla gewinnen!(END)
+
+[>Pointer 530<]
+Magus: Sehr gut...(END)
+
+[>Pointer 531<]
+Marle: Mach's gut, [Epoch]!(END)
+
+[>Pointer 532<]
+Lucca: Verzeih, [Epoch]...(END)
+
+[>Pointer 533<]
+[Robo]: Wir haben keinerlei(AÜ)
+Handlungsspielraum...(END)
+
+[>Pointer 534<]
+Frog: So oder so...(END)
+
+[>Pointer 535<]
+Ayla: Gut!(AÜ)
+Ayla versuchen!(AÜ)
+[Epoch] auch sehr versuchen!!(END)
+
+[>Pointer 536<]
+Marle: Haltet euch alle fest!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 537<]
+Lucca: Wir glauben an dich,(AÜ)
+[Epoch]!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 538<]
+[Robo]: Macht euch bereit(AÜ)
+für den Zusammenprall!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 539<]
+Frog: Cyrus!(AÜ)
+Bitte schütze uns...
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 540<]
+Ayla: Ayla niemals(AÜ)
+aufgeben! [Epoch] auch(AÜ)
+nicht aufgeben!!!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 541<]
+Magus: Zittere vor mir,(AÜ)
+Lavos.
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 542<]
+Marle: Also los, Leute!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 543<]
+Lucca: [Epoch], wir verlassen(AÜ)
+uns auf dich!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 544<]
+[Robo]: Jetzt gibt es kein(AÜ)
+Zurück mehr!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 545<]
+Frog: Vorwärts, [Epoch]!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 546<]
+Ayla: Los!(AÜ)
+[Epoch]!!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 547<]
+Magus: Wir kommen, Lavos!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+[>Pointer 548<]
+Marle: Hmmmmm...(END)
+
+[>Pointer 549<]
+Lucca: Seid ihr alle okay...?(END)
+
+[>Pointer 550<]
+[Robo]: ......(END)
+
+[>Pointer 551<]
+Frog: Autsch......(END)
+
+[>Pointer 552<]
+Ayla: Ayla...am Leben...!(END)
+
+[>Pointer 553<]
+Magus: Ihr könnt die Augen(AÜ)
+wieder aufmachen.(AÜ)
+Wir sind drin!(END)
+
+[>Pointer 554<]
+Frog: Das Schicksal war uns(AÜ)
+hold...(END)
+
+[>Pointer 555<]
+[Robo]: [Epoch] ist...(AÜ)
+...irreparabel beschädigt.(END)
+
+[>Pointer 556<]
+Marle: Danke...[Epoch]...(END)
+
+[>Pointer 557<]
+Lucca: Tut mir leid...(AÜ)
+...[Epoch]...(END)
+
+[>Pointer 558<]
+Ayla: [Epoch]...(AÜ)
+Ich stolz!(END)
+
+[>Pointer 559<]
+Magus: Es gibt kein Zurück(AÜ)
+mehr.(END)
+
+[>Pointer 560<]
+Marle: Wir sind ziemlich tief(AÜ)
+drin...(END)
+
+[>Pointer 561<]
+Lucca: Wir sind okay...oder?(END)
+
+[>Pointer 562<]
+[Robo]: Meinen Sensoren zufolge(AÜ)
+sind wir fast im Zentrum!(END)
+
+[>Pointer 563<]
+Frog: Unheimlich.(AÜ)
+Schlimmer als Magus's(AÜ)
+Schloß...(END)
+
+[>Pointer 564<]
+Ayla: !!(KNÜ)
+Lavos riechen...STÄRKER!!(END)
+
+[>Pointer 565<]
+Marle: Das...ist...Lavos!(END)
+
+[>Pointer 566<]
+Lucca: Das ist der ECHTE(AÜ)
+Lavos!?(END)
+
+[>Pointer 567<]
+[Robo]: Erstaunlich...(AÜ)
+Er besitzt die DNS jeder Kreatur,(AÜ)
+die jemals gelebt hat...!(END)
+
+[>Pointer 568<]
+Frog: Cyrus, dies wird unsere(AÜ)
+glorreichste Schlacht...(END)
+
+[>Pointer 569<]
+Ayla: Ayla nicht aufgeben!(END)
+
+[>Pointer 570<]
+Magus: Endlich...(AÜ)
+Du hast deinen Meister gefunden,(AÜ)
+Lavos!...(END)
+
+[>Pointer 571<]
+Marle: Er ist...menschenähnlich...(KNÜ)
+Scheinbar hat er die Lebenskraft(AÜ)
+aller Wesen gesammelt, die auf(AÜ)
+diesem Planeten leben.(END)
+
+[>Pointer 572<]
+Lucca: Jetzt verstehe ich...(KNÜ)
+Er lebt so lange wie möglich auf(AÜ)
+einem Planeten und beraubt ihn der(AÜ)
+kritischen Ressourcen...(KNÜ)
+Er kombinierte die DNS, die er hier(AÜ)
+fand, mit seiner eigenen, und gebar(AÜ)
+die Kreaturen auf dem Todesgipfel.(KNÜ)
+Irgendwann emigrieren die Jungen(AÜ)
+auf andere Planeten...und machen's(AÜ)
+genauso...(END)
+
+[>Pointer 573<]
+[Robo]: Das war Lavos' Ziel...!(KNÜ)
+Mittels der DNS eines jeden(AÜ)
+Organismus...wurde er die Krone(AÜ)
+der Evolution!(END)
+
+[>Pointer 574<]
+Frog: Wie abscheulich!(KNÜ)
+Dieses Ding besitzt die Lebenskraft(AÜ)
+eines jeden Wesens...(KNÜ)
+Es erntete die DNS der Tiere,(AÜ)
+um seine eigene Evolution(AÜ)
+voranzutreiben!(AÜ)
+Und all das im Schlaf!(END)
+
+[>Pointer 575<]
+Magus: ......(KNÜ)
+Also hat er seit Anbeginn der Zeit(AÜ)
+in der Erde geschlafen und die(AÜ)
+Evolution auf dieser Welt zu(AÜ)
+seinem eigenen Nutzen kontrolliert...(END)
+
+[>Pointer 576<]
+Ayla: Wie Ayla's Land(AÜ)
+riechen! Reptiten, Daktyl, Nizbel,(AÜ)
+Ayla und Partymgl1!(KNÜ)
+Wie alle riechen, die Ayla(AÜ)
+kennen! Wie ALLE Lebewesen(AÜ)
+riechen!!!(END)
+
+[>Pointer 577<]
+[Robo]: Angriffswert ist...(KNÜ)
+...jenseits der Skala!(AÜ)
+...schließt meine Sensoren kurz!(END)
+
+[>Pointer 578<]
+Marle: Heißt das, ER ist der(AÜ)
+Grund, warum wir alle hier(AÜ)
+sind?(END)
+
+[>Pointer 579<]
+Magus: Wir wurden geschaffen,(AÜ)
+um ausgebeutet zu werden.(AÜ)
+Alle Menschen...(KNÜ)
+...und alle Lebewesen...(END)
+
+[>Pointer 580<]
+Lucca: Wie Masttiere, die auf(AÜ)
+ihre Schlachtung warten...(KNÜ)
+All unsere Geschichte...(AÜ)
+Unsere Kunst und Wissenschaft...(AÜ)
+Alles für dieses Lavos...biest...(END)
+
+[>Pointer 581<]
+Frog: Es...es ist nicht zu(AÜ)
+ertragen... Wir wurden wie Tiere(AÜ)
+gehalten...! Unsere Leben waren(AÜ)
+umsonst...(END)
+
+[>Pointer 582<]
+Ayla: Ich nicht rennen!(AÜ)
+Ayla nicht fliehen!(AÜ)
+Schlimmer als verlieren!!(END)
+
+[>Pointer 583<]
+Marle: Diese Welt gehört(AÜ)
+Crono und uns...Lena und(AÜ)
+Doan...allen!(END)
+
+[>Pointer 584<]
+Marle: Diese Welt gehört(AÜ)
+Crono und uns...und...(AÜ)
+...allen!(END)
+
+[>Pointer 585<]
+   Und ich MEINE allen!!!(END)
+
+[>Pointer 586<]
+Lucca: Unmöglich...(END)
+
+[>Pointer 587<]
+   Niemand kann mit einer(AÜ)
+ganzen Welt spielen und(AÜ)
+so einfach davonkommen!(END)
+
+[>Pointer 588<]
+[Robo]: Menschen schufen mich...(KNÜ)
+Das bedeutet, auch ich bin ein(AÜ)
+Produkt von diesem Ding... Ich(AÜ)
+bin nicht anders als Lucca(AÜ)
+und alle anderen.(END)
+
+[>Pointer 589<]
+   Ich bin ein Teil aller Lebewesen!!(END)
+
+[>Pointer 590<]
+Frog: Mein Leben behält seinen(AÜ)
+Zweck...!(END)
+
+[>Pointer 591<]
+   Wir haben einen eigenen Willen!(END)
+
+[>Pointer 592<]
+Ayla: Ayla stark!(AÜ)
+Ayla und Welt gut!(END)
+
+[>Pointer 593<]
+   Du nicht.(AÜ)
+Nicht Teil unseres Lebens!!!(END)
+
+[>Pointer 594<]
+Magus: ......(KNÜ)
+Es ist aus mit dir...(END)
+
+[>Pointer 595<]
+   Dein Leben endet hier!(END)
+
+[>Pointer 596<]
+(AÜ)
+   Lavos geht in Angriffsstellung!(END)
+
+[>Pointer 597<]
+(AÜ)
+      Lavos ändert Angriffsart!(END)
+
+[>Pointer 598<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 599<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 600<]
+(AÜ)
+         Geld zurückerhalten!(END)
+
+[>Pointer 601<]
+(AÜ)
+         Objekte zurückerhalten!(END)
+
+[>Pointer 602<]
+(AÜ)
+   Partymgl1's Ausrüstung(AÜ)
+   zurückerhalten!(END)
+
+[>Pointer 603<]
+(AÜ)
+   Partymgl2's Ausrüstung(AÜ)
+   zurückerhalten!(END)
+
+[>Pointer 604<]
+(AÜ)
+   Partymgl3's Ausrüstung(AÜ)
+   zurückerhalten!(END)
+
+[>Pointer 605<]
+Wer seid ihr denn!?(END)
+
+[>Pointer 606<]
+Der Düstervogel ist ein Symbol für(A)
+den Fortschritt unserer Kultur.(END)
+
+[>Pointer 607<]
+Daß so etwas Riesiges überhaupt(A)
+fliegen kann!(END)
+
+[>Pointer 608<]
+Alles klar mit dem Düstervogel?(END)
+
+[>Pointer 609<]
+Soldat: Alles klar, Sir Dalton!(END)
+
+[>Pointer 610<]
+Dalton: Natürlich ist es das,(AÜ)
+du Idiot!(KNÜ)
+Hey, ihr!(AÜ)
+Was macht ihr da!(END)
+
+[>Pointer 611<]
+Dalton: Aha...es ist also wahr...!(KNÜ)
+Der Prophet hat euer Kommen und(AÜ)
+den durch euch entstehenden(AÜ)
+Unfrieden vorausgesagt!(END)
+
+[>Pointer 612<]
+Dalton: Mal sehen, wie ihr(AÜ)
+DIESE Situation handhabt.(END)
+
+[>Pointer 613<]
+Dalton: Ich hätte nicht gedacht, daß(AÜ)
+sie es mir so leicht machen würden!(AÜ)
+HA!(END)
+
+[>Pointer 614<]
+Marle: Wo sind wir?(END)
+
+[>Pointer 615<]
+Lucca: Wo sind wir?(END)
+
+[>Pointer 616<]
+[Robo]: Umgebung unbekannt.(END)
+
+[>Pointer 617<]
+Frog: Wo sind wir?(END)
+
+[>Pointer 618<]
+Ayla: Wo wir sein?(END)
+
+[>Pointer 619<]
+Partymgl3: !?(END)
+
+[>Pointer 620<]
+Marle: Unsere Ausrüstung ist(AÜ)
+weg!(END)
+
+[>Pointer 621<]
+Lucca: Unsere Ausrüstung ist(AÜ)
+weg!(END)
+
+[>Pointer 622<]
+[Robo]: Unsere Ausrüstung ist(AÜ)
+weg!(END)
+
+[>Pointer 623<]
+Frog: Unsere Ausrüstung hat(AÜ)
+sich evanouiert!(END)
+
+[>Pointer 624<]
+Ayla: Waffen!(AÜ)
+Alle weg!(END)
+
+[>Pointer 625<]
+Marle: Die Objekte auch!(END)
+
+[>Pointer 626<]
+Lucca: Unsere Objekte auch!(END)
+
+[>Pointer 627<]
+[Robo]: Die Objekte auch!(END)
+
+[>Pointer 628<]
+Frog: Die Objekte auch!(END)
+
+[>Pointer 629<]
+Ayla: Alles WEG!(END)
+
+[>Pointer 630<]
+Marle: Sogar das Geld...(END)
+
+[>Pointer 631<]
+Lucca: Sogar das Geld...(END)
+
+[>Pointer 632<]
+[Robo]: Sogar unser Geld...(END)
+
+[>Pointer 633<]
+Frog: Vermaledeit!(AÜ)
+Sogar das Geld!!(END)
+
+[>Pointer 634<]
+Ayla: Geld auch weg.(END)
+
+[>Pointer 635<]
+Marle: Was machen wir jetzt?(END)
+
+[>Pointer 636<]
+Lucca: Deprimierend...(END)
+
+[>Pointer 637<]
+[Robo]: Wir müssen fliehen.(END)
+
+[>Pointer 638<]
+Frog: Was jetzt?(END)
+
+[>Pointer 639<]
+Ayla: Ayla kämpfen!(AÜ)
+Alles zurückholen!(AÜ)
+Bösen Mann vernichten!(END)
+
+[>Pointer 640<]
+Marle: Iiihhh!(END)
+
+[>Pointer 641<]
+Lucca: W...was!(END)
+
+[>Pointer 642<]
+[Robo]: Wir fliegen!(END)
+
+[>Pointer 643<]
+Frog: Es geht aufwärts!(END)
+
+[>Pointer 644<]
+Ayla: !!(END)
+
+[>Pointer 645<]
+Marle: Der Himmel!(AÜ)
+Also sind wir...(END)
+
+[>Pointer 646<]
+Lucca: Der Himmel!?(AÜ)
+Dann sind wir...(END)
+
+[>Pointer 647<]
+[Robo]: Das bedeutet, wir(AÜ)
+sind...(END)
+
+[>Pointer 648<]
+Frog: Der Himmel!(AÜ)
+Wir sind also...(END)
+
+[>Pointer 649<]
+Ayla: Himmel!(AÜ)
+Himmel! Wir...(END)
+
+[>Pointer 650<]
+   ...im Düstervogel!?(END)
+
+[>Pointer 651<]
+Ayla: !!(END)
+
+[>Pointer 652<]
+Lucca: !?(END)
+
+[>Pointer 653<]
+[Robo]: Wartet bitte!(END)
+
+[>Pointer 654<]
+Frog: Was!?(END)
+
+[>Pointer 655<]
+Ayla: Wind hier reinkommen.(END)
+
+[>Pointer 656<]
+Lucca: Ein Lüftungsschacht.(END)
+
+[>Pointer 657<]
+[Robo]: Das scheint ein(AÜ)
+Lüftungsschacht zu sein.(END)
+
+[>Pointer 658<]
+Frog: Wir können da hochgehen...(END)
+
+[>Pointer 659<]
+Wache: Das haben sie verdient.(AÜ)
+Ohne Waffen sind sie machtlos.(END)
+
+[>Pointer 660<]
+Marle: Was sollen wir tun,(AÜ)
+Partymgl1?(AÜ)
+   Krankstellen.(AÜ)
+   Einen Plan aushecken.(END)
+
+[>Pointer 661<]
+Lucca: Was nun, Partymgl1?(AÜ)
+   Krankstellen.(AÜ)
+   Einen Plan aushecken.(END)
+
+[>Pointer 662<]
+[Robo]: Was tun wir, Partymgl1?(AÜ)
+   Krankstellen.(AÜ)
+   Einen Plan aushecken.(END)
+
+[>Pointer 663<]
+Frog: Was nun, Partymgl1?(AÜ)
+   Krankstellen.(AÜ)
+   Einen Plan aushecken.(END)
+
+[>Pointer 664<]
+Ayla: Was machen, Partymgl1!?(AÜ)
+   Krankstellen.(AÜ)
+   Einen Plan aushecken.(END)
+
+[>Pointer 665<]
+Wache: Ja, klar!(AÜ)
+Netter Versuch.(END)
+
+[>Pointer 666<]
+Wie seid ihr...da rausgekommen!?(END)
+
+[>Pointer 667<]
+Hey, ihr da!(END)
+
+[>Pointer 668<]
+Bleibt, wo ihr seid!(END)
+
+[>Pointer 669<]
+Partymgl1 will fliehen!(A)
+Partymgl1 will fliehen!(END)
+
+[>Pointer 670<]
+Lucca: Ich verstehe.(AÜ)
+Wir überlisten den Wächter.(END)
+
+[>Pointer 671<]
+[Robo]: Ich verstehe.(AÜ)
+Wir lenken den Wächter ab.(END)
+
+[>Pointer 672<]
+Frog: Oh, warum nicht...(AÜ)
+...damit der Wächter hereinkommt...(END)
+
+[>Pointer 673<]
+Ayla: Ayla gesund!(KNÜ)
+Partymgl1 krank wollen, dann(AÜ)
+krank.(END)
+
+[>Pointer 674<]
+Lucca: Auuu!(AÜ)
+Der Schmerz, DER SCHMERZ!!!(END)
+
+[>Pointer 675<]
+[Robo]: System total überlastet!(AÜ)
+Irreparabel!(AÜ)
+Bitte um Hilfe!(END)
+
+[>Pointer 676<]
+Frog: Ooohh!(AÜ)
+Bauchnabel...Schmerz...ohhh...!(END)
+
+[>Pointer 677<]
+Ayla: Uooo...!(AÜ)
+Ayla...schwer verletzt!(END)
+
+[>Pointer 678<]
+Wache: Was ist!?(END)
+
+[>Pointer 679<]
+Lucca: Mission erfüllt!(END)
+
+[>Pointer 680<]
+[Robo]: Scheinbar hat das(AÜ)
+geklappt.(END)
+
+[>Pointer 681<]
+Frog: Idiot.(AÜ)
+Frösche haben keinen Bauchnabel!(END)
+
+[>Pointer 682<]
+Ayla: ......(KNÜ)
+Ayla nicht wollen lügen...(END)
+
+[>Pointer 683<]
+Lucca: Wir können das Unterdeck(AÜ)
+von hier aus inspizieren.(END)
+
+[>Pointer 684<]
+[Robo]: Wir können den Feind(AÜ)
+von hier aus beobachten.(END)
+
+[>Pointer 685<]
+Frog: Beobachten wir unsere(AÜ)
+Feinde von hier aus...(END)
+
+[>Pointer 686<]
+Ayla: Da unten, sehen können!(END)
+
+[>Pointer 687<]
+He, ihr!!(END)
+
+[>Pointer 688<]
+Dalton: Paßt gut auf, was ihr(AÜ)
+macht! Dies wird mein königlicher(AÜ)
+Luftthron!(END)
+
+[>Pointer 689<]
+Dalton: Jetzt gehört die Welt(AÜ)
+mir!(END)
+
+[>Pointer 690<]
+Dalton: Fahahaha!(END)
+
+[>Pointer 691<]
+Lucca: Schaut!(AÜ)
+Er manipuliert an [Epoch] herum!(END)
+
+[>Pointer 692<]
+[Robo]: Es scheint, er modifiziert(AÜ)
+[Epoch].(END)
+
+[>Pointer 693<]
+Frog: Mich dünkt, er DARF nicht(AÜ)
+einfach am Besitz anderer(AÜ)
+herumpfuschen!(END)
+
+[>Pointer 694<]
+Ayla: Sie [Epoch] verändern!(END)
+
+[>Pointer 695<]
+Partymgl1: Psssst...(END)
+
+[>Pointer 696<]
+Lucca: Wir haben noch nicht(AÜ)
+alle unsere Sachen wieder!(AÜ)
+   Egal.(AÜ)
+   Zurückgehen.(END)
+
+[>Pointer 697<]
+[Robo]: Uns fehlen noch einige(AÜ)
+unserer Sachen.(AÜ)
+   Egal.(AÜ)
+   Zurückgehen.(END)
+
+[>Pointer 698<]
+Frog: Wir haben noch nicht(AÜ)
+alle Besitztümer wieder.(AÜ)
+   Egal.(AÜ)
+   Zurückgehen.(END)
+
+[>Pointer 699<]
+Ayla: Noch Sachen fehlen!(AÜ)
+   Egal.(AÜ)
+   Zurückgehen.(END)
+
+[>Pointer 700<]
+Marle: W...was ist da los?(END)
+
+[>Pointer 701<]
+Lucca: Er...(END)
+
+[>Pointer 702<]
+[Robo]: Eine ungeheure Reaktion(AÜ)
+magischer Energie!(END)
+
+[>Pointer 703<]
+Frog: Etwas zieht herauf!(END)
+
+[>Pointer 704<]
+Lucca: Puh...(END)
+
+[>Pointer 705<]
+Frog: Wie störend.(END)
+
+[>Pointer 706<]
+Ayla: Ayla nicht aufgeben!!(END)
+
+[>Pointer 707<]
+Endlich...!(KN)
+Wir haben es!(A)
+Es ist fertig!(END)
+
+[>Pointer 708<]
+Dalton: Seht dieses schöne Schiff!(AÜ)
+DAS ist eines Königs würdig.(AÜ)
+Ich nenne es nun...(END)
+
+[>Pointer 709<]
+Dalton: ...die Aero-Dalton Majestase!(KNÜ)
+Und SIE werden meine ersten(AÜ)
+Opfer sein!(END)
+
+[>Pointer 710<]
+Dalton: Aero-Dalton Majestase, bereit(AÜ)
+zum Angriff!(END)
+
+[>Pointer 711<]
+Dalton: Nein, nein, nein, nein...!(END)
+
+[>Pointer 712<]
+Dalton: Stoppt diese Musik!(END)
+
+[>Pointer 713<]
+Dalton: Ha!(AÜ)
+Das klingt besser!(END)
+
+[>Pointer 714<]
+Dalton: Fertig zum Abflug!(END)
+
+[>Pointer 715<]
+Dalton: Die Aero-Dalton Majestase!(KNÜ)
+Houston, wir haben kein Problem!!(END)
+
+[>Pointer 716<]
+Partymgl2: Da!(END)
+
+[>Pointer 717<]
+[Robo]: D...das ist...!(END)
+
+[>Pointer 718<]
+Frog: Was zum...!(END)
+
+[>Pointer 719<]
+Partymgl1: [Epoch]...(END)
+
+[>Pointer 720<]
+Ayla: [Epoch] fliegen...?(END)
+
+[>Pointer 721<]
+[Epoch] kann fliegen!?(END)
+
+[>Pointer 722<]
+Dalton: Es heißt nicht "[Epoch]''!(AÜ)
+Sondern die Aero-Dalton Majestase!(END)
+
+[>Pointer 723<]
+Dalton: Farahahahaha!!(AÜ)
+Ihr seid nutzloser Ballast!(END)
+
+[>Pointer 724<]
+Dalton: Macht 'ne Fliege und(AÜ)
+verduftet...!(END)
+
+[>Pointer 725<]
+Marle: Hilfe!(END)
+
+[>Pointer 726<]
+Lucca: Was geht hier vor!?(END)
+
+[>Pointer 727<]
+[Robo]: Gefahr!(END)
+
+[>Pointer 728<]
+Frog: Oh nein!(END)
+
+[>Pointer 729<]
+Dalton: Fahaha!(AÜ)
+Wie kleine Insekten kommt ihr(AÜ)
+mir vor!(END)
+
+[>Pointer 730<]
+Lucca: Da...(END)
+
+[>Pointer 731<]
+[Robo]: Wir müssen [Epoch](AÜ)
+zurückerobern!(END)
+
+[>Pointer 732<]
+Frog: Hundsfott!(AÜ)
+Er wird seine Lektion heute lernen!(END)
+
+[>Pointer 733<]
+Ayla: [Epoch]...los...jetzt!(END)
+
+[>Pointer 734<]
+Marle: Es ist alles Daltons Schuld!(KNÜ)
+Crono...(KNÜ)
+Gib uns Crono zurück!!!(END)
+
+[>Pointer 735<]
+Lucca: Dalton!(END)
+
+[>Pointer 736<]
+[Robo]: Schon unterwegs!(END)
+
+[>Pointer 737<]
+Frog: Wiedersehen...!(END)
+
+[>Pointer 738<]
+Ayla: Grrrr...!(END)
+
+[>Pointer 739<]
+Dalton: Ihr...ihr...!(END)
+
+[>Pointer 740<]
+Marle: Keuch, schnauf...(END)
+
+[>Pointer 741<]
+Lucca: Ist [Epoch] intakt?(END)
+
+[>Pointer 742<]
+[Robo]: Erledigt!(END)
+
+[>Pointer 743<]
+Frog: Dieser gemeine Dieb!(END)
+
+[>Pointer 744<]
+Ayla: [Epoch] okay?(END)
+
+[>Pointer 745<]
+Lucca: Wichtig zu wissen wäre,(AÜ)
+ob er die Steuerung verändert(AÜ)
+hat!(END)
+
+[>Pointer 746<]
+[Robo]: Prüfen wir, ob er die(AÜ)
+Steuerung verändert hat!(END)
+
+[>Pointer 747<]
+Ayla: [Epoch]...Steuerung(AÜ)
+okay?(END)
+
+[>Pointer 748<]
+Marle: Ist alles in Ordnung!?(END)
+
+[>Pointer 749<]
+Lucca: Wofür ist dieser(AÜ)
+Schalter!?(END)
+
+[>Pointer 750<]
+[Robo]: Diese Instrumente sind(AÜ)
+mir nicht vertraut.(END)
+
+[>Pointer 751<]
+Frog: Ich weiß nicht weiter!(END)
+
+[>Pointer 752<]
+Ayla: [Epoch], aufwachen!(END)
+
+[>Pointer 753<]
+Marle: Partymgl1!(AÜ)
+Drück Y, schnell!(END)
+
+[>Pointer 754<]
+Lucca: Partymgl1!(AÜ)
+Drück den Y-Knopf, schnell!(END)
+
+[>Pointer 755<]
+[Robo]: Partymgl1!(AÜ)
+Bitte drücke den Y-Knopf!(END)
+
+[>Pointer 756<]
+Frog: Partymgl1!(AÜ)
+Mich dünkt, es ist der(AÜ)
+Y-Knopf!(END)
+
+[>Pointer 757<]
+Marle: Oh...dann den X-Knopf!(END)
+
+[>Pointer 758<]
+Lucca: Gut, dann versuch den(AÜ)
+X-Knopf!(END)
+
+[>Pointer 759<]
+[Robo]: Dann versuche X!(END)
+
+[>Pointer 760<]
+Frog: Dann drücke X!(END)
+
+[>Pointer 761<]
+Lucca: Puh, jetzt verstehe ich!(END)
+
+[>Pointer 762<]
+[Robo]: Ich hätte meine CPU(AÜ)
+verbinden sollen...(END)
+
+[>Pointer 763<]
+Frog: Ganz passabel!(AÜ)
+Wir verdanken ihm sogar einiges!(END)
+
+[>Pointer 764<]
+Ayla: [Epoch] gesund!(AÜ)
+[Epoch]...Vogel geworden!(END)
+
+[>Pointer 765<]
+[Robo]: Glück gehabt!(AÜ)
+Wenn wir die falschen Knöpfe(AÜ)
+betätigt hätten...(END)
+
+[>Pointer 766<]
+Lucca: [Epoch] mußte sowieso(AÜ)
+generalüberholt werden!(END)
+
+[>Pointer 767<]
+Lucca: !!(KNÜ)
+Hier drin ist etwas!(END)
+
+[>Pointer 768<]
+[Robo]: !!(KNÜ)
+Unsere Objekte!(END)
+
+[>Pointer 769<]
+Ayla: !!(KNÜ)
+Ayla Objekte gefunden!(END)
+
+[>Pointer 770<]
+Lucca: Er wollte uns alles(AÜ)
+klauen!(END)
+
+[>Pointer 771<]
+[Robo]: Dalton wollte also(AÜ)
+alles stehlen!(END)
+
+[>Pointer 772<]
+Frog: Ein Hund von einem(AÜ)
+Mann, wenn überhaupt!(END)
+
+[>Pointer 773<]
+Lucca: Unser Geld ist nicht(AÜ)
+hier!(END)
+
+[>Pointer 774<]
+[Robo]: Unser Geld ist nicht(AÜ)
+hier!(END)
+
+[>Pointer 775<]
+Frog: Aber wo ist unser(AÜ)
+Geld?(END)
+
+[>Pointer 776<]
+[Robo]: Es ist bestimmt im(AÜ)
+Düstervogel...(END)
+
+[>Pointer 777<]
+Frog: Oh!(AÜ)
+Tragischer Gedanke!(END)
+
+[>Pointer 778<]
+Ayla: Was sein, Leute?(END)
+
+[>Pointer 779<]
+Marle: Crono...(END)
+
+[>Pointer 780<]
+Lucca: Marle...(END)
+
+[>Pointer 781<]
+[Robo]: Wenn [Epoch] intakt(AÜ)
+ist...dann ist es Crono(AÜ)
+sicher auch...(END)
+
+[>Pointer 782<]
+Frog: Der arme Junge...(END)
+
+[>Pointer 783<]
+Ayla: Crono(2) stark!(AÜ)
+Crono(2) nicht sterben!!(END)
+
+[>Pointer 784<]
+(AÜ)
+                    Leer!(END)
+
+[>Pointer 785<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 786<]
+Soldat: Halt!(AÜ)
+Wer wagt es!(END)
+
+[>Pointer 787<]
+Soldat: Guck dir nur die Haare an!(AÜ)
+Woher kommst du, Kerl?(AÜ)
+Bist du einer von Magus's Leuten?(KN)
+Soldat: Wohl kaum! Kleine Kinder(AÜ)
+nehmen die gar nicht erst auf!(AÜ)
+Geh wieder brav spielen, ja!(KN)
+Soldat: Har, har, har!(AÜ)
+Und jetzt raus mit dir!(KN)
+Sofort aufhören!(END)
+
+[>Pointer 788<]
+Soldat: Königin Lena!(END)
+
+[>Pointer 789<]
+Königin: Erweist ihm Respekt!(AÜ)
+Dies ist ein Freund von mir!(END)
+
+[>Pointer 790<]
+Soldat: Aber er ist irgendwie seltsam!(END)
+
+[>Pointer 791<]
+Königin: Ihr gehorcht mir nicht!?(END)
+
+[>Pointer 792<]
+Soldat: Vergebung, Gnädigste!(AÜ)
+Bitte, tretet ein, Sir!(END)
+
+[>Pointer 793<]
+Königin: Kicher...(END)
+
+[>Pointer 794<]
+Bitte vergebt uns!(A)
+Wir verehren die Gäste unserer Königin!(END)
+
+[>Pointer 795<]
+Ich beneide Euch, den die Königin(A)
+Freund nennt!(END)
+
+[>Pointer 796<]
+König Guardia der XXI. ist im(A)
+Thronsaal.(END)
+
+[>Pointer 797<]
+Achtet auf Eure Manieren!(END)
+
+[>Pointer 798<]
+König: Sir!(AÜ)
+Ich nehme an, daß Ihr meine liebe(AÜ)
+Frau gerettet habt.(KNÜ)
+Aber was ist denn genau passiert?(AÜ)
+Lena benimmt sich sehr seltsam.(KNÜ)
+Und sie hat ihre Korallenbrosche(AÜ)
+verloren, die sie sonst wie(AÜ)
+ihren Augapfel hütete...(KNÜ)
+Vergebung! Ihr seid müde.(AÜ)
+Für all das ist später Zeit. Ruht Euch(AÜ)
+in den Rittergemächern aus, im(AÜ)
+Westflügel des Kellergewölbes.(END)
+
+[>Pointer 799<]
+Kanzler: Hmmm...(END)
+
+[>Pointer 800<]
+Kanzler: Sie ist entkommen?(AÜ)
+Aber wie?(AÜ)
+Der Raum war gut bewacht!(END)
+
+[>Pointer 801<]
+Kanzler: Was ist?(AÜ)
+Geh mir aus den Augen!(END)
+
+[>Pointer 802<]
+Der Königsaal ist oben.(A)
+Die Rittergemächer sind im unteren(A)
+Stock, links.(END)
+
+[>Pointer 803<]
+Die Königin erwartet Euch oben,(A)
+in ihrem Gemach.(END)
+
+[>Pointer 804<]
+Die Königin wartet.(END)
+
+[>Pointer 805<]
+DU hast Königin Lena gerettet?(A)
+Hätte ich dir gar nicht(A)
+zugetraut.(END)
+
+[>Pointer 806<]
+Die Königin hat vor zehn Jahren(A)
+in die Familie eingeheiratet.(A)
+Sie wirkt immer noch so jung!(KN)
+Fast sah sie an ihrem Hochzeitstag(A)
+älter aus...(END)
+
+[>Pointer 807<]
+Königin: Ah!(AÜ)
+Da seid Ihr.(END)
+
+[>Pointer 808<]
+Königin: Bitte laßt uns allein.(AÜ)
+Ich muß mit diesem Edelmann reden.(END)
+
+[>Pointer 809<]
+Bedienstete: Natürlich, Eure Hoheit.(END)
+
+[>Pointer 810<]
+Königin: Kommt näher, Sir.(END)
+
+[>Pointer 811<]
+Königin: Kicher...(END)
+
+[>Pointer 812<]
+Königin: Hab ich dich reingelegt,(AÜ)
+was, Crono?(END)
+
+[>Pointer 813<]
+Marle: Ich bin's!(AÜ)
+Aber alle hier nennen mich Lena!(END)
+
+[>Pointer 814<]
+Marle: Ich bin so froh, daß du(AÜ)
+hier bist!(END)
+
+[>Pointer 815<]
+Marle: Wir kennen uns noch kaum,(AÜ)
+aber irgendwie wußte ich, daß(AÜ)
+du kommst...(END)
+
+[>Pointer 816<]
+Marle: Danke, Crono!(END)
+
+[>Pointer 817<]
+Marle: Et...etwas stimmt nicht!!!(END)
+
+[>Pointer 818<]
+Marle: Was...was ist das!?(AÜ)
+Mir ist, als würde ich(AÜ)
+entzweigerissen!(END)
+
+[>Pointer 819<]
+Marle: Hilf mir, Crono!(AÜ)
+Ich habe Angst!!!(AÜ)
+Bitte... Crono(2)...(AÜ)
+...h...hilf mir!(END)
+
+[>Pointer 820<]
+...(KN)
+Ich habe die Gerüchte hier(A)
+ziemlich satt!(END)
+
+[>Pointer 821<]
+Ist Euch an der Königin irgend etwas(A)
+aufgefallen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 822<]
+Wie ich es mir dachte!(A)
+Sie behauptet, nicht Lena zu sein.(A)
+Sie ist irgendwie anders...(KN)
+Bitte sagt es nicht weiter, Sir!(END)
+
+[>Pointer 823<]
+Gut, wenn Ihr meint.(END)
+
+[>Pointer 824<]
+Hat sie dich schon entlassen,(A)
+Bursche?(A)
+Du warst hoffentlich züchtig!?(END)
+
+[>Pointer 825<]
+Hast du etwas...Komisches gemacht?(AÜ)
+   Natürlich nicht!(AÜ)
+   Hm...ja.(END)
+
+[>Pointer 826<]
+Bist du sicher...?(END)
+
+[>Pointer 827<]
+Oooh! Laßt diesen Lüstling nicht(A)
+aus dem Schloß!(END)
+
+[>Pointer 828<]
+Im unteren Stock könnt Ihr Euch(A)
+ausruhen.(END)
+
+[>Pointer 829<]
+Die Rittergemächer sind unten.(END)
+
+[>Pointer 830<]
+Da unten ist der Speisesaal.(END)
+
+[>Pointer 831<]
+Der Koch ist schlecht gelaunt,(A)
+also stört ihn nicht!(END)
+
+[>Pointer 832<]
+Hier speisen die Soldaten.(A)
+Schnapp dir auch was.(END)
+
+[>Pointer 833<]
+Magus's Truppen sollten sich(A)
+vor uns in acht nehmen!(END)
+
+[>Pointer 834<]
+Der Koch macht ausgezeichnetes(A)
+Essen. Drei Sterne!(END)
+
+[>Pointer 835<]
+Ich...(KN)
+Ich habe Hunger...(END)
+
+[>Pointer 836<]
+Dienstmagd: Hier ist Euer Essen!(END)
+
+[>Pointer 837<]
+Soldat: Alles klar!(END)
+
+[>Pointer 838<]
+Das ist sehr gut!(END)
+
+[>Pointer 839<]
+Hunger? Setzt Euch an die obere(A)
+linke Ecke des linken Tisches.(END)
+
+[>Pointer 840<]
+Hier herrscht Kleinkrieg!(END)
+
+[>Pointer 841<]
+Kinder haben hier nichts verloren!(END)
+
+[>Pointer 842<]
+Halt! Vielleicht weißt du's...(A)
+Königin Lena möchte unbedingt(A)
+"Ei-Skrem''. Was ist das?(END)
+
+[>Pointer 843<]
+Hauptmann: Wo bleibt das Mahl?(END)
+
+[>Pointer 844<]
+Küchenmagd: Oh, Hauptmann!(AÜ)
+Die Verspätung tut mir leid...(END)
+
+[>Pointer 845<]
+Hauptmann: Wir führen da draußen(AÜ)
+Krieg! Könnt ihr uns nicht einmal(AÜ)
+satt machen?(END)
+
+[>Pointer 846<]
+Koch: Spuck nicht so große Töne!(AÜ)
+Du bist nicht der einzige, der zu(AÜ)
+kämpfen hat!(END)
+
+[>Pointer 847<]
+Hauptmann: Ich habe keine Zeit für(AÜ)
+dein Gezeter.(AÜ)
+Gib endlich meinen Männern zu(AÜ)
+essen!(END)
+
+[>Pointer 848<]
+Koch: Halt die Klappe! In dieser(AÜ)
+Küche habe ICH das Sagen!!!(END)
+
+[>Pointer 849<]
+Dieser eingebildete Idiot...!(END)
+
+[>Pointer 850<]
+Der Hauptmann ist gewöhnlich sehr(A)
+freundlich. Der Koch dagegen...(END)
+
+[>Pointer 851<]
+Der Hauptmann versucht, seinen(A)
+Vorgänger Sir Cyrus, Befehlshaber(A)
+der Ritter, würdig zu ersetzen.(A)
+(END)
+
+[>Pointer 852<]
+Diese beiden sind Brüder.(A)
+Und da wirkt nun einmal die(A)
+Geschwisterrivalität...(END)
+
+[>Pointer 853<]
+Mein Mann wählte dieses Leben, weil(A)
+er Pazifist ist.(END)
+
+[>Pointer 854<]
+Die Zenan-Brücke ist unsere letzte(A)
+Verteidigungsmöglichkeit! Wir müssen(A)
+sie halten!(END)
+
+[>Pointer 855<]
+Du also hast der Königin geholfen.(A)
+Sprich mit der Dienstmagd, um(A)
+dich auszuruhen.(END)
+
+[>Pointer 856<]
+Ausruhen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 857<]
+Ausgeruht?(END)
+
+[>Pointer 858<]
+Oh!(A)
+Wenn nur Cyrus hier wäre!(END)
+
+[>Pointer 859<]
+Ihr kennt ihn doch, oder?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 860<]
+Wenn ER hier wäre, wäre das mit(A)
+der Königin alles erst gar nicht(A)
+passiert.(END)
+
+[>Pointer 861<]
+Ihr kennt Sir Cyrus nicht!?(A)
+Aus welchem Hinterland seid Ihr?(A)
+Oder seid Ihr närrisch?(END)
+
+[>Pointer 862<]
+Cyrus war der Befehlshaber der(A)
+Ritter. Außerdem war er der(A)
+Leibwächter des Königspaars.(KN)
+Vor zehn Jahren ging er mit(A)
+einem Freund auf Reisen, und seither(A)
+hat ihn niemand mehr gesehen.(END)
+
+[>Pointer 863<]
+Vor langer Zeit hauste ein Biest(A)
+namens Yakra im westlichen Wald.(A)
+Nach dem Bau der Kathedrale(A)
+verschwand es glücklicherweise!(END)
+
+[>Pointer 864<]
+Welche Freude, die Königin wurde(A)
+gefunden. Jetzt können wir unbesorgt(A)
+Krieg führen!(END)
+
+[>Pointer 865<]
+Oooohhh...(END)
+
+[>Pointer 866<]
+Magus's Truppen sind so ruhig...(A)
+...wie vor einem Sturm.(END)
+
+[>Pointer 867<]
+Unter uns gesagt, der Kanzler(A)
+benimmt sich seltsam in letzter(A)
+Zeit. Er schleicht nachts herum...(END)
+
+[>Pointer 868<]
+Wo wir schon davon sprechen, der(A)
+Leibwächter der Königin, dieses(A)
+Frosch-Ding, ist verschwunden.(KN)
+Ob er wirklich durch einen Zauber(A)
+zum Frosch wurde? Ich glaube,(A)
+er ist ein Spion!(END)
+
+[>Pointer 869<]
+Der Kanzler soll verrückt geworden(A)
+sein. Glaube ich nicht.(KN)
+Er ist ein netter Mann, er geht jeden(A)
+Tag in die Kathedrale.(END)
+
+[>Pointer 870<]
+Crono!(END)
+
+[>Pointer 871<]
+Lucca: Pust, keuch...du bist okay!(AÜ)
+Hast du sie gefunden?(END)
+
+[>Pointer 872<]
+Lucca: WEG!?(AÜ)
+Was heißt das, sie ist weg!?(END)
+
+[>Pointer 873<]
+Lucca: Hmm...dann hatte ich richtig(AÜ)
+vermutet.(END)
+
+[>Pointer 874<]
+Lucca: Ich wußte, ich kenne sie!(END)
+
+[>Pointer 875<]
+Lucca: Und das hier sieht genau(AÜ)
+wie das Schloß in unserer Zeit aus!(END)
+
+[>Pointer 876<]
+Lucca: Ich wette, sie haben dieses(AÜ)
+Mädchen für seine Vorfahrin(AÜ)
+gehalten... Weißt du, sie gehört zur(AÜ)
+Königsfamilie unserer Zeit!(END)
+
+[>Pointer 877<]
+Lucca: Sie ist Prinzessin Nadia!(END)
+
+[>Pointer 878<]
+Lucca: Hier muß der Königin(AÜ)
+etwas zugestoßen sein.(AÜ)
+Deshalb hast du Prinzessin Nadia(AÜ)
+verschwinden sehen!(END)
+
+[>Pointer 879<]
+Lucca: Beeilung!(AÜ)
+Finden wir die echte Königin!(END)
+
+[>Pointer 880<]
+König Guardia: Ich war um dich(AÜ)
+in Sorge, Lena.(END)
+
+[>Pointer 881<]
+Frog: Ich habe als Wächter(AÜ)
+Königin Lenas versagt und Schande(AÜ)
+über Euch gebracht.(END)
+
+[>Pointer 882<]
+Lena: Frog!(END)
+
+[>Pointer 883<]
+Lena: Ihr kamt zur rechten Zeit.(AÜ)
+Wer weiß, was ohne Eure Hilfe(AÜ)
+aus mir geworden wäre!(KNÜ)
+Übrigens, wo ist das Mädchen,(AÜ)
+das man für mich hielt?(END)
+
+[>Pointer 884<]
+Lucca: Ach ja!(AÜ)
+Ich habe Prinzessin Nadia ganz(AÜ)
+vergessen!(END)
+
+[>Pointer 885<]
+Lucca: Crono!(AÜ)
+Wohin ist Prinzessin Nadia(AÜ)
+verschwunden? Vielleicht ist sie(AÜ)
+noch hier!(END)
+
+[>Pointer 886<]
+Lucca: Prinzessin Nadia!(END)
+
+[>Pointer 887<]
+Marle: Häh?(AÜ)
+Was ist passiert?(END)
+
+[>Pointer 888<]
+Marle: Crono!(END)
+
+[>Pointer 889<]
+Marle: Es war schrecklich...(KNÜ)
+Ich weiß nicht mehr alles genau...(AÜ)
+Ich war an einem kalten, düsteren...(AÜ)
+...und einsamen Ort.(KNÜ)
+Ob es so ist, wenn man...stirbt?(END)
+
+[>Pointer 890<]
+Lucca: Willkommen zurück,(AÜ)
+Prinzessin!(END)
+
+[>Pointer 891<]
+Marle: Ihr habt euer Leben für(AÜ)
+mich riskiert!?(AÜ)
+"Prinzessin''?...(KNÜ)
+Äh...(END)
+
+[>Pointer 892<]
+Marle: Ihr habt's wohl(AÜ)
+rausgekriegt...(END)
+
+[>Pointer 893<]
+Marle: Tut mir leid, daß ich dich(AÜ)
+getäuscht habe, Crono.(END)
+
+[>Pointer 894<]
+Marle: Ich bin Prinzessin Nadia.(AÜ)
+Mein Vater ist König Guardia XXXIII.(KNÜ)
+Es war so lustig mit dir auf dem(AÜ)
+Fest. Wenn du gewußt hättest, wer(AÜ)
+ich bin...(END)
+
+[>Pointer 895<]
+Marle: Crono, dann hättest(AÜ)
+du mich sicher nicht begleitet!(AÜ)
+   Stimmt.(AÜ)
+   Doch!(END)
+
+[>Pointer 896<]
+Marle: Mir gefällt Marle eh(AÜ)
+besser als "Prinzessin''.(END)
+
+[>Pointer 897<]
+Marle: Oh, Crono!(AÜ)
+Genau dafür mag ich dich!(END)
+
+[>Pointer 898<]
+Marle: Der echten Königin geht's(AÜ)
+gut, nicht? Also, gehen wir nach(AÜ)
+Hause, Crono!(END)
+
+[>Pointer 899<]
+Kanzler: Dieser böse Yakra!(AÜ)
+Mich einzusperren und die Königin(AÜ)
+zu entführen!(KNÜ)
+Wir brauchen ein Rechtssystem in(AÜ)
+diesem Reich, um solche Teufel zu(AÜ)
+bestrafen.(END)
+
+[>Pointer 900<]
+Du könntest Lenas Zwillingsschwester(A)
+sein.(END)
+
+[>Pointer 901<]
+Danke, Crono.(A)
+Aber...wer war die Maid, die(A)
+wir in der Schlucht fanden?(END)
+
+[>Pointer 902<]
+Ein Glück, ihr seid wohlauf!(A)
+Du ähnelst Lena, benimmst dich aber(A)
+ganz anders!(KN)
+Egal, ihr habt mir sehr geholfen.(A)
+Wie kann ich euch nur danken?(END)
+
+[>Pointer 903<]
+Marle: Ihr seid die echte(AÜ)
+Königin Lena, oder!?(END)
+
+[>Pointer 904<]
+Lena: Du könntest tatsächlich(AÜ)
+mein Zwilling sein.(END)
+
+[>Pointer 905<]
+Marle: Also, habt ihr zwei(AÜ)
+nur Spaß miteinander...sonst(AÜ)
+krieg ich echt Probleme!(KNÜ)
+Ich drück euch die Daumen!(END)
+
+[>Pointer 906<]
+Lena: Wie bitte?(END)
+
+[>Pointer 907<]
+Marle: Ähm...nicht so wichtig!(AÜ)
+Es ist wohl Zeit zu gehen!(END)
+
+[>Pointer 908<]
+Du gehörst nun zur Familie!(END)
+
+[>Pointer 909<]
+Frog: Durch meine Schuld geriet(AÜ)
+die Königin in Gefahr.(KNÜ)
+Ich werde euch verlassen, um(AÜ)
+weiteres Unheil zu meiden.(END)
+
+[>Pointer 910<]
+Marle: Iiih!(END)
+
+[>Pointer 911<]
+Frog: Eure Ähnlichkeit mit der(AÜ)
+Königin ist geradezu unheimlich.(END)
+
+[>Pointer 912<]
+Frog: Crono, mich dünkt, dir(AÜ)
+liegt das Schwert!(END)
+
+[>Pointer 913<]
+Lucca: ...(KNÜ)
+Fröschle, du warst aber auch nicht(AÜ)
+schlecht.(END)
+
+[>Pointer 914<]
+König: Hallo!(AÜ)
+Wir freuen uns immer, euch zu sehen.(AÜ)
+Was kann ich für euch tun?(END)
+
+[>Pointer 915<]
+Marle: Also...(END)
+
+[>Pointer 916<]
+Lucca: Tja, es ist so...(END)
+
+[>Pointer 917<]
+[Robo]: Wir möchten um einen(AÜ)
+Gefallen bitten.(END)
+
+[>Pointer 918<]
+Frog: Auf ein Wort, bitte...(END)
+
+[>Pointer 919<]
+Ayla: Gefallen tun!(END)
+
+[>Pointer 920<]
+König: Ich verstehe. Ich soll diese(AÜ)
+Riesenmuschel im Schloß für viele(AÜ)
+Jahre aufbewahren, richtig?(END)
+
+[>Pointer 921<]
+Lena: Ich bitte dich um Partymgl1's(AÜ)
+willen. Bitte gewähre ihnen den(AÜ)
+Wunsch.(END)
+
+[>Pointer 922<]
+König: Natürlich!(AÜ)
+Die Muschel wird ins Schloß geschafft(AÜ)
+und als Nationalschatz aufbewahrt.(END)
+
+[>Pointer 923<]
+   Hauptmann!(END)
+
+[>Pointer 924<]
+Hauptmann: Ja, Majestät?(END)
+
+[>Pointer 925<]
+König: Macht Euch auf, holt die(AÜ)
+Regenbogenmuschel und bringt sie(AÜ)
+unversehrt hierher ins Schloß!(END)
+
+[>Pointer 926<]
+Hauptmann: Sofort, Sir!(END)
+
+[>Pointer 927<]
+Marle: Vielen Dank, Euer Majestät!(AÜ)
+Und natürlich auch Königin Lena!(END)
+
+[>Pointer 928<]
+Lucca: Herzlichen Dank!(END)
+
+[>Pointer 929<]
+[Robo]: Vielen Dank!(END)
+
+[>Pointer 930<]
+Frog: Ich danke Euch in tiefster(AÜ)
+Ergebenheit.(END)
+
+[>Pointer 931<]
+Ayla: Du guter Mann!(AÜ)
+Stark!(AÜ)
+Ayla dich mögen!(END)
+
+[>Pointer 932<]
+Soldat: Oh, Ihr seid es wieder.(END)
+
+[>Pointer 933<]
+Magus' Truppen hatten uns in die(A)
+Enge getrieben, aber der Held(A)
+hat uns gerettet.(END)
+
+[>Pointer 934<]
+Der Held?(A)
+Hat gerade mit dem König gesprochen.(END)
+
+[>Pointer 935<]
+Crono, Sir!(A)
+Der legendäre Held ist endlich(A)
+erschienen!(KN)
+Er ist gerade angekommen und hatte(A)
+eine Audienz beim König.(END)
+
+[>Pointer 936<]
+Der König wurde verletzt und liegt(A)
+darnieder.(END)
+
+[>Pointer 937<]
+Königin Lena saß die ganze Nacht(A)
+an seinem Bett.(END)
+
+[>Pointer 938<]
+Der König kämpfte tapfer gegen(A)
+Magus's Truppen. Hätte er nicht(A)
+von der Ankunft des Helden gehört,(A)
+wäre er gefallen.(END)
+
+[>Pointer 939<]
+So eine Schmach...(KN)
+Ich habe ihn wie einen normalen(A)
+Gassenjungen behandelt.(KN)
+Zum Glück vergab er's mir.(A)
+Er IST ein Held.(END)
+
+[>Pointer 940<]
+Nun wird auch Königin Lena(A)
+verzweifeln.(END)
+
+[>Pointer 941<]
+Oh, Crono...(A)
+Ich habe mein Königreich im Stich(A)
+gelassen.(KN)
+Da wir nicht wissen, wo Cyrus steckt,(A)
+ist der Junge mit dem Heldenamulett(A)
+unsere einzige Hoffnung...(KN)
+Er sucht auf dem südlichen Kontinent(A)
+nach dem Schwert, das Magus(A)
+besiegen kann.(END)
+
+[>Pointer 942<]
+Cyrus muß uns den Jungen gesandt(A)
+haben.(END)
+
+[>Pointer 943<]
+Der Hauptmann ist zur Zenan-Brücke(A)
+gegangen. Viele der dort Verwundeten(A)
+erholen sich hier.(END)
+
+[>Pointer 944<]
+Der arme Koch muß sowohl die Front(A)
+mit Essen versorgen als auch den(A)
+König gesund machen.(END)
+
+[>Pointer 945<]
+Tut mir leid, alle Betten sind besetzt.(END)
+
+[>Pointer 946<]
+Sogar der Hauptmann ging an die Front...(END)
+
+[>Pointer 947<]
+Magus hat schon drei unserer(A)
+tapfersten Krieger getötet!(END)
+
+[>Pointer 948<]
+An der Front mangelt es an Nahrung.(END)
+
+[>Pointer 949<]
+Wir bräuchten irgendeinen Helden(A)
+oder so.(END)
+
+[>Pointer 950<]
+Argh...(END)
+
+[>Pointer 951<]
+Selbst der König versucht, sein(A)
+Bestes zu tun. Also Kopf hoch!(END)
+
+[>Pointer 952<]
+Es werden immer mehr Verwundete.(END)
+
+[>Pointer 953<]
+Koch: Aus dem Weg, na los!(END)
+
+[>Pointer 954<]
+He, du da, ist dieses Essen(A)
+gut genug für den König?(END)
+
+[>Pointer 955<]
+Koch, beeilt Euch mit dem Essen(A)
+für die Zenan-Brücke!(END)
+
+[>Pointer 956<]
+Koch: Was?(AÜ)
+Mein Bruder?(AÜ)
+Er...(END)
+
+[>Pointer 957<]
+Koch: Das kommt davon, daß er(AÜ)
+dachte, er wäre der einzige, der(AÜ)
+für sein Land kämpft!(END)
+
+[>Pointer 958<]
+Dienstmagd: He!(END)
+
+[>Pointer 959<]
+Dienstmagd: Hört auf zu schimpfen(AÜ)
+und werdet erwachsen!(END)
+
+[>Pointer 960<]
+Koch: ...(KNÜ)
+Sei ruhig!(AÜ)
+Was weißt du schon?(END)
+
+[>Pointer 961<]
+Männer sind solche Hohlköpfe!(END)
+
+[>Pointer 962<]
+Der Koch tut nur so.(A)
+In Wahrheit ist er immer in Sorge um(A)
+den Hauptmann!(END)
+
+[>Pointer 963<]
+Wartet!(END)
+
+[>Pointer 964<]
+Koch: ...(KNÜ)
+Nehmt das hier mit!(END)
+
+[>Pointer 965<]
+Koch: Und sagt diesem Narren...(KNÜ)
+Er möge gesund zurückkehren!(END)
+
+[>Pointer 966<]
+Ihr habt von nun an freien Zugang.(END)
+
+[>Pointer 967<]
+Ihr hattet wohl Glück mit Yakra(A)
+und so.(END)
+
+[>Pointer 968<]
+Das wird den König beruhigen.(END)
+
+[>Pointer 969<]
+Lenas Anwesenheit hellt die Dinge(A)
+auf.(END)
+
+[>Pointer 970<]
+Der König und die Königin sind ein(A)
+schönes Paar!(END)
+
+[>Pointer 971<]
+Sie war also nicht Lena.(END)
+
+[>Pointer 972<]
+Die richtige Lena war also woanders.(A)
+Wie ich mir dachte.(END)
+
+[>Pointer 973<]
+Aber sie gleicht ihr aufs Haar.(END)
+
+[>Pointer 974<]
+Je länger man dich anschaut, desto(A)
+größer die Ähnlichkeit...unheimlich!(END)
+
+[>Pointer 975<]
+Ihr geht?(A)
+Seid auf alle Fälle vorsichtig!(END)
+
+[>Pointer 976<]
+Die WAHRE Lena ist zurück?(A)
+Wunderbar!(A)
+Laßt uns feiern!(END)
+
+[>Pointer 977<]
+Was!?(A)
+Sie war nicht Lena?(KN)
+Und ich habe so viel Zeit mit dem(A)
+Schlagen von "Ei-Skrem''(A)
+verschwendet!(END)
+
+[>Pointer 978<]
+Jetzt konzentriert sich der(A)
+Hauptmann auf den Kampf gegen(A)
+Magus's Truppen.(END)
+
+[>Pointer 979<]
+Kaum zu glauben, daß sie nicht(A)
+Lena war...(END)
+
+[>Pointer 980<]
+Lena würde ja auch nie vor mir(A)
+essen, wie dieses andere Mädchen!(END)
+
+[>Pointer 981<]
+Aha! Die Kathedrale war das Nest(A)
+der Verschwörer.(A)
+Dieser Frosch hat es ausgehoben!(KN)
+Aber wenn Magus's Truppen Lena(A)
+nicht entführt haben, planen sie(A)
+wahrscheinlich einen Angriff.(A)
+Wenn nur Cyrus hier wäre!(END)
+
+[>Pointer 982<]
+Wir müssen Magus's Truppen(A)
+schlagen!(END)
+
+[>Pointer 983<]
+Magus's Truppen sollen Yakra(A)
+auf uns gehetzt haben.(END)
+
+[>Pointer 984<]
+Kaum zu glauben, eine Kathedrale(A)
+als Versteck.(END)
+
+[>Pointer 985<]
+Bestimmt haben Magus's Truppen(A)
+Lena entführt.(END)
+
+[>Pointer 986<]
+Daß ein Frosch so mutig sein kann...!(END)
+
+[>Pointer 987<]
+Hmmm. Ich glaube immer noch(A)
+an eine Verschwörung!(END)
+
+[>Pointer 988<]
+Ein Ungeheuer spielte den Kanzler?(A)
+Zumindest hatte es einen(A)
+guten Geschmack.(END)
+
+[>Pointer 989<]
+Was darf's sein?(AÜ)
+   Frischer Salat(AÜ)
+   Kräftiger Eintopf(AÜ)
+   Hyper-Kebab(END)
+
+[>Pointer 990<]
+Sekunde, ja?(END)
+
+[>Pointer 991<]
+Bitte sehr!(END)
+
+[>Pointer 992<]
+(AÜ)
+       MP wiederhergestellt!(END)
+
+[>Pointer 993<]
+(AÜ)
+       LP wiederhergestellt!(END)
+
+[>Pointer 994<]
+(AÜ)
+    LP/MP wiederhergestellt!(END)
+
+[>Pointer 995<]
+Der Koch ist stur, aber ein(A)
+guter Mann.(END)
+
+[>Pointer 996<]
+Du hast also Königin Lena gerettet!(END)
+
+[>Pointer 997<]
+Ich DACHTE mir doch, daß sie zu viel(A)
+ißt, um unsere Königin zu sein.(END)
+
+[>Pointer 998<]
+Die beiden versuchen wirklich, sich(A)
+zu vertragen.(END)
+
+[>Pointer 999<]
+Wir müssen den König gesund pflegen!(END)
+
+[>Pointer 1000<]
+Tut mir leid, ich habe gerade(A)
+keine Zeit.(END)
+
+[>Pointer 1001<]
+Jo!(KN)
+Was?(A)
+Du willst Rauchfleisch?(KN)
+Tut mir leid, dazu fehlen mir im(A)
+Moment die Zutaten. Aber den meisten(A)
+ist es ohnehin zu salzig...(END)
+
+[>Pointer 1002<]
+I...Ihr LEBT!(KN)
+Obwohl wir keine große Opferzahl zu(A)
+verzeichnen haben - ohne Euch hätten(A)
+wir es nicht geschafft!(KN)
+Auf jeden Fall müssen wir das(A)
+Königreich Guardia wiederaufbauen!(KN)
+Alle zusammen!(END)
+
+[>Pointer 1003<]
+Frog!(KN)
+Ihr habt Euch also Crono und(A)
+den anderen angeschlossen!(KN)
+Ihr habt Großes geleistet.(A)
+Bitte bleibt bei uns, so lange(A)
+Ihr wünscht.(END)
+
+[>Pointer 1004<]
+Crono, Generationen werden Euch(A)
+danken!(END)
+
+[>Pointer 1005<]
+Unsinn!(A)
+DU hast uns gerettet.(A)
+Ich habe nur gekocht!(KN)
+Ich werde ein gepfeffertes Siegesmahl(A)
+bereiten!(END)
+
+[>Pointer 1006<]
+Magus's Truppen sind in alle(A)
+Winde zerstreut, und wir verdanken(A)
+dies allein Crono.(END)
+
+[>Pointer 1007<]
+Frog, Ihr seid herrlich...!(KN)
+Ich wußte, Ihr würdet es schaffen.(A)
+Vielleicht ernenne ich Euch zum(A)
+Hauptmann!(END)
+
+[>Pointer 1008<]
+Frog: Mich dünkt, ich werde(AÜ)
+ablehnen...(END)
+
+[>Pointer 1009<]
+Frog: ...(KNÜ)
+Mein Herz ist erfreut...(AÜ)
+Danke, Eure Majestät!(END)
+
+[>Pointer 1010<]
+Wie soll ich Euch danken...?(KN)
+Frog!(A)
+Wo ist Frog?(END)
+
+[>Pointer 1011<]
+Wir haben Euch erwartet!(A)
+Hier entlang zum Thronsaal, bitte!(END)
+
+[>Pointer 1012<]
+Ihr hattet wirklich Glück, Leute.(A)
+Magus zu besiegen...!(END)
+
+[>Pointer 1013<]
+Da Ihr nicht aus Magus's Schloß(A)
+kamt, dachte ich einfach...(END)
+
+[>Pointer 1014<]
+Wenn sie die Zenan-Brücke genommen(A)
+hätten, wäre auch dieses Schloß(A)
+gefallen.(END)
+
+[>Pointer 1015<]
+Die verwundeten Soldaten haben sich(A)
+alle erholt.(END)
+
+[>Pointer 1016<]
+Seht Ihr, es geht ihnen besser!(END)
+
+[>Pointer 1017<]
+Bitte...seid...(KN)
+...sanft...(END)
+
+[>Pointer 1018<]
+Ich war unter denen, die Ihr gerettet(A)
+habt.(END)
+
+[>Pointer 1019<]
+Cyrus lächelt bestimmt, wo auch(A)
+immer er gerade ist.(END)
+
+[>Pointer 1020<]
+Der Koch ist dabei, ein neues(A)
+Gericht zu erfinden.(END)
+
+[>Pointer 1021<]
+Es ist so kompliziert...ob er je(A)
+fertig wird?(END)
+
+[>Pointer 1022<]
+Das neue Gericht braucht einen(A)
+Namen!(END)
+
+[>Pointer 1023<]
+Der Hauptmann und der Koch haben(A)
+sich endlich vertragen!(END)
+
+[>Pointer 1024<]
+Frog, danke nochmals.(A)
+Ihr verdient es, in den Ritterstand(A)
+erhoben zu werden!(END)
+
+[>Pointer 1025<]
+Frog: Ach, so teuer sind mir(AÜ)
+diese Worte...!(END)
+
+[>Pointer 1026<]
+Koch: Und das ist für Euch!(AÜ)
+Nehmt es.(END)
+
+[>Pointer 1027<]
+(AÜ)
+Durch geheimnisvolle Energie(AÜ)
+versiegelt...(END)
+
+[>Pointer 1028<]
+Etwas reagiert auf das Amulett.(A)
+Herausnehmen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 1029<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 1030<]
+Soldat: Wer ist da!?(END)
+
+[>Pointer 1031<]
+Soldat: Kein Durchgang.(AÜ)
+Geh zum Festival, da kannst du(AÜ)
+Spaß haben!(END)
+
+[>Pointer 1032<]
+Prinzessin Nadia!(END)
+
+[>Pointer 1033<]
+Kanzler: Alles in Ordnung?(AÜ)
+Wo wart Ihr!?(KNÜ)
+Seid Ihr entführt worden?(AÜ)
+Die Soldaten haben Euch gesucht!(END)
+
+[>Pointer 1034<]
+Kanzler: Gauner!(AÜ)
+Du warst es also?(AÜ)
+Der Entführer Prinzessin Nadias!(END)
+
+[>Pointer 1035<]
+Marle: Nein!(AÜ)
+Crono ist...(END)
+
+[>Pointer 1036<]
+Kanzler: Gestehe!(AÜ)
+Du hast sie verwirrt und versucht,(AÜ)
+an den Thron zu kommen!(AÜ)
+Terrorist!!!(END)
+
+[>Pointer 1037<]
+Marle: Aufhören!(END)
+
+[>Pointer 1038<]
+Marle: Sofort aufhören!(END)
+
+[>Pointer 1039<]
+Kanzler: Was macht ihr!?(END)
+
+[>Pointer 1040<]
+Soldat: Prinzessin Nadia sagte...(END)
+
+[>Pointer 1041<]
+Kanzler: Idioten!(AÜ)
+Ergreift ihn!!!(END)
+
+[>Pointer 1042<]
+Marle: Crono!!(END)
+
+[>Pointer 1043<]
+Sie entkommen!(END)
+
+[>Pointer 1044<]
+Lucca: Das sieht nicht gut aus!(END)
+
+[>Pointer 1045<]
+Lucca: Wir haben keine andere(AÜ)
+Wahl als die Gewalt!(END)
+
+[>Pointer 1046<]
+Halt!(END)
+
+[>Pointer 1047<]
+Soldat: Prinzessin Nadia!(END)
+
+[>Pointer 1048<]
+Marle: Das ist mein Freund!(AÜ)
+Zeigt ihm euren Respekt!(END)
+
+[>Pointer 1049<]
+Soldat: A...aber...(END)
+
+[>Pointer 1050<]
+Marle: Könnt ihr keine Befehle(AÜ)
+ausführen?(END)
+
+[>Pointer 1051<]
+Soldat: Natürlich!(END)
+
+[>Pointer 1052<]
+Keine Bewegung!(END)
+
+[>Pointer 1053<]
+Kanzler: Tut, was König Guardia XXXIII.(AÜ)
+sagt!(END)
+
+[>Pointer 1054<]
+Marle: Vater...(END)
+
+[>Pointer 1055<]
+König: Ruhe, Prinzessin Nadia!(KNÜ)
+Der Thron steht über deinen(AÜ)
+persönlichen Wünschen!(END)
+
+[>Pointer 1056<]
+Marle: Was!?(AÜ)
+Auch wenn ich adelig sein mag,(AÜ)
+bin ich immer noch ein Mensch!(END)
+
+[>Pointer 1057<]
+König: Seltsame Ideen hast du(AÜ)
+draußen aufgepickt!(END)
+
+[>Pointer 1058<]
+Marle: Wenn ich etwas aufgepickt(AÜ)
+habe, dann wohl gesunden(AÜ)
+Menschenverstand!(END)
+
+[>Pointer 1059<]
+König: Prinzessin Nadia!(END)
+
+[>Pointer 1060<]
+Marle: Ich hasse dich!(AÜ)
+Ich gehe!(END)
+
+[>Pointer 1061<]
+Kanzler: Prinzessin Nadia!(END)
+
+[>Pointer 1062<]
+Marle: Komm, Crono!!!(END)
+
+[>Pointer 1063<]
+Kanzler: Steht nicht rum wie die(AÜ)
+Ölgötzen! Hinterher!(END)
+
+[>Pointer 1064<]
+König: Prinzessin Nadia...(END)
+
+[>Pointer 1065<]
+Ihr geht nirgendwohin!(END)
+
+[>Pointer 1066<]
+Fest verschlossen...(END)
+
+[>Pointer 1067<]
+Marle: Komm mit, Crono!(AÜ)
+Ich will diesen sturen Dummkopf(AÜ)
+von einem Vater nie mehr(AÜ)
+sehen!(END)
+
+[>Pointer 1068<]
+Soldat: !!!(KNÜ)
+T...T...Terroristen!!(END)
+
+[>Pointer 1069<]
+Lucca: Das ist NICHT gut.(END)
+
+[>Pointer 1070<]
+[Robo]: Was ist los!?(END)
+
+[>Pointer 1071<]
+Frog: Wer, was?(AÜ)
+Terroristen!?(END)
+
+[>Pointer 1072<]
+Kanzler: Ich war in Sorge,(AÜ)
+Prinzessin!(KNÜ)
+Ich verstehe Euren Schmerz.(AÜ)
+Aber den König interessiert nur(AÜ)
+sein Reich...(KNÜ)
+Ja, sogar als Eure Mutter, Königin(AÜ)
+Alisa, starb, arbeitete er nur den(AÜ)
+ganzen Tag!(END)
+
+[>Pointer 1073<]
+Marle: Niemand könnte das!(AÜ)
+Das ist unmenschlich!(END)
+
+[>Pointer 1074<]
+Kanzler: Oh, mein Kind, es ist(AÜ)
+vergangen und vergessen...(END)
+
+[>Pointer 1075<]
+Marle: Erzählt mir mehr!(END)
+
+[>Pointer 1076<]
+Kanzler: Das wird schwierig...(KNÜ)
+Nun, Königin Alisas Zustand(AÜ)
+verschlechterte sich auf einmal(AÜ)
+dramatisch.(KNÜ)
+Sie verlangte, den König ein letztes(AÜ)
+Mal zu sehen, aber er hatte keine(AÜ)
+Zeit, sie zu besuchen.(END)
+
+[>Pointer 1077<]
+Kanzler: Er sagte, er habe zu(AÜ)
+arbeiten...(KNÜ)
+Da Ihr nichts über den Tod(AÜ)
+wußtet, habt Ihr treu an der(AÜ)
+Seite Eurer Mutter ausgeharrt...(END)
+
+[>Pointer 1078<]
+Kanzler: Alisa starb in tiefem(AÜ)
+Kummer...(KNÜ)
+Indirekt hat der König ihren Tod(AÜ)
+verschuldet...(AÜ)
+Welch eine Schande...(END)
+
+[>Pointer 1079<]
+Marle: WAS...!(KNÜ)
+Vater TÖTETE...(AÜ)
+...MEINE MUTTER...!?(END)
+
+[>Pointer 1080<]
+Kanzler: Was weiß ich schon!(AÜ)
+Es gibt Gründe für alles, nicht(AÜ)
+wahr, meine Liebe?(END)
+
+[>Pointer 1081<]
+Kanzler: Nun...wie schön, euch alle(AÜ)
+wiederzusehen.(AÜ)
+Bitte besucht den König.(END)
+
+[>Pointer 1082<]
+König: Oh!(AÜ)
+Nadia...(END)
+
+[>Pointer 1083<]
+König: W...was willst du!?(AÜ)
+Ich werde auf deine Forderungen(AÜ)
+nicht eingehen!(END)
+
+[>Pointer 1084<]
+Marle: ......(END)
+
+[>Pointer 1085<]
+König: Das ist die Strafe dafür, daß du(AÜ)
+das Schloß verlassen hast!(KNÜ)
+Und diese...Rüpel hereingelassen(AÜ)
+hast.(KNÜ)
+Du könntest nun an irgendeiner(AÜ)
+Straßenecke betteln!(END)
+
+[>Pointer 1086<]
+Marle: Hör auf!(AÜ)
+Sie sind meine Freunde!(END)
+
+[>Pointer 1087<]
+König: Sie sind eine Schande für(AÜ)
+das Königshaus!(END)
+
+[>Pointer 1088<]
+Marle: Vater... Du...du...(END)
+
+[>Pointer 1089<]
+Marle: Dein Land ist dir wichtiger(AÜ)
+als ich...oder Mutter!!!(END)
+
+[>Pointer 1090<]
+König: Was...?(END)
+
+[>Pointer 1091<]
+Marle: Du hast...du hast Mutter(AÜ)
+getötet!(END)
+
+[>Pointer 1092<]
+König: !!!(END)
+
+[>Pointer 1093<]
+König: Sofort...sofort RAUS HIER!!!(AÜ)
+Ich will dich hier nie wieder(AÜ)
+sehen!(END)
+
+[>Pointer 1094<]
+Marle: Den sind wir los!(END)
+
+[>Pointer 1095<]
+König: Wir sind keine Familie mehr!(AÜ)
+Mach, was du willst!!(END)
+
+[>Pointer 1096<]
+Kanzler: ......(END)
+
+[>Pointer 1097<]
+Marle: Los, gehen wir zum Fest!(END)
+
+[>Pointer 1098<]
+Hey, ohne Genehmigung darf man hier(A)
+nicht rein!(END)
+
+[>Pointer 1099<]
+Hey, tut mir leid.(A)
+Die alte Dame schmeißt die Küche.(KN)
+Hier bitte leise auftreten!(KN)
+Die Hauptsache ist, daß sie kochen(A)
+kann...aber sie kann auch brüllen.(END)
+
+[>Pointer 1100<]
+Bereite mich auf die(A)
+Jahrtausendfeier vor.(END)
+
+[>Pointer 1101<]
+Ein Vorfahr der Köchin hatte einen(A)
+Wettstreit mit Magus's Truppen.(END)
+
+[>Pointer 1102<]
+Hey!!(END)
+
+[>Pointer 1103<]
+Aufhören!(END)
+
+[>Pointer 1104<]
+Liebe Güte!(AÜ)
+Ich habe Euch nicht erkannt,(A)
+Prinzessin Nadia!(END)
+
+[>Pointer 1105<]
+Ich bin mit der Erziehung der(A)
+Prinzessin betraut.(END)
+
+[>Pointer 1106<]
+Ich gebe der Prinzessin(A)
+Sportunterricht.(END)
+
+[>Pointer 1107<]
+Ich bringe ihr Disziplin bei. Dieses(A)
+Jahr hat sie den ganzen Unterricht(A)
+geschwänzt!(END)
+
+[>Pointer 1108<]
+König: Wo ist Prinzessin Nadia?(KNÜ)
+Sagt ihr bitte, sie soll ins(AÜ)
+Schloß zurückkehren.(END)
+
+[>Pointer 1109<]
+Wegen der Jahrtausendfeier hat der(A)
+König Bewährung für Crono(A)
+angeordnet.(END)
+
+[>Pointer 1110<]
+Der König wartet auf die Rückkehr(A)
+seiner Tochter.(END)
+
+[>Pointer 1111<]
+Nur der Kanzler glaubte an(A)
+Crono's Schuld.(END)
+
+[>Pointer 1112<]
+Ohne Prinzessin Nadia ist dieses(A)
+Schloß richtig tot.(END)
+
+[>Pointer 1113<]
+Hoffentlich kommt Nadia zurück.(END)
+
+[>Pointer 1114<]
+Prinzessin Nadia gleicht ihrer Mutter(A)
+aufs Haar. Deshalb ist der König so(A)
+streng mit ihr.(END)
+
+[>Pointer 1115<]
+Wir möchten die Festivitäten beginnen,(A)
+aber der König...(END)
+
+[>Pointer 1116<]
+Auf Befehl des Königs wurde das(A)
+Gericht vertagt.(END)
+
+[>Pointer 1117<]
+Auf Befehl des Königs wurde das(A)
+Gericht vertagt.(END)
+
+[>Pointer 1118<]
+Pierre wartet unten.(END)
+
+[>Pointer 1119<]
+Ich bin Pierre, Anwalt von Beruf.(A)
+Der König ist so betrübt seit(A)
+Prinzessin Nadias Verschwinden...(KN)
+Ich persönlich denke ja, er hat daraus(A)
+geschlossen, daß sie NICHT entführt(A)
+wurde...(KN)
+Es braucht Zeit, aber ich glaube,(A)
+er versteht.(KN)
+Dennoch benimmt sich der Kanzler(A)
+seltsam. Er wird uns Probleme(A)
+machen...(END)
+
+[>Pointer 1120<]
+Der Kanzler fing an durchzudrehen,(A)
+als er diesen Drachenpanzer(A)
+bauen ließ!(END)
+
+[>Pointer 1121<]
+Der Kanzler hat all die Soldaten(A)
+im Gefängnis angeheuert.(END)
+
+[>Pointer 1122<]
+Diese Gefängniswärter sind ein(A)
+komischer Haufen. Sie starren einen an(A)
+wie hungrige Tiere! Ob sie welche(A)
+sind...?(END)
+
+[>Pointer 1123<]
+Ich habe gehört, im Gericht habe(A)
+der Kanzler den König unterstützt.(END)
+
+[>Pointer 1124<]
+Kanzler: Nur Mut, Prinzessin Nadia...(END)
+
+[>Pointer 1125<]
+Kanzler: Oh, weh mir...(END)
+
+[>Pointer 1126<]
+Okay, was soll's!(A)
+Haut ab, Leute!!(END)
+
+[>Pointer 1127<]
+König: ......(KNÜ)
+Ich habe nichts zu sagen!(END)
+
+[>Pointer 1128<]
+König: W...was ist das?(END)
+
+[>Pointer 1129<]
+Marle: Dein Lieblingsessen.(END)
+
+[>Pointer 1130<]
+König: ......(KNÜ)
+Für mich?(END)
+
+[>Pointer 1131<]
+König: Mal sehen...(END)
+
+[>Pointer 1132<]
+Bedienstete: Was ist los, Herr!?(END)
+
+[>Pointer 1133<]
+König: Was...!!!(END)
+
+[>Pointer 1134<]
+König: Wie kannst du es wagen!?(KNÜ)
+Mir so etwas Schweres zu geben,(AÜ)
+obwohl du GENAU weißt, wie hoch(AÜ)
+mein Cholesterinspiegel ist...!(END)
+
+[>Pointer 1135<]
+Marle: Aber...es ist doch...(END)
+
+[>Pointer 1136<]
+König: Das schlägt dem Faß den Boden(AÜ)
+aus! Jetzt sehe ich klar!(END)
+
+[>Pointer 1137<]
+Marle: Vater, nein...!(END)
+
+[>Pointer 1138<]
+König: Geh!(AÜ)
+SOFORT!(AÜ)
+Und laß dich hier nicht(AÜ)
+wieder blicken!(END)
+
+[>Pointer 1139<]
+Marle: Vater!!!(END)
+
+[>Pointer 1140<]
+Der König möchte niemanden sprechen.(END)
+
+[>Pointer 1141<]
+Er ist nunmehr bettlägerig(A)
+und emotional völlig ausgelaugt.(END)
+
+[>Pointer 1142<]
+Kanzler: Wie wär's mit einem(AÜ)
+Geschenk für den König?(KNÜ)
+Er soll ja Rauchfleisch so gern(AÜ)
+mögen...(END)
+
+[>Pointer 1143<]
+Rauchfleisch?(KN)
+Einer unserer Vorfahren hat es wohl(A)
+als erster gemacht, aber ich kenne(A)
+das Rezept nicht.(END)
+
+[>Pointer 1144<]
+Kanzler: Hrgh...!(KNÜ)
+Du wirst sehen, du wirst auf(AÜ)
+Eis gelegt!(END)
+
+[>Pointer 1145<]
+Sowas...(KN)
+Dieser Crono wird aufgeknüpft!(END)
+
+[>Pointer 1146<]
+Der König macht sich große Sorgen(A)
+um Prinzessin Nadia.(END)
+
+[>Pointer 1147<]
+Aber als König muß er das alles(A)
+in sich hineinfressen.(END)
+
+[>Pointer 1148<]
+Nach dem Tod seiner Frau lebte er(A)
+nur für Prinzessin Nadia.(END)
+
+[>Pointer 1149<]
+Mach ja keinen Unsinn!(END)
+
+[>Pointer 1150<]
+Ich werde den Kanzler schon nicht(A)
+vergiften.(END)
+
+[>Pointer 1151<]
+Ich krieg überhaupt nichts gebacken,(A)
+solange der hier herumsteht!(END)
+
+[>Pointer 1152<]
+Die Verhandlung des Jahrhunderts(A)
+steht bevor.(A)
+Was, welche?(KN)
+Natürlich die König Guardias!(END)
+
+[>Pointer 1153<]
+Es heißt, der König habe Schätze(A)
+seiner Familie verkauft.(END)
+
+[>Pointer 1154<]
+Auf Befehl des Königs bleibt der(A)
+Gerichtssaal bis zum Ende der(A)
+Verhandlung geschlossen.(END)
+
+[>Pointer 1155<]
+Auch das Gefängnis ist abgeriegelt.(KN)
+Rechts geht es zur Schatzkammer...(END)
+
+[>Pointer 1156<]
+Die Entscheidung wird bald gefällt.(A)
+Der König möchte, daß niemand(A)
+hinein- oder hinausgeht.(END)
+
+[>Pointer 1157<]
+Verschlossen.(END)
+
+[>Pointer 1158<]
+Kanzler: Endlich!(AÜ)
+Dieses Biest hat mich da drin(AÜ)
+gefangengehalten!(END)
+
+[>Pointer 1159<]
+Kanzler: Prinzessin Nadia!(AÜ)
+Eure Freunde, nehme ich an?(END)
+
+[>Pointer 1160<]
+Kanzler: Halt, ich habe Wichtigeres(AÜ)
+zu tun. Die Mondlichtparade will(AÜ)
+vorbereitet sein!(END)
+
+[>Pointer 1161<]
+König: Tut mir leid, Freunde.(AÜ)
+Das alles ist mir furchtbar peinlich...(KNÜ)
+Paßt auf Prinzessin Nadia auf,(AÜ)
+okay?(END)
+
+[>Pointer 1162<]
+König: Der echte Kanzler ist in(AÜ)
+Ordnung. Er ist in den Rittersaal(AÜ)
+gegangen, um die Parade(AÜ)
+vorzubereiten!(END)
+
+[>Pointer 1163<]
+Prinzessin Nadia!(A)
+Zur Mondlichtparade bekommt Ihr(A)
+ein wunderbares Geschenk von mir!(END)
+
+[>Pointer 1164<]
+Genießt die Mondlichtparade!(END)
+
+[>Pointer 1165<]
+Ich bin Anwalt Pierre.(KN)
+Wo ist also der echte Kanzler?(END)
+
+[>Pointer 1166<]
+Ich bin Anwalt Pierre.(KN)
+Mit dem Kanzler habe ich die(A)
+Jahrtausendparade geplant.(END)
+
+[>Pointer 1167<]
+Nun kann's ja losgehen mit der(A)
+Mondlichtparade.(END)
+
+[>Pointer 1168<]
+Das wird eine tolle Nacht.(END)
+
+[>Pointer 1169<]
+Die Parade ist das große Finale.(END)
+
+[>Pointer 1170<]
+Diese Art von Parade läßt uns alle(A)
+wieder Kinder sein.(END)
+
+[>Pointer 1171<]
+Prinzessin, fangen wir mit dem(A)
+Sport an!(END)
+
+[>Pointer 1172<]
+Ausgespielt!(END)
+
+[>Pointer 1173<]
+Jetzt müssen wir Disziplin lernen!(END)
+
+[>Pointer 1174<]
+Die Soldaten, die der falsche(A)
+Kanzler gekauft hatte, waren(A)
+alle Monster.(END)
+
+[>Pointer 1175<]
+DAS nenne ich eine Jahrtausendfeier.(END)
+
+[>Pointer 1176<]
+Niemand hätte vermutet, daß der(A)
+Kanzler ein Ungeheuer wäre...(END)
+
+[>Pointer 1177<]
+Der König fühlt sich endlich besser.(END)
+
+[>Pointer 1178<]
+Schön zu hören...!(END)
+
+[>Pointer 1179<]
+Los jetzt!!(END)
+
+[>Pointer 1180<]
+Wir verdanken euch so viel!(A)
+Eßt, so viel ihr wollt.(END)
+
+[>Pointer 1181<]
+Bitte setzt euch hier hin.(END)
+
+[>Pointer 1182<]
+Was darf's sein?(AÜ)
+   Frisches Brot.(AÜ)
+   Kraftbraten.(AÜ)
+   Crono(2) Spezial.(END)
+
+[>Pointer 1183<]
+Kommt sofort.(END)
+
+[>Pointer 1184<]
+Eine gute Wahl.(A)
+Dieses Gericht ist nach einem Helden(A)
+von früher benannt.(END)
+
+[>Pointer 1185<]
+Bitte sehr.(END)
+
+[>Pointer 1186<]
+(AÜ)
+   MP wiederhergestellt!(END)
+
+[>Pointer 1187<]
+(AÜ)
+   LP wiederhergestellt!(END)
+
+[>Pointer 1188<]
+(AÜ)
+  LP/MP wiederhergestellt!(END)
+
+[>Pointer 1189<]
+König: Ich lasse dich aus dem(AÜ)
+Schloß, ABER...(KNÜ)
+...sei bitte vorsichtig.(AÜ)
+Paßt auf sie auf!(END)
+
+[>Pointer 1190<]
+Lucca: Klar, Sir!(END)
+
+[>Pointer 1191<]
+[Robo]: Zählt auf uns!(END)
+
+[>Pointer 1192<]
+Frog: In der Tat, Sir.(END)
+
+[>Pointer 1193<]
+Ayla: Du nicht sorgen!(AÜ)
+Ayla Marle beschützen!(END)
+
+[>Pointer 1194<]
+Jetzt bin ich dran...(END)
+
+[>Pointer 1195<]
+Marle: Melchior!(END)
+
+[>Pointer 1196<]
+Lucca: Melchior!(END)
+
+[>Pointer 1197<]
+[Robo]: Herr Melchior!(END)
+
+[>Pointer 1198<]
+Frog: Melchior!(END)
+
+[>Pointer 1199<]
+Ayla: Melchior!(END)
+
+[>Pointer 1200<]
+Melchior: Ist noch Platz für mich auf(AÜ)
+der Bühne? Ich würde aus der(AÜ)
+Regenbogenmuschel gerne ein paar(AÜ)
+Waffen machen.(KNÜ)
+Endlich Arbeit.(AÜ)
+Seht und lernt!(END)
+
+[>Pointer 1201<]
+(AÜ)
+ Durch mysteriöse Kraft versiegelt...(END)
+
+[>Pointer 1202<]
+Durch Reaktion auf das Amulett(A)
+leuchtet etwas darin. Nehmen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 1203<]
+(AÜ)
+   Rote Weste wurde stärker!(AÜ)
+   Rote Rüstung erhalten!(END)
+
+
+[>DUMP END<]----------------------------------------------------------

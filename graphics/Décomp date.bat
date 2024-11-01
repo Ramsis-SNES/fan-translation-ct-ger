@@ -1,0 +1,1 @@
+decomp.exe Chrono.swc ctdate.bin 5DC88 12 0

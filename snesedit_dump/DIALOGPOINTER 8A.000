@@ -1,0 +1,456 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 8A]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003F5B0Ah]
+Size  [000011C2h][00001CD8h][2]
+pStart[003F5A60h]
+pFirst[590Ah-85]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Willkommen in Enhasa, im magischen(A)
+Königreich des Eifers.(KN)
+Wir finden Wahrheit in der Seligkeit(A)
+des Schlafs.(KN)
+Du meine Güte!(A)
+Und wer seid Ihr?(END)
+
+[>Pointer 2<]
+Dies ist das ewige Königreich(A)
+des Eifers, wo Träume wahr werden(A)
+können.(KN)
+Aber zu welchem Preis?(END)
+
+[>Pointer 3<]
+Bin ich eine Katze, die träumt,(A)
+eine Violine zu sein...(KN)
+...oder eine Käsekugel, die träumt,(A)
+sie wäre ein Schmetterling?(A)
+Denkt niemals, alles, was wir sehen(A)
+und fühlen, wäre real!(END)
+
+[>Pointer 4<]
+Ich bin Doriane.(A)
+Sucht den versteckten Pfad und öffnet(A)
+die Türen des Wissens, eine nach(A)
+der anderen.(END)
+
+[>Pointer 5<]
+Willkommen!(END)
+
+[>Pointer 6<]
+Die Königin hat Elementarwaffen(A)
+im Nordpalast versteckt, dessen(A)
+Eingang auf dem nördlichen Kontinent(A)
+zu sehen ist. Niemand darf hinein.(END)
+
+[>Pointer 7<]
+Das Tor zum Nordpalast ist magisch(A)
+versiegelt. Nicht einmal wir, die(A)
+Erleuchteten, können es öffnen.(END)
+
+[>Pointer 8<]
+Seid willkommen, seltsame Besucher!(A)
+Königin Eifer regiert dieses(A)
+magische Reich. Ihre Schönheit und(A)
+Größe suchen ihresgleichen.(END)
+
+[>Pointer 9<]
+Wir verdanken alles der Königin!(A)
+Seit des Königs Tod huldigt sie der(A)
+Magie, die uns Fortschritt brachte.(A)
+Zzzz...(END)
+
+[>Pointer 10<]
+Das Schloß ist im Zentrum des(A)
+Reiches. Die Königin beschützt von(A)
+dort aus die ganze Welt, so(A)
+daß wir ruhig schlafen können.(KN)
+Gähn...(END)
+
+[>Pointer 11<]
+Im Schloß muß es einen Schlüssel zum(A)
+Nordpalast geben...(A)
+Es ist aber streng verboten, da(A)
+hineinzugehen.(END)
+
+[>Pointer 12<]
+Glaubst du an das Schicksal?(A)
+Und daß alles vorherbestimmt ist?(END)
+
+[>Pointer 13<]
+Na?(AÜ)
+   Natürlich.(AÜ)
+   Schwachsinn.(AÜ)
+   Dafür habe ich keine Zeit!(END)
+
+[>Pointer 14<]
+So!(A)
+Du glaubst daran!(KN)
+Ja, es ist sinnlos, unser Schicksal(A)
+zu bekämpfen!(END)
+
+[>Pointer 15<]
+Genau!(A)
+Wir selber bestimmen unser Schicksal.(KN)
+Übrigens...(A)
+Ich glaube, ganz in der Nähe hat's(A)
+eine regelrechte Schicksalspforte...!(END)
+
+[>Pointer 16<]
+......(END)
+
+[>Pointer 17<]
+Die Stadt der magischen Studien,(A)
+Kajar, liegt am Rande des zentralen(A)
+Kontinents.(KN)
+Das Luftschiff "Düstervogel'' liegt(A)
+dort vor Anker.(A)
+Zzz...(END)
+
+[>Pointer 18<]
+Zzz....zzz....(A)
+Träume bringen Wahrheit...(A)
+Kräutertee...zzz...(A)
+Kristalle...zzz...(END)
+
+[>Pointer 19<]
+Dies ist Tiefsteinwasser!(A)
+Es erfrischt Leib und Seele.(END)
+
+[>Pointer 20<]
+Junge: ......(END)
+
+[>Pointer 21<]
+Marle: Was ist mit dem los?(AÜ)
+Seltsames Kind...(END)
+
+[>Pointer 22<]
+Lucca: Hey, hast du ein(AÜ)
+Problem? Rede mit uns!(END)
+
+[>Pointer 23<]
+[Robo]: Kann ich dir helfen?(END)
+
+[>Pointer 24<]
+Frog: Ein verdrossener Knabe...(END)
+
+[>Pointer 25<]
+Ayla: Du nicht sprechen?(AÜ)
+Katze lecker aussehen!(END)
+
+[>Pointer 26<]
+Junge: Der schwarze Wind heult...(END)
+
+[>Pointer 27<]
+Junge: Einer von Euch...(AÜ)
+...wird bald umkommen.(END)
+
+[>Pointer 28<]
+Marle: Bitte!?(AÜ)
+Einfach so, aus heiterem Himmel?(END)
+
+[>Pointer 29<]
+Lucca: H...hey!(AÜ)
+Erklär das mal!(END)
+
+[>Pointer 30<]
+[Robo]: Ist das wahr?(AÜ)
+Wie hoch ist die Wahrscheinlichkeit?(END)
+
+[>Pointer 31<]
+Frog: Du Racker!(AÜ)
+Halt!(END)
+
+[>Pointer 32<]
+Ayla: ???(END)
+
+[>Pointer 33<]
+Marle: Crono...(AÜ)
+Das ist irgendwie unheimlich.(END)
+
+[>Pointer 34<]
+Lucca: Sicher nur ein(AÜ)
+schlechter Witz...und keinesfalls(AÜ)
+empirisch nachweisbar!(END)
+
+[>Pointer 35<]
+[Robo]: Warum hat er das gesagt?(END)
+
+[>Pointer 36<]
+Frog: Mich dünkt...diesmal(AÜ)
+gar nichts.(AÜ)
+Welch unerfreulicher Knabe.(END)
+
+[>Pointer 37<]
+Ayla: Junge komisch...(AÜ)
+Aber nicht böse.(END)
+
+[>Pointer 38<]
+Der Guru der Vernunft ist fort.(A)
+Kämpfen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 39<]
+Okay, also los.(END)
+
+[>Pointer 40<]
+Oh, okay...(END)
+
+[>Pointer 41<]
+Ihr seid stark!(A)
+Hier.(END)
+
+[>Pointer 42<]
+Schwächlinge!(A)
+Nu...(END)
+
+[>Pointer 43<]
+(AÜ)
+       1[mal] Magiepille erhalten!(KN)
+(AÜ)
+       1[mal] Hastpille erhalten!(KN)
+Nu......(END)
+
+[>Pointer 44<]
+"Das Geheimnis des Lebens''(A)
+Band 841, Kap. 26(KN)
+"Alles Leben beginnt mit Nu und endet(A)
+mit Nu...''(KN)
+Das ist die Wahrheit!(A)
+Das ist meine Überzeugung!(A)
+(Zumindest im Moment.)(END)
+
+[>Pointer 45<]
+......(KN)
+......(END)
+
+[>Pointer 46<]
+Ich habe Magnetschilde, darf sie(A)
+ohne die Einwilligung der Königin aber(A)
+nicht verkaufen.(END)
+
+[>Pointer 47<]
+......(KN)
+Ist dies Schalas Amulett?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 48<]
+......(KN)
+Ich hasse Lügner.(END)
+
+[>Pointer 49<]
+......(KN)
+Willkommen.(END)
+
+[>Pointer 50<]
+Bis demnächst.(END)
+
+[>Pointer 51<]
+Der Seepalast liegt tief unter dem(A)
+Ozean. Er ist ein Machtsymbol der(A)
+Königin!(KN)
+Der Palast ist die Quelle des(A)
+Lichts, welches Leben spendet.(A)
+Lang lebe Königin Eifer!(END)
+
+[>Pointer 52<]
+Die Erbauung des Seepalastes(A)
+verzögert sich.(KN)
+Ein ewiger Palast unter den Wellen...(A)
+Ein großartiger Anblick, wenn er(A)
+fertig ist!(END)
+
+[>Pointer 53<]
+Die Erdgebundenen dürfen beim Bau(A)
+des Seepalastes mithelfen.(KN)
+Sie sind also doch zu etwas nütze.(END)
+
+[>Pointer 54<]
+Der Palast ist fertig. Dies(A)
+läutet eine neue Ära unseres ewigen(A)
+Königreiches ein!(END)
+
+[>Pointer 55<]
+Dies ist die magische Stadt Kajar.(A)
+Wir führen Experimente für die Königin(A)
+durch.(END)
+
+[>Pointer 56<]
+Ihr habt eine besondere Aura.(A)
+Verfügt auch Ihr über Magie?(KN)
+Oh, sie ist wohl primitiver(A)
+als unsere. Ihr armen Wesen!(END)
+
+[>Pointer 57<]
+Diejenigen ohne magische(A)
+Begabung, die "Erdgebundenen'',(A)
+haben immer unter den Wolken gelebt.(A)
+Pech für sie...(END)
+
+[>Pointer 58<]
+Wie kamen wir zu unseren Fähigkeiten?(KN)
+Und warum fehlen sie anderen?(A)
+Wen kümmert's!(END)
+
+[>Pointer 59<]
+Dauernd läuft einem in letzter(A)
+Zeit Janus über den Weg. Er ist(A)
+ruhelos.(END)
+
+[>Pointer 60<]
+Abgesehen von seiner Schwester ist(A)
+sein einziger Freund diese dumme(A)
+Katze.(KN)
+Welch Sturm tobt in seinem(A)
+Kopf?(END)
+
+[>Pointer 61<]
+Die Gurus des Lebens, der Zeit und(A)
+der Vernunft leben hier.(A)
+Sie sind wahre Meister.(END)
+
+[>Pointer 62<]
+Unser Fortschritt ist einer neuen(A)
+Energiequelle zu verdanken, deren(A)
+Macht die der Elemente übersteigt.(END)
+
+[>Pointer 63<]
+Eure Kraft ist anders...(KN)
+Eine seltsame Aura der(A)
+Freundlichkeit umgibt Euch...(END)
+
+[>Pointer 64<]
+Ich arbeite an einer Tablette zur(A)
+Verstärkung magischer Kräfte.(KN)
+Aber meine wertvollen Produkte(A)
+verschwinden in letzter Zeit...(A)
+War wohl eines von den Nus, das(A)
+wäre typisch. Nichts zu machen.(END)
+
+[>Pointer 65<]
+Ups, diese ist nichts geworden.(KN)
+Dumm, nicht?(A)
+Hahaha.(END)
+
+[>Pointer 66<]
+Ein seltsamer Prophet kam in(A)
+den Palast.(KN)
+Ich weiß nichts Genaues...aber(A)
+er soll unheimliche Kräfte besitzen.(END)
+
+[>Pointer 67<]
+Tatsächlich!(A)
+Das große Flugschiff "Düstervogel'',(A)
+das Balthasar gebaut hat.(KN)
+In der Luft sieht es fast lebendig(A)
+aus! Balthasar ist wahrlich ein Genie!(END)
+
+[>Pointer 68<]
+Königin Eifer hat zwei Erben:(A)
+Schala und Janus.(KN)
+Schala ist ein höchst sensibles(A)
+Mädchen mit außergewöhnlichen(A)
+magischen Kräften.(KN)
+Durch diese Begabung wird sie ihr(A)
+Leben spielend meistern.(END)
+
+[>Pointer 69<]
+Schalas Kräfte sollen die ihrer(A)
+Mutter bei weitem übersteigen.(KN)
+Dann gibt es noch ihren Stiefbruder(A)
+Janus. Er ist von königlichem Blut,(A)
+besitzt aber keinen Funken Magie.(END)
+
+[>Pointer 70<]
+Auf dem südlichen Kontinent seht Ihr(A)
+den Sonnendom. Ein Solstein, einst(A)
+Kraftquelle dieser Welt, befand(A)
+sich dort.(KN)
+Aber als wir begannen, unsere neue(A)
+Energiequelle zu nutzen, wurde er(A)
+versiegelt, genau wie der Nordpalast.(KN)
+Sie sagen, wir brauchen die Energie(A)
+dieses alten, müden Planeten nicht.(END)
+
+[>Pointer 71<]
+Ein Guru sagte mir einst, ein Solstein(A)
+könne die fast unerschöpfliche(A)
+Energie unserer Sonne speichern.(KN)
+Werde er aber verbraucht, so(A)
+verliere er seinen Glanz und(A)
+verwandele sich in einen Mondstein.(END)
+
+[>Pointer 72<]
+Wußtet Ihr, daß ein Solstein mittels(A)
+Sonnenlicht wieder aufgeladen(A)
+werden kann?(KN)
+Aber das dauert Äonen, so daß wir(A)
+diesen Glanz wohl nie wieder(A)
+bestaunen dürfen...(END)
+
+[>Pointer 73<]
+Kratz, kratz...(END)
+
+[>Pointer 74<]
+Oooh...(END)
+
+[>Pointer 75<]
+Puh...!(END)
+
+[>Pointer 76<]
+Tihihi...!(END)
+
+[>Pointer 77<]
+......(END)
+
+[>Pointer 78<]
+Wasser beschwört Wind...(A)
+...Wind läßt Feuer tanzen.(END)
+
+[>Pointer 79<]
+(AÜ)
+   Etwas Seltsames gefunden!(END)
+
+[>Pointer 80<]
+(AÜ)
+  Aber ein "Schwarzstein'' ist darin!(END)
+
+[>Pointer 81<]
+Es fing damit an, daß unsere(A)
+Vorfahren den Splitter eines(A)
+seltsamen roten Steines aufhoben...(KN)
+Seine jenseits menschlichen Ermessens(A)
+liegende Macht erschuf Träume...(A)
+...und auch Liebe und Haß.(KN)
+Wie das wohl alles enden wird?(END)
+
+[>Pointer 82<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 83<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 84<]
+Werden Solstein und Regenbogenmuschel(A)
+kombiniert, können unglaubliche Waffen(A)
+und Objekte hergestellt werden.(KN)
+Aber heutzutage hat nur der Guru(A)
+des Lebens diese Fähigkeit.(A)
+Elementarmacht ist verboten...(END)
+
+[>Pointer 85<]
+Ah!(A)
+Pflanzen sind so genügsam.(A)
+Ich wünschte, ich wäre es auch.(END)
+
+
+[>DUMP END<]----------------------------------------------------------

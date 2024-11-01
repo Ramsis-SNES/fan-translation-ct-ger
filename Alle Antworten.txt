@@ -1,0 +1,503 @@
+                   @@                                              ___________________________
+                ,W@WW
+                  :+*,                                             CHRONO TRIGGER (SNES)
+                ,.*,                                               Deutsche Übersetzung von
+             ,  ,                                                  ManuLöwe (Manuel Charisius)
+          , ,  ++    .                                             Version 2.00 final
+         ,: ,  ,***W*W,                                            © 2003-2012
+           *,.*****W##*                                            ___________________________
+          # #@+@**@#W##, ,,, ,.:,     ,:,   ,,,  ,,  ,,.,, ,
+      ,: : WWWW*#*#@#WW*  +* *+*+: ,.***@*. ##* ,##,##**#*,
+        @,WWWWW*      WW  @+ *#,*# ,**, ,@#,###,,####*,,+*#
+        ,@@@+*        *W ,@# **,** +#,   ,######,####,,  ,#*
+    ,  @,@+*+,      , +WW*W+ @@+#* @@     ######,###+    ,##
+     + ,#W#+,         ++##W* W@*** @@     *###,######,   ,##
+      , WWW:      ,   ++ ,@W WW,.#W@@+,  .**#* +###**,   ##:
+      *,WW@,          +#, #+,+#  @@ @****#*,## ,##*,**#**#*,
+ W..  +,@@++      ,:,,W@ ,*# ++  @*,,++##*, #*  .#* ,#****
+,WWWW.+++#W ,,,,,,@W, ,, , , ,,  , ,        ,        ,, ,
+ @    +.@#++,,,,, .+        ,*,,,,,,,,                    ,,
+   ,  + WW@       ,+,,,.*###**#,*###*#*#,   +,,,     , ,                            ,   ,#WW+  ,
+     ,  +WWW    **##***####,    ,###   :##,  +##,  ,,@@#@@@. , , ,            ,   ..+WWWWWWWWWW
+     +  *WW@     ,**    *###,,  ,,###   ###, ,##@   #@@,,  , ,@@@@@@#        ,#WW@ WWWW     WWW
+      ,#,W+W*  ,  ,+,    ,###,,   ,######@##   #@@  @@,   ,  @@@.,  #  ,@@@@W@WW@@@ :WWW   +WWWWWWWW@
+         #W*W*,   ,+      ,###,    ,###+####,,  ##* #@@  ,,,,@@,         @WW          WWWWWWW@,    @WW
+        *,*WWWW, ,,,,,*    ,###*,   ,##.  ,:##.  #@:,@@,,,,@@@@,   ,, , , @@W     ,,  ,WWWW
+       .,,,WW##WWW:@*#@      +*##,   ,##,    :@#,,@@,:@@: ,  ,@@ ,,+@@@@@@ WWWWW@WWW@  ,*WWWW
+         ,.,@WWWWW++#**      ,#****  ,##*:    ,##: @@,,@@@,,   *@,,     #@W,@WWW  ,  ,  , WWWWW#
+         , : .W@WW+++#@,      ,          ,     ,,,,,#@. :##@@@##@@@.     @W@,WWW#,   , *WW :W.
+           ,, +,@@*+W@                                      ,..., ,@@@@*+#WWW,WWWW*@WWWWW*,
+           . ,,:,,,.,.                                             ,,, :#@#:  .WW@+,,
+             :    ,,
+            ,,, ,*+,
+                  :.#
+                 W WW
+                 +@WW
+                 , .,,
+
+
+
+Hinweis: Bitte den automatischen Zeilenumbruch aktivieren!
+
+
+INHALT MIT SUCHCODES:
+  [1hal] Hallo zusammen!
+  [2ver] Versionsgeschichte
+  [3dsp] Das Spiel
+  [4tra] Die Übersetzung
+  [5pat] Patchen des ROMs
+  [6zst] Zu guter Letzt
+  [7dnk] Danksagungen
+  [8rhi] Rechtliche Hinweise
+
+
+
+H   H                        [1hal]
+H H H
+H   H  A L L O    Z U S A M M E N !
+
+
+Chrono Trigger in deutscher Sprache?
+
+Was ist überhaupt "Chrono Trigger"? ;-)
+
+Chrono Trigger ist fraglos eines der besten Rollenspiele, ja vielleicht einer der besten Titel überhaupt, die je für das Super Nintendo erschienen sind. Das Spiel kam erstmals 1995 in Japan und den USA auf den Markt, 1999 und 2001 folgten Umsetzungen für die Sony Playstation. Erst mit knapp 14jähriger Verspätung schaffte es das Spiel zu uns nach Europa: Am 6. Februar 2009 erschien es erstmals hierzulande auf dem Nintendo DS. Eine deutsche Lokalisierung dieser Version hielt Square Enix jedoch anscheinend für unnötig - weshalb (vom Release der iOS-Portierung Ende 2011 abgesehen) noch immer keine offizielle deutschsprachige Ausgabe vorliegt.
+
+Meine Übersetzung richtet sich an diejenigen unter Euch, die dieses Spiel lieber in ihrer Muttersprache spielen möchten, wie auch an jene, die es schon kennen und schätzen - und wie ich bedauern, daß es nie in deutscher Lokalisierung das Licht des Videospiel-Marktes erblickt hat. Nicht zuletzt ist meine Übersetzung natürlich allen Super-Nintendo-Fans da draußen gewidmet. :-)
+
+Chrono Trigger also in deutscher Sprache - wie soll das gehen? Weiter unten wird beschrieben, wie der beiliegende Übersetzungspatch zu benutzen ist. Bitte lest Euch den folgenden Text bei Gelegenheit durch, insbesondere wenn Ihr vorhaben solltet, mir Fehler, Verbesserungsvorschläge, Fragen und dergleichen zu mailen.
+
+In diesem Sinne wünsche ich Euch viel Spaß mit der Übersetzung!
+
+Haftungsausschluß (bitte beachtet hierzu auch die rechtlichen Hinweise am Ende dieser Datei): Es sei hiermit ausdrücklich betont, daß ich diesen Übersetzungspatch vollständig aus freien Stücken angefertigt habe und er weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben wurde. Er ist daher nicht offiziell. Ich übernehme des weiteren keinerlei Haftung für Schäden, die Euch durch die Benutzung dieses Patches entstehen mögen. Für solche Schäden seid Ihr als Nutzer vollständig selbst verantwortlich und akzeptiert dies mit der Inbetriebnahme des Patches.
+
+
+
+V   V                           [2ver]
+ V V
+  V  E R S I O N S G E S C H I C H T E
+
+
+Neuerungen in v2.00 final vom 20.05.2012
+----------------------------------------
+
+Hinweis: AM SPIELTEXT WURDE NICHTS VERÄNDERT! Habt Ihr bereits ein gepatchtes ROM der Version 2.00 RC1, könnt Ihr dieses bedenkenlos weiterverwenden, es ist kein Update nötig.
+
+- byuu hat UPS mehr oder weniger beerdigt, und wer weiß, wie lang bzw. kurz er am Nachfolger BPS festhalten wird. Deshalb bin ich auf ein völlig anderes, verläßliches Patch-Format umgestiegen: xdelta3. Eine Schritt-für-Schritt-Anleitung des Patchvorgangs mit Link zum passenden Tool findet Ihr in der entsprechenden Rubrik weiter unten.
+
+- Dies wird aller Wahrscheinlichkeit nach die letzte, finale Version meiner Chrono-Trigger-Übersetzung sein. Euch jedenfalls viel Spaß damit! :-)
+
+
+Neuerungen in v2.00 RC1 vom 24.12.2009
+--------------------------------------
+
+!!! Hinweis: DIESES RELEASE IST EINE BETA-VERSION (RC1 = Release Candidate 1) !!!
+Durch die neue Arbeitsweise mittels Skript-Dump haben sich möglicherweise trotz umfangreicher Tests neue, unvorhersehbare Fehler - evtl. auch gravierender Art - eingeschlichen. Diese werden ggf. beseitigt, woraufhin die Version 2.00 FINAL erscheinen wird. Wer kein Risiko eingehen möchte, sollte deshalb vorerst zur alten v1.02 greifen.
+Des weiteren weise ich ausdrücklich darauf hin, daß sog. Savestates (also z. B. ZS*- und BS*-Dateien), die mit älteren Versionen meiner Übersetzung erstellt werden, mit dieser Version u. U. nicht kompatibel sind - insbesondere wenn sie erstellt wurden, während gerade ein Dialogfeld oder das Menü angezeigt wurde. Normale Spielstände (SRM-Dateien) sollten sich dagegen problemlos weiterverwenden lassen.
+
+- Das Wichtigste und Beste zuerst: die komplette Skript-Revision! Das gesamte deutschsprachige Skript (fast 450 KB) wurde aus dem bisherigen Arbeits-ROM gedumpt und in wochenlanger Arbeit auf inhaltliche Schwächen bezüglich Logik und Kontinuität, sprachliche Inkonsequenzen, Formulierungsunschärfen, stilistische/idiomatische Mängel, Rechtschreib- und Tippfehler u. v. m. hin abgeklopft, wo nötig korrigiert und zu weiten Teilen völlig neugeschrieben. In vielen Zweifelsfällen wurden die englischen und sogar die japanischen Originaltexte zu Rate gezogen, um jede Information im Deutschen so sinnreich (und idiomatisch) wie möglich wiederzugeben. Zu guter Letzt wurden fast alle Zeilenumbrüche neu gesetzt, damit längere Eigennamen beim Textrendering keine Fehler verursachen. Somit hoffe ich, Euch in den Genuß des besten deutschsprachigen Chrono Trigger überhaupt bringen zu können! :-))
+
+- Verbleibende Text-Bugs aus dem US-Original und einige von mir zwangsläufig ins Deutsche übernommene Übersetzungsfehler, die sich bereits in die englischen Texte eingeschlichen hatten, wurden ausgemerzt. So behauptet beispielsweise die Verkäuferin auf der Jahrtausendfeier nun nicht mehr, daß sie Feste haßt, sondern korrekterweise genau das Gegenteil. ;-) Auch wird klarer, was mit Balthasar passiert ist, nachdem er die "Flügel der Zeit" gebaut hat. Wohlgemerkt: Einige "Fehler" dieser Art habe ich belassen, weil dahinter in Einzelfällen durchaus eine Absicht zu erkennen war oder weil sich daraus erst eine gewisse Situationskomik ergab (z. B. wenn Nizbel vor dem Kampf proklamiert: "Hier wurde der große Nizbel besiegt!").
+
+- Sämtliche Beschreibungen der Techs, Magien usw. wurden auf ihre Stimmigkeit hin überprüft und ggf. verbessert. Erstmals wurden die beiden - auch im Original fehlenden - Beschreibungen der Zusatzobjekte "Mag.Siegel" und "KrftSiegel" ergänzt!
+
+- Einige lokalisierungstechnische Feinheiten sind hinzugekommen, wie z. B. deutsche typographische Anführungszeichen (siehe http://de.wikipedia.org/wiki/Anf%C3%BChrungszeichen#Deutschland_und_.C3.96sterreich), ein eigenes Malzeichen sowie Verbesserungen an den Umlauten und am ß-Zeichen.
+
+- Die ATB-Kampfmodus-Grafik (zu sehen, wenn man ein neues Spiel beginnt) wurde komplett neugestaltet.
+
+- Der Patch wird nur noch im UPS-Format angeboten, um Probleme mit falschen/defekten ROMs zu vermeiden. Wie man UPS-Patches anwendet, wird weiter unten in diesem Dokument in ausführlichen Schritt-für-Schritt-Anleitungen erläutert.
+
+- Auch dieses Readme wurde erweitert und auf den neuesten Stand gebracht. Die Versionsgeschichte sollte nunmehr komplett sein. Ganz neu ist die weiter unten zu findende Rubrik DAS SPIEL, in der nicht nur Plot und Hauptfiguren vorgestellt werden, sondern auch einige undokumentierte Knopfbelegungen aufgelistet sind.
+
+
+Neuerungen in v1.02 vom 28.04.2008
+----------------------------------
+
+- Einen Tippfehler in der Beschreibung der Rüstung "PrismaAnzg" entfernt, außerdem eine Dialogpassage von Lucca korrigiert ("Wir kriegenau Interferenzen ..."). Ein Dankeschön geht jeweils an Damien und an Rashka!
+
+- Ein paar üble defekte Bytes aufgespürt, die bereits in dem ROM korrumpiert waren, mit dem ich die Übersetzung damals begonnen hatte. Da sie auch in meinem Original-ROM vorhanden waren, wirkte sich dies zum Glück nicht auf den Patch aus (bei Anwendung des Patches auf ein intaktes ROM blieben die fraglichen Bytes auch intakt). Allerdings sollte nun das Problem der "bad checksum" endlich und ein für allemal gelöst sein. Ein Dank geht an aufgeweckte Zeitgenossen wie Svambo (und andere, deren Namen mir jetzt nicht mehr einfallen), die mich hartnäckig auf das Problem aufmerksam gemacht und mich damit der Lösung auf die Spur gebracht haben! :-)
+
+- Erstmals biete ich den Patch sowohl - wie gewohnt - als IPS-File als auch im neuen, von byuu entwickelten UPS-Format an. (Ihr solltet natürlich nur *einen* der beiden Patches auf Euer ROM anwenden!) Mehr zum Thema ROM-Patching mit IPS und UPS findet Ihr weiter unten.
+
+- Außerdem habe ich dieses Dokument komplett neugestaltet. Yay. :-)
+
+
+Neuerungen in v1.01 vom 05.07.2004
+----------------------------------
+
+- Neu in dieser Version - die nun heute, genau ein Jahr nach Erscheinen der ersten 100%-Beta, herauskommt - sind ein paar kleinere Korrekturen sowie einige beseitigte Schönheitsfehler. Außerdem habe ich die beiliegende Textdatei, die Ihr gerade lest, aktualisiert und verbessert.
+
+
+Neuerungen in v1.00 vom 30.11.2003
+----------------------------------
+
+- Ich release hiermit den Übersetzungspatch v1.00 mit übersetzten Credits! Tausend Dank an Syne für die Unterstützung bei der (De-)Kompression von Vor- und Abspann!
+
+
+Features des Patches in v1.0b vom 05.07.2003
+--------------------------------------------
+
+- Der Text wird komplett ins Deutsche übersetzt, inklusive aller Items und deren Beschreibungen, Gegner usw.
+
+- Alle grafischen Elemente werden übersetzt. Dank an Neo Mithrandil für die überaus freundliche und kompetente Hilfe!!! :-)
+
+- Die Schriftzüge "Item" im Kampf, der (unkomprimierte) Abspann sowie einige weitere kleine, aber böse versteckte Elemente werden übersetzt. Ein Extra-Dank geht jeweils an Neo Mithrandil und Vindicare!
+
+
+
+D D            [3dsp]
+D  D
+D D  A S    S P I E L
+
+
+Vorab eine (nicht ganz wörtliche) Übersetzung des Werbetextes auf der Rückseite der amerikanischen Originalverpackung:
+
+"Das 32-Meg-Abenteuer beginnt.
+Das Millennium. Ein Portal öffnet sich. Der Fluß der Zeit wird durchbrochen. Ein junger Mann wird in die Vergangenheit zurückversetzt. Als er versucht, nach Hause zurückzukehren, verändert er den Lauf der Geschichte und damit seine eigene Zukunft. Er muß die entlegensten Epochen aufsuchen, um die Chronologie seiner Welt wiederherzustellen.
+Auf seiner Suche trifft er auf die seltsamsten Freunde und Feinde, auf unglaubliche Maschinen und Luftschiffe. Er kämpft sich durch Höhlen, Schlösser und Fabriken der Vergangenheit, Gegenwart und Zukunft. Wenn er das Paradoxon nicht löst und den Fluß der Zeit nicht wiederherstellt, wird nichts wieder so sein, wie es einmal war.
+Er ist derjenige, der zum Helden bestimmt ist.
+Sein Name ist Crono.
+
+* Von den Schöpfern der beliebten Final-Fantasy-Serie
+* Figurendesign von Akira Toriyama"
+
+
+Ein paar augenzwinkernde Worte zu den Hauptfiguren:
+
+CRONO
+Der 17jährige Crono ist der Protagonist des Spiels. Ihn werdet Ihr die meiste Zeit über steuern, daher spricht er auch selbst (bis auf eine einzige Ausnahme) kein Wort. Er ist ein ziemlich guter Schwertkämpfer und lernt außerdem später diverse Blitzzauber (magisches Element: "Gewitter"). Natürlich ist er dazu ausersehen, die Welt zu retten, aber ... wird er es schaffen?
+
+MARLE
+Marle ist keineswegs das einfache Mädchen, als das sie sich zunächst ausgibt. Die Geschichte ihrer Familie ist kompliziert und schicksalsträchtig; nur Ihr könnt sie zu einem guten Ende bringen. Ihre Waffe ist der Bogen, später lernt sie außerdem ganz nette Eis- und Heilzauber (magisches Element: "Wasser").
+
+LUCCA
+Dieses Mädchen mit den enormen Brillengläsern ist Cronos beste Freundin (zumindest bis Marle auftaucht) und als solche gewissermaßen Helferin in der Not. Sie ist technisch äußerst begabt und schraubt immer mal wieder an verrückten eigenen Erfindungen herum. Außerdem lernt sie mit der Zeit sehr brauchbare Feuerzauber (magisches Element: "Feuer").
+
+FROG
+Eigentlich ist er ein Ritter des Königreichs Guardia aus dem Jahr 600 A.D. Derselbe böse Magier, der einst seinen besten Freund, Ritter Cyrus, getötet hat, verwandelte ihn in einen Frosch. Es könnte ziemlich lange dauern, bis Frog über sich hinauswächst und seinen Freund sozusagen rächen kann. Für ihn hält das Schicksal außerdem hilfreiche Wasser- und Heilzauber bereit (magisches Element: "Wasser").
+
+ROBO
+Dieser humanoide Roboter schließt sich der Truppe in einer Ruine des Jahres 2300 A.D. an, nachdem Lucca ihn mit ihrem technischen Sachverstand quasi wieder auferweckt hat. Er ist ein starker Kämpfer mit netten Laserwaffen und einer coolen Seriennummer. Und er scheint Gefühle zu haben. Doch ... was war und ist seine wahre Bestimmung?
+
+AYLA
+Sie ist der lebende Beweis dafür, daß es schon vor 65 Millionen Jahren starke Frauen gegeben hat. Als Anführerin des Ioka-Stammes muß sie ihre Leute vor den häßlichen Reptiten beschützen. Ob sie taff genug ist, das alleine hinzukriegen? Zum Glück taucht Crono zur rechten Zeit (nämlich 65000000 v.C.) auf und hilft ihr - natürlich weil er im Gegenzug etwas von ihr will. Ob das ihrem eigentlichen Macker namens Kino gefallen wird ...?
+
+MAGUS
+Zunächst scheint er ein Fiesling zu sein, der das Königreich Guardia des Jahres 600 A.D. überrennen will. Später stellt sich heraus, daß er aus einer ganz anderen Zeit stammt - und tatsächlich dieselben Ziele verfolgt wie der Rest der Truppe. Denn eigentlich geht es in diesem Spiel ja nicht um Familiengeschichten, Beziehungskisten, Gefühlsbefindlichkeiten oder wer wann welche Magie einsetzen kann. Sondern es geht um eine Instanz namens Lavos. Hinter der ist Magus her, mitsamt seiner schwarzen Magie (magisches Element: "Schatten") ...
+
+
+Kommen wir zur Steuerung. Die ist im Grunde recht simpel. (Vergeßt nicht, daß Ihr die Standard-Knopfbelegung im Optionsmenü ändern könnt!)
+
+Steuerkreuz:
+Damit steuert Ihr die Figuren, den Menü-Cursor, den Zeitkompaß und vieles mehr.
+
+START-Knopf:
+Pausiert das Spiel (funktioniert nicht auf dem Kartenbildschirm). Diese Pausenfunktion hat - neben der Möglichkeit, Kämpfe zu unterbrechen - eigentlich nur den Zweck, vorübergehend die Uhr im Menü anzuhalten, die Eure Spielzeit dokumentiert.
+
+SELECT-Knopf:
+Auf dem Kartenbildschirm kann damit eine Übersichtskarte aufgerufen werden.
+
+A-Knopf:
+Dies ist sozusagen der Aktionsknopf, den Ihr am meisten benutzen werdet. Damit könnt Ihr Leute ansprechen, Türen und Schatztruhen öffnen usw. Wird außerdem im Menü zum Bestätigen von Eingaben benutzt.
+
+B-Knopf:
+Erlaubt Euch zu rennen (funktioniert nicht auf dem Kartenbildschirm). Außerdem können damit das Menü bzw. die diversen Untermenüs geschlossen werden.
+
+X-Knopf:
+Öffnet das Menü.
+
+Y-Knopf:
+Sobald Ihr im Spiel das Zeitenende erreicht habt, könnt Ihr mit diesem Knopf Eure aktuellen Spielfiguren jederzeit auswechseln. Einzige Ausnahme: Wenn Ihr die Zeitmaschine benutzt (nachdem Ihr sie erhalten habt), öffnet er stattdessen den Zeitkompaß. Im Kampf und wenn Ihr mit Leuten sprecht, könnt Ihr mit Y des weiteren die Position der Textfelder vertauschen.
+
+L/R-Knopf:
+Drückt diese beiden Knöpfe zugleich, um aus Kämpfen zu fliehen. Einzeln kann man damit seitenweise durch Menü-Listen aller Art (Waffen, Rüstungen, Objekte usw.) scrollen sowie - genau wie mit dem Steuerkreuz - den Zeitkompaß steuern. Außerdem könnt Ihr mit L+R+START+SELECT (alle vier Knöpfe zugleich drücken) das Spiel jederzeit neustarten. Letzteres funktioniert nur an ganz wenigen Stellen nicht.
+
+
+Daneben gibt es noch ein paar undokumentierte Knopfbelegungen, die ich im folgenden (nach Spielsituation geordnet) auflisten möchte - ohne Anspruch auf Vollständigkeit:
+
+  * Sobald nach dem Spielstart das Pendel erscheint, könnt Ihr mit R oder L zwischen der Pendel- und der Intro-Sequenz hin- und herschalten.
+
+  * Wählt auf dem Ladebildschirm einen beliebigen der drei Spielstände an und drückt dann auf dem zweiten (!) Joypad START+SELECT gleichzeitig, um diesen Spielstand einzeln zu löschen. Vorher wird übrigens eine Sicherheitsabfrage eingeblendet.
+
+  * In allen Menü-Listen (Waffen, Rüstungen, Objekte usw., auch im Kampf) könnt Ihr den Y-Knopf gedrückt halten, um mit dem Cursor schneller die Richtung zu wechseln bzw. mittels Gedrückthalten des Steuerkreuzes nach oben oder unten verzögerungsfrei zu scrollen. Das klappt auch in Kombination mit dem seitenweisen Scrollen per R und L!
+
+  * In Kämpfen könnt Ihr mit dem X-Knopf sofort eine physische Attacke ausführen, egal an welcher Stelle des Aktionsmenüs der Cursor gerade steht. Voraussetzung hierfür ist allerdings, daß Ihr im Optionsmenü "Kampfcursor merken" aktiviert habt.
+
+  * Auf Speicherstellen könnt Ihr direkt A drücken, um den Speicherbildschirm ohne den Umweg über das Menü aufzurufen.
+
+  * Beim Düsenrennen könnt Ihr mit den Knöpfen A und X ein- bzw. auszoomen - und das unabhängig vom gewählten Rennmodus!
+
+
+
+D D                        [4tra]
+D  D
+D D  I E    Ü B E R S E T Z U N G
+
+
+Überblick über den Status der Übersetzung:
+
+--------------------------
+Dialogtexte:          100%
+Objekte, Techs etc.:  100%
+Beschreibungen ders.: 100%
+Menü & Sonstiges:     100%
+Skript-Revision:      100%
+Grafiken:             100%
+Vorspann:             100%
+Abspann:              100%
+--------------------------
+
+
+Wie Ihr seht, läßt meine Übersetzung keine Wünsche offen. Mit diesem Patch hoffe ich Euch hohe Qualität bieten zu können - höher noch als bei meiner Übersetzung von Final Fantasy III (US). Unter anderem deshalb habe ich bei Chrono Trigger mit dem ersten Release gewartet, bis der gesamte Text sowie die Grafiken eingedeutscht waren und ich außerdem mit Hilfe der Betatester möglichst alle Fehler und Unstimmigkeiten, die sich eingeschlichen hatten, beseitigen konnte.
+
+All dies dauerte für die Erstfassung rund drei Monate (Mitte März bis Mitte Juni 2003). Ich verfolgte einen anderen Ansatz als konkurrierende, damals ebenfalls an Chrono Trigger arbeitende Übersetzer - und setzte mir außerdem zum Ziel, möglichst kurzfristig fertig zu werden, um das Projekt nicht zu "verschleppen". Sechs Jahre später, mit reichlich Abstand, erfolgte dann eine komplette Überarbeitung nicht nur des Textes, sondern teilweise auch der Grafiken. Für die Version 2.00 nahm ich mir absichtlich viel Zeit, um Euch das beste deutsche Chrono Trigger aller Zeiten bieten zu können!
+
+Bereits während der Übersetzungsarbeit 2003, insbesondere aber während der Skript-Revision von 2009, habe ich mich sehr darum bemüht, einen Spieltext zu schreiben, den man sich auch gesprochen gut vorstellen kann und der sich den idiomatischen Gegebenheiten der Sprache, in der er geschrieben ist, weitgehend unterwirft. Dies nennt man eine eher kommunikative Übersetzung (im Gegensatz zur semantischen; siehe Peter Newmark, "A Textbook of Translation", New York, 1988); ich gehe allerdings noch einen Schritt weiter, indem ich meine Arbeit durchaus als Lokalisierung bezeichnen würde.
+
+Mein Hauptanliegen war und ist, eine verständliche, angemessene und vor allem fehlerfreie Übersetzung von Chrono Trigger zu schaffen. Große Bewunderung und Wertschätzung für das Spiel an sich waren mir dabei die beste Motivationsquelle.
+
+
+Im folgenden ein paar Worte zur Übersetzung als solcher. An sprachlichen Feinheiten weniger Interessierte dürfen diese gerne überspringen ...
+
+
+RECHTSCHREIBUNG:
+Die Übersetzung folgt – wie dieses Readme übrigens auch - den Regeln der traditionellen Rechtschreibung (gültig bis zur Reform von 1996). Der ebenso einfache wie naheliegende Grund hierfür ist, daß ein offizielles für den deutschen Sprachraum lokalisiertes Chrono Trigger für das SNES vermutlich 1996 oder 1997 erschienen und der Spieltext daher noch den alten Rechtschreibregeln gefolgt wäre. Somit verschafft Euch meine Übersetzung ein umso authentischeres Retro-Feeling. ;-)
+
+Wundert Euch also nicht, wenn Ihr ungewohnte Kommata (z. B. vor erweitertem Infinitiv mit "zu"), Schreibweisen wie "daß" und "Alptraum" oder andere Dinge findet, die Euch seltsam vorkommen. Habt Ihr einen Duden zur Hand (nicht neuer als 20. Auflage, 1991), solltet Ihr eventuelle "Fehler" darin verifizieren, bevor Ihr mich darauf aufmerksam macht.
+
+
+ANREDE:
+Wenn jemand mit "Ihr" (groß geschrieben) angesprochen wird, so ist das eine Höflichkeitsanrede, die sowohl für eine einzelne Person als auch für mehrere gilt. Wenn "ihr" dagegen klein geschrieben ist, so ist die ganz normale Mehrzahl gemeint, d. h. einzelne Personen der angesprochenen Gruppe würden geduzt werden.
+
+Beachtet dabei, daß sich die Hauptcharaktere im Laufe des Spieles besser kennenlernen und "Ihr" deshalb logischerweise zu "du"/"ihr" werden kann. Außerdem gibt es Stellen, an denen gewissen Figuren einfach der gehörige Respekt fehlt. Diese benutzen dann ggf. "du"/"ihr" anstatt des höflichen "Ihr". Außerdem gibt es auch den umgekehrten Fall, also wenn sich Figuren eigentlich duzen und aufgrund von Sarkasmus plötzlich eine unangebrachte Höflichkeitsanrede verwenden. Zudem gibt es an einigen wenigen Stellen die moderne, kühlere Höflichkeitsanrede mit "Sie".
+
+Achtet also auf die jeweilige Anredeform, und Ihr könnt die aktuelle "Stimmung" unter den Figuren auf sehr subtile Weise einschätzen. ;-)
+
+Die in früheren Versionen meiner Übersetzung verwendete Großschreibung der Personalpronomen bei direkter Anrede des Spielers (z. B. "Wenn Du das Menü aufrufst...") wurde übrigens verworfen, da in vielen Fällen Spieler und Spielfigur nicht eindeutig zu trennen sind (z. B. "Wenn du diesen Gegner hier anvisierst..."). Daher bin ich in diesen Fällen zur Kleinschreibung zurückgekehrt.
+
+
+INTERPUNKTION:
+Nach drei Punkten habe ich ein Leerzeichen eingefügt, wann immer ein neuer Satz beginnt. Kein Leerzeichen steht dagegen, wenn der alte Satz weitergeht.
+
+Beispiele:
+"Das...hatte ich ganz vergessen."
+"Es gibt einen Weg... Wir müssen in die Vergangenheit reisen."
+
+Will man einen Namen mit dem Genitiv (Besitzfall) markieren, so setzt man im Deutschen normalerweise kein Apostroph vor dem Genitiv-S (Beispiel: "ManuLöwes Übersetzung", also nicht: "ManuLöwe's Übersetzung"). Nun kann man bei Chrono Trigger die Charaktere jedoch umbenennen. Solltet Ihr einen Namen wählen, an dessen Ende beispielsweise ein S, X oder Z steht, würde ein angehängtes Genitiv-S sehr merkwürdig aussehen (z. B. "Alexs Freundin", "Lukass Katze").
+Aus diesem Grund habe ich zwischen den Namensvariablen und dem Genitiv-S IMMER ein Apostroph eingefügt. Das ist im Rahmen der traditionellen Rechtschreibregeln sogar zulässig, vorausgesetzt, man will einen Namen besonders hervorheben, was hier ja auch der Fall ist.
+Also heißt es im Spiel "Crono's Freundin", "Lucca's Vater", "Magus's Schloß" und so fort. (Gerade das letzte Beispiel wäre ohne Genitiv-S unrettbar falsch, wenn Ihr Magus beispielsweise in Wotan umbenannt hättet: "Wotan' Schloß"!)
+Bei den unveränderlichen Namen wie Azala, Kino, Schala usw. habe ich mir und Euch diese Krücke selbstverständlich erspart und analog dazu den Namen, die auf S enden, auch kein zusätzliches S nach dem Apostroph verpaßt (z. B. "Lavos' Macht").
+
+
+DIALOGE MIT AUSWAHL:
+Wenn dem Spieler eine Wahl angeboten wird, so habe ich nach den Wahlmöglichkeiten einen Punkt oder ein anderes Satzzeichen gesetzt, sofern die Wahl sozusagen als Antwort auf eine Frage o. ä. aufzufassen ist. Wenn sie dagegen eine Art Handlung ist, habe ich meistens kein Satzzeichen gesetzt.
+
+
+SPEZIELLES:
+Cronos Mutter hat im englischen Original keinen Namen. Ich habe allerdings ihren japanischen Originalnamen "Jena" wieder eingefügt, wenn man sie ohne Crono anspricht. Ist vielleicht nicht ganz konsequent - manchmal steht auch "Crono's Mama" da - aber wenigstens ein nettes Extra.
+
+Die Jahresangaben AD ("A.D.") und BC ("v.C.") bedeuten "Anno Domini" (Latein für "im Jahre des Herrn") und "before Christ" ("vor Christus"). Natürlich ist beides im Grunde unlogisch, da es in der Welt von Chrono Trigger, abgesehen von den Implikationen einer "Kathedrale" oder "Kapelle", keine sonstigen Hinweise auf eine christliche Religion gibt.
+
+
+MENÜ:
+Dieser Teil des Spiels (einschließlich der Objekte, Waffen usw.) stellte beim Übersetzen aufgrund des begrenzten Platzes mit die größte Herausforderung dar. Die einzelnen Statusangaben, die unterhalb der Ausrüstung jeder Figur angezeigt werden, sind deshalb evtl. nicht auf Anhieb verständlich und seien deshalb zusammen mit ihren englischen Originalen kurz erläutert. Für sie alle gilt: Je höher der Wert, desto besser. Ein Stern bedeutet, daß der maximale Wert erreicht ist.
+
+"ATK." (kurz für: Attacke) / "PWR." (kurz für: Power) - Aktuelle Angriffskraft Eurer Figur. Wird nur bei Nahkämpfern in die Gesamtstärke eingerechnet und kann maximal 99 betragen.
+
+"TRF" (kurz für: Treffer) / "HIT" - Fähigkeit, ein Ziel zu treffen. Wirkt sich nur bei Kämpfern mit Distanzwaffen (Marle, Lucca) auf die Gesamtstärke aus. Kann maximal 99 betragen.
+
+"MAG." (kurz für: Magie) / "MAG." (kurz für: Magic) - Stärke der Zauber bzw. Techs (Robo). Kann maximal 99 betragen.
+
+"M VRT." (kurz für: Magieverteidigung) / "M DEF." (kurz für: Magic Defense) - Aktueller Grad der Resistenz gegen magische Angriffe. Kann maximal 99 betragen. Dies würde bedeuten, 99% des Schadens einer Magieattacke werden geblockt.
+
+"GSW." (kurz für: Geschwindigkeit) / "SPD." (kurz für: Speed) - Bestimmt, wie viel Zeit vergeht, bis eine Figur nach einer Aktion wieder einsatzfähig ist. Kann maximal 16 betragen.
+
+"AW." (kurz für: Abwehr) / "EV." (kurz für: Evade) - Gibt an (in Prozent), wie vielen Angriffen ausgewichen werden kann. Kann maximal 99 betragen. Dies würde bedeuten, die betreffende Figur weicht 99% aller Angriffe aus.
+
+"AUSD." (kurz für: Ausdauer) / "STAM." (kurz für: Stamina) - Die Bezeichnung ist ein wenig irreführend: Je höher die Ausdauer einer Figur, desto mehr maximale LP bekommt sie, sobald sie aufgestuft wird. Kann maximal 99 betragen.
+
+"ERF" (kurz für: Erfahrung) / "EXP" (kurz für: Experience) - Aktuelle Menge der Erfahrungspunkte.
+
+"ST+1" (kurz für: Stufe + 1) / "NEXT" (gemeint ist: Next Level At) - Wie viele Erfahrungspunkte eine Figur noch erkämpfen muß, um aufgestuft zu werden.
+
+Im linken unteren Bereich des Menüs seht Ihr die Zeit, die Ihr mit dem Spiel bisher verbracht habt, sowie Euer Geld. "G" steht wohl für "Goldstücke"; eine Leerstelle zwischen der Zahl und dem "G" gibt es auch in den normalen Dialogen nicht.
+
+HP ("Hit Points") habe ich in LP ("Lebenspunkte") umbenannt, MP dagegen belassen ("Magic Points"/"Magiepunkte"). Diese Abkürzungen werden im Menü, in einigen Beschreibungen, im Kampf sowie zum Teil in den Dialogtexten verwendet.
+
+Bei den Objekten hoffe ich weitgehend selbsterklärende Namen gefunden zu haben. An dem kleinen Icon daneben könnt Ihr jeweils erkennen, um welche Art Waffe o. ä. es sich handelt. Ansonsten mußte ich die Namen zum Teil radikal stutzen, wobei ich mich darum bemüht habe, eine gewisse Kontinuität zu bewahren, d. h. eine "Rstg" ist immer eine Rüstung und ein "-schw." (am Wortende) ist natürlich ein Schwert. "Schw." am Wortanfang bedeutet dagegen immer "Schwarz/e/r/s ...".
+"-wst" o. ä. ist so gut wie immer eine Weste, "Ohrrg" ein Ohrring. Bei den Objekten steht "-schl." immer für "-schlüssel".
+
+
+UNÜBERSETZTES UND FEHLER:
+Im Original spuken leider zahllose Fehler (nicht nur) durch die Dialoge. Die meisten davon sind wenig gravierend und konnten bei der Übersetzung ausgebügelt werden, auch die inhaltlich relevanten. Allerdings gibt es darunter einige, die nicht behebbar waren bzw. Kompromisse erforderten.
+
+  * Aufgrund etwas längerer Kapitelnamen als im englischen Original kann es passieren, daß der Kapitelname des nachstehenden Spielstands beim Speichern vorübergehend leicht "beschnitten" wird. Dabei handelt es sich um einen reinen Schönheitsfehler ohne jede Auswirkung auf das Spiel oder Eure Speicherstände. (Dies ist übrigens das einzige Problem auf dieser Liste, das tatsächlich durch meine Übersetzung verursacht wird - alle anderen treten auch im Original auf!)
+
+  * Auf dem Speicher- und Ladebildschirm verschwinden manchmal die Namen der Orte, an denen ein bestimmter Spielstand erstellt wurde, insbesondere wenn Ihr "in Lavos" abgespeichert habt (normalerweise wird dann "???" als Ort angegeben). Außerdem kann ein Spielstand, der mit "Anfangen +" gestartet wurde, auf diesem Bildschirm in seltenen Fällen falsche Angaben zu Level, Status usw. der Charaktere aufweisen. All das sind jedoch ebenfalls reine Schönheitsfehler, die sich nicht auf die Integrität Eurer Spielstände auswirken (und zudem nur äußerst selten auftreten).
+
+  * Wenn Ihr einer Figur mit einem Namen von fünf Zeichen Länge (z. B. Crono oder Marle) einen Namen der Länge von vier Zeichen oder weniger gebt (z. B. Sam oder Anna), dann wird der Rest bis zur ursprünglichen Länge in allen Dialogen mit Leerzeichen aufgefüllt (z. B. würde anstatt "Sam!" im Spieltext "Sam  !" erscheinen), und zwar selbst dann, wenn Ihr die jeweils überzähligen Zeichen mit dem B-Knopf gelöscht habt. Abhilfe schafft ein einfacher Trick: Stellt die Differenz an Leerzeichen einfach dem Namen voran! Gebt also bei der Namenseingabe z. B. "  Sam" ein (mit zwei Leerzeichen vor dem S), und in den Dialogen wird nur "Sam" erscheinen.
+
+  * Wenn Ihr beim Düsenrennen gegen Johnny mehr als 2300 Punkte erreicht, so sagt Rx-xR, daß er Euch mit "5 Ether" belohnt, tatsächlich erhaltet Ihr aber fünf "Ether voll". Ist ja im Grunde kein schlechtes Geschäft. ;-) Leider läßt sich dieses Problem aus technischen Gründen nicht ohne weiteres im Dialogskript oder per verändertem Pointer korrigieren ... aber andererseits, versucht erstmal, 2300 Punkte zu schaffen! :-p Die Belohnungen bei allen anderen speziellen bzw. neuen Bestzeit-Punkteständen sind übrigens verifiziert und sollten korrekt erfolgen.
+
+  * Wenn man gegen Ende des Spiels (kurz vor den optionalen Subquests) mit Marle und noch jemand anderem außer Ayla im Jahr 1000 A.D. die Nordruinen betritt und gegen den unbesiegbaren Cyrus-Geist kämpft, so ist es wahrscheinlich, daß nach dem Kampf plötzlich Ayla redet, obwohl sie gar nicht Teil der aktuellen Gruppe ist. Auch dieses Problem konnte ich nicht einfach durch einen Pointer beseitigen, da sonst umgekehrt plötzlich Marle reden würde, wenn man zwar sie nicht in der Gruppe hat, aber Ayla. Ebenfalls kam nicht in Frage, die Variable für den Namen des ersten - oder irgendeines - Partymitglieds zu verwenden, weil ansonsten z. B. plötzlich Crono den Satz sagen würde, auch wenn er im Spiel sonst immer stumm bleibt. Deshalb habe ich sozusagen als Workaround einfach Aylas Namen vor der entsprechenden Äußerung ("Er ist wie Stein!") entfernt. Das mag nicht die eleganteste Lösung sein, aber wohl durchaus akzeptabel, zumal an vielen anderen Stellen im Spiel ebenfalls Kommentare ohne Sprecherzuweisung erscheinen (z. B. beim ersten Einsatz der Zeitmaschine).
+
+  * Der folgende Fehler taucht im Original sowohl in der "optimalen" Endsequenz mit Crono ("Beyond Time") als auch im Ending ohne ihn ("Reunion") auf; die Zeitmaschine muß jeweils noch intakt sein. In beiden Fällen halten Marle und Lucca eine Diskussion darüber ab, wie sie die nötige allerletzte Zeitreise unternehmen sollen. Das Problem ist, daß Marle an dieser Stelle zweimal hintereinander und daher sozusagen mit sich selber spricht. Die Aufteilung ist leider so unglücklich gewählt, daß es nichts nutzen würde, die Sprecher einfach auszutauschen, zumal die Dialoge durch Animationen der Sprites an die jeweiligen Figuren gebunden sind. Als Notlösung empfiehlt deshalb in meiner Übersetzung Marle nicht Lucca, ihr "Gehirn noch nicht abzuschalten", sondern genau umgekehrt. Das ist im Hinblick auf die Animationen noch vertretbar, wenn auch die eigentliche Pointe (eigentlich ist Lucca das "Genie" der Truppe) natürlich abgeschwächt wird.
+
+  * Die Doppeltech "Drehkick" (Ayla und Robo) verbraucht laut Menü 4 von Robos MP, tatsächlich sind es jedoch nur 3, wie auch im Kampf korrekt angezeigt wird.
+
+  * Die Tripeltech "Schlagtanz" (Ayla, Robo, Frog / mit Silberstein) verbraucht laut Menü 10 von Aylas MP, tatsächlich sind es jedoch 15. Caramba! Wird im Kampf ebenfalls korrekt angezeigt.
+
+
+WEITERE FEHLER ...
+... dürften eigentlich nicht auftreten. Ansonsten könnte natürlich auch Euer Emulator schuld sein. Ich empfehle deshalb, eine Flashcart und das echte Super Nintendo zum Spielen zu verwenden, zumal dieser Patch für die Originalhardware optimiert ist. Oder Ihr benutzt einen möglichst akkuraten Emulator, z. B. bsnes (http://byuu.org/bsnes/).
+
+
+
+P P                        [5pat]
+P P
+P   A T C H E N   D E S   R O M S
+
+
+Ein Patch beinhaltet nicht das Spiel, sondern nur die Änderungen, die jemand daran vorgenommen hat. Das bedeutet, Ihr benötigt zuerst das originale Super-Nintendo-ROM von "Chrono Trigger" in der englischsprachigen US-Version. (Bitte beachtet zu diesem Thema die rechtlichen Hinweise am Ende dieses Dokuments!)
+
+Nachdem Ihr Euch das ROM beschafft habt, solltet Ihr dessen Integrität mit der neuesten Version von NSRT überprüfen (derzeit v3.4, erhältlich unter http://www.romhacking.net/community/782/ - dort sind Versionen für alle gängigen Betriebssysteme aufgeführt). Startet das GUI (NF.EXE), navigiert zum Ordner mit dem ROM und klickt dieses doppelt an. Ihr solltet folgendes Ergebnis erhalten:
+
+
+                  ---------------------Internal ROM Info----------------------
+                         File: chrono_trigger.sfc
+                         Name: CHRONO TRIGGER           Company: Square
+                       Header: None                        Bank: HiROM
+                  Interleaved: None                        SRAM: 64 Kb
+                         Type: Normal + Batt                ROM: 32 Mb
+                      Country: USA                        Video: NTSC
+                    ROM Speed: 120ns (FastROM)         Revision: 1.0
+                     Checksum: Good 0x788C            Game Code: ACTE
+                  ---------------------------Hashes---------------------------
+                        CRC32: 2D206BF7
+                  --------------------------Database--------------------------
+                         Name: Chrono Trigger
+                      Country: USA                     Revision: 1.0
+                       Port 1: Gamepad                   Port 2: Gamepad
+                      Genre 1: RPG                      Genre 2: Turn Based
+
+
+Erhaltet Ihr ein anderes Resultat als oben angezeigt (den Dateinamen ausgenommen), vor allem aber wenn NSRT das Spiel nicht in seiner Datenbank findet und als "possible bad dump" ausgibt, so ist Euer ROM unbrauchbar und Ihr müßt ein anderes suchen.
+
+Zwei Dinge sind kritisch:
+  * Das ROM darf nicht "interleaved" sein.
+  * Das ROM darf keinen Header haben.
+
+Der meist 512 Byte lange und den eigentlichen ROM-Daten unmittelbar vorangestellte Header stammt aus der Ära der sogenannten Kopierstationen. Emulatoren und heutige Flashcarts benötigen ihn nicht, und für das verwendete Format meines Patches ist ein Header schon deshalb unerwünscht, weil er je nach Format (SWC-Header sind anders aufgebaut als FIG-Header) die CRC-Überprüfung der Gesamtdatei stört. Ein vorhandener Header kann deshalb dazu führen, daß Ihr Euer ROM nicht patchen könnt, obwohl NSRT es als korrekt erkannt hat.
+(Um Mißverständnissen vorzubeugen: Was NSRT unter "CRC32" ausgibt, bezieht sich immer nur auf die ROM-Daten OHNE 512-Byte-Header, egal ob das ROM einen besitzt oder nicht. Im Gegensatz dazu berechnet das Patch-Tool vor dem Patchen immer die CRC32 der GESAMTEN Datei, egal ob mit Header oder ohne!)
+
+Mit NF/NSRT könnt Ihr einen evtl. vorhandenen Header entfernen, indem Ihr das ROM mit der rechten Maustaste anklickt und im erscheinenden Menü "Header von Markierte löschen" wählt. Klickt das ROM danach zur Überprüfung nochmals doppelt an: Nun sollte bei "Header" korrekterweise "None" gemeldet werden.
+
+Nun habt Ihr also ein verifiziertes, headerloses Original-ROM. Als nächstes braucht Ihr ein Programm, das xdelta-Patches verarbeiten kann. Unter Windows empfehle ich den Delta Patcher von SadNES City Translations, welchen Ihr beispielsweise von RHDN (http://www.romhacking.net/utilities/704/) herunterladen könnt.
+
+
+Entpackt das Archiv mit dem Delta Patcher in einen beliebigen Ordner. Fügt das ROM und meinen Patch hinzu, falls nicht schon geschehen. Macht Euch zur Sicherheit eine Kopie des ROMs. Nun geht Schritt für Schritt nach folgender Anleitung vor:
+
+  1. Startet DeltaPatcherLite (!). Klickt rechts neben dem weißen Feld unter "Original file:" auf "Open..." und wählt Euer verifiziertes Chrono-Trigger-ROM aus.
+
+  2. Klickt rechts neben dem weißen Feld unter "XDelta patch:" auf "Open..." und wählt meinen Patch (ct_deutsch_v200_final_noheader.xdelta) aus.
+
+  3. Klickt auf "Apply patch". Daraufhin sollte eine Erfolgsmeldung erscheinen. (Falls eine Fehlermeldung auftritt: Vergewissert Euch, daß Euer ROM den weiter oben genannten Kriterien entspricht, insbesondere daß es keinen Header hat! Dann versucht es erneut, ggf. auch mit einem anderen ROM.) Nun könnt Ihr DeltaPatcherLite durch einen Klick auf "Exit" schließen.
+
+  4. Voilà: Die von Euch in Schritt 2 ausgewählte ROM-Datei ist nun das gepatchte, deutschsprachige Chrono Trigger. :-)
+
+
+Wenn Ihr alles richtig gemacht habt, wird übrigens die Prüfsumme ("checksum") des gepatchten Chrono Trigger "Good" bzw. "OK" sein. Hier die Werte, die NSRT zu dem gepatchten ROM ausgeben sollte (keine Sorge wegen des "possible bad dump" - die Datenbank von NSRT kennt nur offiziell releaste Spiele - oder wegen "Country: USA", dies benötigen Emulatoren ebenso wie "intelligente" SNES-Hardware, um das Spiel in 60 Hz darzustellen):
+
+
+                  ---------------------Internal ROM Info----------------------
+                         File: ctdtv200_final.sfc
+                         Name: CHRONO TRIGGER DEU V2    Company: Square
+                       Header: None                        Bank: HiROM
+                  Interleaved: None                        SRAM: 64 Kb
+                         Type: Normal + Batt                ROM: 32 Mb
+                      Country: USA                        Video: NTSC
+                    ROM Speed: 120ns (FastROM)         Revision: 1.0
+                     Checksum: Good 0x709F            Game Code: ACTD
+                  ---------------------------Hashes---------------------------
+                        CRC32: 6B3DB159
+                  --------------------------Database--------------------------
+                      ROM wasn't found in the database (possible bad dump).
+                      You can try using -fix or -findover to see if the
+                      file has been slightly altered in a rectifiable way.
+
+
+
+Z Z Z                     [6zst]
+  Z
+Z Z Z  U   G U T E R   L E T Z T
+
+
+Wenn Ihr mir potentielle Fehler und Probleme melden wollt, wären ein paar Zusatzinformationen dabei sehr hilfreich:
+
+  * Habt Ihr den Delta Patcher oder ein anderes xdelta-Tool (ggf. welches?) benutzt? Habt Ihr dabei die Validierung der Prüfsumme umgangen?
+  * Wie spielt Ihr das ROM - auf echter Hardware, wenn ja, wie (Flashcart, Kopierstation etc., jeweils mit genauer Bezeichnung), oder mit einem Emulator, wenn ja, mit welchem (bsnes, ZSNES, Snes9x usw.)? Ist der Fehler beliebig oft reproduzierbar?
+  * GANZ WICHTIG: Habt Ihr irgendwelche Action-Replay-, Game-Genie- oder sonstige Cheats benutzt, um bestimmte Rüstungen, Waffen, Objekte, Unverwundbarkeit o. ä. zu erschummeln?
+  * Außerdem erleichtert Ihr mir die Fehlerbehebung, wenn Ihr ein SRM-File, ein Savestate und/oder (bei Tippfehlern) einen Screenshot mitliefern könntet.
+  * Bitte verzichtet darauf, mir Fehler zu melden, die bereits in der Rubrik UNÜBERSETZTES UND FEHLER dieser Readme-Datei aufgelistet sind!
+
+Ich bin am besten per E-Mail zu erreichen. (Die Adresse findet Ihr im unteren Bereich meiner Homepage.) Über Bedankungen und Fehlerberichte freue ich mich; von Beschimpfungen, Trojanern, ROM-Requests etc. bitte ich dagegen abzusehen.
+
+------------------------------------------------------
+| Meine E-Mail-Adresse : siehe Homepage (Seitenende) |
+| Meine Homepage       : http://www.manuloewe.de/    |
+------------------------------------------------------
+
+Updates meiner Patches erscheinen in unregelmäßigen Abständen. Mittlerweile sind sie auch auf AEP (http://www.aep-emu.de/) verfügbar, dort allerdings evtl. verzögert. Im Zweifelsfall findet Ihr die aktuellsten Versionen immer auf meiner Website. :-)
+
+
+
+D D                 [7dnk]
+D  D
+D D  A N K S A G U N G E N
+
+
+- Neo Mithrandil von Terminus Traduction (http://terminus.romhack.net/) für exzellente Hilfen mit den komprimierten Grafiken: Er stellte mir Tools, Offsets und Paletten zur Verfügung. Außerdem hat er mittels eines ASM-Hacks das "Item" im Kampfmenü in "Objekt" geändert. Tausend Dank! / Je voudrais remercier mille fois Neo Mithrandil de Terminus Traduction pour ses aides excéllentes avec les compressions des graphismes. Il m'a donné des outils, des offsets et des palettes. Il a aussi changé le "Item" dans les menus des combats en "Objekt" par un hack ASM. Merci! T'es super! :-)
+
+- Syne (http://www.syne.de/), der einst ebenfalls an einer deutschen Version von Chrono Trigger gearbeitet hat, für ein praktisches Tool zum (De-)Komprimieren des Vor- und Abspanns, sowie technische Tips zur Übersetzung derselben. Ohne ihn wären die "Credits" wohl für immer unübersetzt geblieben - also ein Riesen-Danke!!! :D
+
+- Mainzelmann von Alemanic Translations (http://www.alemanic.de.vu/) für den schnellsten Betatest! Innerhalb von drei Tagen hatte er das ganze Spiel durchgespielt, inklusive aller Sidequests, und dabei über 200 Bugs ausfindig gemacht! 8-)
+
+- Einem besonderen Menschen für die Übersetzung von rund der Hälfte der Gegnernamen - und dafür, daß er mir jahrelang ein guter Freund war, obwohl ich ihn nie persönlich kennenlernen durfte: Vindicare alias Maël Benjamin Mettler (10.01.1981 - 25.10.2007). Lost, not forgotten. That's a promise.
+
+- SinaP für SnesEdit (http://www.romhacking.net/utilities/216/) und unzählige Hilfen in meiner Anfangszeit als "ROM-Hacker"!
+
+- FuSoYa (http://fusoya.eludevisibility.org/) für Lunar IPS, Lunar Compress sowie einen genialen Enhancement Patch für Secret of Mana!
+
+- Squaresoft/Square Enix für geniale Rollenspiele
+
+- ZSKnight, _Demo_ und Pharos für ZSNES
+
+- Sebastian Röbke für ASCIIArtist, mit welchem die ASCII-Grafik zu Beginn dieses Dokuments erstellt wurde.
+
+- Peter Terrell, Veronika Schnorr, Wendy V.A. Morris und Roland Breitsprecher für ihr außergewöhnlich nützliches "PONS/Collins Großwörterbuch für Experten und Universität" (Neubearbeitung 1999, Ernst Klett Verlag)
+
+
+
+R R                                 [8rhi]
+R R
+R  R  E C H T L I C H E    H I N W E I S E
+
+
+Dieser Übersetzungspatch für die US-Version von Chrono Trigger (SNES) ist Copyright © 2003-2012 by ManuLöwe (Manuel Charisius). Er wurde weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben und ist nicht offiziell. Der Patch ist Freeware, d. h. er darf beliebig weitergegeben, kopiert etc. werden, sofern die weiter unten aufgelisteten Dateien zusammenbleiben. Jedoch ist es illegal und strikt untersagt, den Patch zusammen mit dem Chrono-Trigger-ROM oder sogar ein bereits gepatchtes ROM zu verbreiten. Des weiteren dürfen weder der Patch noch die dazugehörige Textdatei auf irgendeine Weise verändert werden.
+
+Ferner ist es ausdrücklich verboten, diesen Freeware-Patch zu verkaufen oder gegen Güter oder Dienstleistungen einzutauschen. WARNUNG: Es ist im besonderen unter allen Umständen verboten, ein gepatchtes Chrono-Trigger-ROM auf EPROM/FlashROM o. ä. zu schreiben und daraufhin in Cartridge-Form ("Repro") etwa bei eBay zu verkaufen!
+
+Die ZIP-Datei muß folgende Dateien enthalten:
+
+  Alle Antworten.txt (diese Readme-Datei)
+  ct_deutsch_v200_final_noheader.xdelta (der Patch in der Version 2.00 final vom 20.05.2012)
+
+"Chrono Trigger"(R), "Final Fantasy"(R) sowie alle darauf bezogenen Dinge sind eingetragene Warenzeichen (registered trademarks) der Firma Square Co., Ltd. (heutzutage Square Enix Co.). "Nintendo"(R), "Super Nintendo"(TM) usw. sind eingetragene Warenzeichen der Firma Nintendo of Japan/America/Europe.
+Im übrigen berührt weder das Fehlen noch das Vorhandensein der Kennzeichnungen irgendwelcher eingetragener Warenzeichen in all meinen Texten deren Rechtslage in irgendeiner Form.
+
+ACHTUNG! Wer die originale Super-Nintendo-Spielkassette "Chrono Trigger" nicht besitzt, hat kein Recht auf den Besitz einer Sicherheitskopie oder eines ROM-Images dieses Spiels. Da ich Herstellung und Vertrieb von Raubkopien nicht unterstützen kann und will, werde ich alle Fragen bezüglich ROMs ignorieren!
+
+
+-----------------------------------------------------------------------------
+| © 2003-2012 by ManuLöwe (Manuel Charisius)   |   http://www.manuloewe.de/ |
+-----------------------------------------------------------------------------

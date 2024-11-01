@@ -1,0 +1,2044 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 6]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0039B578h]
+Size  [000046E8h][00007834h][2]
+pStart[0039B200h]
+pFirst[B378h-444]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Wir wollen nichts als den Weltfrieden...(A)
+...oder einen Weltenfriedhof, hihi...(END)
+
+[>Pointer 2<]
+In einer rein friedlichen Welt(A)
+würden sich die Menschen bald(A)
+langweilen!(A)
+Oh, was für ein lecker, äh...(KN)
+...ich meine, nett aussehender(A)
+Mensch...!(END)
+
+[>Pointer 3<]
+Magst du zum Orgelrezitativ(A)
+nicht dableiben? Es klingt geradezu(A)
+tödlich obligat!(END)
+
+[>Pointer 4<]
+Oje! Du könntest etwas mehr Essen(A)
+vertragen, und einen Ort zum...(A)
+...Ruhen!(END)
+
+[>Pointer 5<]
+Lucca: Was gefunden?(END)
+
+[>Pointer 6<]
+Lucca: Eine Haarnadel.(END)
+
+[>Pointer 7<]
+   Guardias königliches Wappen!(END)
+
+[>Pointer 8<]
+Lucca: Puh!(AÜ)
+Das war knapp!(END)
+
+[>Pointer 9<]
+Lucca: Aack!(END)
+
+[>Pointer 10<]
+Wer seine Deckung vernachlässigt,(A)
+erlaubt dem Feind Zugriff.(END)
+
+[>Pointer 11<]
+Seid Ihr zur Rettung der Königin(A)
+hier? Der Hort ist tief drinnen.(A)
+Kommt Ihr mit mir?(END)
+
+[>Pointer 12<]
+Lucca: Ein...FROSCH!?(KNÜ)
+Crono, ein sprechender Frosch!(AÜ)
+Ich hasse Frösche!(END)
+
+[>Pointer 13<]
+Meine Gestalt erweckt wohl nicht(A)
+Euer Vertrauen.(END)
+
+[>Pointer 14<]
+Gut, wie Ihr wollt.(A)
+Ich rette die Königin allein.(END)
+
+[>Pointer 15<]
+Lucca: W...warte!(END)
+
+[>Pointer 16<]
+Lucca: Du bist scheinbar kein(AÜ)
+böses...Person-Frosch-Ding...(AÜ)
+Ich meine...(END)
+
+[>Pointer 17<]
+Lucca: Crono!(AÜ)
+Was meinst du?(AÜ)
+   Mit dem Frosch gehen.(AÜ)
+   Ablehnen.(END)
+
+[>Pointer 18<]
+Lucca: Andererseits, ohne ihn ist(AÜ)
+es sicher riskant...(END)
+
+[>Pointer 19<]
+Lucca: Ich werd mich mit dem(AÜ)
+Froschding schon, äh...anfreunden.(END)
+
+[>Pointer 20<]
+Lucca: Wie heißt du?(END)
+
+[>Pointer 21<]
+Frog: Frog ist in Ordnung.(END)
+
+[>Pointer 22<]
+Lucca: Gut...(AÜ)
+Nett, dich kennenzulernen.(END)
+
+[>Pointer 23<]
+Frog: Mich dünkt, in der Nähe(AÜ)
+verbirgt sich eine Tür.(AÜ)
+Suchen wir danach.(END)
+
+[>Pointer 24<]
+In unserer Welt hat jeder Sturm ein(A)
+Ende. Auf jede Nacht folgt ein neuer(A)
+Morgen.(KN)
+Es ist wichtig, lieben Menschen zu(A)
+vertrauen, niemals aufzugeben...(A)
+...und immer zu hoffen.(END)
+
+[>Pointer 25<]
+Halt!(A)
+Eindringlinge!(A)
+Gack!(END)
+
+[>Pointer 26<]
+Zettel: Eintritt verboten.(END)
+
+[>Pointer 27<]
+Zettel: Nicht aufgeben...es gibt(AÜ)
+einen Weg.(END)
+
+[>Pointer 28<]
+Schnaaarch...zzz...(KN)
+Neiiin, aufhören!(A)
+Nicht da rein...(END)
+
+[>Pointer 29<]
+Häh?(END)
+
+[>Pointer 30<]
+Wie konnte ich euch übersehen?(A)
+Ich habe meine Befehle!(END)
+
+[>Pointer 31<]
+Bald ist es soweit, Königin Lena.(END)
+
+[>Pointer 32<]
+Kanzler: IHR!(AÜ)
+Wie seid ihr hier reingekommen?(END)
+
+[>Pointer 33<]
+Lena: Frog!(END)
+
+[>Pointer 34<]
+Frog: Majestät, tretet zurück.(AÜ)
+Wir kümmern uns um diesen(AÜ)
+Gauner!(END)
+
+[>Pointer 35<]
+Lena: Seid vorsichtig!(END)
+
+[>Pointer 36<]
+Kanzler: Gihahaha...(AÜ)
+Kämpfen ist sinnlos!(AÜ)
+Niemand wird hier lebend(AÜ)
+rauskommen!(END)
+
+[>Pointer 37<]
+Kanzler: Dummer Frosch!(AÜ)
+Wird Zeit, daß du den Löffel(AÜ)
+abgibst!(END)
+
+[>Pointer 38<]
+Kanzler: ...Trans-o-Yakra!(END)
+
+[>Pointer 39<]
+In Yakra zurückverwandelt!(END)
+
+[>Pointer 40<]
+Lena: Ihr seid gekommen, um mich(AÜ)
+zu retten! Danke, Frog.(END)
+
+[>Pointer 41<]
+Frog: Der König wartet.(AÜ)
+Gehen wir ins Schloß zurück.(END)
+
+[>Pointer 42<]
+Frog: Ich danke euch,(AÜ)
+Crono und Lucca.(END)
+
+[>Pointer 43<]
+Lena: Ja, tausend Dank!(AÜ)
+Bitte kommt mit uns.(END)
+
+[>Pointer 44<]
+Lena: Laßt uns ins Schloß(AÜ)
+zurückkehren!(END)
+
+[>Pointer 45<]
+Echter Kanzler: W...wartet!(AÜ)
+Was ist mit mir?(END)
+
+[>Pointer 46<]
+Echter Kanzler: Puh, danke!(AÜ)
+Das Biest hat mich hier eingesperrt.(END)
+
+[>Pointer 47<]
+Echter Kanzler: Oh!(AÜ)
+Eure Hoheit!(AÜ)
+Ich bin unverletzt, wie Ihr seht!(END)
+
+[>Pointer 48<]
+Willkommen, was darf's sein?(END)
+
+[>Pointer 49<]
+Vielen Dank!(END)
+
+[>Pointer 50<]
+Der Held ist da?(KN)
+Das heißt, ein gewaltiger Kampf(A)
+wird beginnen!(END)
+
+[>Pointer 51<]
+Endlich Frieden, dank dem Helden!(KN)
+Hurra für den Helden und für(A)
+Guardia!(END)
+
+[>Pointer 52<]
+Der Held hat die bösen Monster(A)
+vertrieben!(END)
+
+[>Pointer 53<]
+Ist es wahr, daß der König(A)
+verletzt wurde?(KN)
+Was wird aus uns und unserem(A)
+Land werden...?(END)
+
+[>Pointer 54<]
+Oh!(A)
+Wo kann Sir Cyrus nur stecken?(KN)
+Ob er seine Heimat verlassen hat?(END)
+
+[>Pointer 55<]
+Frog: ......(END)
+
+[>Pointer 56<]
+Ich hörte, der Held sei mit Sir Cyrus(A)
+befreundet.(KN)
+Er muß ein stattlicher Krieger sein.(A)
+Seufz...(END)
+
+[>Pointer 57<]
+Frog: ......(KNÜ)
+......(END)
+
+[>Pointer 58<]
+Frog: Wehe!(AÜ)
+Welch Schicksal!(END)
+
+[>Pointer 59<]
+Mami sagt, ich darf nicht draußen(A)
+spielen, wegen der Monster.(KN)
+Es ist so langweilig!(END)
+
+[>Pointer 60<]
+Magus soll über obskure Kräfte(A)
+verfügen. Er ist stärker als die(A)
+Monster.(END)
+
+[>Pointer 61<]
+Magus hat überlebt und versteckt(A)
+sich. Er darf nicht entkommen, um(A)
+der Gefallenen willen!(END)
+
+[>Pointer 62<]
+Der Bürgermeister von Sandorino lebt(A)
+hier.(KN)
+Seid ihr Fremde?(A)
+Oder von Magus's Truppen geflohen?(END)
+
+[>Pointer 63<]
+Der Bürgermeister von Sandorino lebt(A)
+hier. Endlich Frieden!(END)
+
+[>Pointer 64<]
+Magus hat drei Spießgesellen,(A)
+Ozzie, Flea und Slash.(KN)
+Sie sind skrupellose, grausame Bestien!(END)
+
+[>Pointer 65<]
+Magus's drei Spießgesellen(A)
+verstecken sich auf einer Insel.(KN)
+Werden wir diese üblen Zeitgenossen(A)
+nie los?(END)
+
+[>Pointer 66<]
+Magus's Höhle ist auf einer Insel(A)
+im Osten. Sie ist von unbezwingbaren(A)
+Klippen umgeben.(END)
+
+[>Pointer 67<]
+Nur das uralte Schwert "Masamune''(A)
+kann ihn besiegen. Und nur der Held(A)
+kann es führen!(END)
+
+[>Pointer 68<]
+Seht...!(KN)
+Der legendäre Held, mit dem Schwert(A)
+in der Hand.(A)
+Ich wünschte, ich könnte einmal(A)
+sein wie er!(END)
+
+[>Pointer 69<]
+Der Held ist gekommen!(KN)
+Er ist stark und wird diese(A)
+Monster vertreiben!(END)
+
+[>Pointer 70<]
+Oberhaupt: Ich will, daß du die(AÜ)
+mythische "Regenbogenmuschel''(AÜ)
+findest.(KNÜ)
+Hier ist ein bißchen Geld.(AÜ)
+Wir zählen auf dich, Toma!(END)
+
+[>Pointer 71<]
+Toma: Hey, kein Problem.(AÜ)
+Ich bin ja der Experte für(AÜ)
+Mythen. Ich schaff das, Chef!(END)
+
+[>Pointer 72<]
+Oberhaupt: Hmm...(AÜ)
+Ich warte auf gute Neuigkeiten.(END)
+
+[>Pointer 73<]
+Toma: Das wäre geklärt. Ich(AÜ)
+schieb mir noch was zwischen die(AÜ)
+Kiemen, bevor ich aufbreche.(END)
+
+[>Pointer 74<]
+Toma: Ich hab gerade zu tun.(AÜ)
+Reden wir später!(END)
+
+[>Pointer 75<]
+Oberhaupt: Wir könnten aus der(AÜ)
+Regenbogenmuschel reflektierende(AÜ)
+Rüstungen machen.(AÜ)
+Die wären gut gegen Magie!(KNÜ)
+Aber dieser Typ ist ein wenig(AÜ)
+verrückt... Ob es ein Fehler war,(AÜ)
+ihn anzuheuern?(END)
+
+[>Pointer 76<]
+Oberhaupt: Toma ist ein(AÜ)
+nichtsnutziger Lügner!(KNÜ)
+Mein Geld hat er genommen, aber(AÜ)
+die Muschel hat er nicht gefunden.(AÜ)
+Dieser elende Dieb!(END)
+
+[>Pointer 77<]
+Hallooo!(A)
+Willkommen in unserer Herberge.(A)
+Eine Nacht kostet 50G!(A)
+Also?(END)
+
+[>Pointer 78<]
+Bleibt Ihr?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 79<]
+Genau!(A)
+Ruht Euch nur aus!(END)
+
+[>Pointer 80<]
+Huch?(A)
+Ihr habt nicht genug!(END)
+
+[>Pointer 81<]
+Wie schade!(A)
+Ich hoffe, Ihr kommt nochmals(A)
+wieder...(END)
+
+[>Pointer 82<]
+Sind Magus's Truppen wirklich(A)
+angerückt?(KN)
+Aber wenigstens ist der legendäre(A)
+Held da, um uns beizustehen!(END)
+
+[>Pointer 83<]
+Sie sagen, das mythische Masamune(A)
+liegt tief in den Denadoro-Bergen(A)
+und wird von Dämonen bewacht.(END)
+
+[>Pointer 84<]
+Soll ich euch was erzählen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 85<]
+Goblins mit riesigen Hämmern(A)
+machen die Denadoro-Berge unsicher,(A)
+östlich von hier.(KN)
+Verbrennen ihre Hämmer, sind sie(A)
+jedoch harmlos.(END)
+
+[>Pointer 86<]
+Dann sag ich's jemand anderem...(END)
+
+[>Pointer 87<]
+Die Denadoro-Winde sind mild(A)
+geworden.(END)
+
+[>Pointer 88<]
+Hast du den Helden getroffen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 89<]
+Oh! Ich will ihn auch einmal(A)
+sehen...ich bin ganz aufgeregt!(END)
+
+[>Pointer 90<]
+Ich habe ihn auch nicht gesehen.(KN)
+Wie der Hoffnungsträger der(A)
+Welt wohl aussieht?(A)
+Ich bin so aufgeregt!(END)
+
+[>Pointer 91<]
+Tut Buße, denn das Ende der(A)
+Welt ist nah!(END)
+
+[>Pointer 92<]
+Wir sind gerettet!(A)
+Wenigstens für den Augenblick...(END)
+
+[>Pointer 93<]
+Vor Hunderten von Jahren wurde ein(A)
+Schwert gemacht...das "Masa-(A)
+Nochwas''.(KN)
+Niemand kann heutzutage ein(A)
+vergleichbares Schwert schmieden.(END)
+
+[>Pointer 94<]
+Besitzer: Sucht Ihr den Helden?(AÜ)
+Geht nach Süden, nach Porre,(AÜ)
+dort soll er herstammen.(END)
+
+[>Pointer 95<]
+Besitzer: Zuletzt soll der Held(AÜ)
+in die Denadoro-Berge gegangen(AÜ)
+sein, um ein Schwert zu suchen.(KNÜ)
+Hoffe, er ist gesund!(END)
+
+[>Pointer 96<]
+Besitzer: Ha!(AÜ)
+Magus ist fort!(KNÜ)
+Jetzt tanzt der Bär!(AÜ)
+Feiern wir!(END)
+
+[>Pointer 97<]
+Viele Leute gehen in die Gaststube.(A)
+Fragt dort, wenn ihr jemanden sucht.(KN)
+Übrigens, Energiewirbel verschwinden(A)
+durch deine "Stich''-Attacke.(KN)
+Die Natur ist im Gleichgewicht.(END)
+
+[>Pointer 98<]
+Magus beschwört etwas ungeheuer(A)
+Böses herauf...(KN)
+Gelingt es ihm, gibt es keine(A)
+Rettung. Wir werden alle sterben!(KN)
+Deshalb lebe ich JETZT!(END)
+
+[>Pointer 99<]
+Magus wurde aufgehalten.(A)
+Jetzt kann ich meine Limonade in(A)
+Ruhe genießen! Vitamin C ist gut(A)
+für den Körper!(END)
+
+[>Pointer 100<]
+Toma: Hey, wie geht's?(AÜ)
+Wenn du meine Rechnung übernimmst,(AÜ)
+erzähl ich dir das Neueste.(END)
+
+[>Pointer 101<]
+Also?(AÜ)
+   Sicher.(AÜ)
+   Nein danke.(END)
+
+[>Pointer 102<]
+Toma: Vielen Dank!(END)
+
+[>Pointer 103<]
+Toma: Tsk!(AÜ)
+Du hast ja gar kein Geld!(END)
+
+[>Pointer 104<]
+Toma: Hey, bitte noch ein Bier!(END)
+
+[>Pointer 105<]
+Toma: Ein paar eklige, gefährliche(AÜ)
+Frösche spuken im Zauberwald herum,(AÜ)
+südlich von hier.(END)
+
+[>Pointer 106<]
+Toma: Schon gut!(AÜ)
+Ich hab meine Zeit auch nicht(AÜ)
+gestohlen.(END)
+
+[>Pointer 107<]
+Toma: Was diese "Regenbogenmuschel''(AÜ)
+angeht... Ich denke, ich werde meine(AÜ)
+Suche in Porre beginnen.(END)
+
+[>Pointer 108<]
+Toma: Was gibt's Neues, Partymgl1?(AÜ)
+Ich hab mein Versprechen gehalten(AÜ)
+und sie gefunden!(END)
+
+[>Pointer 109<]
+Toma: Wenn wir uns das nächste(AÜ)
+Mal treffen, hab ich gute Neuigkeiten.(AÜ)
+Hehe...(END)
+
+[>Pointer 110<]
+Laß das, du Hund!(END)
+
+[>Pointer 111<]
+Schild: Privatgrundstück.(AÜ)
+Betreten verboten...QUAK(END)
+
+[>Pointer 112<]
+Wer ist da!?(END)
+
+[>Pointer 113<]
+Frog: Du, Crono!(AÜ)
+Bist du hier, um deine(AÜ)
+Fähigkeiten im Fechten zu(AÜ)
+verbessern?(END)
+
+[>Pointer 114<]
+Frog: Was!?(AÜ)
+Der König ist verletzt?(END)
+
+[>Pointer 115<]
+Frog: ......(KNÜ)
+Ich verstehe...(END)
+
+[>Pointer 116<]
+Frog: Bitte geh...alldieweil ich(AÜ)
+nichts tun kann.(END)
+
+[>Pointer 117<]
+Frog: Der Held bin ich nicht.(AÜ)
+Nichtig sind meine Taten.(END)
+
+[>Pointer 118<]
+Frog: Wieder bist du gekommen?(AÜ)
+D...das Heldenamulett!(END)
+
+[>Pointer 119<]
+Frog: Wie löblich von dir,(AÜ)
+diesen Ort aufzusuchen.(AÜ)
+D...das Heldenamulett!(END)
+
+[>Pointer 120<]
+Frog: Nun...(AÜ)
+Dann hast du den Knaben gesehen.(AÜ)
+Dennoch vermag ich nichts gegen(AÜ)
+Magus auszurichten.(END)
+
+[>Pointer 121<]
+Frog: Das legendäre Masamune(AÜ)
+allein kann Magus schaden.(KNÜ)
+Und ich habe kein Recht, es zu(AÜ)
+führen.(END)
+
+[>Pointer 122<]
+Frog: Bitte geh...(END)
+
+[>Pointer 123<]
+Frog: Keine Seele kann heutzutage(AÜ)
+das Masamune neu schmieden.(END)
+
+[>Pointer 124<]
+Lucca: Ein zerbrochenes Schwert...(AÜ)
+Ein Teil vom Masamune!(END)
+
+[>Pointer 125<]
+[Robo]: Ein zerbrochenes Schwert...(AÜ)
+Ein Teil des Masamune!(END)
+
+[>Pointer 126<]
+Lucca: Archaische Buchstaben(AÜ)
+sind eingraviert...ähm...(END)
+
+[>Pointer 127<]
+Lucca: ...M...e...l...c...h...i...o...r!(END)
+
+[>Pointer 128<]
+Lucca: "Melchior''?(AÜ)
+Der Typ aus Medina?(END)
+
+[>Pointer 129<]
+[Robo]: Da steht etwas in(AÜ)
+archaischen Lettern.(AÜ)
+Ich transkribiere...(END)
+
+[>Pointer 130<]
+[Robo]: .........(AÜ)
+R...o...i...h...c...l...e...m?(END)
+
+[>Pointer 131<]
+[Robo]: Roihclem?(END)
+
+[>Pointer 132<]
+[Robo]: Systemfehler!(AÜ)
+Verkehrt herum gelesen!(AÜ)
+Dort steht "Melchior''!(END)
+
+[>Pointer 133<]
+Marle: Melchior?(AÜ)
+Der Typ aus Medina?(KNÜ)
+Was bedeutet das, Crono?(END)
+
+[>Pointer 134<]
+Frog: Du bist es wieder.(END)
+
+[>Pointer 135<]
+Frog: Dieses Schwert...(AÜ)
+Ist es das Masamune?(END)
+
+[>Pointer 136<]
+Frog: Ich muß über diese(AÜ)
+Schicksalswendung nachdenken.(AÜ)
+Bleibt über Nacht hier.(END)
+
+[>Pointer 137<]
+Glenn: Aaah!(END)
+
+[>Pointer 138<]
+Cyrus: Paß auf, Glenn!(END)
+
+[>Pointer 139<]
+Glenn: Cyrus!(AÜ)
+Das Schwert...(KNÜ)
+Das Masamune!(END)
+
+[>Pointer 140<]
+Ozzie: Huachuach...(AÜ)
+Mehr bringst du nicht zustande?(KNÜ)
+Was bist du ohne dein Schwert!?(END)
+
+[>Pointer 141<]
+Cyrus: Arrgh!(AÜ)
+Aber ich gebe mich noch nicht(AÜ)
+geschlagen!(END)
+
+[>Pointer 142<]
+Glenn: C...Cyrus...(AÜ)
+Ich halte nicht mehr lange durch...(END)
+
+[>Pointer 143<]
+Cyrus: Glenn, flieh, während ich(AÜ)
+sie in Schach halte.(END)
+
+[>Pointer 144<]
+Glenn: A...aber...!(END)
+
+[>Pointer 145<]
+Cyrus: Wenn du bleibst, kriegen(AÜ)
+sie uns beide.(AÜ)
+Geh, Glenn!(END)
+
+[>Pointer 146<]
+Magus: Mach dir lieber Sorgen(AÜ)
+um dich selber, Cyrus!(END)
+
+[>Pointer 147<]
+Cyrus: Los, Glenn!(AÜ)
+GEH!!!(END)
+
+[>Pointer 148<]
+Cyrus: Aahhh...!(END)
+
+[>Pointer 149<]
+Glenn: C...Cyrus!(END)
+
+[>Pointer 150<]
+Cyrus: L...lauf, Glenn, flieh...(KNÜ)
+Die Königin.(AÜ)
+Beschütze...Lena...(KNÜ)
+.........(END)
+
+[>Pointer 151<]
+Glenn: C-C-Cyrus!?(KNÜ)
+Cyyruuuuus!(END)
+
+[>Pointer 152<]
+Magus: Harumpf!(AÜ)
+Was ist denn?(AÜ)
+Willst du dein Glück nicht versuchen?(END)
+
+[>Pointer 153<]
+Glenn: Ähhh...!(END)
+
+[>Pointer 154<]
+Ozzie: Huachuach...(AÜ)
+Hat es dir die Sprache verschlagen?(END)
+
+[>Pointer 155<]
+Ozzie: Wie wär's, Magus?(AÜ)
+Kannst du ihm kein passenderes(AÜ)
+Aussehen verleihen?(END)
+
+[>Pointer 156<]
+Magus: Warum nicht?(AÜ)
+Für ein bißchen Spaß bin ich(AÜ)
+immer zu haben.(END)
+
+[>Pointer 157<]
+Glenn: !!!(END)
+
+[>Pointer 158<]
+Glenn: O...ooohh!!(END)
+
+[>Pointer 159<]
+Glenn: Aaaaaack!(END)
+
+[>Pointer 160<]
+Ozzie: Huachuachuach!!!(AÜ)
+Du wehleidiger Waschlappen!(END)
+
+[>Pointer 161<]
+Frog: Zehn Jahre sind(AÜ)
+vergangen...(KNÜ)
+Ob ich soweit bin?(AÜ)
+Ich habe mich sehr gewandelt...(AÜ)
+Ach, der arme Cyrus!(END)
+
+[>Pointer 162<]
+Frog: Wach auf, Crono.(END)
+
+[>Pointer 163<]
+Frog: Auch wenn wir scheitern(AÜ)
+mögen...(KNÜ)
+...besuchen wir Magus's Höhle!(END)
+
+[>Pointer 164<]
+Frog: Kennt ihr seine Macht?(END)
+
+[>Pointer 165<]
+Lucca: Gegen die Wissenschaft(AÜ)
+wird er nicht ankommen!(END)
+
+[>Pointer 166<]
+Marle: Den schaffen wir auch(AÜ)
+noch!(END)
+
+[>Pointer 167<]
+[Robo]: Nur so können wir(AÜ)
+unsere Zukunft retten!(END)
+
+[>Pointer 168<]
+Eine seltsame Kreatur kam neulich(A)
+vorbei und brabbelte was von Königin(A)
+Lena und vom Masamune...(END)
+
+[>Pointer 169<]
+Das war ein häßlicher Frosch!(END)
+
+[>Pointer 170<]
+Ja, er war schon seltsam.(A)
+Ähem...(KN)
+Oh, ich meine, solch ein grandioser(A)
+Frosch!(A)
+Er wird ein Held oder sogar ein(A)
+Kanzler sein!(END)
+
+[>Pointer 171<]
+Hausherrin: Wir haben den kleinen(AÜ)
+Tata eine Weile nicht gesehen.(KNÜ)
+Ohne dieses Balg sind die Zustände(AÜ)
+einigermaßen erträglich.(END)
+
+[>Pointer 172<]
+Hausherrin: Tata muß zu Hause sein.(AÜ)
+Es war so ruhig ohne ihn...(KNÜ)
+Aber ich bin froh darüber, es war(AÜ)
+fast schon ZU ruhig hier...(END)
+
+[>Pointer 173<]
+Hausherrin: Und ich habe meine eigenen(AÜ)
+Pläne...(KNÜ)
+Nun, da der Junge zurück ist, sollte(AÜ)
+ich mich um seinen Vater kümmern,(AÜ)
+hihi.(END)
+
+[>Pointer 174<]
+Ich kann's nicht glauben...(A)
+Tata, der ungezogene Wicht, soll(A)
+der Held sein!?(END)
+
+[>Pointer 175<]
+Tata war's also nicht!(KN)
+Wer ist demnach der wahre Held?(END)
+
+[>Pointer 176<]
+Tata lernt viel in letzter Zeit.(A)
+Er wird wohl erwachsen.(END)
+
+[>Pointer 177<]
+Kaum zu glauben, der legendäre(A)
+Held war ein Junge aus diesem(A)
+Dorf!(END)
+
+[>Pointer 178<]
+Weißt du das Neueste?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 179<]
+Alle reden von ihm!(A)
+Sein Vater muß stolz auf ihn sein!(END)
+
+[>Pointer 180<]
+Denk dran, der legendäre Held stammt(A)
+aus diesem Dorf!(END)
+
+[>Pointer 181<]
+Und ich dachte, der Held wäre(A)
+von hier. So eine Enttäuschung...(END)
+
+[>Pointer 182<]
+Habt Ihr von der Magischen Höhle(A)
+gehört, östlich der Denadoro-Berge?(KN)
+Ich sah, wie sich ein Spalt öffnete(A)
+und eine Horde Ghule hineingingen!(KN)
+Ich will mit Magus und seinen(A)
+Freunden nichts zu tun haben!(END)
+
+[>Pointer 183<]
+Ein schleimiger Froschmensch hat(A)
+Magus geschlagen?(KN)
+Ich hätte es selbst gemacht, wenn(A)
+ich gewußt hätte, daß es so einfach ist!(END)
+
+[>Pointer 184<]
+Toma: Heya!(AÜ)
+Spendierst du mir einen Sprudel?(AÜ)
+   Sicher.(AÜ)
+   Nie.(END)
+
+[>Pointer 185<]
+Toma: Danke!(AÜ)
+Ich wünsch dir eine gute Reise!(END)
+
+[>Pointer 186<]
+Toma: Hab mich nach der(AÜ)
+Regenbogenmuschel umgesehen...(AÜ)
+Sie ist auf einer kleinen Insel...(KNÜ)
+Es fragt sich nur...auf welcher?(KNÜ)
+Und das Geld meines Auftraggebers(AÜ)
+ist alle. Was mach ich jetzt nur?(END)
+
+[>Pointer 187<]
+Toma: Geizhals!(KNÜ)
+Ich kann mir nicht mal was zu(AÜ)
+futtern leisten!(END)
+
+[>Pointer 188<]
+(AÜ)
+               Verschlossen!(END)
+
+[>Pointer 189<]
+Hey!(A)
+Hast du da etwa Naga-ette-Bromid!?(END)
+
+[>Pointer 190<]
+Ich gebe dir etwas Gutes dafür.(A)
+Was meinst du?(AÜ)
+   Tauschen wir!(AÜ)
+   Ich will Opas Zaster nicht.(END)
+
+[>Pointer 191<]
+Hmpf!(A)
+Na gut, wie du willst.(END)
+
+[>Pointer 192<]
+Ganz ehrlich?(KN)
+Juhuuuh! Warte ganz kurz, ich(A)
+bin nur ein Sekündchen weg!(END)
+
+[>Pointer 193<]
+Ich habe die Kommode für dich(A)
+aufgeschlossen.(KN)
+Her mit dem Bromid.(A)
+Hehehehe...(END)
+
+[>Pointer 194<]
+Sag aber Oma nichts davon, ja?(A)
+Hehehe, mein Naga-ette-Haustier.(A)
+Mein Schatz!(END)
+
+[>Pointer 195<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 196<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 197<]
+(AÜ)
+                   Leer!(END)
+
+[>Pointer 198<]
+Dies ist der Palast der Königin,(A)
+Herz des Königreichs des Eifers.(KN)
+Und damit Zentrum des(A)
+Universums.(END)
+
+[>Pointer 199<]
+Niemand darf eintreten, wenn die(A)
+Königin sich im Seepalast aufhält.(END)
+
+[>Pointer 200<]
+Um die Tür von außen zu öffnen,(A)
+bedarf es eines Amuletts, das dem(A)
+von Schala gleicht.(END)
+
+[>Pointer 201<]
+D...dein Amulett!(A)
+Es sieht aus wie Schalas!(KN)
+Ich habe gehört, wenn Schala mit der(A)
+Mammon-Maschine spricht, beginnt ihr(A)
+Amulett zu leuchten.(END)
+
+[>Pointer 202<]
+Oh, welch seltsame Kleider!(A)
+Ihr müßt Reisende von weit her sein?(KN)
+An der Tiefsteinquelle könnt Ihr(A)
+Euch von Eurer Reise erholen.(END)
+
+[>Pointer 203<]
+Besucher, mögt Ihr Pflanzen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 204<]
+Ah...(A)
+Ihr seid wie die Königin.(END)
+
+[>Pointer 205<]
+Oh, Ihr seid wie ich!(KN)
+Aber die Königin befahl mir, diesen(A)
+Baum, den mir der Guru des Lebens(A)
+gab, zu verbrennen.(KN)
+Er sagte, es sei ein magischer Baum(A)
+mit der Kraft, unsere Umwelt zu(A)
+retten.(END)
+
+[>Pointer 206<]
+Was tue ich damit?(AÜ)
+   Verbrennen.(AÜ)
+   Heimlich pflanzen.(END)
+
+[>Pointer 207<]
+Stimmt...(A)
+Ich muß der Königin gehorchen.(END)
+
+[>Pointer 208<]
+Ihr habt recht!(A)
+Die Königin hat es zwar befohlen,(A)
+aber der Guru des Lebens hat ihn(A)
+mir gegeben...(KN)
+Ich werde ihn liebevoll pflegen.(A)
+Eines Tages rettet er sicher die(A)
+Umwelt.(END)
+
+[>Pointer 209<]
+Ich möchte in einem Land voll(A)
+grüner Wälder wiedergeboren werden.(END)
+
+[>Pointer 210<]
+Die Königin hat zwei Erben, Schala(A)
+und Janus, die sehr gut miteinander(A)
+auskommen.(KN)
+Wenn Janus nur anderen gegenüber(A)
+ein wenig aufgeschlossener wäre...(END)
+
+[>Pointer 211<]
+Wußtet Ihr, daß Balthasar, der Guru(A)
+der Vernunft, geheime Räume in Enhasa(A)
+und Kajar angelegt hat?(END)
+
+[>Pointer 212<]
+Dalton, der königliche Berater,(A)
+kümmerte sich um den Seepalast,(A)
+bis ihn ein wandernder Prophet(A)
+abgelöst hat.(KN)
+Meidet ihn, er ist mißgelaunt.(END)
+
+[>Pointer 213<]
+Der Prophet ist neu hier, aber die(A)
+Königin vertraut ihm, weil seine(A)
+Weissagungen eintreffen.(KN)
+Er ist ein Wanderer...und gehört weder(A)
+zu uns Erleuchteten noch zu den(A)
+Erdgebundenen.(A)
+Hmm...(END)
+
+[>Pointer 214<]
+Nach Fertigstellung des Seepalasts(A)
+wird dieses Reich ewig währen!(KN)
+Und es wird weder Furcht noch(A)
+Trauer geben, nur ewigen Frieden.(END)
+
+[>Pointer 215<]
+Unsere Energiequelle liegt tief im(A)
+Meer.(KN)
+Nun, da man ihre genaue Lage gefunden(A)
+hat, wird der Seepalast gebaut.(END)
+
+[>Pointer 216<]
+Durch die königliche Halle kommt man(A)
+in den noch unfertigen Seepalast.(END)
+
+[>Pointer 217<]
+Die Königin muß viel Kummer und(A)
+Schmerz erlitten haben.(KN)
+Doch ohne Schmerz kein Gewinn...(A)
+Auch dieses Reich zeugt davon.(END)
+
+[>Pointer 218<]
+Der wandernde Prophet ist erstaunlich!(A)
+All seine Weissagungen sind wahr(A)
+geworden.(KN)
+Als ob er in die Zukunft schauen(A)
+kann! Unheimlich...(END)
+
+[>Pointer 219<]
+Es heißt, Kaspar, der Guru der(A)
+Zeit, setzt seine Arbeit auf einer(A)
+verlassenen Insel fort.(KN)
+Er baut einen "Chrono Trigger''(A)
+oder ein Zeit-Ei oder so...(A)
+Wir haben ihn lange nicht gesehen.(END)
+
+[>Pointer 220<]
+Auch Balthasar verschwand, nachdem(A)
+er Düstervogel und Seepalast(A)
+konstruiert hatte.(KN)
+Seltsam, daß alle drei Gurus auf(A)
+einmal vermißt werden...(END)
+
+[>Pointer 221<]
+Wesen aus Träumen müssen in sie(A)
+zurückkehren...(KN)
+Lavos' Macht kann Hoffnungen und(A)
+Träume wahr werden lassen.(END)
+
+[>Pointer 222<]
+Fragt die Königin oder die Gurus(A)
+nach der Mammon-Maschine und dem(A)
+Seepalast.(KN)
+Unter uns gesagt, ich glaube(A)
+allerdings nicht, daß sie viel Zeit(A)
+für Euch haben wird.(END)
+
+[>Pointer 223<]
+Die Erde lebt...und wandelt sich im(A)
+Laufe der Äonen.(A)
+Aus Ebenen werden Gebirge...(A)
+...und aus Gebirgen Ozeane...(KN)
+Man könnte DEN WEG finden...(A)
+Das heißt, wenn man ganze Zeitalter(A)
+im verbotenen Palast oder im(A)
+Sonnendom ausharren würde.(END)
+
+[>Pointer 224<]
+Ich möchte der Wind sein, Masa!(END)
+
+[>Pointer 225<]
+Eines Tages wirst du es sein.(END)
+
+[>Pointer 226<]
+Die große Schwester Doriane ist(A)
+wieder in Enhasa...(END)
+
+[>Pointer 227<]
+Ja...sie mag Träume.(END)
+
+[>Pointer 228<]
+Ich mag den Wind lieber!(A)
+Wuuusch!(END)
+
+[>Pointer 229<]
+Wie es wohl dem alten Melchior(A)
+geht...? Menschen sind seltsam...(END)
+
+[>Pointer 230<]
+Würdest du mir...den Rücken(A)
+kratzen?(AÜ)
+   Sicher!(AÜ)
+   Nein!(END)
+
+[>Pointer 231<]
+......(KN)
+Wie gemein!(END)
+
+[>Pointer 232<]
+Ahh!(A)
+Danke!(END)
+
+[>Pointer 233<]
+Oh...(A)
+Du hast sie...(KN)
+Puh...(END)
+
+[>Pointer 234<]
+Puh...(A)
+Danke!(END)
+
+[>Pointer 235<]
+Du kennst die Kratzstelle der Nus!(END)
+
+[>Pointer 236<]
+Dein Amulett...(KN)
+Es ist wie Schalas, aber(A)
+es leuchtet nicht.(END)
+
+[>Pointer 237<]
+Schalas Amulett wurde aus demselben(A)
+roten Stein gemacht wie die(A)
+Mammon-Maschine.(KN)
+Wenn sie singt, leuchtet ihr Amulett.(END)
+
+[>Pointer 238<]
+Weiter nördlich ist die Halle der(A)
+Mammon-Maschine. Lavos' unglaubliche(A)
+Energie durchdringt sie!(END)
+
+[>Pointer 239<]
+Die Halle der Mammon-Maschine(A)
+liegt weiter nördlich. Aber die(A)
+Kraft ist versiegt...(END)
+
+[>Pointer 240<]
+Ihr möchtet die Mammon-Maschine(A)
+sehen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 241<]
+Dachte ich mir!(A)
+Fühlt Ihr Lavos' mächtige Kraft?(END)
+
+[>Pointer 242<]
+Wie ich mir dachte!(A)
+Leider ist die Mammon-Maschine(A)
+versetzt worden.(END)
+
+[>Pointer 243<]
+Aber Ihr MÜSST sie fühlen!(A)
+Die letzte Kraftwelle des großen(A)
+Lavos!(END)
+
+[>Pointer 244<]
+Tragisch...ich fühle die letzten(A)
+Energiewellen nicht mehr.(END)
+
+[>Pointer 245<]
+Die Aura des Propheten ist voll(A)
+Schmerz und Haß. Er wird sich selbst(A)
+zugrunde richten...und alle, die(A)
+er liebt.(END)
+
+[>Pointer 246<]
+Hier geht es zur Mammon-Maschine.(END)
+
+[>Pointer 247<]
+Hier geht es zur Königshalle.(END)
+
+[>Pointer 248<]
+Hier geht es ins Schlafzimmer.(END)
+
+[>Pointer 249<]
+DIES ist unsere Energiequelle...(A)
+Die Mammon-Maschine sammelt Lavos'(A)
+unendliche Kraft.(END)
+
+[>Pointer 250<]
+Dieses Amulett...es ist wie Schalas.(KN)
+Wenn sie für die Mammon-Maschine(A)
+singt, leuchtet es...(KN)
+...als ob sie vereint wären.(END)
+
+[>Pointer 251<]
+Die drei Gurus machten die(A)
+Mammon-Maschine aus dem roten(A)
+Stein der Königsfamilie.(KN)
+Melchior, der Lavos intensiv(A)
+studierte, war mit den Plänen(A)
+betraut.(A)
+Aber dann verschwand er...(END)
+
+[>Pointer 252<]
+Zur Kontrolle der Mammon-Maschine(A)
+braucht man genügend starke Magie,(A)
+um Energie zu extrahieren.(END)
+
+[>Pointer 253<]
+Nachdem die Mammon-Maschine fertig(A)
+war, wandelte sich die Königin(A)
+über Nacht.(KN)
+Unter uns gesagt, EGAL wer sich ihr(A)
+entgegenstellt, verschwindet. Und(A)
+nicht nur die Erdgebundenen!(END)
+
+[>Pointer 254<]
+Melchior, der die Pläne der Königin(A)
+in Frage stellte, verschwand.(KN)
+Denkt Ihr auch, was ich denke?(END)
+
+[>Pointer 255<]
+Wenn die Mammon-Maschine in den(A)
+Seepalast gebracht wird, können wir(A)
+Lavos noch mehr Energie entziehen.(KN)
+Das höchste Ziel ewigen Lebens ist(A)
+nun in Reichweite!(KN)
+Allmächtige Königin...unser Königreich(A)
+des Eifers wird ewig blühen!(END)
+
+[>Pointer 256<]
+Dieses Leuchten...!?(KN)
+Dieses Amulett haben die Gurus(A)
+für Schala gemacht!(A)
+Wie seid Ihr da rangekommen?(END)
+
+[>Pointer 257<]
+Dieses Leuchten...!?(A)
+Ist dies Schalas Amulett?(END)
+
+[>Pointer 258<]
+Marle: Genau wie wir dachten.(AÜ)
+Sie rührt sich nicht.(END)
+
+[>Pointer 259<]
+Ayla: Seltsam.(AÜ)
+Wie kommen?(END)
+
+[>Pointer 260<]
+[Robo]: Diese Tür hat einen(AÜ)
+starken Verteidigungsmechanismus.(END)
+
+[>Pointer 261<]
+Lucca: Hm...(AÜ)
+Dieses Amulett...(END)
+
+[>Pointer 262<]
+Frog: Bloß eine TÜR hält uns(AÜ)
+Hände, Füße...und Zungen gebunden!(END)
+
+[>Pointer 263<]
+Marle: Jawoll, geschafft!(END)
+
+[>Pointer 264<]
+Lucca: Hehehe...(AÜ)
+Sogar so ein Kaventsmann von Tür(AÜ)
+beugt sich der Wissenschaft!(END)
+
+[>Pointer 265<]
+[Robo]: Kein Zweifel.(AÜ)
+Marle's Amulett besteht aus(AÜ)
+dem "Guru-Stein''.(END)
+
+[>Pointer 266<]
+Frog: Was ist die nächste(AÜ)
+Prüfung?(END)
+
+[>Pointer 267<]
+Ayla: Los!(AÜ)
+Keine Angst, Crono(2)!(END)
+
+[>Pointer 268<]
+Schala!(END)
+
+[>Pointer 269<]
+Oh, du bist zurück, Janus!(A)
+Stimmt etwas nicht?(END)
+
+[>Pointer 270<]
+Janus: Der schwarze Wind...(END)
+
+[>Pointer 271<]
+Schala: Du fühlst ihn also auch?(AÜ)
+Mach dir keine Sorgen.(END)
+
+[>Pointer 272<]
+Schala: Jetzt nimm dies.(END)
+
+[>Pointer 273<]
+Janus: Was ist das?(END)
+
+[>Pointer 274<]
+Schala: Es ist eine Art Talisman.(AÜ)
+Wenn mir etwas zustoßen sollte, wird(AÜ)
+er dich beschützen.(KNÜ)
+Ich wünschte, ich könnte immer(AÜ)
+für dich da sein...(AÜ)
+Doch Mutter hat andere Pläne.(END)
+
+[>Pointer 275<]
+Janus: Sie ist NICHT unsere Mutter!(AÜ)
+Sie hat ihr Gesicht, aber ihr Wesen(AÜ)
+ist verändert.(END)
+
+[>Pointer 276<]
+Schala: ......(KNÜ)
+Trotzdem kann ich nicht...(AÜ)
+Janus, es tut mir leid.(END)
+
+[>Pointer 277<]
+Verzeihung, Hoheit.(END)
+
+[>Pointer 278<]
+Die Königin verlangt Euer sofortiges(A)
+Erscheinen im Seepalast.(END)
+
+[>Pointer 279<]
+Schala: Natürlich.(END)
+
+[>Pointer 280<]
+Schala: Also, Janus...(AÜ)
+Ich mache mich auf den Weg.(END)
+
+[>Pointer 281<]
+Schala: Oh...!(AÜ)
+Wer mögt Ihr sein...?(END)
+
+[>Pointer 282<]
+Fräulein Schala, bitte beeilt Euch.(A)
+Kommt Ihr zu spät, werde ich(A)
+bestraft!(END)
+
+[>Pointer 283<]
+Schala: Oh, ja, verzeih bitte.(END)
+
+[>Pointer 284<]
+Janus: ......(AÜ)
+Haut ab.(END)
+
+[>Pointer 285<]
+Janus: Das ist Zeitverschwendung.(AÜ)
+Alfador mag nur mich.(END)
+
+[>Pointer 286<]
+Prophet: !?(END)
+
+[>Pointer 287<]
+Dalton: Oh!(AÜ)
+Also ihr seid es!(END)
+
+[>Pointer 288<]
+Königin: Wer seid ihr!?(AÜ)
+Wie seid ihr hier hereingekommen?(END)
+
+[>Pointer 289<]
+Prophet: Eure Majestät...(AÜ)
+Dies sind die Übeltäter, vor denen(AÜ)
+ich Euch gewarnt habe.(END)
+
+[>Pointer 290<]
+Königin: Wie KÖNNT ihr es wagen,(AÜ)
+euch mir zu widersetzen, ihr...(AÜ)
+...Fremden! Schlimmer als die Gurus!(END)
+
+[>Pointer 291<]
+Königin: Arme Narren!(AÜ)
+Dalton! Macht Ihr das!(END)
+
+[>Pointer 292<]
+Dalton: Gerne!(AÜ)
+Erlaubt mir...(END)
+
+[>Pointer 293<]
+Dalton: Golem!(END)
+
+[>Pointer 294<]
+Dalton: Mein armer Golem!(AÜ)
+Das ist unentschuldbar!(END)
+
+[>Pointer 295<]
+Königin: Muhahaha...(AÜ)
+Habt keine Angst...(AÜ)
+Ihr werdet nicht sterben...(AÜ)
+Zumindest nicht gleich!(KNÜ)
+Zu gegebener Zeit werdet ihr uns(AÜ)
+anflehen, euer Leiden zu beenden.(KNÜ)
+Welch köstliche Zerstreuung dies(AÜ)
+uns bieten wird!(END)
+
+[>Pointer 296<]
+Janus: Hmpf!(AÜ)
+Idioten...(AÜ)
+Was wirst du tun, Schala?(END)
+
+[>Pointer 297<]
+Schala: Befreien wir sie.(END)
+
+[>Pointer 298<]
+Janus: Ich glaube, das ist keine gute(AÜ)
+Idee. Wenn sie entkommen, bist du(AÜ)
+geliefert.(END)
+
+[>Pointer 299<]
+Schala: Mach dir um mich keine(AÜ)
+Sorgen.(KNÜ)
+Es könnte ihnen gelingen, die(AÜ)
+Gurus zu retten.(END)
+
+[>Pointer 300<]
+Janus: Schala...(END)
+
+[>Pointer 301<]
+Schala: Seid ihr in Ordnung?(AÜ)
+Schnell, flieht aus dem Palast!(KNÜ)
+Und wenn ihr könnt, findet bitte(AÜ)
+Melchior!(END)
+
+[>Pointer 302<]
+Schala: Er wurde zum Berg der(AÜ)
+Sühne geschickt, weil er sich(AÜ)
+der Königin widersetzt hat.(KNÜ)
+Bitte!(AÜ)
+Ihr müßt ihm helfen!(END)
+
+[>Pointer 303<]
+Ich fürchte, das kann ich(A)
+nicht erlauben.(END)
+
+[>Pointer 304<]
+Prophet: Eure Einmischungen sind(AÜ)
+ermüdend. Ihr müßt verschwinden!(END)
+
+[>Pointer 305<]
+Schala: Das dürft Ihr nicht!(END)
+
+[>Pointer 306<]
+Prophet: ......!(END)
+
+[>Pointer 307<]
+Janus: Halt!(END)
+
+[>Pointer 308<]
+Prophet: Gut...ich verschone sie.(KNÜ)
+Aber dafür werdet Ihr kooperieren,(AÜ)
+Schala!(END)
+
+[>Pointer 309<]
+Prophet: Nun, zeigt mir, wie ihr(AÜ)
+hierhergekommen seid.(END)
+
+[>Pointer 310<]
+Die Mammon-Maschine wurde in den(A)
+Seepalast gebracht, um Lavos'(A)
+Rohenergie zu erhalten.(END)
+
+[>Pointer 311<]
+Der Seepalast ist fertig.(A)
+Dieses Reich wird ewig währen!(END)
+
+[>Pointer 312<]
+Unser Königreich ist in ewiges Licht(A)
+getaucht.(KN)
+Es gibt weder Trauer noch Furcht,(A)
+nur ewigen Frieden.(END)
+
+[>Pointer 313<]
+Die Königin hat Schala in den(A)
+Seepalast gebracht.(KN)
+Wir Erleuchtete werden endlich(A)
+Unsterblichkeit erlangen.(END)
+
+[>Pointer 314<]
+Der Weg zum Seepalast führt durch(A)
+die Königshalle.(KN)
+Der Tag wird kommen, an dem alle die(A)
+strahlende Mammon-Maschine sehen werden.(END)
+
+[>Pointer 315<]
+Dalton: Pühhh!(AÜ)
+Warum darf der Prophet hinein,(AÜ)
+während ich Wache schieben muß?(END)
+
+[>Pointer 316<]
+Dalton: Ha!(AÜ)
+Da seid ihr...(END)
+
+[>Pointer 317<]
+Dalton: Der Prophet hat sowieso(AÜ)
+irgendwann ausgespielt. Aber um(AÜ)
+euch kümmere ich mich jetzt(AÜ)
+persönlich.(END)
+
+[>Pointer 318<]
+Dalton: Ihr seid Geschichte!(END)
+
+[>Pointer 319<]
+Dalton: N...neiiiin!(AÜ)
+Ich will unsterblich sein!(AÜ)
+Ich DARF jetzt nicht besiegt werden!(END)
+
+[>Pointer 320<]
+Mune: Die dunkle Energie wächst...(AÜ)
+Etwas Düsteres erwacht!(END)
+
+[>Pointer 321<]
+Königin: Schala, erhöhe die Effizienz(AÜ)
+der Mammon-Maschine bis an ihr(AÜ)
+Limit!(END)
+
+[>Pointer 322<]
+Schala: ......(END)
+
+[>Pointer 323<]
+Königin: Schala!(AÜ)
+Du wagst es, mir nicht zu(AÜ)
+gehorchen!?(END)
+
+[>Pointer 324<]
+Schala: Also gut, Mutter...(END)
+
+[>Pointer 325<]
+Prophet: ......(END)
+
+[>Pointer 326<]
+Königin: Oh...welch strahlende Pracht!(AÜ)
+Die unermeßliche Macht des Lavos!!!(END)
+
+[>Pointer 327<]
+Schala: Aaaargh...(END)
+
+[>Pointer 328<]
+Prophet: ......(END)
+
+[>Pointer 329<]
+Königin: Aaaahh, ich kann ihn(AÜ)
+fühlen...den Puls ewigen Lebens!!!(AÜ)
+Hahahaha...!(END)
+
+[>Pointer 330<]
+Schala: D...dunkle...Kraft...wilde(AÜ)
+Energie...! Oooohhhh!(END)
+
+[>Pointer 331<]
+Prophet: ......!!!(END)
+
+[>Pointer 332<]
+D...die Mammon-Maschine!(A)
+Eure Majestät, es ist zu gefährlich!(END)
+
+[>Pointer 333<]
+Schala: Mutter...!(END)
+
+[>Pointer 334<]
+Königin: Hör nicht auf, Schala!(AÜ)
+Wir haben es fast geschafft...(KNÜ)
+Unser Lohn wird Unsterblichkeit(AÜ)
+sein! Das Reich des Eifers erhält(AÜ)
+den Ruhm, den es verdient!(END)
+
+[>Pointer 335<]
+Königin: Muahaha...(AÜ)
+Zu lange habe ich gewartet...!(END)
+
+[>Pointer 336<]
+Dies ist die Halle der Mammon-(A)
+Maschine...(KN)
+Noch könnt ihr umkehren, nu...(END)
+
+[>Pointer 337<]
+Marle: Schala!(AÜ)
+Wir müssen dich retten, komm!!!(END)
+
+[>Pointer 338<]
+Lucca: Wir haben es gerade(AÜ)
+geschafft!(KNÜ)
+Es ist ein Jammer, aber diese(AÜ)
+Maschine muß zerstört werden.(END)
+
+[>Pointer 339<]
+[Robo]: Diese Gravitation!?(AÜ)
+Ich spüre einen Dimensions-Warp!(END)
+
+[>Pointer 340<]
+Frog: Mich deucht, Euer Spiel(AÜ)
+mit Lavos ist aus, Königin!(END)
+
+[>Pointer 341<]
+Ayla: Ayla bereit!(AÜ)
+Wo starke Monster!?(END)
+
+[>Pointer 342<]
+Schala: Ihr seid...!(END)
+
+[>Pointer 343<]
+Schala: Hilfe!!!(END)
+
+[>Pointer 344<]
+Prophet: Schala...!(END)
+
+[>Pointer 345<]
+Königin: Was soll das, Schala!?(AÜ)
+Ich brauche deine Hilfe!(END)
+
+[>Pointer 346<]
+Marle: Crono...!(AÜ)
+Der Rubindolch!(END)
+
+[>Pointer 347<]
+Lucca: Schnell, Crono!(AÜ)
+Wir haben keine Zeit!(END)
+
+[>Pointer 348<]
+[Robo]: Benutze Melchiors(AÜ)
+Dolch, um die Maschine zu(AÜ)
+sabotieren.(END)
+
+[>Pointer 349<]
+Frog: Crono, stoppe die(AÜ)
+Maschine mit dem Dolch des alten(AÜ)
+Mannes!(END)
+
+[>Pointer 350<]
+Ayla: Crono(2)!(AÜ)
+Roten Dolch benutzen!!!(END)
+
+[>Pointer 351<]
+Masa: Auf geht's, Mune!(END)
+
+[>Pointer 352<]
+Mune: Fertig, großer Bruder!(END)
+
+[>Pointer 353<]
+Frog: Das...(AÜ)
+...das Masamune!?(END)
+
+[>Pointer 354<]
+Lucca: Die Energie der Maschine(AÜ)
+hat aus dem Dolch ein Schwert(AÜ)
+gemacht?(END)
+
+[>Pointer 355<]
+Marle: Wow...!(AÜ)
+Er ist das Masamune geworden!?(END)
+
+[>Pointer 356<]
+[Robo]: Durch die Maschine(AÜ)
+wurde der Dolch zum Schwert?(END)
+
+[>Pointer 357<]
+Königin: D...die Mammon-Maschine!?(END)
+
+[>Pointer 358<]
+Prophet: Er kommt...!(END)
+
+[>Pointer 359<]
+Schala: Das Schwert allein vermag(AÜ)
+sie nicht zu stoppen!(END)
+
+[>Pointer 360<]
+Darauf habe ich gewartet...(END)
+
+[>Pointer 361<]
+Magus: Da bist du endlich,(AÜ)
+Lavos.(END)
+
+[>Pointer 362<]
+Magus: Vor langer Zeit schwor(AÜ)
+ich...dich zu zerstören!(AÜ)
+Und zwar um jeden Preis!(KNÜ)
+Zeit, diesen Schwur zu erfüllen.(AÜ)
+Fühle meinen Zorn, Lavos!!!(END)
+
+[>Pointer 363<]
+Was, glaubt Ihr, könnt Ihr tun?(END)
+
+[>Pointer 364<]
+Königin: Hmpf!(AÜ)
+Ein falscher Prophet...(AÜ)
+Du bist des großen Lavos(AÜ)
+Frühstück!(END)
+
+[>Pointer 365<]
+Schala: Mutter, bitte hör auf!(KNÜ)
+Diese Macht kann nur in(AÜ)
+Zerstörung enden!(END)
+
+[>Pointer 366<]
+Königin: Geh da weg, Schala!(KNÜ)
+Die allmächtige Lebenskraft von(AÜ)
+Lavos lebt in uns allen...(AÜ)
+Du bist ein Teil von ihr!(KNÜ)
+Du kannst das Schicksal nicht ändern!(AÜ)
+Widersetze dich mir, und ich(AÜ)
+vernichte auch dich!(END)
+
+[>Pointer 367<]
+Aaaah!(END)
+
+[>Pointer 368<]
+Neiiiiin!(END)
+
+[>Pointer 369<]
+Schala: Hiiiiilfe!(END)
+
+[>Pointer 370<]
+Magus: Oh nein...(END)
+
+[>Pointer 371<]
+Königin: Komm, "Prophet'', fühle(AÜ)
+Lavos' Macht!(END)
+
+[>Pointer 372<]
+Magus: Urchz!(END)
+
+[>Pointer 373<]
+Magus: Aaaah!!(AÜ)
+Meine Kraft wird mir entzogen!(END)
+
+[>Pointer 374<]
+Magus: Hrchz...(AÜ)
+Ich gebe...mich nicht...geschlagen!(KNÜ)
+Ich habe die Dunkelheit überlebt,(AÜ)
+um dich zu besiegen, Lavos!(END)
+
+[>Pointer 375<]
+Magus: Nimm das, Lavos!(KNÜ)
+Oohhh!(END)
+
+[>Pointer 376<]
+Magus: W...was...?(AÜ)
+Es geht nicht!?(KNÜ)
+Aaaaarghh!!!(END)
+
+[>Pointer 377<]
+Königin: Alter Narr!(AÜ)
+Deine mickrige Kraft ist für(AÜ)
+Lavos wie ein Mückenstich!(END)
+
+[>Pointer 378<]
+Königin: Hier, von mir für dich!(AÜ)
+Du wirst ewiges Leben genießen...(AÜ)
+...als ein Teil von Lavos!(KNÜ)
+Uwahahaha...!(END)
+
+[>Pointer 379<]
+Marle: Kannst du dich bewegen,(AÜ)
+Crono? Bitte hilf Schala!(END)
+
+[>Pointer 380<]
+Lucca: S...seid ihr okay?(AÜ)
+Es scheint, wir werden alle...oooh!(END)
+
+[>Pointer 381<]
+Frog: Magus!(AÜ)
+Du gehörst mir!(END)
+
+[>Pointer 382<]
+Ayla: Aufstehen, Crono(2)!(AÜ)
+Ayla nicht verlieren wollen!(END)
+
+[>Pointer 383<]
+[Robo]: Der Dimensions-Warp wird(AÜ)
+größer! Wir müssen hier weg!(END)
+
+[>Pointer 384<]
+Marle: Crono...(AÜ)
+Wir können Schala nicht hierlassen.(END)
+
+[>Pointer 385<]
+Frog: Aack...!(AÜ)
+Halt...Magus!(END)
+
+[>Pointer 386<]
+Lucca: Die Wissenschaft hat(AÜ)
+also doch ihre Grenzen.(END)
+
+[>Pointer 387<]
+[Robo]: Geraten wir in dieses(AÜ)
+Energiefeld, wird unsere molekulare(AÜ)
+Struktur durchbrochen!(END)
+
+[>Pointer 388<]
+Ayla: Krächz...!(AÜ)
+Ayla nicht verlieren!(AÜ)
+Jetzt kämpfen!(END)
+
+[>Pointer 389<]
+Schala: B...bitte flieh...Crono!(AÜ)
+Menschen sind nicht fähig, ihn(AÜ)
+zu besiegen.(END)
+
+[>Pointer 390<]
+Königin: Aha! Du bist Crono.(AÜ)
+Warum tust du nicht, was Schala(AÜ)
+sagt, und rennst weg, um dein(AÜ)
+Leben schreiend?(KNÜ)
+Ist es dir etwa nichts wert?(AÜ)
+Muahahaha!(END)
+
+[>Pointer 391<]
+Magus: S...Schala...(AÜ)
+Geht es dir gut?(END)
+
+[>Pointer 392<]
+Königin: Immer noch nicht genug?(AÜ)
+Was erhoffst du dir?(KNÜ)
+Lavos mit deinem schwachen Körper(AÜ)
+herauszufordern?(END)
+
+[>Pointer 393<]
+Königin: Wuhahaha...(AÜ)
+Spüre Lavos' Macht, und verglühe(AÜ)
+in seinem Zorn!(END)
+
+[>Pointer 394<]
+Marle: Crono!!!(END)
+
+[>Pointer 395<]
+Lucca: Hör auf, Crono!(END)
+
+[>Pointer 396<]
+[Robo]: Crono!(END)
+
+[>Pointer 397<]
+Frog: Nimm Abstand, Crono!!!(END)
+
+[>Pointer 398<]
+Ayla: Crono(2)!(END)
+
+[>Pointer 399<]
+Magus: Lavos!!!(END)
+
+[>Pointer 400<]
+Crono...!?
+>H<03
+(KAÜ)
+>H<03
+(END)
+
+[>Pointer 401<]
+Crono...!
+>H<03
+(KA)
+>H<03
+(END)
+
+[>Pointer 402<]
+Marle: Crono?(AÜ)
+Wo ist Crono...!?(KNÜ)
+NEIIIIIN!!!(END)
+
+[>Pointer 403<]
+Lucca: Crono...!(AÜ)
+Ich konnte nichts für dich tun!(END)
+
+[>Pointer 404<]
+[Robo]: Der Palast stürzt ein!(KNÜ)
+Wir müssen sofort fliehen!(END)
+
+[>Pointer 405<]
+Frog: Argh...!(KNÜ)
+Planen wir unsere Flucht!(AÜ)
+Der Palast erzittert!(END)
+
+[>Pointer 406<]
+Ayla: Hier Meeresboden!(AÜ)
+Was tun?(END)
+
+[>Pointer 407<]
+Magus: Ich kann ihn...nicht(AÜ)
+schlagen. Lavos...!(END)
+
+[>Pointer 408<]
+Schala: Die verbleibende Kraft(AÜ)
+meines Amuletts bringt euch(AÜ)
+in Sicherheit.(END)
+
+[>Pointer 409<]
+Schala: Ich weiß, ihr könnt ihr nicht(AÜ)
+vergeben, aber...(KNÜ)
+...bitte haßt weder Mutter noch(AÜ)
+unser Königreich.(END)
+
+[>Pointer 410<]
+Schala: Es tut mir so leid!(KNÜ)
+Doch nun geht, rasch!(END)
+
+[>Pointer 411<]
+Magus: ......!(END)
+
+[>Pointer 412<]
+Schala: ......
+>H<0304
+(AÜ)
+Crono......
+>H<03
+(KAÜ)
+>H<03
+(END)
+
+[>Pointer 413<]
+Marle: Crono...!(END)
+
+[>Pointer 414<]
+Lucca: Der Chrono Trigger...(AÜ)
+...das Zeit-Ei des Gurus...!(KNÜ)
+Und da sind wir alle!(AÜ)
+Zurück an jenem Moment!(END)
+
+[>Pointer 415<]
+[Robo]: Es scheint, die Zeit(AÜ)
+wurde angehalten!(END)
+
+[>Pointer 416<]
+Magus: Gefrorene Zeit...(AÜ)
+Das hätte ich nie für möglich(AÜ)
+gehalten.(END)
+
+[>Pointer 417<]
+Frog: Ein echtes Gruselkabinett...(END)
+
+[>Pointer 418<]
+Ayla: Nur wir bewegen?(END)
+
+[>Pointer 419<]
+Wir ersetzen Crono einfach(A)
+durch den Klon.(END)
+
+[>Pointer 420<]
+Marle: Crono?(KNÜ)
+Es ist Crono...!(AÜ)
+Crono!?(AÜ)
+Du lebst!!!!(END)
+
+[>Pointer 421<]
+Lucca: Wir müssen uns beeilen!(END)
+
+[>Pointer 422<]
+[Robo]: Wie erleichternd!(AÜ)
+Crono, es geht dir gut!(END)
+
+[>Pointer 423<]
+Frog: Welch unheimlicher Ort.(AÜ)
+Ziehen wir uns rasch zurück.(END)
+
+[>Pointer 424<]
+Ayla: Beeilung!(AÜ)
+Wir Crono(2) nehmen!(END)
+
+[>Pointer 425<]
+Magus: Spart euch die Begrüßungen(AÜ)
+auf! Wir haben zu tun.(END)
+
+[>Pointer 426<]
+Magus: ......(END)
+
+[>Pointer 427<]
+Magus: Wie schade...(KNÜ)
+...daß wir nicht noch mehr(AÜ)
+verändern können.(END)
+
+[>Pointer 428<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 429<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 430<]
+Königin: Also, Melchior?(AÜ)
+Du siehst, die Mammon-Maschine(AÜ)
+arbeitet perfekt.(KNÜ)
+Deine Sorgen waren fehl am Platz.(END)
+
+[>Pointer 431<]
+Königin: Der Guru der Vernunft,(AÜ)
+Balthasar.(END)
+
+[>Pointer 432<]
+Königin: Und der Guru der Zeit,(AÜ)
+Kaspar.(END)
+
+[>Pointer 433<]
+Königin: Ihr Narren, seht gut her.(KNÜ)
+Lavos erwacht!(AÜ)
+Für das Reich des Eifers wird(AÜ)
+die Sonne niemals untergehen!(END)
+
+[>Pointer 434<]
+Kaspar: Hmm...!(AÜ)
+Ein Dimensions-Warp!(KN)
+Balthasar: Diese Macht ist von(AÜ)
+Menschen nicht kontrollierbar!(END)
+
+[>Pointer 435<]
+Melchior: Nein...!(AÜ)
+Wir werden hineingezogen!(END)
+
+[>Pointer 436<]
+Schala!!!(END)
+
+[>Pointer 437<]
+Schala: Nein, Janus!!!(AÜ)
+Bleib weg!(END)
+
+[>Pointer 438<]
+Janus: A...aber!?(END)
+
+[>Pointer 439<]
+Melchior: Es...es ist ein...!!!(END)
+
+[>Pointer 440<]
+Kaspar: Ein Zeittor!?(END)
+
+[>Pointer 441<]
+Balthasar: Nein!!!(END)
+
+[>Pointer 442<]
+Schala: Gurus!!!(END)
+
+[>Pointer 443<]
+Janus: S...Schalaaaa!!!(END)
+
+[>Pointer 444<]
+Schala: Janus!!!(END)
+
+
+[>DUMP END<]----------------------------------------------------------

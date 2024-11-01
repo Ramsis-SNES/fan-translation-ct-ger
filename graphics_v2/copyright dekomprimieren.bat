@@ -1,0 +1,1 @@
+decomp.exe ctdtv20b.swc ctcopyright.bin 3e6202 12 0

@@ -1,0 +1,924 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 1]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [001EC376h]
+Size  [0000213Bh][00003735h][2]
+pStart[001EC200h]
+pFirst[C176h-187]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Info (VAR3)
+(AÜ)
+X  (VAR2)
+  (VAR2)
+(AÜ)
+Y  (VAR2)
+  (VAR2)
+(END)
+
+[>Pointer 2<]
+Scheint eine Statue zu sein.(KN)
+Ein Zettel hängt daran.(KN)
+"Warnung.(A)
+Wer sich in der Nähe des Lagerraums(A)
+aufhält, wird angegriffen!''(END)
+
+[>Pointer 3<]
+Marle: Da ist sie!(END)
+
+[>Pointer 4<]
+Lucca: Schhh! Nicht daß sie(AÜ)
+wegrennt.(KNÜ)
+Rennen wir ihr nach (B-Knopf)(AÜ)
+und fangen sie (A-Knopf)!(END)
+
+[>Pointer 5<]
+Na also!(KN)
+Quiek!(A)
+Ich gebe auf.(KN)
+Ich sage euch alles.(KN)
+Haltet die Knöpfe L und R gedrückt(A)
+und drückt A, um den Geheimgang(A)
+zu erreichen, quiek.(KN)
+Macht keine Fehler, es würde(A)
+euch leid tun!(END)
+
+[>Pointer 6<]
+Marle: Puh!(AÜ)
+Da stinkt's!(END)
+
+[>Pointer 7<]
+Lucca: Alles ist total vergammelt.(AÜ)
+Das Kühlaggregat muß ausgefallen(AÜ)
+sein...(END)
+
+[>Pointer 8<]
+Marle: Crono, schau!!!(KNÜ)
+...(KNÜ)
+...(KNÜ)
+Der ist vor langer Zeit gestorben,(AÜ)
+denke ich...(END)
+
+[>Pointer 9<]
+Marle: Er hat etwas in der Hand.(AÜ)
+Was könnte das sein?(END)
+
+[>Pointer 10<]
+Lucca: Es sieht aus wie ein(AÜ)
+Samenkorn.(END)
+
+[>Pointer 11<]
+Marle: Samen?(AÜ)
+Aber ob an einem Ort wie diesem(AÜ)
+Pflanzen gedeihen können?(END)
+
+[>Pointer 12<]
+Folgendes steht auf einem(A)
+schmutzigen Stück Papier...(KN)
+"Die Ratte ist nicht bloß eine Statue!(A)
+Sie kennt das Geheimnis dieser(A)
+Kuppel. Fangt sie!''(END)
+
+[>Pointer 13<]
+Programm wird ausgeführt...(END)
+
+[>Pointer 14<]
+Marle: Crono!(AÜ)
+Was ist hier los?(END)
+
+[>Pointer 15<]
+Lucca: Marle!(KNÜ)
+Achtung!(END)
+
+[>Pointer 16<]
+Alter Mann: ......(END)
+
+[>Pointer 17<]
+Alter Mann: Nein!(KNÜ)
+Ihr dürft nicht auf den Todesgipfel!(KNÜ)
+Ihr würdet nicht weit kommen!(AÜ)
+Der Zeitpunkt muß stimmen...(AÜ)
+...und SIE müssen euch den Weg(AÜ)
+zeigen!(END)
+
+[>Pointer 18<]
+Alter Mann: Schala...(AÜ)
+Ich habe dich vermißt...(END)
+
+[>Pointer 19<]
+Alter Mann: Habt ihr meine Meisterwerke(AÜ)
+gesehen? Seepalast und Düstervogel?(AÜ)
+Ich habe sie beide entworfen und(AÜ)
+gebaut.(END)
+
+[>Pointer 20<]
+Seltsame Kreatur: Welche Freude, daß(AÜ)
+Ihr mich für würdig befindet, oh(AÜ)
+Weiser! Ich erwarte Euren letzten(AÜ)
+Programmcode.(END)
+
+Alter Mann: Mach mich nicht(AÜ)
+sentimental, Kreatur! An die(AÜ)
+Arbeit!(END)
+
+[>Pointer 21<]
+Häh?(END)
+
+[>Pointer 22<]
+Wer immer die Tür geöffnet hat, höre(A)
+nun zu. Ich bin Balthasar, Guru der(A)
+Vernunft.(KN)
+Ich lebte einst im Königreich des(A)
+Eifers, von wo mich ein großes(A)
+Unglück in diese Ära warf.(KN)
+Zu meiner Überraschung ist Lavos(A)
+hier, und ich vermute, auch in anderen(A)
+Epochen. Vor Äonen kam Lavos vom(A)
+Himmel herunter.(KN)
+Er grub sich tief in den Kern des(A)
+Planeten ein, begann, ihn zu(A)
+verbrauchen, und wurde stärker.(END)
+
+[>Pointer 23<]
+Lavos verschwand kurzzeitig, als er(A)
+von einem mächtigen Zauberer, der(A)
+um das Jahr 600 in Guardia lebte,(A)
+gebannt wurde...(KN)
+Im Jahr 1999 beansprucht er dieses(A)
+Land für sich und regiert es vom(A)
+Todesgipfel aus.(KN)
+Lavos wird sich vervielfältigen......(A)
+...und wie ein riesenhafter Parasit(A)
+unsere Welt verbrauchen.(END)
+
+[>Pointer 24<]
+Ich war gezwungen, hier zu leben, und(A)
+setzte meine Forschungen über Lavos(A)
+fort. Aber ich werde alt...(KN)
+Und es ist unmöglich, in solch schweren(A)
+Zeiten nicht verrückt zu werden.(A)
+Bevor dies geschieht, werde ich meine(A)
+Daten sowie mein Lebenswerk retten...(END)
+
+[>Pointer 25<]
+Ich plante, in meine eigene Ära(A)
+zurückzukehren. Doch mein Leben(A)
+ging vorher zu Ende...(KN)
+Also werde ich euch...EUCH, die ihr(A)
+die Tür geöffnet habt, all diese(A)
+Dinge anvertrauen.(KN)
+Nur indem ihr euch zusammentut,(A)
+könnt ihr Lavos beikommen.(END)
+
+[>Pointer 26<]
+Die Chancen stehen nicht gut...(A)
+Aber ihr seid wahre Helden.(A)
+Ihr müßt die Welt retten.(KN)
+Öffnet nun die letzte Tür und(A)
+nehmt, was ihr dort findet.(A)
+Meine letzte Erfindung...(A)
+...die "Flügel der Zeit''...(END)
+
+[>Pointer 27<]
+Marle: Wow...unglaublich...(KNÜ)
+Äh, wo ist bei dem Ding vorne?(END)
+
+[>Pointer 28<]
+Lucca: Das muß die Erfindung(AÜ)
+sein, die Balthasar gemeint hat.(END)
+
+[>Pointer 29<]
+[Robo]: Die "Flügel der Zeit''...(AÜ)
+Ich habe davon gehört.(END)
+
+[>Pointer 30<]
+Frog: Eine...Zeitmaschine?(END)
+
+[>Pointer 31<]
+Ayla: !!(KNÜ)
+Was das?(END)
+
+[>Pointer 32<]
+Hier ist ein seltsames Emblem(A)
+eingraviert. Es ist durch eine(A)
+unbekannte Kraft versiegelt.(END)
+
+[>Pointer 33<]
+Das Amulett schimmert...!(END)
+
+[>Pointer 34<]
+Seltsame Kreatur: Das letzte(AÜ)
+Programm des Gurus war sein(AÜ)
+eigenes Begräbnis.(KNÜ)
+Bald werde auch ich für immer(AÜ)
+schlafen dürfen.(KNÜ)
+Aber zuerst...(KNÜ)
+...muß ich etwas tun.(KNÜ)
+......(KNÜ)
+......(KNÜ)
+......(KNÜ)
+Programmfehler...(AÜ)
+...meine Speicherbänke sind defekt...(END)
+
+[>Pointer 35<]
+Seltsame Kreatur: Bitte stört meinen(AÜ)
+Schlummer nicht.(END)
+
+[>Pointer 36<]
+Seltsame Kreatur: Vorsicht.(AÜ)
+Die Zeitachse ist aus dem Gleichgewicht(AÜ)
+geraten.(END)
+
+[>Pointer 37<]
+Seltsame Kreatur: Habe ich euch(AÜ)
+erschreckt?(KNÜ)
+Ich bin's...BALTHASAR...!(KNÜ)
+Ich habe mein Gedächtnis in dieses(AÜ)
+Ding kopiert.(AÜ)
+Klasse, oder?(KNÜ)
+Wie auch immer, ich sollte vielleicht(AÜ)
+etwas erklären.(KNÜ)
+Und zwar das Zeitreisen!(KNÜ)
+Drücke den Y-Knopf, um das(AÜ)
+Chronometer aufzurufen.(KNÜ)
+Wähle dann mit den Knöpfen(AÜ)
+L und R eine Ära.(END)
+
+[>Pointer 38<]
+Balthasar: Ach ja!(AÜ)
+Möchtet ihr, bevor ihr geht...(END)
+
+[>Pointer 39<]
+Balthasar: ...meiner Maschine nicht(AÜ)
+einen Namen geben?(END)
+
+[>Pointer 40<]
+Balthasar: Und los geht's!(END)
+
+[>Pointer 41<]
+Nicht einschlafen!
+>H<03
+(END)
+
+[>Pointer 42<]
+Seltsame Kreatur: Anleitung zur(AÜ)
+Benutzung der Zeitmaschine...(KNÜ)
+Der Y-Knopf ruft das Chronometer(AÜ)
+auf.(KNÜ)
+Eine Zielzeit kann dann mit den(AÜ)
+Knöpfen L und R oder dem(AÜ)
+Steuerkreuz gewählt werden.(KNÜ)
+Mit dem A-Knopf könnt ihr ein-(AÜ)
+und aussteigen und die Zielzeit(AÜ)
+bestätigen.(KNÜ)
+Ende der Nachricht des Weisen.(END)
+
+[>Pointer 43<]
+Seltsame Kreatur: Bitte gib der(AÜ)
+Maschine einen Namen.(END)
+
+[>Pointer 44<]
+Wache: Banditen!(AÜ)
+Muß Herrn Kriechrich berichten!(END)
+
+[>Pointer 45<]
+Untergebener: Hier WAR eine Brücke!(AÜ)
+Ich hab sie gesehen, quak!(END)
+
+[>Pointer 46<]
+Boß: Idiot!(AÜ)
+Grr...quak!(AÜ)
+Hier ist nichts!(END)
+
+[>Pointer 47<]
+Untergebener: A...aber es stimmt, quak...(END)
+
+[>Pointer 48<]
+Boß: Da kommt wer!(AÜ)
+Hauen wir ab, grrrr...quak!(END)
+
+[>Pointer 49<]
+Marle: Das ist aber ziemlich(AÜ)
+gruselig...(END)
+
+[>Pointer 50<]
+Lucca: Ein unheimlicher Ort.(AÜ)
+Ich habe kein gutes Gefühl...(END)
+
+[>Pointer 51<]
+Ayla: Schlechter Ort!(AÜ)
+Viel Gefahr.(END)
+
+[>Pointer 52<]
+Notiz:(KN)
+(A)
+Geht nochmal zurück und betätigt(A)
+den Schalter!(END)
+
+[>Pointer 53<]
+Wache: Die drei sind fast da!(END)
+
+[>Pointer 54<]
+Herr Kriechrich: Als ob die Kanalisation(AÜ)
+ihnen gehört! Sie müssen lebensmüde(AÜ)
+sein! Wir werden ihnen eine Lektion(AÜ)
+erteilen!(END)
+
+[>Pointer 55<]
+Wache: Zeigen wir's ihnen.(AÜ)
+HIHI!(END)
+
+[>Pointer 56<]
+Herr Kriechrich: Laßt sie nur(AÜ)
+hierherkommen!(AÜ)
+Wir machen Hackfleisch aus ihnen!(END)
+
+[>Pointer 57<]
+Herr Kriechrich: Hahahaha!(KN)
+Wache: Hihihihi!(KN)
+Herr Kriechrich: Harharharhar!(KN)
+Wache: HAHAHAHAHA!(KN)
+Herr Kriechrich: HIIHIIHIIHIIHII!(END)
+
+[>Pointer 58<]
+Wache: !(END)
+
+[>Pointer 59<]
+Herr Kriechrich: Häh?(END)
+
+[>Pointer 60<]
+Klappe!(A)
+Hau ab!(END)
+
+[>Pointer 61<]
+Berge sind schön.(END)
+
+[>Pointer 62<]
+Das ist das Leben.(END)
+
+[>Pointer 63<]
+Berge sind schön.(END)
+
+[>Pointer 64<]
+Bist du aber neugierig.(A)
+Hier, bitte.(END)
+
+[>Pointer 65<]
+Azala: Hört ihr diese liebliche Stimme?(AÜ)
+Ihr werdet gleich die besten(AÜ)
+Freunde!(END)
+
+[>Pointer 66<]
+Azala: Roter Stern...(KNÜ)
+Falle hernieder!(KNÜ)
+Färbe die Erde...ROT!(END)
+
+[>Pointer 67<]
+Azala: Muahaha!(AÜ)
+Mit dem Nachttyrano werde ich diese(AÜ)
+dreckigen Affen ausmerzen!(END)
+
+[>Pointer 68<]
+Azala: Ihr seid also endlich hier.(AÜ)
+Dies ist er, der Showdown.(AÜ)
+Heute wird ein Schlußstrich gezogen.(KNÜ)
+Werden wir Reptiten oder ihr(AÜ)
+dummen Affen die Erde beherrschen?(END)
+
+[>Pointer 69<]
+Ayla: Starke überleben.(AÜ)
+Ayla stark.(AÜ)
+Ayla kämpfen!(END)
+
+[>Pointer 70<]
+Azala: Auch wenn das Schicksal(AÜ)
+uns untergehen läßt, werden wir(AÜ)
+euch die Welt nicht kampflos(AÜ)
+überlassen!(END)
+
+[>Pointer 71<]
+Azala: Nein...es kann nicht sein...!(AÜ)
+Sind die Himmel auf der Seite der(AÜ)
+Affen?(KNÜ)
+Hört zu, Primaten, und erzählt es(AÜ)
+weiter. Wir Reptiten haben tapfer(AÜ)
+bis zum bitteren Ende gekämpft!(END)
+
+[>Pointer 72<]
+Ayla: Ayla verstehen.(END)
+
+[>Pointer 73<]
+Ayla: !?(END)
+
+[>Pointer 74<]
+Azala: Bald wird es Feuerkiesel(AÜ)
+regnen. Flammen werden das Land(AÜ)
+verbrennen. Die Ebenen werden(AÜ)
+langsam einfrieren.(KNÜ)
+Eine lange, grausame Eiszeit folgt!(AÜ)
+Muhaha...welch Genugtuung!(AÜ)
+Ihr werdet euch wünschen, an(AÜ)
+unserer Stelle zu sein!(END)
+
+[>Pointer 75<]
+Ayla: Lavos...(END)
+
+[>Pointer 76<]
+Marle: Was!?(END)
+
+[>Pointer 77<]
+Lucca: Woher weißt du...?(END)
+
+[>Pointer 78<]
+[Robo]: Du weißt von ihm?(END)
+
+[>Pointer 79<]
+Ayla: Ayla's Wort.(AÜ)
+"La'' ist Feuer.(AÜ)
+"Vos'' ist groß...(END)
+
+[>Pointer 80<]
+Ayla!(END)
+
+[>Pointer 81<]
+Ayla: Kino!(END)
+
+[>Pointer 82<]
+Ayla: Beeilen!(AÜ)
+Lavos bald kommen!(END)
+
+[>Pointer 83<]
+Ayla: Alle Daktyl reiten!(END)
+
+[>Pointer 84<]
+Ayla: Kino!(AÜ)
+Beeilen!!!(END)
+
+[>Pointer 85<]
+Kino: Ayla!(AÜ)
+Was du tun...!?(END)
+
+[>Pointer 86<]
+Ayla: Kommen!(AÜ)
+Azala!(AÜ)
+Mitkommen!(END)
+
+[>Pointer 87<]
+Azala: Absolut nicht!(AÜ)
+Die Kräfte der Natur haben(AÜ)
+gesprochen.(END)
+
+[>Pointer 88<]
+Ayla: ...(END)
+
+[>Pointer 89<]
+Kino: Ayla!(AÜ)
+Beeilen!!!(END)
+
+[>Pointer 90<]
+Ayla: Azala...(KNÜ)
+...ich nicht vergessen...(END)
+
+[>Pointer 91<]
+Azala: Die Zukunft...(END)
+
+[>Pointer 92<]
+Ayla: Zukunft?(AÜ)
+Was damit sein?(END)
+
+[>Pointer 93<]
+Azala: Wir...haben keine Zukunft...(END)
+
+[>Pointer 94<]
+Nizbel: Azala ist dort hinten.(END)
+
+[>Pointer 95<]
+Nizbel: Moment mal.(KNÜ)
+Dies ist ein besonderer Ort.(AÜ)
+Hier wurde der große Nizbel besiegt!(END)
+
+[>Pointer 96<]
+Nizbel: Gut, gut!(KNÜ)
+Machen wir etwa einen kleinen(AÜ)
+Spaziergang?(END)
+
+[>Pointer 97<]
+Untergebener: Der Schalter baut eine(AÜ)
+Brücke, quak!(END)
+
+[>Pointer 98<]
+Boß: Dann leg ihn um, quak!(END)
+
+[>Pointer 99<]
+Untergebener: Quaaaaaaaaaaak!(KNÜ)
+Ich komm nicht ran, quak!(END)
+
+[>Pointer 100<]
+Boß: Und du schimpfst dich einen(AÜ)
+Frosch, quak, QUAK!(END)
+
+[>Pointer 101<]
+Ein Tagebuch.(A)
+Dies ist die letzte Seite.(KN)
+"Es ist vorbei.(A)
+Die Fischmenschen greifen beim(A)
+leisesten Geräusch an.(KN)
+Lieber laß ich mir die Zähne abfeilen,(A)
+als sie zu bekämpfen.''(END)
+
+[>Pointer 102<]
+Seltsame Kreatur: Murmel, murmel?(AÜ)
+   Abfliegen.(AÜ)
+   Aussteigen.(END)
+
+[>Pointer 103<]
+Marle: Hauen wir ab!(END)
+
+[>Pointer 104<]
+Lucca: Los, [Epoch]!(END)
+
+[>Pointer 105<]
+[Robo]: Vorwärts, [Epoch]!(END)
+
+[>Pointer 106<]
+Frog: Hi ho, [Epoch]!!!(END)
+
+[>Pointer 107<]
+Ayla: [Epoch], LOS!(END)
+
+[>Pointer 108<]
+Magus: Los geht's.(END)
+
+[>Pointer 109<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 110<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 111<]
+Seltsame Kreatur: Ich werde nun eine(AÜ)
+Nachricht des Weisen übermitteln.(END)
+
+[>Pointer 112<]
+Balthasar: Auf dem Todesgipfel ist(AÜ)
+die Kraft des Lebens zu finden.(KNÜ)
+Doch um diese zu aktivieren, muß(AÜ)
+der oder die Verstorbene wichtig(AÜ)
+für das Raum-Zeit-Kontinuum(AÜ)
+sein.(KNÜ)
+Und man braucht einen Klon, eine(AÜ)
+exakt gefertigte Puppe dieser(AÜ)
+Person. Nur dann kann ein(AÜ)
+Chrono Trigger magisch wirken...(END)
+
+[>Pointer 113<]
+Balthasar: Genug.(KNÜ)
+Die Zeit ist für euch gekommen,(AÜ)
+den Todesgipfel zu besteigen. Dort(AÜ)
+werdet ihr euren Freund retten(AÜ)
+können.(KNÜ)
+Das letzte Programm, das ich in(AÜ)
+die Speicherbänke dieser Kreatur(AÜ)
+implantiert habe, hilft euch, den(AÜ)
+Berg zu bezwingen.(KNÜ)
+Tretet zurück.(END)
+
+[>Pointer 114<]
+Balthasar: Geht nicht ohne den Klon(AÜ)
+zum Todesgipfel.(AÜ)
+Nun brecht auf!(END)
+
+[>Pointer 115<]
+Balthasar: Einen Klon?(AÜ)
+Der Magier Norstein Bekkler könnte(AÜ)
+innerhalb von Sekunden einen(AÜ)
+herzaubern.(KNÜ)
+Bekkler liebt Festivals. Seht(AÜ)
+euch um, wo gefeiert wird, und(AÜ)
+ihr werdet Bekkler antreffen.(END)
+
+[>Pointer 116<]
+Programm wird ausgeführt!(END)
+
+[>Pointer 117<]
+Balthasar: Diese drei Wesen werden(AÜ)
+euch beim Besteigen des(AÜ)
+Todesgipfels helfen.(KNÜ)
+Ende meiner Nachricht.(KNÜ)
+Nun tut mir bitte einen letzten(AÜ)
+Gefallen.(KNÜ)
+Das Programm ist abgelaufen.(AÜ)
+Diese Kreatur hat ihren Zweck(AÜ)
+erfüllt.(KNÜ)
+Bitte schaltet sie ab und(AÜ)
+gewährt ihr ewigen Schlaf.(AÜ)
+Der Schalter ist am Bauch.(END)
+
+[>Pointer 118<]
+Kreatur abschalten?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 119<]
+Diese Kreatur schläft jenseits des(A)
+Stroms der Zeit.(END)
+
+[>Pointer 120<]
+Drei von euch - an einem solchen Ort!(A)
+Vor euch liegt noch eine weite Reise,(A)
+also ruht euch kurz aus.(KN)
+Und wenn ihr aus diesem Traum(A)
+erwachen wollt, es gibt einen Weg...(END)
+
+[>Pointer 121<]
+Was willst du tun?(AÜ)
+   Aufwachen.(AÜ)
+   Bleiben.(END)
+
+[>Pointer 122<]
+Hey!(A)
+Wir haben einen Kunden!(END)
+
+[>Pointer 123<]
+Untergebener: Mach weiter, quak!(END)
+
+[>Pointer 124<]
+Was willst du tun?(AÜ)
+   Einkaufen!(AÜ)
+   Plaudern.(END)
+
+[>Pointer 125<]
+Hab viele tolle Sachen!(END)
+
+[>Pointer 126<]
+Bis bald!(END)
+
+[>Pointer 127<]
+Dann verkaufe ich ja nix,(A)
+ho, ho!!(END)
+
+[>Pointer 128<]
+Bis dann wieder!
+>H<03
+(END)
+
+[>Pointer 129<]
+Untergebener: Du nervst mich langsam!(AÜ)
+Wie lange muß ich mir diesen Unsinn(AÜ)
+denn noch gefallen lassen, quak?(END)
+
+[>Pointer 130<]
+Boß: Halt die Klappe und schieb(AÜ)
+weiter. QUAAK!(END)
+
+[>Pointer 131<]
+Untergebener: Hey, Boß.(AÜ)
+Was ist der Traum deines Lebens,(AÜ)
+quak?(END)
+
+[>Pointer 132<]
+Boß: Mein persönlicher Traum?(KNÜ)
+König der Kanalisation zu sein!(AÜ)
+Quakquak!(END)
+
+[>Pointer 133<]
+Boß: Oh, verstehe!(AÜ)
+Und was ist dein kleiner Traum?(END)
+
+Quak.(END)
+
+[>Pointer 134<]
+Untergebener: Ich möchte einfach(AÜ)
+dein Lehrling bleiben, quak.(END)
+
+[>Pointer 135<]
+Boß: Jesses!(AÜ)
+Hör auf, oder ich fang an zu weinen.(KNÜ)
+Ich werde Kriechrich erzählen, was(AÜ)
+du gerade gesagt hast!!(END)
+
+[>Pointer 136<]
+Untergebener: Quak...quak, quak!(END)
+
+[>Pointer 137<]
+Boß: Quak, quak, QUAQUAK!(END)
+
+[>Pointer 138<]
+Marle: Was!(AÜ)
+Sind wir schon am Ende?(END)
+
+[>Pointer 139<]
+Lucca: Das bedeutet dieses Wort(AÜ)
+normalerweise.(END)
+
+[>Pointer 140<]
+Marle: Aber jetzt werden die(AÜ)
+Dinge doch erst interessant!(END)
+
+[>Pointer 141<]
+Lucca: Egal, Leute, wir machen(AÜ)
+jetzt "Schluß''.(END)
+
+[>Pointer 142<]
+Marle: UND...ABSPANN!(AÜ)
+Aber laß uns zuerst nochmal die(AÜ)
+lustigen Passagen anschauen!(END)
+
+[>Pointer 143<]
+Lucca: Okay!(AÜ)
+Beginnen wir die ultimative(AÜ)
+Slideshow!(END)
+
+[>Pointer 144<]
+Marle: Als erstes ein Blick auf(AÜ)
+Lenas Platz!(END)
+
+[>Pointer 145<]
+Lucca: Da ist der Stahlrenner.(END)
+
+[>Pointer 146<]
+Marle: Ich versteh ja nicht, wie(AÜ)
+jemand drei Stunden am Stück rennen(AÜ)
+kann...(END)
+
+[>Pointer 147<]
+Lucca: Ist doch egal!(AÜ)
+Kannst du dir vorstellen, wie diese(AÜ)
+Rüstung innen riechen muß?(END)
+
+[>Pointer 148<]
+Marle: Welch lieblicher Gedanke,(AÜ)
+Lucca.(AÜ)
+Weiter mit der Show, OKAY!?(END)
+
+[>Pointer 149<]
+Lucca: Als nächstes sehen wir(AÜ)
+Schloß Guardia, dein Zuhause.(END)
+
+[>Pointer 150<]
+Marle: Hach ja!(AÜ)
+SEHR schöne Szenerie!(END)
+
+[>Pointer 151<]
+Lucca: Natürlich, meine Liebe!(END)
+
+[>Pointer 152<]
+Marle: Du hast es wohl nie mit(AÜ)
+ihm versucht, oder?(AÜ)
+Hey, hat er dir nicht gerade(AÜ)
+zugewinkt?(END)
+
+[>Pointer 153<]
+Lucca: Ruhig BLUT, Marle!!(END)
+
+[>Pointer 154<]
+Marle: Hey!(AÜ)
+Das ist Pierre!(END)
+
+[>Pointer 155<]
+Lucca: Mit SO jemandem wollte(AÜ)
+ich nichts zu tun haben.(AÜ)
+Der ist mir zu verschlagen...(AÜ)
+Man sollte ihn vor Gericht stellen!(END)
+
+[>Pointer 156<]
+Marle: Na los, Lucca!(AÜ)
+Bring Schwung in die Bude!(AÜ)
+Heiz uns mal richtig ein!!!(END)
+
+[>Pointer 157<]
+Lucca: Ja, danke, PRINZESSIN.(AÜ)
+Ich werd mir Mühe geben!!!(END)
+
+[>Pointer 158<]
+Marle: Das Samenkorn.(AÜ)
+Hoffentlich wächst es...(END)
+
+[>Pointer 159<]
+Lucca: Daaaaa ist Johnny...(AÜ)
+Ein Brausewind!(END)
+
+[>Pointer 160<]
+Marle: Er sollte einen permanenten(AÜ)
+Boxenstopp einlegen.(AÜ)
+Guck dir nur seine Haare an!(END)
+
+[>Pointer 161<]
+Lucca: Hey, schon bemerkt?(AÜ)
+Er ist ein richtiges Tandem!(AÜ)
+Sprich ihn an!(END)
+
+[>Pointer 162<]
+Marle: Ja, wenn er gelernt hat(AÜ)
+zu REITEN.(END)
+
+[>Pointer 163<]
+Lucca: Da ist dieser Stockfisch(AÜ)
+Cyrus!(END)
+
+[>Pointer 164<]
+Marle: Er sieht schon ZIEMLICH(AÜ)
+gut aus...(END)
+
+[>Pointer 165<]
+Lucca: Aber wo kauft er bloß(AÜ)
+seine Klamotten?(END)
+
+[>Pointer 166<]
+Marle: Hey, hast du's schon(AÜ)
+gehört? Er zupft seine(AÜ)
+Augenbrauen!(END)
+
+[>Pointer 167<]
+Lucca: Du spinnst ja!(AÜ)
+Aber trotzdem...er ist ein(AÜ)
+Rassekerl!(END)
+
+[>Pointer 168<]
+Marle: Hi, Toma!(AÜ)
+Also, ER ist definitiv mein Typ!(END)
+
+[>Pointer 169<]
+Lucca: Ach, dieses Jüngelchen?(END)
+
+[>Pointer 170<]
+Marle: Wahrscheinlich hat er(AÜ)
+ein Dutzend Freundinnen.(END)
+
+[>Pointer 171<]
+Lucca: Ich sehe ihn eigentlich(AÜ)
+mehr als Intellektuellen.(END)
+
+[>Pointer 172<]
+Marle: Was ist mit ihm?(AÜ)
+Diesem Kino-Typ?(END)
+
+[>Pointer 173<]
+Lucca: Total Neandertal.(AÜ)
+Gib ihm einen Knochen!(END)
+
+[>Pointer 174<]
+Marle: Aber er ist ehrlich.(AÜ)
+Und damit attraktiv.(END)
+
+[>Pointer 175<]
+Lucca: Er läuft wie eine ENTE!(END)
+
+[>Pointer 176<]
+Marle: Er würde nie jemandem(AÜ)
+wehtun.(END)
+
+[>Pointer 177<]
+Lucca: Ja, er ist sehr sanft,(AÜ)
+nicht?(END)
+
+[>Pointer 178<]
+Lucca: Crono!!!(END)
+
+[>Pointer 179<]
+Crono: Was MACHT ihr zwei(AÜ)
+denn da!?(AÜ)
+War nicht von einer netten(AÜ)
+kleinen Slideshow die Rede?(END)
+
+[>Pointer 180<]
+Marle: Äh...wir haben uns wohl(AÜ)
+ein bißchen vertratscht!(END)
+
+[>Pointer 181<]
+Lucca: Wo wollt ihr als nächstes(AÜ)
+hin!?(END)
+
+[>Pointer 182<]
+Marle: Irgendwohin, wo der Punk(AÜ)
+abgeht!(END)
+
+[>Pointer 183<]
+Crono: Wie wär's mit dem(AÜ)
+"Jetzt''?(END)
+
+[>Pointer 184<]
+Lucca: Jetzt - also in die(AÜ)
+Gegenwart?(END)
+
+[>Pointer 185<]
+Marle: Okay!(AÜ)
+Zurück in die Gegenwart!(END)
+
+[>Pointer 186<]
+Lucca: Also brauchen wir den(AÜ)
+Torschlüssel nicht mehr, oder?(END)
+
+[>Pointer 187<]
+Lucca: Hey!(AÜ)
+Wartet eine Sekunde!!!(END)
+
+
+[>DUMP END<]----------------------------------------------------------

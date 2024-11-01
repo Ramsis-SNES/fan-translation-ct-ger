@@ -1,0 +1,373 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIVERSE BESCHREIBUNGS-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [000C3D0Eh]
+Size  [000008A1h][00000D0Eh][2]
+pStart[000C3C0Bh]
+pFirst[3B0Eh-120]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Wirbelattacke auf nahe Gegner(END)
+
+[>Pointer 2<]
+Stichattacke(END)
+
+[>Pointer 3<]
+Angriff mit Blitz(END)
+
+[>Pointer 4<]
+2[mal] Schaden(END)
+
+[>Pointer 5<]
+Wirkt auf alle Gegner(END)
+
+[>Pointer 6<]
+Ermögl. Wiederbelebung (1 Person)(END)
+
+[>Pointer 7<]
+Vierfacher Angriff auf Gegner(END)
+
+[>Pointer 8<]
+Heftiger Angriff auf alle Gegner(END)
+
+[>Pointer 9<]
+Füllt einige LP (1 Person)(END)
+
+[>Pointer 10<]
+Verwirrt Gegner(END)
+
+[>Pointer 11<]
+Angriff mit Eis(END)
+
+[>Pointer 12<]
+Füllt mehr LP (1 Person)(END)
+
+[>Pointer 13<]
+Halbiert Wartezeit (1 Person)(END)
+
+[>Pointer 14<]
+Angriff auf alle Gegner mit Eis 2(END)
+
+[>Pointer 15<]
+Füllt LP komplett (1 Person)(END)
+
+[>Pointer 16<]
+Wiederbeleben & Auffüllen aller LP(END)
+
+[>Pointer 17<]
+Trifft Gegner auf einer Linie(END)
+
+[>Pointer 18<]
+Schläfert Gegner ein(END)
+
+[>Pointer 19<]
+Feuerangriff auf 1 Gegner(END)
+
+[>Pointer 20<]
+Schadet Gegnern in Explosionsradius(END)
+
+[>Pointer 21<]
+Erhöht physische Verteidigung(END)
+
+[>Pointer 22<]
+Feuerangriff auf alle Gegner(END)
+
+[>Pointer 23<]
+Schadet Gegnern in Explosionsradius(END)
+
+[>Pointer 24<]
+Stärkster magischer Feuerangriff(END)
+
+[>Pointer 25<]
+Schlägt Gegner(END)
+
+[>Pointer 26<]
+Füllt einige LP (1 Person)(END)
+
+[>Pointer 27<]
+Laserwirbel erfaßt alle Gegner(END)
+
+[>Pointer 28<]
+Stößt Gegner(END)
+
+[>Pointer 29<]
+Füllt einige LP (alle)(END)
+
+[>Pointer 30<]
+Schlägt Gegner mehrmals(END)
+
+[>Pointer 31<]
+Schickt nahen Gegn. Schmelzstrahl(END)
+
+[>Pointer 32<]
+Max. Schock schadet allen Gegnern(END)
+
+[>Pointer 33<]
+Füllt einige LP (1 Person)(END)
+
+[>Pointer 34<]
+Fängt und schlägt Gegner(END)
+
+[>Pointer 35<]
+Wasserangriff (1 Gegner)(END)
+
+[>Pointer 36<]
+Füllt mehr LP (alle)(END)
+
+[>Pointer 37<]
+Stichsprung auf Gegner(END)
+
+[>Pointer 38<]
+Wasserangriff auf alle Gegner(END)
+
+[>Pointer 39<]
+Füllt LP komplett (1 Person)(END)
+
+[>Pointer 40<]
+Mehr Schaden bei weniger LP(END)
+
+[>Pointer 41<]
+Normalisiert Status & füllt einige LP(END)
+
+[>Pointer 42<]
+Rollo-Kick wirkt auf 1 Gegner(END)
+
+[>Pointer 43<]
+Die Attacke einer Kampfkatze!(END)
+
+[>Pointer 44<]
+Wirft einen Gegner(END)
+
+[>Pointer 45<]
+Bestiehlt Gegner(END)
+
+[>Pointer 46<]
+Tornado erfaßt nahe Gegner(END)
+
+[>Pointer 47<]
+Mehr Schaden bei weniger LP(END)
+
+[>Pointer 48<]
+Dreifach-Kick auf 1 Gegner(END)
+
+[>Pointer 49<]
+Blitzangriff auf alle Gegner(END)
+
+[>Pointer 50<]
+Eisangriff auf alle Gegner(END)
+
+[>Pointer 51<]
+Feuerangriff auf alle Gegner(END)
+
+[>Pointer 52<]
+Dunkle Bombe trifft Gegner(END)
+
+[>Pointer 53<]
+Erhöht M VRT (1 Person)(END)
+
+[>Pointer 54<]
+Dunkler Nebel hüllt alle Gegner ein(END)
+
+[>Pointer 55<]
+Entscheidet über Leben und Tod(END)
+
+[>Pointer 56<]
+Schwarzmagischer Angriff(END)
+
+[>Pointer 57<]
+Füllt einige LP (alle)(END)
+
+[>Pointer 58<]
+Eisschwert-Attacke (1 Gegner)(END)
+
+[>Pointer 59<]
+Eisschwert-Att. (mehrere Gegner)(END)
+
+[>Pointer 60<]
+Angriff mit Flammenwirbel(END)
+
+[>Pointer 61<]
+Feuerschwert-Attacke (1 Gegner)(END)
+
+[>Pointer 62<]
+Feuerschwert-Att. (mehrere Gegn.)(END)
+
+[>Pointer 63<]
+Angriff mit Raketrolle (alle Gegn.)(END)
+
+[>Pointer 64<]
+Crono's Max-Zyklon(END)
+
+[>Pointer 65<]
+Supervolt-Attacke(END)
+
+[>Pointer 66<]
+Kreuzschlag-Angriff (1 Gegner)(END)
+
+[>Pointer 67<]
+Angriff mit vielen Schwertern(END)
+
+[>Pointer 68<]
+Angriff mit Donnerstab (1 Gegner)(END)
+
+[>Pointer 69<]
+Bohrer-Angriff (1 Gegner)(END)
+
+[>Pointer 70<]
+Voltzahn-Angriff (1 Gegner)(END)
+
+[>Pointer 71<]
+Crono's Falken-Schlag!(END)
+
+[>Pointer 72<]
+Att. mit Antipode (mehrere Gegn.)(END)
+
+[>Pointer 73<]
+Att. mit Antipode 2 (mehrere Gegn.)(END)
+
+[>Pointer 74<]
+Angriff mit Antipode 3 (alle Gegn.)(END)
+
+[>Pointer 75<]
+Füllt einige LP (alle)(END)
+
+[>Pointer 76<]
+Eismagischer Stoß auf 1 Gegner(END)
+
+[>Pointer 77<]
+Füllt LP komplett (alle)(END)
+
+[>Pointer 78<]
+Eiswasser-Angriff (alle Gegner)(END)
+
+[>Pointer 79<]
+Heftiger Eisangriff(END)
+
+[>Pointer 80<]
+Normalisiert Status & füllt LP (alle)(END)
+
+[>Pointer 81<]
+Bestiehlt Gegner(END)
+
+[>Pointer 82<]
+Angr. mit Eiswurf auf nahe Gegner(END)
+
+[>Pointer 83<]
+Quaderwurf-Angr. auf nahe Gegner(END)
+
+[>Pointer 84<]
+Feuerpunch-Att. auf nahe Gegner(END)
+
+[>Pointer 85<]
+Feuergriff-Attacke (1 Gegner)(END)
+
+[>Pointer 86<]
+[Robo]'s Angriff mit Max-Bombe(END)
+
+[>Pointer 87<]
+Verbrennt 1 Gegn. mit Flammenkick(END)
+
+[>Pointer 88<]
+Feuerwirbel verbrennt alle Gegner(END)
+
+[>Pointer 89<]
+Verbrennt 1 Gegner mit Glutkick(END)
+
+[>Pointer 90<]
+Frog's Klingenwurf(END)
+
+[>Pointer 91<]
+[Robo]'s Platzblase(END)
+
+[>Pointer 92<]
+Füllt LP komplett (alle)(END)
+
+[>Pointer 93<]
+Lähmt alle Gegner(END)
+
+[>Pointer 94<]
+Drehkick-Attacke (1 Gegner)(END)
+
+[>Pointer 95<]
+Schleudert einen Gegner(END)
+
+[>Pointer 96<]
+Normalisiert Status & füllt LP (alle)(END)
+
+[>Pointer 97<]
+Angriff mit Schlagblase (1 Gegner)(END)
+
+[>Pointer 98<]
+Inferno-Wurf(END)
+
+[>Pointer 99<]
+Verbrennt 1 Gegn. mit Flammenstoß(END)
+
+[>Pointer 100<]
+Trifft Gegner auf einer Linie(END)
+
+[>Pointer 101<]
+Heftige Doppelattacke (alle Gegner)(END)
+
+[>Pointer 102<]
+Alle Elemente schaden Gegnern(END)
+
+[>Pointer 103<]
+Einmalig wiederbeleben & LP füllen(END)
+
+[>Pointer 104<]
+Angriff mit Eisstoß(END)
+
+[>Pointer 105<]
+Angriff mit Finalkick(END)
+
+[>Pointer 106<]
+Crono's Feuersektor(END)
+
+[>Pointer 107<]
+Alle Elemente schaden Gegnern(END)
+
+[>Pointer 108<]
+Angriff mit Kanonenkick(END)
+
+[>Pointer 109<]
+Delta-Angriff (1 Gegner)(END)
+
+[>Pointer 110<]
+Trio-Wirbel (alle Gegner)(END)
+
+[>Pointer 111<]
+Delta-Angriff (1 Gegner)(END)
+
+[>Pointer 112<]
+Heftige Dunkle Bombe (alle Gegn.)(END)
+
+[>Pointer 113<]
+Heftiger Laser (alle Gegner)(END)
+
+[>Pointer 114<]
+Angriff mit Tornado-Sprungstoß(END)
+
+[>Pointer 115<]
+Angriff mit ?-Magie & Chaos(END)
+
+[>Pointer 116<]
+Phys. Angriff mit neuem Masamune(END)
+
+[>Pointer 117<]
+Flucht nicht möglich!(END)
+
+[>Pointer 118<]
+Einzeltech(END)
+
+[>Pointer 119<]
+Doppeltech(END)
+
+[>Pointer 120<]
+Tripeltech(END)
+
+
+[>DUMP END<]----------------------------------------------------------

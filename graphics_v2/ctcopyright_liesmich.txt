@@ -1,0 +1,4 @@
+- komprimierte Größe im ROM (laut Lunar Compress): BE9
+- ctcopyright_mit_schatten.bmp wurde nur testweise erstellt, paßt leider nicht (übersteigt nach Kompression ins ROM diese Größe)
+- BIN-Datei (mit Tile Layer Pro anzusehen/zu bearbeiten) enthält aktuelles Copyright ohne Schatten, wie in ctcopyright.bmp
+- IPS-Datei ebenso, zum Schnellen Anbringen des neuen Copyrights auf beliebiges ROM gedacht (falls benötigt)

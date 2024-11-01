@@ -1,0 +1,4 @@
+DIALOGPOINTER 0A.000
+
+[>Pointer 181<]
+Gegen "Flintklinge" tauschen?(AÜ)               > Gegen "Flintklinge'' tauschen?(AÜ)

@@ -1,0 +1,78 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - MELDUNGEN NACH KAMPF-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [000EF12Dh]
+Size  [000000B4h][00000156h][2]
+pStart[000EF111h]
+pFirst[EF2Dh-14]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+>H<0F
+ Erfahrungspunkt(e) erhalten!(END)
+
+[>Pointer 2<]
+>H<0F
+ Tech-Punkt(e) erhalten!(END)
+
+[>Pointer 3<]
+>H<0F
+G erhalten!(END)
+
+[>Pointer 4<]
+(VAR1)
+ erhalten!(END)
+
+[>Pointer 5<]
+>H<11
+ wird aufgestuft!(END)
+
+[>Pointer 6<]
+>H<11
+ lernt "
+>H<12
+(END)
+
+''!(END)
+
+[>Pointer 7<]
+Doppeltech "
+>H<12
+(END)
+
+'' gelernt!(END)
+
+[>Pointer 8<]
+Tripeltech "
+>H<12
+(END)
+
+'' gelernt!(END)
+
+[>Pointer 9<]
+Weggerannt!(END)
+
+[>Pointer 10<]
+>H<11
+ stand auf!(END)
+
+[>Pointer 11<]
+Da ist nichts!(END)
+
+[>Pointer 12<]
+>H<1201
+ (VAR3)
+/(VAR3)
+(END)
+
+[>Pointer 13<]
+>H<1201
+(END)
+
+[>Pointer 14<]
+Der Gedanke hat gezählt...(END)
+
+
+[>DUMP END<]----------------------------------------------------------

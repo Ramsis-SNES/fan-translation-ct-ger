@@ -1,0 +1,702 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - KAMPFDIALOG-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [000CCF90h]
+Size  [00001036h][0000188Ah][2]
+pStart[000CCDCBh]
+pFirst[CD90h-226]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Kopf repariert Schaden.(END)
+
+[>Pointer 2<]
+Räder speichern Energie.(END)
+
+[>Pointer 3<]
+Zu weit weg für Gegenangriff.(END)
+
+[>Pointer 4<]
+Zu nah für Gegenangriff.(END)
+
+[>Pointer 5<]
+Todesstoß!(END)
+
+[>Pointer 6<]
+Nadeltrudel: Yakras Spezialangriff!(END)
+
+[>Pointer 7<]
+Naga-ettes (Herz)
+(Herz)
+(Herz)
+ / Langsam!(END)
+
+[>Pointer 8<]
+Klingeling / Chaos(END)
+
+[>Pointer 9<]
+Drrrroooooh...(END)
+
+[>Pointer 10<]
+Angriff bewegter Objekte(END)
+
+[>Pointer 11<]
+Ich reiß euch in Stücke!(END)
+
+[>Pointer 12<]
+Zusammenbruch(END)
+
+[>Pointer 13<]
+AmpliFeuer(END)
+
+[>Pointer 14<]
+Ozzies Zauber schwindet(END)
+
+[>Pointer 15<]
+Ozzie braucht Hilfe!(END)
+
+[>Pointer 16<]
+Sandatem / Dunkel(END)
+
+[>Pointer 17<]
+Zu dritt Deltaangriff möglich.(END)
+
+[>Pointer 18<]
+Blut, Blut, Blut, Blut...(END)
+
+[>Pointer 19<]
+Tod, Tod, Tod, Tod...(END)
+
+[>Pointer 20<]
+Rrrrrrrrr...(END)
+
+[>Pointer 21<]
+Na los! Greift schon an...!(END)
+
+[>Pointer 22<]
+Wasserwelle!!!(END)
+
+[>Pointer 23<]
+Teil(e) wiederbelebt.(END)
+
+[>Pointer 24<]
+Gegenangriff hat Pause.(END)
+
+[>Pointer 25<]
+Chem. Fusion mit nahen Helfern.(END)
+
+[>Pointer 26<]
+Baut Tornado-Energie auf.(END)
+
+[>Pointer 27<]
+Tornado-Energie wurde neutralisiert.(END)
+
+[>Pointer 28<]
+Gegenangriff: AmpliFeuer(END)
+
+[>Pointer 29<]
+Schmerz...(END)
+
+[>Pointer 30<]
+Worauf zielst DU denn, du Depp?(END)
+
+[>Pointer 31<]
+Haaaaa!(END)
+
+[>Pointer 32<]
+Hahaha...(END)
+
+[>Pointer 33<]
+Geschockt!(END)
+
+[>Pointer 34<]
+Vom Schock erholt.(END)
+
+[>Pointer 35<]
+Antimaterie (Magus's stärkste Attacke!)(END)
+
+[>Pointer 36<]
+Versetze tödlichen Stromstoß...(END)
+
+[>Pointer 37<]
+Windwalzer (Herz)
+ / Chaos(END)
+
+[>Pointer 38<]
+Prismastrahl (Herz)
+ / Dunkel(END)
+
+[>Pointer 39<]
+Kern & Teile verschwinden...(END)
+
+[>Pointer 40<]
+MP-Sauger / Stiehlt MP(END)
+
+[>Pointer 41<]
+Magie-Verteidigung EIN(END)
+
+[>Pointer 42<]
+Physische Verteidigung EIN(END)
+
+[>Pointer 43<]
+Das Starren / Fleas (Herz)
+(Herz)
+-Magie(END)
+
+[>Pointer 44<]
+Purpurregen / Vermindert LP(END)
+
+[>Pointer 45<]
+Geysir / Vermindert LP(END)
+
+[>Pointer 46<]
+Masamune vermindert Magus's M VRT(END)
+
+[>Pointer 47<]
+Magus riskiert einen Zauber!(END)
+
+[>Pointer 48<]
+3(END)
+
+[>Pointer 49<]
+2(END)
+
+[>Pointer 50<]
+1(END)
+
+[>Pointer 51<]
+0(END)
+
+[>Pointer 52<]
+Angriff, Angriff, Angriff...(END)
+
+[>Pointer 53<]
+Blockwechsel (nur Gewitter schadet)(END)
+
+[>Pointer 54<]
+Blockwechsel (nur Schatten schadet)(END)
+
+[>Pointer 55<]
+Blockwechsel (nur Feuer schadet)(END)
+
+[>Pointer 56<]
+Blockwechsel (nur Wasser schadet)(END)
+
+[>Pointer 57<]
+Verteidigung unter Schock vermindert(END)
+
+[>Pointer 58<]
+Telepathie / Einschläfern(END)
+
+[>Pointer 59<]
+Teleporter / Teleportiert einen Felsen!(END)
+
+[>Pointer 60<]
+Zerstörungszone(END)
+
+[>Pointer 61<]
+Regenbogensturm / Giftwind(END)
+
+[>Pointer 62<]
+Verteidigung bei Angriff verstärkt(END)
+
+[>Pointer 63<]
+Setze absorbierte Elektrizität frei(END)
+
+[>Pointer 64<]
+Ultra-elektrische Entladung(END)
+
+[>Pointer 65<]
+4(END)
+
+[>Pointer 66<]
+5(END)
+
+[>Pointer 67<]
+Azala-Kollaps (vermindert LP)(END)
+
+[>Pointer 68<]
+Entfernt Verteidigung, sammelt Kraft...(END)
+
+[>Pointer 69<]
+Angriffskraft verstärkt!(END)
+
+[>Pointer 70<]
+Psychokinese...(END)
+
+[>Pointer 71<]
+Lavos-Kern deaktiviert Verteidigung(END)
+
+[>Pointer 72<]
+Wegrennen!(END)
+
+[>Pointer 73<]
+Sonnenaufgang(END)
+
+[>Pointer 74<]
+Kopiervorgang...kopiert phys. Angr.!(END)
+
+[>Pointer 75<]
+Kopiervorgang...kopiert Feindes-Tech!(END)
+
+[>Pointer 76<]
+Getrennt sind Masa&Mune machtlos.(END)
+
+[>Pointer 77<]
+(END)
+
+[>Pointer 78<]
+Beidhändiger Angriff: Doppelhandfeuer(END)
+
+[>Pointer 79<]
+Combo-Tech / LP wird 1(END)
+
+[>Pointer 80<]
+Siegel (alle) / Obj.&Techs versiegelt!(END)
+
+[>Pointer 81<]
+Versuche Arm-Wiederherstellung...(END)
+
+[>Pointer 82<]
+Arm-Angriff / Nimmt 50% LP(END)
+
+[>Pointer 83<]
+Barghests Schild ist zerstört...(END)
+
+[>Pointer 84<]
+Heile Kopf mit Verteidigungsarm(END)
+
+[>Pointer 85<]
+10000 Hz / Einschläfern(END)
+
+[>Pointer 86<]
+Siegel / Techs versiegelt!(END)
+
+[>Pointer 87<]
+Delta-Kraft / 3-Monster-Tech(END)
+
+[>Pointer 88<]
+Eisenorb / Nimmt 50% LP!(END)
+
+[>Pointer 89<]
+Rollo-Kick(END)
+
+[>Pointer 90<]
+Hypno-Welle(END)
+
+[>Pointer 91<]
+Emblem / Verbindet mit Toten(END)
+
+[>Pointer 92<]
+LP-Füllzauber(END)
+
+[>Pointer 93<]
+Koordinierter Gegenangriff(END)
+
+[>Pointer 94<]
+Groll(END)
+
+[>Pointer 95<]
+Böser Impuls / 3-Monster-Tech(END)
+
+[>Pointer 96<]
+Durch Barghests Schild geschützt(END)
+
+[>Pointer 97<]
+Muskel-Fusion mit nahen Brüdern...(END)
+
+[>Pointer 98<]
+Er ist wie Sand und unverwundbar!(END)
+
+[>Pointer 99<]
+Wasser härtet Sand / Vert. vermindert!(END)
+
+[>Pointer 100<]
+Herzfeuerschwert(END)
+
+[>Pointer 101<]
+Nutzlos...(END)
+
+[>Pointer 102<]
+Mutterhirn-Angriffsmodus(END)
+
+[>Pointer 103<]
+Ohne Coprozessoren außer Kontrolle...(END)
+
+[>Pointer 104<]
+Speicherreset / Siegel(END)
+
+[>Pointer 105<]
+3,2,1(END)
+
+[>Pointer 106<]
+Nereid-Zyklon / Wasser(END)
+
+[>Pointer 107<]
+Sand-Zyklon(END)
+
+[>Pointer 108<]
+Chef-Golem: "Ähm...''(END)
+
+[>Pointer 109<]
+Feuerkraft stärker!(END)
+
+[>Pointer 110<]
+ATK stärker!(END)
+
+[>Pointer 111<]
+Sturm / Chaos(END)
+
+[>Pointer 112<]
+Wasserflut / Wasser(END)
+
+[>Pointer 113<]
+Beidhändiger Angriff: Dunkelplasma(END)
+
+[>Pointer 114<]
+GaiaMagnade / Feuer(END)
+
+[>Pointer 115<]
+Mist! Rüüülps!(END)
+
+[>Pointer 116<]
+Bruder-Verwandlung / Fusion(END)
+
+[>Pointer 117<]
+Rüüülps! / Kopiere Dalton...(END)
+
+[>Pointer 118<]
+Ohne Kern außer Kontrolle...(END)
+
+[>Pointer 119<]
+Absorbiert Energie aus dem Kern...(END)
+
+[>Pointer 120<]
+Dalton: "Chef-Golem...!?''(END)
+
+[>Pointer 121<]
+Napalm(END)
+
+[>Pointer 122<]
+Gegensätzliche Magie-Attacke(END)
+
+[>Pointer 123<]
+Flügelstoß / Chaos(END)
+
+[>Pointer 124<]
+Dalton: "Nehmt DAS!''(END)
+
+[>Pointer 125<]
+Selbst zerstört!(END)
+
+[>Pointer 126<]
+Angriff mit "Lavos-Laich-Stacheln''(END)
+
+[>Pointer 127<]
+Schwache elektr. Entladung(END)
+
+[>Pointer 128<]
+(END)
+
+[>Pointer 129<]
+Nadeltrudel: Version 13!(END)
+
+[>Pointer 130<]
+Umprogrammieren / Chaos(END)
+
+[>Pointer 131<]
+Von den Vorfahren bekannt...(END)
+
+[>Pointer 132<]
+...sind eure Schwächen!(END)
+
+[>Pointer 133<]
+Das ist es!(END)
+
+[>Pointer 134<]
+W...wieder besiegt...(END)
+
+[>Pointer 135<]
+Spielt Roulette(END)
+
+[>Pointer 136<]
+Stoppt Roulette(END)
+
+[>Pointer 137<]
+Gegenangriff: Fackel(END)
+
+[>Pointer 138<]
+Fehl: Flammen-Gegenangriff(END)
+
+[>Pointer 139<]
+Zirpen / Einschläfern(END)
+
+[>Pointer 140<]
+Fackel(END)
+
+[>Pointer 141<]
+Sonnensohn verliert sein Feuer...(END)
+
+[>Pointer 142<]
+Zeit-Stop / Stop(END)
+
+[>Pointer 143<]
+Mutantengas / Einschläfern(END)
+
+[>Pointer 144<]
+Mutantengas / Gift(END)
+
+[>Pointer 145<]
+Stahldampf / Vermindert LP(END)
+
+[>Pointer 146<]
+Chaoszone / Chaos(END)
+
+[>Pointer 147<]
+Schwärzen(END)
+
+[>Pointer 148<]
+Punkt-Fackel(END)
+
+[>Pointer 149<]
+Gegenangriff: Siegel(END)
+
+[>Pointer 150<]
+Niedersicheln...(END)
+
+[>Pointer 151<]
+Hurrikan(END)
+
+[>Pointer 152<]
+Sturz / Nimmt 50% LP!(END)
+
+[>Pointer 153<]
+(Note)
+--(Note)
+-(Note)
+(Note)
+-- / Chaos(END)
+
+[>Pointer 154<]
+Absorber / Stiehlt einige MP(END)
+
+[>Pointer 155<]
+Aus Magie wird Angriffskraft...!(END)
+
+[>Pointer 156<]
+Setze gespeicherte Energie frei!(END)
+
+[>Pointer 157<]
+Mammon-M. verändert alle Energie...(END)
+
+[>Pointer 158<]
+Mammon-Maschine steht still...(END)
+
+[>Pointer 159<]
+Nutze Angriff zu besserer Vert.!(END)
+
+[>Pointer 160<]
+NimmtLeben / LP wird 1(END)
+
+[>Pointer 161<]
+(END)
+
+[>Pointer 162<]
+Dunkle Bombe(END)
+
+[>Pointer 163<]
+Lavos-Laich-Stachel: Chaos-Stich(END)
+
+[>Pointer 164<]
+Halo-Effekt / LP wird 1(END)
+
+[>Pointer 165<]
+Masamune absorbiert Energie...(END)
+
+[>Pointer 166<]
+Dunkle Dinge / Schatten(END)
+
+[>Pointer 167<]
+Himmelstor / Gewitter(END)
+
+[>Pointer 168<]
+Hexagonnebel / Wasser(END)
+
+[>Pointer 169<]
+ Gegenangriff: MP-Sauger(END)
+
+[>Pointer 170<]
+Zerstörung regnet vom Himmel!(END)
+
+[>Pointer 171<]
+Gegenangriff: NimmtLeben(END)
+
+[>Pointer 172<]
+(END)
+
+[>Pointer 173<]
+Teile rechts erhöhen Energie...(END)
+
+[>Pointer 174<]
+Teile links füllen LP...(END)
+
+[>Pointer 175<]
+Das Masamune bricht Lavos' M VRT!(END)
+
+[>Pointer 176<]
+Lavos benutzt einen Zauber.(END)
+
+[>Pointer 177<]
+Doppelangriff: Paar-Wucht(END)
+
+[>Pointer 178<]
+Doppelangriff: Dunkles Plasma(END)
+
+[>Pointer 179<]
+Versuche Wiederherstellung der Teile...(END)
+
+[>Pointer 180<]
+Belebt Kopf mit Verteidigungsteilen!(END)
+
+[>Pointer 181<]
+Blockwechsel...(END)
+
+[>Pointer 182<]
+Aktiviere Körper...(END)
+
+[>Pointer 183<]
+Schutzsiegel / Entfernt Vert.-Status(END)
+
+[>Pointer 184<]
+Böser Duft / Lavos' ATK erhöht!(END)
+
+[>Pointer 185<]
+Laserstrahlen / Öffnet Tor zur Hölle(END)
+
+[>Pointer 186<]
+Höllenschlag(END)
+
+[>Pointer 187<]
+Todesschatten(END)
+
+[>Pointer 188<]
+Flammenkampf(END)
+
+[>Pointer 189<]
+Todesschlagschatten(END)
+
+[>Pointer 190<]
+Ferner Tod / Arm heilt Körper(END)
+
+[>Pointer 191<]
+Lavos-Kern ist geschützt!(END)
+
+[>Pointer 192<]
+"Aktivleben'' vermindert Vert.(END)
+
+[>Pointer 193<]
+Raum-Zeit-Kurve...(END)
+
+[>Pointer 194<]
+Gegenangriff bei Attacke...(END)
+
+[>Pointer 195<]
+Aktivleben / Teil(e) wiederbeleben(END)
+
+[>Pointer 196<]
+Gegenangriff bei Magie...(END)
+
+[>Pointer 197<]
+Lavos-Kern reaktiviert Vert.!(END)
+
+[>Pointer 198<]
+Dämonenstern / Nimmt 50% LP(END)
+
+[>Pointer 199<]
+Riesenfels / Heftige phys. Attacke(END)
+
+[>Pointer 200<]
+Fluchruf / Zufälliger Status(END)
+
+[>Pointer 201<]
+Traumlos / Heftige mag. Attacke(END)
+
+[>Pointer 202<]
+Lichteinfall / Langsam(END)
+
+[>Pointer 203<]
+Gefrieren / Stop(END)
+
+[>Pointer 204<]
+Himmelsträne / Tödliche Attacke(END)
+
+[>Pointer 205<]
+Verteidigung vermindert!(END)
+
+[>Pointer 206<]
+Ich BIN...(END)
+
+[>Pointer 207<]
+Sektorbombe(END)
+
+[>Pointer 208<]
+Spionier trotzt Magie, außer Gewitter.(END)
+
+[>Pointer 209<]
+Blutspion trotzt Magie, außer Feuer.(END)
+
+[>Pointer 210<]
+Blauspion trotzt Magie, außer Wasser.(END)
+
+[>Pointer 211<]
+Lavos' Seufzer / Einschläfern(END)
+
+[>Pointer 212<]
+Salz(END)
+
+[>Pointer 213<]
+Strahl / Gewitter(END)
+
+[>Pointer 214<]
+Gegenangriff ohne Mittelteil...(END)
+
+[>Pointer 215<]
+Kopiervorgang...kopiert Gewitter-Tech(END)
+
+[>Pointer 216<]
+Kopiervorgang...kopiert Schatten-Tech(END)
+
+[>Pointer 217<]
+Kopiervorgang...kopiert Wasser-Tech(END)
+
+[>Pointer 218<]
+Kopiervorgang...kopiert Feuer-Tech(END)
+
+[>Pointer 219<]
+Chef-Golem: "Unmöglich! Habe...Angst...!''(END)
+
+[>Pointer 220<]
+Chef-Golem: "Ich HASSE große Höhen!''(END)
+
+[>Pointer 221<]
+Chef-Golem: "Hier, schluckt das!''(END)
+
+[>Pointer 222<]
+Chef-Golem: "5''(END)
+
+[>Pointer 223<]
+Chef-Golem: "4''(END)
+
+[>Pointer 224<]
+Chef-Golem: "3''(END)
+
+[>Pointer 225<]
+Chef-Golem: "2''(END)
+
+[>Pointer 226<]
+Chef-Golem: "1''(END)
+
+
+[>DUMP END<]----------------------------------------------------------

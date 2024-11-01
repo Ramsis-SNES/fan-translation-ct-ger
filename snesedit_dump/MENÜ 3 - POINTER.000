@@ -1,0 +1,34 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - MENÜ 3 - POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003FD5A6h]
+Size  [0000004Ch][0000006Ah][2]
+pStart[003FD596h]
+pFirst[D3A6h-7]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+     ???(END)
+
+[>Pointer 2<]
+Gegenwart(END)
+
+[>Pointer 3<]
+Mittlere Ära (END)
+
+[>Pointer 4<]
+  Zukunft(END)
+
+[>Pointer 5<]
+ Prähistorie(END)
+
+[>Pointer 6<]
+Dunkle Ära(END)
+
+[>Pointer 7<]
+Düsteromen(END)
+
+
+[>DUMP END<]----------------------------------------------------------

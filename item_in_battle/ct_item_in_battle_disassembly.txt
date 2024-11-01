@@ -1,0 +1,55 @@
+// Disassemblierung von Neo Mithrandils Chrono Trigger "Item in Battle"-Hack
+// disassembliert mit Geiger's Snes9x Tracer 1.43.ep9r8 von ManuLöwe 2008-09-24
+
+// Disassembly $10A5F-$10A87:
+$C1/0A5F A9 AE       LDA #$AE                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "O" in Akku
+$C1/0A61 9D EC 0E    STA $0EEC,x[$00:0EEC]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A64 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A66 9D ED 0E    STA $0EED,x[$00:0EED]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A69 A9 BB       LDA #$BB                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "b" in Akku
+$C1/0A6B 9D EE 0E    STA $0EEE,x[$00:0EEE]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A6E A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A70 9D EF 0E    STA $0EEF,x[$00:0EEF]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A73 A9 C3       LDA #$C3                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "j" in Akku
+$C1/0A75 9D F0 0E    STA $0EF0,x[$00:0EF0]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A78 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A7A 9D F1 0E    STA $0EF1,x[$00:0EF1]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A7D A9 BE       LDA #$BE                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "e" in Akku
+$C1/0A7F 9D F2 0E    STA $0EF2,x[$00:0EF2]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A82 5C D0 10 C3 JMP $C310D0[$C3:10D0]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Springe woandershin (s.u.), weil noch zwei Buchstaben fehlen
+$C1/0A84 9D F3 0E    STA $0EF3,x[$00:0EF3]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // wird hier nicht berücksichtigt
+$C1/0A87 60          RTS                     A:0000 X:0000 Y:0000 P:EnvMXdIzc // Return from Subroutine
+
+// Disassembly $310D0-$310E8 (im Original mit Nullen gefüllt):
+$C3/10D0 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C3/10D2 9D F3 0E    STA $0EF3,x[$00:0EF3]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // aber hier, folgende Zeilen notwendige Ergänzung
+$C3/10D5 9D F5 0E    STA $0EF5,x[$00:0EF5]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C3/10D8 9D F7 0E    STA $0EF7,x[$00:0EF7]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C3/10DB A9 C4       LDA #$C4                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "k" in Akku
+$C3/10DD 9D F4 0E    STA $0EF4,x[$00:0EF4]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C3/10E0 A9 CD       LDA #$CD                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "t" in Akku
+$C3/10E2 9D F6 0E    STA $0EF6,x[$00:0EF6]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C3/10E5 5C 87 0A C1 JMP $C10A87[$C1:0A87]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Springe wieder zurück
+
+
+// Original:
+// =========
+
+// Disassembly $10A5F-$10A87:
+$C1/0A5F A9 A8       LDA #$A8                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "I" in Akku
+$C1/0A61 9D EC 0E    STA $0EEC,x[$00:0EEC]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A64 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A66 9D ED 0E    STA $0EED,x[$00:0EED]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A69 A9 CD       LDA #$CD                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "t" in Akku
+$C1/0A6B 9D EE 0E    STA $0EEE,x[$00:0EEE]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A6E A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A70 9D EF 0E    STA $0EEF,x[$00:0EEF]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A73 A9 BE       LDA #$BE                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "e" in Akku
+$C1/0A75 9D F0 0E    STA $0EF0,x[$00:0EF0]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A78 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A7A 9D F1 0E    STA $0EF1,x[$00:0EF1]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A7D A9 C6       LDA #$C6                A:0000 X:0000 Y:0000 P:EnvMXdIzc // Lade Table-Wert für "m" in Akku
+$C1/0A7F 9D F2 0E    STA $0EF2,x[$00:0EF2]   A:0000 X:0000 Y:0000 P:EnvMXdIzc // Schreibe Akku an Speicherstelle
+$C1/0A82 A5 98       LDA $98    [$00:0098]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A84 9D F3 0E    STA $0EF3,x[$00:0EF3]   A:0000 X:0000 Y:0000 P:EnvMXdIzc
+$C1/0A87 60          RTS                     A:0000 X:0000 Y:0000 P:EnvMXdIzc // Return from Subroutine

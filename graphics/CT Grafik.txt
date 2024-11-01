@@ -1,0 +1,94 @@
+CT Grafik
+---------
+
+Dt. Erl‰uterungen: ManuLˆwe - 07.07.2003
+Engl. Erl‰uterungen: Neo Mithrandil - vorher
+
+Die meiste Grafik im Spiel ist komprimiert. Andere Grafiken sind nicht komprimiert. Anbei sind die Kompressions- und Dekompressionsanweisungen in Form von BAT-Dateien f¸r Lunar Compress. Die Offsets sind in den BAT-Dateien. Einzige Sache: Evtl. das Chrono-Trigger-ROM umbenennen bzw. in den BAT-Dateien den Namen ‰ndern. Auﬂerdem enthalten die BAT-Dateien jeweils einen Namen der Datei, in der die unkomprimierte Grafik gespeichert wird (*.BIN). F¸r die Start-/Zielschilder brauchst Du ¸brigens TileMod, weil die BIN-Datei so klein wird, daﬂ TLP sie nicht lesen kann (daher die Palette auch im PAL-Format dabei).
+
+The compressed data are :
+- the copyright text at the beginning of the game (copyright)
+- the bike race text and images (course)
+- the dates on the map screens "1000AD" etc. (date)
+- the time selection screen in Epoch (temps)
+- the big golden "THE END" (end)
+- und das kleine "THE END", das in manchen Endings auftritt (fin)
+
+Wenn Du sie dekomprimiert hast, muﬂt Du sie alle im 4bpp-Mode ansehen.
+
+WICHTIG:
+
+About the decompression/recompression process : always note the original
+size of the compressed data when decompressing. When you'll use the
+recompression program, it will give you the size of your modified data,
+once recompressed. If that size exceeds the original size, you have
+corrupted your rom by overwriting too many bytes, and can just delete
+it. Then, retry with a new rom, after modifying the image file, until
+your data is successfully reinserted.
+
+Also immer schˆn Kopien vom ROM machen, f¸r den Fall daﬂ Deine rekomprimierte Grafik grˆﬂer ist als sie war. Ich hab mir beim Dekomprimieren immer die von Lunar angezeigte Grˆﬂe der komprimierten Grafik aufgeschrieben und beim Rekomrpimieren darauf geachtet, daﬂ sie nicht grˆﬂer ist. Sollte aber ohnehin nicht der Fall sein, Lunar hat einen sehr guten Algorithmus.
+
+Das BattleMode-Bild ist ¸brigens seltsam auseinandergest¸ckelt. Ich habe f¸r dieses (wie auch f¸r die Magie-Grafiken) ¸brigens Photoshop bem¸ht, da kann man die Bilder schˆn pr‰zis zusammensetzen, bearbeiten und danach wieder auseinanderst¸ckeln. Wenn Du Dich umentscheidest und das "Kampfmodus" aufgibst und "Kampfart" schreiben willst - was aus Platzgr¸nden sicher besser ist - laﬂ es mich wissen, und Du kriegst gerne meins.
+Was das groﬂe goldene THE END angeht, so wirst Du feststellen, daﬂ Du es ohne grˆﬂeren Aufwand nicht so schˆn zusammenh‰ngend ¸bersetzen kannst wie im Original, wegen der Pause zwischen den beiden Worten. Daher ist bei mir zwischen jedem Buchstabe ein Abstand. Wenn Du das auch so machen willst ... ich geb Dir auch hier gern meine Grafik.
+(Ich kann Dir meine Grafiken entweder als BMPs oder als IPS geben, wenn Du willst - wie Du willst. ;-)
+
+Auﬂerdem gibt's Paletten f¸r die unkomprimierten Grafiken, die Du direkt mit TLP sehen kannst. F¸r die Magie-Grafiken im Men¸ (LIGHTNING etc.) habe ich Dir auch mal meine mit dazugetan (BMPs, mit TLP exportiert; Du kannst sie gerne, wenn Du das mˆchtest, mit TLP direkt in Dein ROM importieren. Vorher halt die jeweilige Palette laden. Und mich im Readme erw‰hnen ;-).
+
+Here are the offsets for these images :
+-> To view in Snes 4bpp mode :
+   - Battle Mode image : 3FF208
+   - Lightning image : 3FD7E4 (the other elements are just next to this one)
+-> To view in GB 2bpp mode :
+   - Miss image : 114F20
+-> To view in Snes 3bpp mode :
+   - Menu's images (ITEM etc.) : 3FDDE4
+
+What you'll have a hard time translating is the time selector and the
+dates labels : you'll need to modify the tile maps, that is saying the
+snes you want the images you drew in TLP to appear on the screen not
+where they were originally (as when you modify pointers for text).
+For the time selector, the tile map is at offset 3F077 and I've joined a
+little table file (for hexposure for instance) which should help you
+figure out how it works.  Es ist eigentlich gar nicht schwer. Ein biﬂchen
+wie eine STE-Kompression. Du wirst schon sehen. :)
+
+Noch ein paar Statements zum Time Selection Screen:
+
+You have to try reusing tiles if possible (that is, the 'Pr' tile will
+be drawn
+only once and used for 'PrÈ historia' and 'Presente'. Unfortunately, I
+think you can't do it for any other tile :(. But there's still hope ;).
+In french, we translate prehistoric dates with a '-' before the date,
+and not 'AD' and 'BC'. If you can do that, then you draw a '-' tile over
+the 'AD' one and you've one more tile free (the former 'BC'). Another
+thing to do : just before the tiles for 'Present' are 2 tiles forming an
+horizontal line. They're almost identical and thus, it won't change
+anything to remove the second tile and use it for you text. These are
+the things you can do without any danger.
+
+Now, if that's still not enough, you can try more dangerous : before the
+'AD' and 'BC' tiles, there is a line of blank tiles. You can try to use
+them. It may work, but if you're nut lucky, you won't be able to print
+these tiles on the screen. If so, you'll have no other solution than
+learning ASM or do a shorter translation.
+
+So, I've explained that you can use as much tiles as possible, but how
+do you tell the snes to print these tiles where you want (and not in the
+order they are in your rom) ? That's the use of the tile map, and the
+offset I've given you for it. Just open your rom in hexposure (or
+another hexadecimal editor), loading the TBL file I've joined in my
+previous mail. Go to the offset for the tile map, and you'll see the
+names of the different eras as text. Now, you have to modify this to
+reflect the changes you've done on the tiles.
+The data you're viewing as hexadecimal codes is a large table
+representing the time selector screen. The bytes come by four : The
+first two are the coordinates you want the tile to appear in the screen
+(14E0 for exemple). The next one is the code for a tile (you have the
+correspondance in the tbl file : 42=AD for instance). And finally, the
+fourth one will be 00 (greater values are used when you have more than
+256 tiles in memory : the tiles are then coded on 2 bytes).
+All this is rather difficult to explain with words, but once you
+actually see it in your editor, do slight modifications and watch the
+result in zsnes, you should understand how it works.
+
+Okay, viel Spaﬂ und Erfolg beim Grafikhack, wenn weitere Fragen auftreten, nur zu!

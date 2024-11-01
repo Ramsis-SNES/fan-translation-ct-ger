@@ -1,0 +1,796 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 8B]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003F6E74h]
+Size  [0000177Dh][00002A1Bh][2]
+pStart[003F6D00h]
+pFirst[6C74h-186]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Ayla: Crono(2)!!(END)
+
+[>Pointer 2<]
+Lucca: Du kannst unmöglich(AÜ)
+alleine gehen!(END)
+
+[>Pointer 3<]
+Marle: DENK nicht mal daran,(AÜ)
+uns zurückzulassen!(END)
+
+[>Pointer 4<]
+Frog: Du willst allein gehen?(KNÜ)
+Ich kenne deine Queste nicht, aber(AÜ)
+Crono's Freunde sind auch(AÜ)
+die meinen.(KNÜ)
+Ich werde nicht zulassen, daß du(AÜ)
+deinem Ableben ohne uns(AÜ)
+entgegensiehst.(END)
+
+[>Pointer 5<]
+Ayla: Nein!(AÜ)
+Tyranohöhle gefährlich!(AÜ)
+Vielleicht alle sterben!(END)
+
+[>Pointer 6<]
+Lucca: Hör zu, wir schulden(AÜ)
+dir was!(END)
+
+[>Pointer 7<]
+Lucca: Oder, Crono?(END)
+
+[>Pointer 8<]
+Marle: Wir lassen dich nicht(AÜ)
+alleine gehen! Du hast uns gerettet,(AÜ)
+Ayla. Wir schulden dir Dank.(END)
+
+[>Pointer 9<]
+Marle: Oder, Crono?(END)
+
+[>Pointer 10<]
+Frog: Du willst untergehen?(AÜ)
+Ich werde dieses Desaster nicht(AÜ)
+tatenlos mitansehen!(END)
+
+[>Pointer 11<]
+Frog: Brechen wir auf,(AÜ)
+Crono.(END)
+
+[>Pointer 12<]
+Ayla: Ayla starke Freunde!(END)
+
+[>Pointer 13<]
+Lucca: Wir gehen alle zur(AÜ)
+Tyranohöhle!(END)
+
+[>Pointer 14<]
+Marle: Ayla, gehen wir(AÜ)
+endlich! Auf geht's zur(AÜ)
+Tyranohöhle!(END)
+
+[>Pointer 15<]
+[Robo]: Brechen wir zur(AÜ)
+Tyranohöhle auf!(END)
+
+[>Pointer 16<]
+Masa: Der uralte Rotstein hat viele(AÜ)
+Zeitalter überdauert. Ein magisches(AÜ)
+Amulett und ein Dolch wurden(AÜ)
+aus ihm gemacht.(KNÜ)
+Wir verkörpern Melchiors Träume,(AÜ)
+versiegelt in dieser Klinge...(END)
+
+[>Pointer 17<]
+Masa: Nun beeilt euch, wenn ihr(AÜ)
+der Königin gegenübertreten wollt.(AÜ)
+Wir zählen auf euch!(END)
+
+[>Pointer 18<]
+Ältester: Oh!(AÜ)
+Ihr seid auf!(END)
+
+[>Pointer 19<]
+Marle: Crono!!(END)
+
+[>Pointer 20<]
+Lucca: Crono!(END)
+
+[>Pointer 21<]
+[Robo]: Crono!(END)
+
+[>Pointer 22<]
+Frog: Crono!(END)
+
+[>Pointer 23<]
+Ayla: Crono(2)!(END)
+
+[>Pointer 24<]
+Ältester: Ihr hattet Fieberträume.(END)
+
+[>Pointer 25<]
+Marle: Crono!!!(AÜ)
+Wo ist Crono?(END)
+
+[>Pointer 26<]
+Lucca: Crono!!(AÜ)
+Wo ist Crono?(END)
+
+[>Pointer 27<]
+  [Robo]: Crono!(AÜ)
+Wo ist Crono?(END)
+
+[>Pointer 28<]
+Frog: Crono!(AÜ)
+Habt Ihr Crono gesehen?(END)
+
+[>Pointer 29<]
+Ayla: Crono(2)!(AÜ)
+Wo Crono(2)!?(END)
+
+[>Pointer 30<]
+Ältester: Wir haben nur euch gefunden...(END)
+
+[>Pointer 31<]
+Marle: Es war also kein Traum.(END)
+
+[>Pointer 32<]
+Lucca: Es war also kein Traum...(END)
+
+[>Pointer 33<]
+[Robo]: Ich hoffte, es wäre ein(AÜ)
+Speicherfehler...(END)
+
+[>Pointer 34<]
+Frog: Erst Cyrus, dann(AÜ)
+Crono...(END)
+
+[>Pointer 35<]
+Ayla: Nein!(AÜ)
+Nicht wahr!(AÜ)
+Crono(2) stark!(AÜ)
+Crono(2) nicht tot!(END)
+
+[>Pointer 36<]
+Lucca: Wo sind wir?(AÜ)
+Im Dorf der Erdgebundenen?(END)
+
+[>Pointer 37<]
+[Robo]: Ist dies das Dorf der(AÜ)
+Erdgebundenen?(END)
+
+[>Pointer 38<]
+Frog: Ist dies das Dorf der(AÜ)
+Erdgebundenen?(END)
+
+[>Pointer 39<]
+Ayla: Wo hier sein?(AÜ)
+Dorf der Erdgebundenen?(END)
+
+[>Pointer 40<]
+Ältester: Diese Insel war nach der(AÜ)
+Zerstörung des Seepalastes die(AÜ)
+einzige Zuflucht.(END)
+
+[>Pointer 41<]
+Lucca: Deprimierend.(AÜ)
+Kein Zeitalter ist friedlich, und(AÜ)
+auch die Zukunft ist düster.(END)
+
+[>Pointer 42<]
+[Robo]: Wir haben versagt...(AÜ)
+Auch diese Ära fiel der Zerstörung(AÜ)
+anheim...(END)
+
+[>Pointer 43<]
+Frog: Wie furchtbar...(END)
+
+[>Pointer 44<]
+Ayla: Metallvogel?(AÜ)
+Schwebender Ort?(AÜ)
+Alles kaputt?(END)
+
+[>Pointer 45<]
+Lucca: Melchior!(AÜ)
+Wo ist Melchior?(END)
+
+[>Pointer 46<]
+[Robo]: Ist Herr Melchior hier?(END)
+
+[>Pointer 47<]
+Frog: Wo ist der alte Melchior(AÜ)
+hingegangen?(END)
+
+[>Pointer 48<]
+Ayla: Melchior!(AÜ)
+Wo Melchior!?(END)
+
+[>Pointer 49<]
+Ältester: Nach dem Desaster bildete(AÜ)
+sich ein unheimliches schwarzes Tor.(AÜ)
+Melchior wollte Janus zurückhalten,(AÜ)
+wurde jedoch hineingesogen.(END)
+
+[>Pointer 50<]
+Lucca: Ein "schwarzes Tor''?(KNÜ)
+Das hat mit Lavos zu tun!(END)
+
+[>Pointer 51<]
+[Robo]: Ein "schwarzes Tor''?(KNÜ)
+Kein Zweifel, ein Tor von Lavos!(END)
+
+[>Pointer 52<]
+Frog: Ein "schwarzes Tor''?(KNÜ)
+EIN TOR!!!(END)
+
+[>Pointer 53<]
+Ayla: "Schwarzes Tor''?(AÜ)
+Wie das, wo wir hergekommen?(END)
+
+[>Pointer 54<]
+Lucca: ...(AÜ)
+Was ist mit Schala?(END)
+
+[>Pointer 55<]
+[Robo]: Und was ist mit(AÜ)
+Fräulein Schala?(END)
+
+[>Pointer 56<]
+Frog: Jungfer Schala...(AÜ)
+Gibt es Kunde über ihren Verbleib?(END)
+
+[>Pointer 57<]
+Ayla: Wo Schala?(AÜ)
+Was passiert?(END)
+
+[>Pointer 58<]
+Ältester: Ich weiß es nicht.(AÜ)
+Niemand hat sie seither gesehen.(END)
+
+[>Pointer 59<]
+Lucca: [Epoch]!(AÜ)
+Was ist mit dem Schiff?(END)
+
+[>Pointer 60<]
+[Robo]: [Epoch]!(AÜ)
+Ist es intakt?(END)
+
+[>Pointer 61<]
+Frog: [Epoch]!(AÜ)
+Welch Schicksal hat es ereilt?(END)
+
+[>Pointer 62<]
+Ayla: Wo [Epoch]?(AÜ)
+[Epoch] leben?(END)
+
+[>Pointer 63<]
+Ältester: Euer Schiff ist stabil(AÜ)
+und intakt. Scheinbar ist es euch(AÜ)
+hierher gefolgt...(END)
+
+[>Pointer 64<]
+Lucca: Marle...(END)
+
+[>Pointer 65<]
+[Robo]: Marle...(END)
+
+[>Pointer 66<]
+Frog: Marle...(END)
+
+[>Pointer 67<]
+Ayla: Marle...(END)
+
+[>Pointer 68<]
+Marle: Crono...(END)
+
+[>Pointer 69<]
+Lucca: Wenn [Epoch] okay ist,(AÜ)
+dann ist es Crono auch...das(AÜ)
+fühle ich!!!(END)
+
+[>Pointer 70<]
+[Robo]: Bitte beruhige dich.(AÜ)
+Tränen stehen dir nicht.(END)
+
+[>Pointer 71<]
+Frog: Dein Freund starb vor(AÜ)
+deinen Augen. Worte vermögen dich(AÜ)
+nicht zu beruhigen...(END)
+
+[>Pointer 72<]
+Ayla: Wenn Marle weinen,(AÜ)
+Crono(2) auch traurig.(AÜ)
+Ayla nicht weinen!(END)
+
+[>Pointer 73<]
+Marle: ...(END)
+
+[>Pointer 74<]
+Ältester: Oh, das hier muß euch(AÜ)
+gehören.(END)
+
+[>Pointer 75<]
+Marle: Mein Amulett... Crono(AÜ)
+hat es für mich getragen...(END)
+
+[>Pointer 76<]
+Lucca: Marle's Amulett...(AÜ)
+Sie hatte es Crono gegeben.(END)
+
+[>Pointer 77<]
+[Robo]: Das Amulett aus(AÜ)
+Crono's Tasche. Es gehört(AÜ)
+Marle, nicht?(END)
+
+[>Pointer 78<]
+Frog: Das Amulett, welches(AÜ)
+Crono trug.(END)
+
+[>Pointer 79<]
+Ayla: Ah!(AÜ)
+Amulett von Crono(2)!(END)
+
+[>Pointer 80<]
+Ältester: Junge Dame, es lag auf(AÜ)
+deiner Schulter...wie zu deinem(AÜ)
+Schutz.(END)
+
+[>Pointer 81<]
+Ältester: Es lag neben euch, wie(AÜ)
+zu eurem Schutz...(END)
+
+[>Pointer 82<]
+Lucca: Crono...(END)
+
+[>Pointer 83<]
+[Robo]: Crono...(END)
+
+[>Pointer 84<]
+Frog: Crono...(END)
+
+[>Pointer 85<]
+Ayla: Crono(2)...!(END)
+
+[>Pointer 86<]
+Ältester: Nehmt euch Zeit und ruht(AÜ)
+euch aus. Ihr findet mich in der(AÜ)
+Gemeinde.(END)
+
+[>Pointer 87<]
+Einkaufen?(END)
+
+[>Pointer 88<]
+Ein paar "Erleuchtete'' haben überlebt.(A)
+Aber zwischen "Erleuchteten'' und(A)
+"Erdgebundenen'' gibt es keinen(A)
+Unterschied mehr.(END)
+
+[>Pointer 89<]
+Wie soll ich hier ohne Magie(A)
+überleben?(END)
+
+[>Pointer 90<]
+Du brauchst Magie zum Überleben(A)
+nicht. Außerdem bist du nicht(A)
+allein!(END)
+
+[>Pointer 91<]
+Nutze den Tag!(END)
+
+[>Pointer 92<]
+Du hast absolut recht!(A)
+Wir leben, und es wird immer(A)
+Hoffnung geben.(END)
+
+[>Pointer 93<]
+Ein Fremder ist hier durchgekommen.(A)
+Er suchte nach euch.(END)
+
+[>Pointer 94<]
+Das kann nicht sein!(A)
+Ist es der Seepalast?(END)
+
+[>Pointer 95<]
+Alles und jeder ist in den Tiefen(A)
+versunken.(END)
+
+[>Pointer 96<]
+Euch zu treffen war wirklich(A)
+aufregend!(END)
+
+[>Pointer 97<]
+Was zum Kuckuck ist das?(END)
+
+[>Pointer 98<]
+Der Wolkendunst ist fort, und der(A)
+Sturm hat nachgelassen.(A)
+Ob der lange Winter endlich(A)
+vorüber ist?(END)
+
+[>Pointer 99<]
+Ich habe jemand Verdächtiges im(A)
+Norden gesehen, beim Kap.(END)
+
+[>Pointer 100<]
+Sag nicht, es passiert bald(A)
+noch etwas!(END)
+
+[>Pointer 101<]
+Wir sind von einer gefährlichen(A)
+Macht zu abhängig geworden.(END)
+
+[>Pointer 102<]
+Niemand hatte den Mann je gesehen,(A)
+der nach euch suchte. War er ein(A)
+Freund?(END)
+
+[>Pointer 103<]
+Ein Mondstein wird zum Solstein, wenn(A)
+er für Jahrtausende der Sonne(A)
+ausgesetzt wird!(A)
+Das Königreich des Eifers hatte einen.(KN)
+Es braucht sehr alte Steine, um(A)
+ordentlich Energie zu erzeugen.(END)
+
+[>Pointer 104<]
+Ich fühle starke Magie, wie die(A)
+von Lavos, vom Düsteromen(A)
+ausströmen.(END)
+
+[>Pointer 105<]
+Zzz...(END)
+
+[>Pointer 106<]
+Hurra!(A)
+Hurra!(END)
+
+[>Pointer 107<]
+Was für ein riesiges Flug-Dings!(END)
+
+[>Pointer 108<]
+He, du da, ist das deine Katze?(END)
+
+[>Pointer 109<]
+Muß sich in den Schlaf geweint(A)
+haben. Laßt ihn.(END)
+
+[>Pointer 110<]
+Wie schön, daß ihr wohlauf seid!(END)
+
+[>Pointer 111<]
+Ich habe noch nie etwas so(A)
+Bedrohliches gesehen.(END)
+
+[>Pointer 112<]
+Ältester: Alle ausgeruht?(END)
+
+[>Pointer 113<]
+Ältester: Wir müssen ganz von(AÜ)
+vorn anfangen. Das dauert seine(AÜ)
+Zeit.(END)
+
+[>Pointer 114<]
+Was ist geschehen?(END)
+
+[>Pointer 115<]
+Jawoll!(A)
+Dalton bekam, was er verdient hat!(END)
+
+[>Pointer 116<]
+Ältester: Oh!(AÜ)
+Dieses Schiff kann fliegen!(END)
+
+[>Pointer 117<]
+Klatscher: Verbeugt euch und(AÜ)
+huldigt unserem neuen Herrscher,(AÜ)
+König Dalton!(END)
+
+[>Pointer 118<]
+Dalton: Hört her, Leute!(AÜ)
+Seid froh, daß ihr noch lebt!(END)
+
+[>Pointer 119<]
+Dalton: Die alte Tante und die(AÜ)
+nervtötenden Gurus sind weg.(AÜ)
+Ab sofort ist dies das Dalton-Reich!(END)
+
+[>Pointer 120<]
+Dalton: IHR! Ihr lebt?(AÜ)
+Das Schiff da draußen muß eures(AÜ)
+sein. Balthasar plante ein ganz(AÜ)
+ähnliches...(END)
+
+[>Pointer 121<]
+Dalton: Ich habe beschlossen, daß ihr(AÜ)
+dieses nette Spielzeug nicht verdient!(AÜ)
+Ab sofort ist es meine Edelkutsche!(END)
+
+[>Pointer 122<]
+Marle: Das kannst du nicht tun!(END)
+
+[>Pointer 123<]
+Lucca: Das soll wohl ein Witz(AÜ)
+sein!(END)
+
+[>Pointer 124<]
+[Robo]: Unmöglich!(END)
+
+[>Pointer 125<]
+Frog: Wie bitte!?(END)
+
+[>Pointer 126<]
+Ayla: [Epoch]!(AÜ)
+Ayla's Freund sein!(END)
+
+[>Pointer 127<]
+Dalton: Ihr müßt mit mir kommen!(AÜ)
+Ihr könntet sonst rebellieren oder so!(END)
+
+[>Pointer 128<]
+Dalton: Und nun nehmt als Zeichen(AÜ)
+meines Respekts...(END)
+
+[>Pointer 129<]
+   ...dies!!!(END)
+
+[>Pointer 130<]
+Dalton: Was!?(END)
+
+[>Pointer 131<]
+Dalton: Grrrr.(END)
+
+[>Pointer 132<]
+Dalton: Ha!(END)
+
+[>Pointer 133<]
+Dalton: Was zum Geier ist denn(AÜ)
+DAS!?(END)
+
+[>Pointer 134<]
+Dalton: Wahahaha!(AÜ)
+Das war nur eine Kostprobe meiner(AÜ)
+wahren Macht!(END)
+
+[>Pointer 135<]
+Magus: Da seid ihr ja...(END)
+
+[>Pointer 136<]
+Marle: Magus...(END)
+
+[>Pointer 137<]
+Lucca: Magus...(END)
+
+[>Pointer 138<]
+Frog: Magus!(END)
+
+[>Pointer 139<]
+Marle: Du bist...(KNÜ)
+...Janus, nicht wahr?(END)
+
+[>Pointer 140<]
+Lucca: Du...!(KNÜ)
+Du bist...Janus?(END)
+
+[>Pointer 141<]
+Frog: Aha!(AÜ)
+Du bist...(KNÜ)
+...du warst dieser ungezogene(AÜ)
+Range!(END)
+
+[>Pointer 142<]
+Magus: ...(END)
+
+[>Pointer 143<]
+Magus: Seitdem ich dank Lavos'(AÜ)
+Zeit-Tor in der Mittleren Ära(AÜ)
+gestrandet war...(KNÜ)
+...wartete ich auf eine Revanche.(KNÜ)
+Ihr kamt dazwischen, als ich Lavos(AÜ)
+in mein Schloß beschworen hatte.(KNÜ)
+Groteskerweise landete ich(AÜ)
+ausgerechnet wieder hier, indem(AÜ)
+ich in ein weiteres Tor gesogen(AÜ)
+wurde.(KNÜ)
+Ich kam aus der Zukunft, und meine(AÜ)
+Kenntnis der Vergangenheit ließ mich(AÜ)
+die Königin glauben machen, ich sei(AÜ)
+ein mächtiges Orakel.(KNÜ)
+Aber kein Geschichtsbuch konnte(AÜ)
+mich auf die hiesigen Ereignisse(AÜ)
+vorbereiten.(KNÜ)
+Lavos' Macht ist unvorstellbar.(AÜ)
+Wer ihn herausfordert...wird(AÜ)
+vernichtet.(KNÜ)
+Deshalb werdet ihr demselben(AÜ)
+schrecklichen Schicksal(AÜ)
+entgegensehen wie dieser arme(AÜ)
+Narr Crono!(END)
+
+[>Pointer 144<]
+Marle: Du wagst es...!(AÜ)
+Du bist schuld an Crono's Tod!(END)
+
+[>Pointer 145<]
+Lucca: ...!(AÜ)
+Es ist deine Schuld, daß(AÜ)
+Crono nicht mehr da ist!(END)
+
+[>Pointer 146<]
+Frog: ...!(KNÜ)
+Du wagst es, ihn zu beleidigen!?(END)
+
+[>Pointer 147<]
+Magus: Er ist Geschichte!(AÜ)
+Wer mit dem Feuer spielt, muß(AÜ)
+verbrennen!(END)
+
+[>Pointer 148<]
+Marle: So ein arrogantes Schwein!(END)
+
+[>Pointer 149<]
+Lucca: So ein Dreckschwein!(END)
+
+[>Pointer 150<]
+Frog: Magus!(AÜ)
+Hüte deine Zunge!(END)
+
+[>Pointer 151<]
+Magus: Ihr wollt mich bekämpfen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 152<]
+Marle: Dich zu besiegen bringt(AÜ)
+Crono auch nicht wieder(AÜ)
+zurück.(END)
+
+[>Pointer 153<]
+Lucca: Armer Crono.(AÜ)
+Davon kommt er auch nicht(AÜ)
+wieder zurück.(END)
+
+[>Pointer 154<]
+Frog: Dich zu bezwingen bringt(AÜ)
+weder Cyrus noch Crono(AÜ)
+zurück.(END)
+
+[>Pointer 155<]
+Magus: Wartet.(END)
+
+[>Pointer 156<]
+Magus: Ich komme mit euch.(END)
+
+[>Pointer 157<]
+Marle: Sag bloß!?(END)
+
+[>Pointer 158<]
+Lucca: Wie meinen!?(END)
+
+[>Pointer 159<]
+Frog: Verrat!!(END)
+
+[>Pointer 160<]
+Magus: Wißt ihr, es könnte möglich(AÜ)
+sein, ihn zurückzubringen.(END)
+
+[>Pointer 161<]
+Marle: I...ist das ein Witz!?(END)
+
+[>Pointer 162<]
+Lucca: Soll das ein Witz sein?(END)
+
+[>Pointer 163<]
+Frog: Unsinn...!?(END)
+
+[>Pointer 164<]
+Magus: Kaspar, der Guru der Zeit,(AÜ)
+weiß, wie man verlorene oder(AÜ)
+verrutschte Zeitströme richten(AÜ)
+kann...(END)
+
+[>Pointer 165<]
+Magus: Also gut...(KNÜ)
+Aber das wird nicht leicht für(AÜ)
+euch!(END)
+
+[>Pointer 166<]
+Magus: Werde ich besiegt,(AÜ)
+wird der Fluch, der auf Frog(AÜ)
+lastet, gebrochen.(END)
+
+[>Pointer 167<]
+   Wenn...ihr Crono(AÜ)
+zurückbringen wollt...(KNÜ)
+...dann sucht Kaspar, d...den Guru(AÜ)
+der Zeit...(END)
+
+[>Pointer 168<]
+(AÜ)
+       Den Talisman erhalten.(END)
+
+[>Pointer 169<]
+Frog: Tretet zurück.(END)
+
+[>Pointer 170<]
+Magus: ...(KNÜ)
+Ich hätte nie gedacht, daß wir's(AÜ)
+in dieser staubigen Ära austragen(AÜ)
+würden... Na gut, beenden wir(AÜ)
+diese Farce!(END)
+
+[>Pointer 171<]
+Frog: Cyrus, ich habe dich(AÜ)
+gerächt!(END)
+
+[>Pointer 172<]
+Schaut öfter vorbei. Sein Angebot(A)
+wechselt von Zeit zu Zeit.(END)
+
+[>Pointer 173<]
+Er hat neue Waren.(END)
+
+[>Pointer 174<]
+(AÜ)
+       1[mal] Magiepille gefunden!(END)
+
+[>Pointer 175<]
+Magus: Seht.(AÜ)
+Alles ist im Meer versunken.(KNÜ)
+Vergangen sind das magische Reich(AÜ)
+des Eifers und alle Träume(AÜ)
+und Ambitionen seines Volkes.(END)
+
+[>Pointer 176<]
+Magus: Einst lebte ich dort...(AÜ)
+Aber da war ich ein anderer.(END)
+
+[>Pointer 177<]
+Magus: Das verlorene Königreich(AÜ)
+der Träume.(KNÜ)
+Seufz...(AÜ)
+So viel zu gewinnen, und dann(AÜ)
+alles zu verlieren...(END)
+
+[>Pointer 178<]
+Bis bald.(END)
+
+[>Pointer 179<]
+Bleiben?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 180<]
+...(END)
+
+[>Pointer 181<]
+Dalton taugt nicht zum König.(END)
+
+[>Pointer 182<]
+Für Herrn Dalton zu arbeiten war(A)
+hart, und ein Vermögen war damit(A)
+auch nicht zu verdienen.(END)
+
+[>Pointer 183<]
+Der Guru des Lebens gab mir diesen(A)
+jungen Baum.(KN)
+Was mache ich damit?(AÜ)
+   Verbrennen.(AÜ)
+   Pflanzen und hoffen.(END)
+
+[>Pointer 184<]
+Stimmt, hier ist kein Platz dafür...(END)
+
+[>Pointer 185<]
+Also gut, ich kümmere mich darum.(A)
+Wer weiß? Vielleicht wird er eines(A)
+Tages die Vegetation retten.(END)
+
+[>Pointer 186<]
+Dieser geheimnisvolle junge(A)
+Baum... Vielleicht wird er eines(A)
+Tages dazu beitragen, unsere Welt(A)
+bewohnbar zu machen.(END)
+
+
+[>DUMP END<]----------------------------------------------------------

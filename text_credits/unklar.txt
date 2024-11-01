@@ -1,0 +1,3 @@
+- CT.IPS und Credits Deutsch.dat waren in ein- und demselben RAR-Archiv (mit Tool).
+- Credits Deutsch.dat ist laut diff zu allen anderen dt. Versionen ("1", "2" und "aktuelle") verschieden.
+- Die beiden TXT-Dateien scheinen aktuell zu sein.

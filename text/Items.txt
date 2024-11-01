@@ -1,0 +1,46 @@
+ITEMS
+=====
+
+Tonic     =Tonic
+Mid Tonic =Tonic med.
+Full Tonic=Tonic voll
+Ether     =Ether
+Mid Ether =Ether med.
+Full Ether=Ether voll
+Elixir    =Elixier
+HyperEther=HyperEther
+MegaElixir=Megalixier
+Heal      =Heilung
+Revive    =Belebung
+Shelter   =Unterkunft
+Power Meal=Kraftmahl
+Lapis     =Lapis
+Barrier   =Barriere
+Shield    =Schild
+Power Tab =Kraftpille
+Magic Tab =Magiepille
+Speed Tab =Hastpille
+Petal     =Rotblatt
+Fang      =Zahn
+Horn      =Horn
+Feather   =Feder
+Seed      =Samen
+Bike Key  =Motorschl.
+Pendant   =Amulett
+Gate Key  =Torschl.
+PrismShard=Prismateil
+C. Trigger=C. Trigger
+Tools     =Werkzeuge
+Jerky     =Rauchflsch
+Dreamstone=Traumstein
+Race Log  =Protokoll
+Moon Stone=Mondstein
+Sun Stone =Solstein
+Ruby Knife=Rubindolch
+Yakra Key =Yakraschl.
+Clone     =Klon
+Toma's Pop=Tomas Limo
+2 Petals  =2xRotblatt
+2 Fangs   =2xZahn
+2 Horns   =2xHorn
+2 Feathers=2xFeder

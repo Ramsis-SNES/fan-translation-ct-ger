@@ -1,0 +1,94 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - KAPITEL-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003FD274h]
+Size  [00000222h][0000029Ah][2]
+pStart[003FD23Eh]
+pFirst[D074h-27]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+ Die Jahrtausendfeier(END)
+
+[>Pointer 2<]
+ Rückkehr der Königin(END)
+
+[>Pointer 3<]
+  Wo ist die Königin?(END)
+
+[>Pointer 4<]
+    Wir sind zurück!(END)
+
+[>Pointer 5<]
+        Der Prozeß(END)
+
+[>Pointer 6<]
+  Jenseits der Ruinen(END)
+
+[>Pointer 7<]
+ Die Ruinen der Fabrik(END)
+
+[>Pointer 8<]
+   Das Ende der Zeit(END)
+
+[>Pointer 9<]
+  Das Dorf der Magie(END)
+
+[>Pointer 10<]
+    Der Held ist da!(END)
+
+[>Pointer 11<]
+ Tata und der Frosch(END)
+
+[>Pointer 12<]
+ Der seltene Rotstein(END)
+
+[>Pointer 13<]
+   Den Spuren nach!(END)
+
+[>Pointer 14<]
+     Das Masamune!(END)
+
+[>Pointer 15<]
+   Des Magiers Schloß(END)
+
+[>Pointer 16<]
+ In die Vergangenheit(END)
+
+[>Pointer 17<]
+ Verkehrte Evolution?(END)
+
+[>Pointer 18<]
+  Das magische Reich(END)
+
+[>Pointer 19<]
+   Die Siegel brechen(END)
+
+[>Pointer 20<]
+  Der Berg der Sühne(END)
+
+[>Pointer 21<]
+ Was liegt jenseits?(END)
+
+[>Pointer 22<]
+   Lavos läßt grüßen(END)
+
+[>Pointer 23<]
+     Der neue König(END)
+
+[>Pointer 24<]
+       Das Zeit-Ei(END)
+
+[>Pointer 25<]
+    Schicksalsstunde(END)
+
+[>Pointer 26<]
+   Der letzte Kampf(END)
+
+[>Pointer 27<]
+       Keine Daten(END)
+
+
+[>DUMP END<]----------------------------------------------------------

@@ -1,0 +1,680 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 2A]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0036B550h]
+Size  [000014C4h][00002500h][2]
+pStart[0036B430h]
+pFirst[B350h-144]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 2<]
+Alter Mann: Lavos ist fort, daher(AÜ)
+werden sich die Tore schließen.(AÜ)
+Geht nun in eure Epochen zurück,(AÜ)
+oder bleibt für immer hier.(END)
+
+[>Pointer 3<]
+Marle: Gehen wir in der Zeit(AÜ)
+zurück und retten Crono!(END)
+
+[>Pointer 4<]
+Marle: Ist er euch etwa egal?(END)
+
+[>Pointer 5<]
+Marle: Macht schon!(END)
+
+[>Pointer 6<]
+Frog: Ich muß heim und Königin(AÜ)
+Lena beschützen.(END)
+
+[>Pointer 7<]
+Ayla: Kino mich erwarten.(END)
+
+[>Pointer 8<]
+[Robo]: Dies ist wohl ein(AÜ)
+Abschied für immer.(END)
+
+[>Pointer 9<]
+Ayla: Ayla nach Hause.(AÜ)
+Viel Glück, alle!(END)
+
+[>Pointer 10<]
+Frog: Lebet wohl!(END)
+
+[>Pointer 11<]
+[Robo]: Lebt wohl...(END)
+
+[>Pointer 12<]
+Marle: Ihr seid alle so herzlos!(KN)
+Lucca: Niemand kann seinem(AÜ)
+Schicksal entrinnen, Marle. Wir(AÜ)
+alle sterben irgendwann......(END)
+
+[>Pointer 13<]
+Alter Mann: Heda!(END)
+
+[>Pointer 14<]
+Alter Mann: Seid ihr alle...fort?(END)
+
+[>Pointer 15<]
+Alter Mann: Ich habe vergessen,(AÜ)
+euch das hier zu geben...(AÜ)
+...
+>H<0304
+...na ja.(END)
+
+[>Pointer 16<]
+Alter Mann: Ihr habt was verloren!(AÜ)
+...
+>H<0304
+...na ja.(END)
+
+[>Pointer 17<]
+König: Wir haben dich gesucht,(AÜ)
+Crono.(AÜ)
+Wohin brachtest du meine Tochter?(END)
+
+[>Pointer 18<]
+Marle: Vater!(AÜ)
+Hör auf!(END)
+
+[>Pointer 19<]
+Marle: Papa, nicht!(END)
+
+[>Pointer 20<]
+Marle: Crono hat überhaupt(AÜ)
+nichts getan!(END)
+
+[>Pointer 21<]
+König: Sie sagt, Crono sei ein(AÜ)
+perfekter Gentleman gewesen,(AÜ)
+aber...(END)
+
+[>Pointer 22<]
+König: Was meint Ihr, Kanzler?(KN)
+Kanzler: Crono's Taten hatten(AÜ)
+einen enormen Einfluß auf das(AÜ)
+Königreich.(END)
+
+[>Pointer 23<]
+König: Pierre, was sagt Ihr dazu?(KN)
+Pierre: Ich denke, Crono hat(AÜ)
+einen ziemlichen Wirbel gemacht.(END)
+
+[>Pointer 24<]
+Marle: Kanzler, wie könnt Ihr nur!?(END)
+
+[>Pointer 25<]
+Marle: Und was soll das überhaupt(AÜ)
+heißen, Pierre!(END)
+
+[>Pointer 26<]
+Marle: Bitte!(AÜ)
+Hört mir mal zu!(AÜ)
+Wir mußten...(END)
+
+[>Pointer 27<]
+König: ...die Zukunft retten, richtig?(END)
+
+[>Pointer 28<]
+Marle: Huch!?(END)
+
+[>Pointer 29<]
+Doan: Ihr habt die Zukunft gerettet(AÜ)
+und uns Hoffnung geschenkt.(END)
+
+[>Pointer 30<]
+König Guardia XXI.: Ihr habt Magus(AÜ)
+bekämpft und dem Königreich des(AÜ)
+Jahres 600 A.D. zum Frieden(AÜ)
+verholfen.(END)
+
+[>Pointer 31<]
+Kino: Crono(2) Reptiten besiegt!(END)
+
+[>Pointer 32<]
+Marle: Was ist hier los?(END)
+
+[>Pointer 33<]
+Marle: Lucca!(AÜ)
+Du hast sie hergebracht, oder?(END)
+
+[>Pointer 34<]
+König: Unsere Verwandten haben(AÜ)
+mir alles über eure unglaubliche(AÜ)
+Mission erzählt.(END)
+
+[>Pointer 35<]
+Marle: Verwandten!?(AÜ)
+Heißt das...sie sind meine(AÜ)
+Vorfahren...und Nachkommen?(END)
+
+[>Pointer 36<]
+König: Ich war um das Reich und(AÜ)
+meine Tochter in Sorge, während(AÜ)
+du Vergangenheit, Gegenwart und(AÜ)
+Zukunft gerettet hast!(END)
+
+[>Pointer 37<]
+König: Auf eine wahre Siegesparade!(AÜ)
+Heute nacht feiern wir...dich!(END)
+
+Kanzler: 
+[>Pointer 38<]
+Kanzler: Aber Eure Hoheit, welchen(AÜ)
+Sieg meint Ihr?(AÜ)
+Wir haben niemanden bekämpft!(END)
+
+[>Pointer 39<]
+König Guardia: Habt Ihr Kinder,(AÜ)
+Kanzler?(END)
+
+[>Pointer 40<]
+Kanzler: J...ja, natürlich.(KN)
+König Guardia: Dann ist unser Sieg(AÜ)
+deren Freiheit!(AÜ)
+Eure Kinder und Kindeskinder leben(AÜ)
+nun in einer Welt der Hoffnung.(END)
+
+[>Pointer 41<]
+Kanzler: Oh, ooh!(END)
+
+[>Pointer 42<]
+König Guardia XXI.: Ja, er ist(AÜ)
+der echte.(END)
+
+[>Pointer 43<]
+König: Nun, Marle, geh hinaus(AÜ)
+und genieße die letzte Nacht der(AÜ)
+Feier!(END)
+
+[>Pointer 44<]
+Marle: Vater!(AÜ)
+Was ist mit den Leuten los!?(KN)
+König: Wo warst du, Nadia?(AÜ)
+Zuerst beruhige dich einmal.(AÜ)
+Und was sollen diese Kleider?(END)
+
+[>Pointer 45<]
+Marle: Wieso meckern alle an(AÜ)
+meinen Klamotten herum?(END)
+
+[>Pointer 46<]
+König: Wovon redest du bitte?(AÜ)
+Du brauchst dich nicht so(AÜ)
+anzuziehen!(END)
+
+[>Pointer 47<]
+König: Aber du kommst gerade recht!(AÜ)
+Wir haben dieses 400 Jahre alte(AÜ)
+Hochzeitsalbum in der Schatzkammer(AÜ)
+gefunden.(END)
+
+[>Pointer 48<]
+Marle: ???(AÜ)
+Gurgel...spuck...hust...keuch...(END)
+
+[>Pointer 49<]
+Lucca: Marle!(AÜ)
+Nein!(AÜ)
+Sag bloß, du hast...(END)
+
+[>Pointer 50<]
+Marle: Neiiin!(AÜ)
+Das kann nicht sein!!!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 51<]
+
+[>Pointer 52<]
+Begleitet Crono, unseren Helden.(END)
+
+[>Pointer 53<]
+Es ist die letzte Nacht der Feier!(END)
+
+[>Pointer 54<]
+Prinzessin Nadia ist zurück.(A)
+Endlich ist Guardia wieder normal!(END)
+
+[>Pointer 55<]
+(AÜ)
+       Die Mondlicht-Parade!
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 56<]
+Phantastisch!(END)
+
+[>Pointer 57<]
+Die Prinzessin ist wunderbar!
+>H<0301
+(A)
+Äh...du natürlich auch.(END)
+
+[>Pointer 58<]
+Lara: So eine traumhafte Nacht...(AÜ)
+Danke, Liebling.(END)
+
+[>Pointer 59<]
+Lara: Liebling, sei nicht so träge!(AÜ)
+Tanz mit mir!(END)
+
+[>Pointer 60<]
+Lara: Crono, der König sagt,(AÜ)
+DU hättest die Zukunft gerettet!(AÜ)
+Das müssen meine Freundinnen(AÜ)
+erfahren!(END)
+
+[>Pointer 61<]
+Taban: Hmm!(AÜ)
+Limo schmeckt draußen am(AÜ)
+besten!(END)
+
+[>Pointer 62<]
+Taban: Crono, nimm einen Schluck!(AÜ)
+Heute bist du der Held.(END)
+
+[>Pointer 63<]
+Jena: Habt ihr Crono gesehen?(AÜ)
+Er hat sich so auf das Fest gefreut!(AÜ)
+Wo steckt er nur?(END)
+
+[>Pointer 64<]
+Mama: DU hast uns alle gerettet!?(AÜ)
+Wie schön, Lieber, aber ich wünschte,(AÜ)
+du würdest mehr Zeit zu Hause(AÜ)
+verbringen.(END)
+
+[>Pointer 65<]
+   Blöd, wenn derjenige, der die(AÜ)
+Katze versorgt, dauernd weg ist!(END)
+
+[>Pointer 66<]
+Melchior: Niemand will mehr(AÜ)
+Waffen...und das ist gut so.(END)
+
+[>Pointer 67<]
+Lucca: Okay, Leute, da wären(AÜ)
+wir.(END)
+
+[>Pointer 68<]
+Frog: Zeit, Lebewohl zu sagen.(END)
+
+[>Pointer 69<]
+[Robo]: Das Tor wird instabil...(END)
+
+[>Pointer 70<]
+Lucca: Wir müssen uns(AÜ)
+verabschieden, bevor es sich(AÜ)
+schließt.(END)
+
+[>Pointer 71<]
+Marle: Ihr geht alle?(END)
+
+[>Pointer 72<]
+Ayla: Crono(2) war stark!(AÜ)
+Marle auch!(AÜ)
+Ayla Spaß!(END)
+
+[>Pointer 73<]
+Marle: Als entfernter Vorfahr(AÜ)
+von mir mußt du taffe Kinder(AÜ)
+kriegen, ansonsten hab ich(AÜ)
+Probleme!(KN)
+Kino: Hehehe!(AÜ)
+Nicht sorgen.(AÜ)
+Ayla SEHR stark!(KN)
+Marle: Genau!(END)
+
+[>Pointer 74<]
+Marle: Hey...was meinst du(AÜ)
+damit?(END)
+
+[>Pointer 75<]
+Ayla: Kino Depp!(AÜ)
+Wir jetzt gehen!(END)
+
+[>Pointer 76<]
+Frog: Welch lebhafte Menschen!(AÜ)
+Aber mich dünkt, das kömmt, da(AÜ)
+sie eure Ahnen sind.(KNÜ)
+Königin Lena erwartet uns.(AÜ)
+Eure Majestät, auch wir sollten(AÜ)
+nun gehen.(END)
+
+[>Pointer 77<]
+Marle: Sir Frog...(END)
+
+[>Pointer 78<]
+Frog: ...(AÜ)
+Ein langer Abschied verdüstert die(AÜ)
+Erinnerung.(END)
+
+[>Pointer 79<]
+Marle: Genau!(AÜ)
+Übrigens sagen Taten mehr als(AÜ)
+tausend Worte!(END)
+
+[>Pointer 80<]
+Lucca: Tja. Immer küßt die(AÜ)
+Prinzessin am Ende den Frosch.(END)
+
+[>Pointer 81<]
+Marle: Und du...wirst Schala(AÜ)
+suchen gehen?(END)
+
+[>Pointer 82<]
+
+[>Pointer 83<]
+[Robo]: Lucca, ich werde dich(AÜ)
+vermissen.(END)
+
+[>Pointer 84<]
+Marle: Was ist, Lucca?(AÜ)
+Sagst du [Robo] nicht tschüß?(END)
+
+[>Pointer 85<]
+[Robo]: Sie weiß es.(KN)
+Marle: Was weiß sie?(END)
+
+[>Pointer 86<]
+Lucca: ......(KNÜ)
+[Robo] stammt aus einer(AÜ)
+düsteren Zukunft. Mit dem Sieg über(AÜ)
+Lavos haben wir die Geschichte(AÜ)
+verändert.(KNÜ)
+[Robo]...kann in dieser Zukunft(AÜ)
+kaum existieren.(END)
+
+[>Pointer 87<]
+[Robo]: Sei unbesorgt.(AÜ)
+Es wird schon einen Platz für(AÜ)
+mich geben!(END)
+
+[>Pointer 88<]
+Lucca: Verdammt, [Robo]!(AÜ)
+Tu nicht so, als wärst du nicht(AÜ)
+traurig! Du machst alles nur(AÜ)
+schlimmer!(END)
+
+[>Pointer 89<]
+[Robo]: ......(AÜ)
+Lucca, DU hast mich diese(AÜ)
+Gefühle gelehrt. Danke.(END)
+
+[>Pointer 90<]
+Marle: Tränen passen nicht zu(AÜ)
+dir, Lucca! [Robo] wird's(AÜ)
+schon gutgehen!(END)
+
+[>Pointer 91<]
+[Robo]: Lebt...wohl.(END)
+
+[>Pointer 92<]
+[Robo]: Kritischer Fehler!(AÜ)
+Öl läuft über meine Sensoren.(AÜ)
+Sicht vermindert...(END)
+
+[>Pointer 93<]
+Marle: Das war's dann für(AÜ)
+heute.(END)
+
+[>Pointer 94<]
+Soldat: Oh, Prinzessin, der König(AÜ)
+bittet Euch zu sich.(END)
+
+[>Pointer 95<]
+Marle: Zeitreisen...wie(AÜ)
+anstrengend!(END)
+
+[>Pointer 96<]
+Lucca: Wir sollten [Epoch](AÜ)
+auseinanderbauen. Das Ding(AÜ)
+hat ausgedient.(END)
+
+[>Pointer 97<]
+Jena: Du ungezogenes Ding,(AÜ)
+komm zurück!(END)
+
+[>Pointer 98<]
+Jena: Schau, Crono!(AÜ)
+Deine Katze rennt weg, weil(AÜ)
+du sie nicht gefüttert hast!(END)
+
+[>Pointer 99<]
+Jena: He, komm zurück!(END)
+
+[>Pointer 100<]
+Marle: Na super!(AÜ)
+Crono, dieses Tor öffnet(AÜ)
+sich nie wieder!(END)
+
+[>Pointer 101<]
+Lucca: Tja, wir haben wohl keine(AÜ)
+Wahl, als ihnen zu folgen!(END)
+
+[>Pointer 102<]
+Marle: Ihnen folgen!?(AÜ)
+Aber das Tor...(END)
+
+[>Pointer 103<]
+Lucca: Marle, laß dein Gehirn(AÜ)
+noch eine Weile an!(END)
+
+[>Pointer 104<]
+Lucca: Vergiß nicht, wir(AÜ)
+haben eine Zeitmaschine!(END)
+
+[>Pointer 105<]
+(AÜ)
+                    Hehe!(END)
+
+[>Pointer 106<]
+Lucca: Erinnerst du dich an(AÜ)
+unser Gespräch?(END)
+
+[>Pointer 107<]
+Marle: Du meinst, ob unser(AÜ)
+Leben an uns vorbeizieht, wenn(AÜ)
+wir sterben?(END)
+
+[>Pointer 108<]
+Lucca: Jepp. Ich habe das Gefühl,(AÜ)
+das "Wesen'' hat endlich Ruhe(AÜ)
+gefunden.(KN)
+Marle: Ja, das Gefühl habe ich(AÜ)
+auch...(END)
+
+[>Pointer 109<]
+Lucca: Ich dachte, Lavos hätte(AÜ)
+die Tore erschaffen...(AÜ)
+Aber ich habe mich getäuscht.(END)
+
+[>Pointer 110<]
+Marle: Was meinst du damit?(END)
+
+[>Pointer 111<]
+Lucca: Ich glaube, eine höhere(AÜ)
+Macht wollte, daß wir das alles(AÜ)
+erleben.(END)
+
+[>Pointer 112<]
+Marle: Was ist los?(AÜ)
+Wie kamen die alle hierher?(AÜ)
+Das Tor ist doch zu!(END)
+
+[>Pointer 113<]
+Lucca: Hehe, ich habe ein wenig(AÜ)
+an dem Super Dimensions-Beamer(AÜ)
+herumgebastelt.(END)
+
+[>Pointer 114<]
+Marle: Und eine Zeitmaschine(AÜ)
+daraus gemacht?(END)
+
+[>Pointer 115<]
+Marle: Du bist der Typ vom(AÜ)
+Zeitenende!(KN)
+Kaspar: Ihr habt das "Zeit-Ei''(AÜ)
+vergessen! Es ist dazu da, ...(KNÜ)
+Bla, bla, bla...(AÜ)
+Bla, etc. etc. etc....(NÜ)
+etc., etc., etc....(AÜ)
+etc., etc., etc....(NÜ)
+...
+>H<03
+(AÜ)
+ Verstanden?(END)
+
+[>Pointer 116<]
+Marle: Das heißt, wir können(AÜ)
+Crono zurückholen?(KN)
+Kaspar: Ja, das ist möglich.(END)
+
+[>Pointer 117<]
+Marle: D...deshalb seid ihr(AÜ)
+alle hier?(END)
+
+[>Pointer 118<]
+Marle: Holen wir Crono!(END)
+
+[>Pointer 119<]
+Lucca: Bleib du doch bei(AÜ)
+deinem Vater.(KN)
+Marle: Aber...(KN)
+Lucca: Keine Sorge!(AÜ)
+Ich bring ihn schon zurück!(END)
+
+[>Pointer 120<]
+Lucca: Vertrau mir!(END)
+
+[>Pointer 121<]
+Marle: Wie es wohl unseren(AÜ)
+Freunden geht?(END)
+
+[>Pointer 122<]
+Ayla: Gib "Zeit-Ei''!(KN)
+Kaspar: Nur die Ruhe.(AÜ)
+Hektik bringt ihn nicht zurück!(END)
+
+[>Pointer 123<]
+Ayla: Okay, verstehen.(AÜ)
+Jetzt Beeilung, geben!(END)
+
+[>Pointer 124<]
+[Robo]: Hey!(AÜ)
+Er macht sich aus dem Staub!(END)
+
+[>Pointer 125<]
+Marle: Was ist los, Leute?(END)
+
+[>Pointer 126<]
+Dieses "Zeit-Ei'' kann IHN(A)
+zurückbringen!(KN)
+Lucca: Äh...wen bitte?(AÜ)
+Etwa Crono?(END)
+
+[>Pointer 127<]
+Ja.(END)
+
+[>Pointer 128<]
+Marle: Übrigens, wer bist du?(END)
+
+[>Pointer 129<]
+Marle: Weg ist er!(KN)
+Lucca: War das etwa...Frog?(END)
+
+[>Pointer 130<]
+Lucca: Er...
+>H<0302
+sieht gut aus!(END)
+
+[>Pointer 131<]
+Lucca: Schnell, ihm nach!(END)
+
+[>Pointer 132<]
+Lucca: Hey, Frog!(AÜ)
+Warum hast du uns nicht gesagt,(AÜ)
+daß du so ein toller Hecht bist?(END)
+
+[>Pointer 133<]
+König: Ich habe ein Geschenk zur(AÜ)
+Erinnerung an diesen Tag, Prinzessin(AÜ)
+Nadia.(END)
+
+[>Pointer 134<]
+Marle: Es ist......(KN)
+König: Nadias Glocke! Sie wird Lenas(AÜ)
+400 Jahre alte Glocke ersetzen.(AÜ)
+Von nun an wird Nadias Glocke stolz(AÜ)
+für den Frieden läuten.(END)
+
+[>Pointer 135<]
+Marle: Sie ist schön!(END)
+
+[>Pointer 136<]
+König: Nun kannst du die Honneurs(AÜ)
+machen.(END)
+
+[>Pointer 137<]
+Marle: Fertig!(END)
+
+[>Pointer 138<]
+Marle: Häh!?(AÜ)
+Hey, Crono, hilf mir!(END)
+
+[>Pointer 139<]
+Marle: !?(AÜ)
+H...Hilfe!(END)
+
+[>Pointer 140<]
+Taban: Puh!(AÜ)
+Gerade noch rechtzeitig!(AÜ)
+Soll ich eine abfeuern?
+>H<03
+(NÜ)
+(N)
+König: Äh...nein, Taban.(AÜ)
+Ich könnte deine Hilfe brauchen... 
+>H<03
+(AÜ)
+>H<03
+(END)
+
+[>Pointer 141<]
+König: Ich bin so glücklich!(AÜ)
+Jetzt hast du keinen Grund mehr(AÜ)
+fortzugehen.(END)
+
+[>Pointer 142<]
+Marle: Papi...(AÜ)
+Ich sage es ungern, aber...
+>H<0302
+(AÜ)
+Ich kann nicht herumsitzen und(AÜ)
+nichts tun!(END)
+
+[>Pointer 143<]
+König: Dies ist Nadias Glocke.(AÜ)
+Ihr Klang wird das ganze Land(AÜ)
+erfüllen.(END)
+
+[>Pointer 144<]
+König: Marle...wo bist du denn?(AÜ)
+Könnte mir mal irgend jemand(AÜ)
+helfen?(END)
+
+
+[>DUMP END<]----------------------------------------------------------

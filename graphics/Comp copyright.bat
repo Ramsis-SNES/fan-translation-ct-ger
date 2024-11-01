@@ -1,0 +1,1 @@
+recomp.exe ctcopyright.bin Chrono.swc 3e6202 12 0

@@ -1,0 +1,509 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 2]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0036A2D4h]
+Size  [0000114Fh][00001D3Ch][2]
+pStart[0036A200h]
+pFirst[A0D4h-106]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(AÜ)
+   Du hast 1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 2<]
+Lara: Oh, hi, Crono.(AÜ)
+Lucca ist mit ihrem Vater(AÜ)
+auf Lenas Platz, um ihre neue(AÜ)
+Erfindung vorzustellen.(END)
+
+[>Pointer 3<]
+Lara: Lucca und Taban haben nur(AÜ)
+für ihre Kindereien Zeit!(END)
+
+[>Pointer 4<]
+Lara: So ein schöner Tag!(AÜ)
+Ich werde nach der Hausarbeit(AÜ)
+spazierengehen.(END)
+
+[>Pointer 5<]
+Lucca: Hmmm... Humanoide(AÜ)
+Roboter, die auf zwei Beinen(AÜ)
+gehen, sind praktisch nicht(AÜ)
+realisierbar.(KNÜ)
+Oh! Crono! Beeil dich und(AÜ)
+bring die Prinzessin ins Schloß!(END)
+
+[>Pointer 6<]
+Taban: Hier, das haben wir heute(AÜ)
+eingenommen!(END)
+
+[>Pointer 7<]
+Lara: Oh, wie nett von dir.(END)
+
+[>Pointer 8<]
+Taban: Du bist mit Lucca(AÜ)
+befreundet, nicht?(END)
+
+[>Pointer 9<]
+   Falls du Lucca siehst, sag ihr,(AÜ)
+sie soll mal vorbeischauen!(END)
+
+[>Pointer 10<]
+Taban: Hey, Lucca!(END)
+
+[>Pointer 11<]
+Taban: Ich würde sie gern öfter(AÜ)
+sehen. Meine Erfindungen würden(AÜ)
+ihr gefallen.(END)
+
+[>Pointer 12<]
+Taban: Oh, ihr kommt gerade recht.(END)
+
+[>Pointer 13<]
+Taban: Mein Meisterstück!(AÜ)
+Die stärkste Verteidigung für meine(AÜ)
+Tochter!(END)
+
+[>Pointer 14<]
+Lucca: Bin ich etwa wieder...(AÜ)
+...zu DIESEM Moment zurückgekehrt?(END)
+
+[>Pointer 15<]
+24. Juni 990 A.D.(A)
+Papa wollte mit mir wandern(A)
+gehen, aber es ging nicht, wegen(A)
+seiner Arbeit.(KN)
+Ich verabscheue die Technik!(END)
+
+[>Pointer 16<]
+Lara: Was ist DAS bloß?(AÜ)
+Ich soll davon fernbleiben, aber es(AÜ)
+ist so staubig. Mal sehen...(END)
+
+[>Pointer 17<]
+Lara: Du liebe Güte!(AÜ)
+Mein Rock! Ich hänge FEST!(AÜ)
+Lucca!(AÜ)
+Lucca, HILFE!(END)
+
+[>Pointer 18<]
+Lucca: Ich schaff's nicht...!(END)
+
+[>Pointer 19<]
+Lara: !!!(AÜ)
+Lucca!(AÜ)
+Gib das Paßwort ein!(AÜ)
+Halt dieses Ding an!(KN)
+Lucca: Aber ich weiß das(AÜ)
+Paßwort doch nicht, Mama...!(END)
+
+[>Pointer 20<]
+Lara: Oh nein...!(AÜ)
+Hilfe!
+>H<030403
+(END)
+
+[>Pointer 21<]
+1. Juli 990 A.D.(A)
+Hätte ich bloß nicht gehört, was(A)
+der Arzt gesagt hat.(KN)
+Mamas Beine...sind...(END)
+
+[>Pointer 22<]
+15. Juli 990 A.D.(A)
+Wüßte ich nur mehr über Maschinen!(A)
+Dann ginge es Mama jetzt gut.(A)
+Ich müßte...(END)
+
+[>Pointer 23<]
+2. Juli 990 A.D.(A)
+Ich glaube, ich habe was gelernt!(A)
+Ich werde Technik studieren.(KN)
+In diesem Haus wird es keine(A)
+Unfälle mehr geben!(END)
+
+[>Pointer 24<]
+Paßwort eingeben.(END)
+
+[>Pointer 25<]
+Lucca: Gott sei Dank, Mama...(KN)
+Lara: Lucca... Lucca...(END)
+
+[>Pointer 26<]
+Das Paßwort ist...der Name meiner(A)
+lieben Frau. (...für Notfälle...)(AÜ)
+                     -Taban(END)
+
+[>Pointer 27<]
+Lucca: Ich modifiziere den(AÜ)
+Solstein und extrahiere die(AÜ)
+Energie...(END)
+
+[>Pointer 28<]
+Lucca: ...dann packe ich sie(AÜ)
+per Vakuumkompression in eine(AÜ)
+Patrone...(END)
+
+[>Pointer 29<]
+Lucca: ...und fertig!(END)
+
+[>Pointer 30<]
+Lucca: Manchmal staune ich über(AÜ)
+mich selbst!(END)
+
+[>Pointer 31<]
+Taban: Schau, Lucca! Ich habe(AÜ)
+ein Stück vom Solstein geliehen(AÜ)
+und etwas Tolles daraus gemacht!(END)
+
+[>Pointer 32<]
+[Robo]: Hebe Sicherheitssystem(AÜ)
+00 auf.(END)
+
+[>Pointer 33<]
+      Hoch(AÜ)
+   Runter(AÜ)
+   Ende(END)
+
+[>Pointer 34<]
+Links - Labor(A)
+Rechts - Fabrik(KN)
+Achtung! Fließband in Fabrik(A)
+nicht abschalten.(A)
+Ansonsten Sicherheitssystem aktiviert(A)
+und Gefahr für Personal.(END)
+
+[>Pointer 35<]
+Luke öffnen.(END)
+
+[>Pointer 36<]
+[Robo]: Alle Systeme, auch(AÜ)
+Verteidigungslaser, deaktiviert.(END)
+
+[>Pointer 37<]
+Alarm!(A)
+Aufzüge deaktiviert.(END)
+
+[>Pointer 38<]
+[Robo]: Das sind meine Freunde!(END)
+
+[>Pointer 39<]
+[Robo]: R-64Y, R-67Y und R-69Y!(AÜ)
+Wie schön!(END)
+
+[>Pointer 40<]
+[Robo]: Was...macht ihr da!?(END)
+
+[>Pointer 41<]
+R-64Y: Du bist defekt.(A)
+R-67Y: Du wurdest manipuliert.(END)
+
+[>Pointer 42<]
+[Robo]: Was?(END)
+
+[>Pointer 43<]
+R-69Y: Hast du unsere Mission(AÜ)
+vergessen?(AÜ)
+Alle Eindringlinge müssen eliminiert(AÜ)
+werden!(END)
+
+[>Pointer 44<]
+[Robo]: DAZU war ich da?(END)
+
+[>Pointer 45<]
+[Robo]: Ich habe einen Fehler?(A)
+R-64Y: Positiv.(END)
+
+[>Pointer 46<]
+[Robo]: Ein Defekt...(AÜ)
+Ich bin ein Defekt...(END)
+
+[>Pointer 47<]
+R-64Y: Du bringst uns Schande!(AÜ)
+Du mußt zerstört werden.(END)
+
+[>Pointer 48<]
+Lucca: W...was macht ihr...!(END)
+
+[>Pointer 49<]
+Marle: [Robo]!(AÜ)
+Crono, [Robo] wird verkloppt!(END)
+
+[>Pointer 50<]
+[Robo]: Nein, aufhören!(AÜ)
+Dies sind meine Freunde!(END)
+
+[>Pointer 51<]
+Lucca: Aber sie zerstören(AÜ)
+dich!(END)
+
+[>Pointer 52<]
+Marle: Er wird kaputtgehen!(END)
+
+[>Pointer 53<]
+[Robo]: Bitte hört auf.(AÜ)
+B...itte...(END)
+
+[>Pointer 54<]
+[Robo]!(END)
+
+[>Pointer 55<]
+R-64Y: Und nun sind die(AÜ)
+Eindringlinge dran...(END)
+
+[>Pointer 56<]
+Lucca: Nein!(AÜ)
+Jetzt seid IHR dran!(END)
+
+[>Pointer 57<]
+Marle: Ihr arroganten Blechkisten!(AÜ)
+So kommt ihr nicht davon!(END)
+
+[>Pointer 58<]
+Sie haben Schrott aus ihm gemacht!(END)
+
+[>Pointer 59<]
+Lucca: Ob ich ihn in diesem(AÜ)
+Zustand reparieren kann...?(END)
+
+[>Pointer 60<]
+Lucca: Bringen wir ihn zurück(AÜ)
+zur Protokuppel...(END)
+
+[>Pointer 61<]
+Marle: Waah!(AÜ)
+Was machen wir?(AÜ)
+[Robo] ist kaputt!(END)
+
+[>Pointer 62<]
+Marle: Crono, nur Lucca(AÜ)
+kann ihn reparieren!(END)
+
+[>Pointer 63<]
+Nach dem Signalton den Kran(A)
+mit zweien dieser Buchstaben(A)
+bedienen: A, B, X, Y.(END)
+
+[>Pointer 64<]
+Letzter Sperrcode für Verteidigung:(A)
+ZABIE(A)
+Übersetzung: XABY(KN)
+Das ist X, A, B, Y.(END)
+
+[>Pointer 65<]
+Kontrollcode für den Kran:(AÜ)
+Code 00: X A(AÜ)
+Code 01: B B(END)
+
+[>Pointer 66<]
+Kanzler: Weiß irgend jemand, was(AÜ)
+die "Regenbogenmuschel'' ist?(KNÜ)
+Nein? Ich wußte es auch nicht,(AÜ)
+bis ich dies hier fand...(END)
+
+[>Pointer 67<]
+Kanzler: Ein Testament königlicher(AÜ)
+Vorfahren. Darin heißt es: "Enthüllt(AÜ)
+den Bürgern die Regenbogenmuschel(AÜ)
+zur Jahrtausendfeier.''(END)
+
+[>Pointer 68<]
+König: Wie bitte!?(AÜ)
+Wir verfügen über keine Erbstücke!(END)
+
+[>Pointer 69<]
+Kanzler: Das Testament soll also(AÜ)
+gefälscht sein?(KNÜ)
+Ich frage mich: Warum gönnt der(AÜ)
+Angeklagte dem Volk keinen Blick(AÜ)
+auf die Muschel?(KNÜ)
+Weil er sie nicht mehr HAT!!!(AÜ)
+Er hat sie gegen Bargeld verkauft!(AÜ)
+Den Zeugen, bitte!(END)
+
+[>Pointer 70<]
+Kanzler: Was...was ist, Nadia?(AÜ)
+Wir sind mitten in einer(AÜ)
+Verhandlung.(KN)
+Marle: Vater!(END)
+
+[>Pointer 71<]
+König: Nadia!(AÜ)
+Der Kanzler dichtet mir Hehlerei an!(END)
+
+[>Pointer 72<]
+Kanzler: Er schleudert Beleidigungen(AÜ)
+um sich. Beweist lieber Eure(AÜ)
+Unschuld...Majestät!(KN)
+Marle: Beweisen?(KN)
+Kanzler: Ja. Wenn er das Erbstück(AÜ)
+nicht verkauft hat, muß es noch(AÜ)
+im Schloß sein.(KNÜ)
+Zeigt mir die Muschel, und ich(AÜ)
+akzeptiere seine Unschuld!(AÜ)
+(Hehehe...)(END)
+
+[>Pointer 73<]
+König: Kanzler!(AÜ)
+Was für ein Spiel treibt Ihr da!?(END)
+
+[>Pointer 74<]
+Kanzler: Werft sie raus!(END)
+
+[>Pointer 75<]
+Händler: Ich gestehe!(AÜ)
+Ich habe dem König die Muschel(AÜ)
+abgekauft, weil er das Geld(AÜ)
+brauchte.(KN)
+König: Lügner!!!(AÜ)
+Ich habe den Kerl noch nie gesehen!(END)
+
+[>Pointer 76<]
+Richter: Ruhe im Gerichtssaal!(END)
+
+[>Pointer 77<]
+Händler: Hehehe.(AÜ)
+War ich überzeugend?(KN)
+Kanzler: Perfekt!(END)
+
+[>Pointer 78<]
+Richter: Geschworene...(AÜ)
+Wenn Ihr ihn für schuldig befindet,(AÜ)
+geht nach links.(AÜ)
+Wenn nicht, geht nach rechts.(END)
+
+[>Pointer 79<]
+Schuldig.(END)
+
+[>Pointer 80<]
+Nicht schuldig.(END)
+
+[>Pointer 81<]
+Richter: Das Urteil lautet...(AÜ)
+...schuldig!!!(END)
+
+[>Pointer 82<]
+Kanzler: Hier endet die Linie(AÜ)
+Guardia.(AÜ)
+Jetzt bin ich am Drücker!(KNÜ)
+Bringt ihn weg!(END)
+
+[>Pointer 83<]
+Halt!!!(END)
+
+[>Pointer 84<]
+Kanzler: Wer ist da?(END)
+
+[>Pointer 85<]
+Marle: VATER!!!(END)
+
+[>Pointer 86<]
+König: Nadia!(END)
+
+[>Pointer 87<]
+Kanzler: Prinzessin!(AÜ)
+Beherrscht Euch!(END)
+
+[>Pointer 88<]
+Kanzler: Ihr seid zu spät!(AÜ)
+Der König wurde verurteilt.(AÜ)
+Auch für Könige gelten Gesetze.(END)
+
+[>Pointer 89<]
+Marle: Nein, das war ein(AÜ)
+abgekartetes Spiel!(END)
+
+[>Pointer 90<]
+Kanzler: Unsinn!(AÜ)
+Der König ist ein Gauner!(KN)
+Marle: Aber der Schatz ist hier!(END)
+
+[>Pointer 91<]
+Kanzler: UNMÖGLICH!(END)
+
+[>Pointer 92<]
+Marle: Euer Plan ist durchschaut,(AÜ)
+Kanzler!(END)
+
+[>Pointer 93<]
+Kanzler: Grrr...ich meine...äh...(END)
+
+[>Pointer 94<]
+Marle: Häh?(END)
+
+[>Pointer 95<]
+Kanzler: Hihihihi!(KNÜ)
+Nichts hast du durchschaut.(AÜ)
+Ich will meine Vorfahren rächen!(END)
+
+[>Pointer 96<]
+Kanzler: Super, ultra, presto...(AÜ)
+TRANSFORM-O!!!(END)
+
+[>Pointer 97<]
+Marle: Vater...ich...(END)
+
+[>Pointer 98<]
+König: Nein, sag es nicht...(AÜ)
+Es war MEIN Fehler, so stur zu sein.(END)
+
+[>Pointer 99<]
+Marle: Nein, ich hätte wissen(AÜ)
+müssen, wie du dich gefühlt hast.(KNÜ)
+Ähm...(AÜ)
+Mein Herz wußte es, aber(AÜ)
+sagen konnte ich es nicht.(END)
+
+[>Pointer 100<]
+König: Mir geht's genauso.(AÜ)
+Ich dachte, du hättest mich(AÜ)
+verlassen, aber in Wahrheit(AÜ)
+war es genau umgekehrt.(END)
+
+[>Pointer 101<]
+Marle: Aber jetzt bin ich hier.(AÜ)
+Wir werden über alles reden, was(AÜ)
+passiert ist.(AÜ)
+Über Crono und Mutter...und...(END)
+
+[>Pointer 102<]
+König: Deine Mutter...wie traurig!(AÜ)
+Ich habe so lange gebraucht um(AÜ)
+zu verstehen, was Alisa mit ihren(AÜ)
+letzten Worten sagen wollte.(KNÜ)
+"Wenn Nadia eines Tages erwachsen(AÜ)
+ist, wird sie dir ihren Geliebten(AÜ)
+vorstellen.(KNÜ)
+Heiße ihn willkommen, und(AÜ)
+vergiß diesen Tag nie.''(END)
+
+[>Pointer 103<]
+Marle: Du hast ihre letzten(AÜ)
+Worte gehört?(KN)
+König: Natürlich!(KNÜ)
+Du warst so klein und sagtest: "Papa,(AÜ)
+wie schön, daß alle hier sind, die(AÜ)
+ich mag!''(KNÜ)
+Dich glücklich zu sehen hat sie(AÜ)
+beruhigt, und sie konnte friedlich(AÜ)
+einschlafen.(END)
+
+[>Pointer 104<]
+Marle: So war das also...(KN)
+König: Ja, warum?(END)
+
+[>Pointer 105<]
+Marle: Ich hab dich früher(AÜ)
+"Papa'' genannt?(KN)
+König: Das hast du.(END)
+
+[>Pointer 106<]
+Marle: Es tut mir leid...Papa.(AÜ)
+Daß ich an dir gezweifelt habe.(END)
+
+
+[>DUMP END<]----------------------------------------------------------

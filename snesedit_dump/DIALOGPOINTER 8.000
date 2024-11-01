@@ -1,0 +1,446 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 8]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003F4702h]
+Size  [00001342h][00001EDAh][2]
+pStart[003F4660h]
+pFirst[4502h-81]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 2<]
+Nicht schlecht! Du hast es zu(A)
+einer Endsequenz geschafft und(A)
+gehörst nun zum Dream Team!(KN)
+Da du so durch das Spiel gehetzt(A)
+bist, haben wir den Abspann ein(A)
+wenig deinem Stil angeglichen!(END)
+
+[>Pointer 3<]
+Akira Toriyama: Hey! Sasuke! Kikka!(AÜ)
+Papi arbeitet an Spielen wie diesem!(AÜ)
+Hey, schaut ihr auch zu?(AÜ)
+Ist das nicht toll!?(END)
+
+[>Pointer 4<]
+Yuji Horii: Eines paßt nicht...(AÜ)
+Hefter, Mothra oder die Olympischen(AÜ)
+Spiele! Welches ist es?(END)
+
+[>Pointer 5<]
+Hironobu Sakaguchi: Junge, früher(AÜ)
+wurde ich nach jedem Spiel dünner.(AÜ)
+Jetzt nehme ich statt dessen zu.(AÜ)
+Ack! Ich werde wohl alt...(END)
+
+[>Pointer 6<]
+Kazuhiko Aoki: Stell dir vor, ich habe(AÜ)
+den 100000-Yen-Jackpot geknackt!(END)
+
+[>Pointer 7<]
+Ken Narita: Liebe lag in der Luft...(AÜ)
+Aber dann sank das Boot.(AÜ)
+Seufz...(END)
+
+[>Pointer 8<]
+Hiroyuki Ito: Hehe...die(AÜ)
+Tyranohöhle? Ja, es war meine(AÜ)
+geniale Idee, den Schalter im(AÜ)
+Maul zu verstecken!(END)
+
+[>Pointer 9<]
+Kazuo Suzuki: Von mir stammen die(AÜ)
+Händler!(END)
+
+[>Pointer 10<]
+Shun Moriya: 24 Stunden habe ich(AÜ)
+jetzt an diesem ROM gearbeitet!(AÜ)
+Hilfe! Ich werde hineingesogen!(END)
+
+[>Pointer 11<]
+Masanori Hoshino: Hey, sie wollten(AÜ)
+das Spiel eigentlich "Hoshino Trigger''(AÜ)
+nennen!(END)
+
+[>Pointer 12<]
+Mami Kawai: Ups!(AÜ)
+Hab ich ein paar Teile vergessen?(AÜ)
+Sorry, passiert nicht wieder...(END)
+
+[>Pointer 13<]
+Taizo Mamo: Was ist mit diesen(AÜ)
+Schlawinern!?(END)
+
+[>Pointer 14<]
+Suche mich nicht...(AÜ)
+          Hiroko Yamamoto(END)
+
+[>Pointer 15<]
+Minoru Akao: Junge, ist das nicht(AÜ)
+toll?(END)
+
+[>Pointer 16<]
+Eiji Nakamura: Glückwunsch, daß du's(AÜ)
+geschafft hast. Aber jetzt LEBE!(END)
+
+[>Pointer 17<]
+Katsuhisa Higuchi: Legendärer(AÜ)
+Programmierer sucht diese gewisse(AÜ)
+Person. Schreibt Karten und(AÜ)
+Briefe.(END)
+
+[>Pointer 18<]
+Kenichi Nishi: Junge, war das eine(AÜ)
+Knochenarbeit...(AÜ)
+Ich habe meine ersten grauen Haare(AÜ)
+gekriegt!(END)
+
+[>Pointer 19<]
+ManuLöwe: Vielen Dank dafür, daß(AÜ)
+du meine Übersetzung von Chrono(AÜ)
+Trigger gespielt hast!(KNÜ)
+Es war übrigens eine Heidenarbeit,(AÜ)
+dieses Spiel komplett zu übersetzen.(KNÜ)
+Wenn du Lust hast, besuche meine(AÜ)
+Website: http://www.manuloewe.de/(END)
+
+[>Pointer 20<]
+Shinichiro Okaniwa: Weißt du, sie(AÜ)
+haben uns ewig lange eingesperrt.(AÜ)
+Deshalb ist mein Haar SO lang!(END)
+
+[>Pointer 21<]
+Gute Arbeit!(A)
+Du hast den schwersten Weg gewählt(A)
+und es geschafft! Dies ist der(A)
+Entwicklerraum von Chrono Trigger.(KN)
+Schau dich um und sprich mit dem(A)
+Team...(KN)
+Keizo Kokubo: Tja, ich hoffe, alle(AÜ)
+haben dabei was gelernt! Wenn du(AÜ)
+mit allen gesprochen hast, komm zu(AÜ)
+mir zurück.(END)
+
+[>Pointer 22<]
+Gut, dann öffnen wir jetzt die Tür(A)
+zum Dream Team!(END)
+
+[>Pointer 23<]
+Hereinspaziert.(A)
+Wir haben auf dich gewartet!(END)
+
+[>Pointer 24<]
+Hiroshi Uchiyama: Ziemlich gutes(AÜ)
+Kostüm hast du da, Kleiner!(AÜ)
+Halt!(AÜ)
+DU bist es wirklich, oder!?(END)
+
+[>Pointer 25<]
+Fumi Nakashima: Jemand muß mich(AÜ)
+küssen!(END)
+
+[>Pointer 26<]
+Yasuhiko Kamata: Sind 32 Megabit nicht(AÜ)
+klasse? Deshalb ist die Grafik so(AÜ)
+gut. War teilweise anstrengend, aber(AÜ)
+auch spaßig!(END)
+
+[>Pointer 27<]
+Keita Eto: Es kostet dich 10000000G,(AÜ)
+eine kaputte Karte zu reparieren!(END)
+
+[>Pointer 28<]
+Haruyuki Nishida: Magst du die Chrono-(AÜ)
+Serie?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 29<]
+   Sie ist ganz nett, nicht?(END)
+
+[>Pointer 30<]
+Kato: Auf jede Nacht folgt der Tag.(AÜ)
+Sogar die Ewigkeit ist endlich.(AÜ)
+...glaube ich...(END)
+
+[>Pointer 31<]
+Nobuo Uematsu: nesel tgnidebnu sad(AÜ)
+ßum hcI(AÜ)
+Jetzt geht und spielt draußen,(AÜ)
+Jungs und Mädels!(END)
+
+[>Pointer 32<]
+Keisuke Matsuhara: Danke, danke,(AÜ)
+kein Applaus nötig, schick einfach(AÜ)
+Geld...(KNÜ)
+Ach ja, und schau dir meine anderen(AÜ)
+Meisterwerke an.(END)
+
+[>Pointer 33<]
+Matsuzo Itakura: Hast du den "Poyozo-(AÜ)
+Tanz'' gelernt? Na ja, jedenfalls bis(AÜ)
+zum nächsten Spiel.(END)
+
+[>Pointer 34<]
+Hasui: Schhhh, ich bin hier(AÜ)
+gerade mit was Gutem beschäftigt!(END)
+
+[>Pointer 35<]
+Akane Haruki: Essen! Essen!(AÜ)
+Sie haben mich so lange eingesperrt!(END)
+
+[>Pointer 36<]
+Mainzelmann: Ich war übrigens der(AÜ)
+schnellste Betatester von allen!(END)
+
+[>Pointer 37<]
+Kazuhiro Ohkawa: Gratulation!(AÜ)
+Hat das nicht Spaß gemacht?(END)
+
+[>Pointer 38<]
+Akiyoshi Masuda: Kokubo und ich haben(AÜ)
+unsere Anti-Streß-Massage(AÜ)
+perfektioniert......(END)
+
+[>Pointer 39<]
+Tetsuya Takahashi: Wenn du dieses(AÜ)
+Spiel schwer findest, dann zock mal(AÜ)
+Final Fantasy 4...(END)
+
+[>Pointer 40<]
+Yoshinori Ogura: Ich bin froh, daß sie(AÜ)
+mir einen kleinen Teil gelassen(AÜ)
+haben...(END)
+
+[>Pointer 41<]
+Koji Sugimoto: Du kommst sicher nicht(AÜ)
+über 2110 Punkte im Düsenrennen!(END)
+
+[>Pointer 42<]
+Koichi Ebe: Wow, du warst aber(AÜ)
+schnell... Willst du einen Kuß dafür?(END)
+
+[>Pointer 43<]
+Toshiaki Suzuki: Aaack! Ich bin so(AÜ)
+müde... Nein, ich hab Hunger...oder(AÜ)
+doch nicht?(KNÜ)
+Ack! Ich bin während der Arbeit an(AÜ)
+diesem Spiel zum Zombie(AÜ)
+geworden...(END)
+
+[>Pointer 44<]
+Kiyoshi Yoshii: Schon fertig mit(AÜ)
+dem Spiel? Und was ist mit meiner(AÜ)
+ganzen Arbeit!?(END)
+
+[>Pointer 45<]
+Tsutomu Terada: Leg dich ja nicht mit(AÜ)
+meinen Monstern an! Sie wachsen(AÜ)
+sonst über sich hinaus, weißt du?(END)
+
+[>Pointer 46<]
+Tadahiro Usuda: Schau genau hin, und(AÜ)
+du wirst über die Individualität der(AÜ)
+Monster staunen!(KNÜ)
+Guck dir nur mal den Schwertschatten(AÜ)
+dieses Typen an!(END)
+
+[>Pointer 47<]
+Makoto Shimamoto: Schaffst du den(AÜ)
+Schlag, der 9999 LP abzieht?(END)
+
+[>Pointer 48<]
+Yasunori Mitsuda: Nun, jetzt gehe ICH(AÜ)
+auf eine Reise!(END)
+
+[>Pointer 49<]
+Kazumi Kobayashi: Ich habe elf Kilo(AÜ)
+dank diesem Spiel verloren.(AÜ)
+Also bewundert es auch!(END)
+
+[>Pointer 50<]
+Kaname: Hey, dürfen wir endlich(AÜ)
+nach Hause gehen?(END)
+
+[>Pointer 51<]
+Hirokatsu Sasaki: Seit ich meine Haare(AÜ)
+habe wachsen lassen, wird mir viel(AÜ)
+Aufmerksamkeit zuteil...von Kerlen!(AÜ)
+Ach du Schande!(END)
+
+[>Pointer 52<]
+Sorry, Takashi Tokita hat heute(A)
+sein Make-up versaut!(END)
+
+[>Pointer 53<]
+Yukio Nakatani: Willst du meine(AÜ)
+Freundin sein? Bist du ein Mädchen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 54<]
+Akihiko Matsui: Das war doch(AÜ)
+was Besonderes, oder? Bis zum(AÜ)
+nächsten Spiel!(END)
+
+[>Pointer 55<]
+Tetsuya Nomura: 3......
+>H<0304
+(AÜ)
+2......
+>H<0304
+(AÜ)
+1......
+>H<0304
+(AÜ)
+Neustart!(END)
+
+[>Pointer 56<]
+   ...war'n Scherz!(END)
+
+[>Pointer 57<]
+Yasuyuki Honne: Zum Glück!(AÜ)
+Es ist vorbei!(END)
+
+[>Pointer 58<]
+Shinichiro Hamasaka: Gut gemacht,(AÜ)
+Leute!(END)
+
+[>Pointer 59<]
+Yoshinori Kitase: Hast du alle 12(AÜ)
+Endsequenzen gesehen? Es kommt(AÜ)
+darauf an, wann du gegen Lavos(AÜ)
+antrittst.(END)
+
+[>Pointer 60<]
+Vindicare: Hey, ich habe die meisten(AÜ)
+Gegner übersetzt!(END)
+
+[>Pointer 61<]
+Takayuki Ohtachi: Mission beendet!(END)
+
+[>Pointer 62<]
+Neo Mithrandil: Salut, mes amis!(AÜ)
+J'ai aidé Manu avec les graphismes!(END)
+
+[>Pointer 63<]
+[Robo]: Ich hatte 400 Jahre Zeit(AÜ)
+zum Nachdenken...und ich glaube,(AÜ)
+daß Lavos nicht für die Tore(AÜ)
+verantwortlich sein kann.(END)
+
+[>Pointer 64<]
+Marle: Was meinst du damit?(END)
+
+[>Pointer 65<]
+[Robo]: Ich glaube, etwas oder(AÜ)
+jemand wollte, daß wir all dies(AÜ)
+erleben. Die verschiedenen Dinge,(AÜ)
+die wir durchgemacht haben...(KNÜ)
+Fast scheint es, irgendein höheres(AÜ)
+Wesen wollte seine Vergangenheit(AÜ)
+noch einmal sehen.(KNÜ)
+Vielleicht der Planet selbst...(END)
+
+[>Pointer 66<]
+Ayla: Ja!(AÜ)
+Älteste sagen, Menschen sehen(AÜ)
+ganzes Leben, wenn sterben!(END)
+
+[>Pointer 67<]
+Frog: Wahrlich, alldieweil wir(AÜ)
+unsere tiefsten Erinnerungen im Tod(AÜ)
+nochmals zu durchleben scheinen.(KNÜ)
+Obschon diese meist sehr traurig(AÜ)
+sind.(END)
+
+[>Pointer 68<]
+[Robo]: Gedanken wie "Hätte ich(AÜ)
+nur das und das getan'' oder "Das(AÜ)
+hätte ich nicht tun sollen'' bringen oft(AÜ)
+unangenehme Erinnerungen zurück.(END)
+
+[>Pointer 69<]
+Marle: Was wohl passiert, wenn(AÜ)
+unsere Zeit gekommen ist...?(KN)
+Lucca: Wer weiß?(KN)
+Marle: Gibt es einen Zeitpunkt, zu(AÜ)
+dem du zurückkehren möchtest,(AÜ)
+Lucca?(END)
+
+[>Pointer 70<]
+Lucca: Nicht...unbedingt...(KN)
+Marle: Tut mir leid...(AÜ)
+Hätte ich lieber nicht fragen(AÜ)
+sollen?(END)
+
+[>Pointer 71<]
+Lucca: Ist schon okay.(AÜ)
+Es gibt etwas, woran ich ungern(AÜ)
+zurückdenke...(END)
+
+[>Pointer 72<]
+Frog: Nun wohl... Lavos spielt(AÜ)
+eine entscheidende Rolle für das(AÜ)
+Schicksal dieses Wesens...(END)
+
+[>Pointer 73<]
+Magus: Was für ein Wesen?(END)
+
+[>Pointer 74<]
+[Robo]: Das ist natürlich alles(AÜ)
+Spekulation.(KNÜ)
+Aber vielleicht enthüllt sich die(AÜ)
+Identität dieses "Wesens'' am(AÜ)
+Ende unserer Reise...(KNÜ)
+...
+>H<03
+(KAÜ)
+Sollen wir zu Bett gehen?(END)
+
+[>Pointer 75<]
+[Robo]: Ich gebe dir meine Beine!(AÜ)
+Sie sind aus Leichtmetall und gut(AÜ)
+ausbalanciert.(KNÜ)
+Mir kannst du ja irgendwelche Treter(AÜ)
+anmontieren.(END)
+
+[>Pointer 76<]
+[Robo]: Sei nicht traurig,(AÜ)
+Lucca!(END)
+
+[>Pointer 77<]
+Lucca: Danke. Du bist so ein(AÜ)
+guter Freund.(END)
+
+[>Pointer 78<]
+[Robo]: Ein...Freund?(AÜ)
+Ich, ein Roboter?(AÜ)
+Du nennst mich deinen Freund?(END)
+
+[>Pointer 79<]
+[Robo]: Lucca, du hast ein(AÜ)
+freundliches Herz.(AÜ)
+Du denkst immer an andere.(END)
+
+[>Pointer 80<]
+[Robo]: Dies ist für dich.(AÜ)
+Es ist ein Stück Bernstein aus dem(AÜ)
+Harz eines Baumes aus meinem(AÜ)
+Wald.(KNÜ)
+Es hat 400 Jahre und viel Druck(AÜ)
+dazu gebraucht!(AÜ)
+Ich hoffe, du findest es nützlich.(END)
+
+[>Pointer 81<]
+Lucca: [Robo]...(AÜ)
+Du bist so süß.(END)
+
+
+[>DUMP END<]----------------------------------------------------------

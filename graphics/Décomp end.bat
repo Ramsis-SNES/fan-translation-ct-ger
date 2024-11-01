@@ -1,0 +1,1 @@
+decomp.exe Chrono.swc ctend.bin 3EF473 12 0

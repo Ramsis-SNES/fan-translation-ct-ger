@@ -1,0 +1,1058 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 0A]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0018E184h]
+Size  [00001E8Dh][00003400h][2]
+pStart[0018DF80h]
+pFirst[DF84h-241]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Marle: W...was sind das für(AÜ)
+Viecher?(END)
+
+[>Pointer 2<]
+Lucca: Sie sind grün und schuppig!(END)
+
+[>Pointer 3<]
+[Robo]: Halb Mensch, halb Saurier...(AÜ)
+Eine ungewöhnliche Lebensform.(END)
+
+[>Pointer 4<]
+Marle: Was sollen wir tun,(AÜ)
+Crono!?(END)
+
+[>Pointer 5<]
+Lucca: Sie sind in der Überzahl!(END)
+
+[>Pointer 6<]
+Marle: Oh!(AÜ)
+Die ist aber taff!(END)
+
+[>Pointer 7<]
+Lucca: Wer IST diese Frau!?(END)
+
+[>Pointer 8<]
+[Robo]: Ihre kämpferischen(AÜ)
+Fähigkeiten sind ungewöhnlich(AÜ)
+für einen Menschen!(END)
+
+[>Pointer 9<]
+Marle: Oje...das war's dann(AÜ)
+wohl!(END)
+
+[>Pointer 10<]
+[Robo]: Sie meinen es ernst!(END)
+
+[>Pointer 11<]
+Marle: W...was willst du?(END)
+
+[>Pointer 12<]
+Lucca: Was...!(END)
+
+[>Pointer 13<]
+[Robo]: Macht sie nicht wütend.(AÜ)
+Sie ist ohnehin aufgeregt.(END)
+
+[>Pointer 14<]
+Marle: Ack!(END)
+
+[>Pointer 15<]
+Lucca: Wir wollen nicht kämpfen!(END)
+
+[>Pointer 16<]
+Crono!(END)
+
+[>Pointer 17<]
+[Robo]: Auch ihre Ausdrucksformen(AÜ)
+sind anders.(END)
+
+[>Pointer 18<]
+Frau: Du stark.(AÜ)
+Wie dein Name?(KNÜ)
+Crono(2), ja?(AÜ)
+Guter Name.(AÜ)
+Ich?(AÜ)
+Ich...(END)
+
+[>Pointer 19<]
+Ayla: Ich Ayla.(AÜ)
+Ayla starke Leute mögen.(AÜ)
+Also auch Crono(2)!(END)
+
+[>Pointer 20<]
+Marle: Geh weg von ihr,(AÜ)
+Crono!(END)
+
+[>Pointer 21<]
+Lucca: Ich denke, sie mag dich,(AÜ)
+Crono...(END)
+
+[>Pointer 22<]
+Ayla: Ihr auch stark.(AÜ)
+Ayla bewundern starke Leute.(AÜ)
+Männer und Frauen.(END)
+
+[>Pointer 23<]
+Marle: Junge, Junge...!(END)
+
+[>Pointer 24<]
+Lucca: Aus welcher Anstalt ist(AÜ)
+die getürmt?(END)
+
+[>Pointer 25<]
+[Robo]: J...ja?(END)
+
+[>Pointer 26<]
+Ayla: Du anders, aber auch(AÜ)
+stark.(END)
+
+[>Pointer 27<]
+[Robo]: Das rührt daher, daß ich(AÜ)
+ein Roboter bin.(END)
+
+[>Pointer 28<]
+Ayla: Roh-Botta?(AÜ)
+Was das sein?(AÜ)
+Ayla nicht kennen.(END)
+
+[>Pointer 29<]
+[Robo]: Das ist eine Maschine,(AÜ)
+die wie ein Mensch aussieht.(END)
+
+[>Pointer 30<]
+Ayla: Was!?(AÜ)
+Quatsch! Nicht Ayla verwirren!(END)
+
+[>Pointer 31<]
+Ayla: Crono(2), woher kommen?(END)
+
+[>Pointer 32<]
+Marle: Wie erklären wir ihr das(AÜ)
+bloß?(END)
+
+[>Pointer 33<]
+[Robo]: Das wird sie nicht(AÜ)
+verstehen.(END)
+
+[>Pointer 34<]
+Lucca: Wir sind von lange nach(AÜ)
+dem Tag nach morgen.(END)
+
+[>Pointer 35<]
+Marle: Wir kommen von(AÜ)
+übermorgen.(END)
+
+[>Pointer 36<]
+Ayla: Hahaha, ihr lustig.(AÜ)
+Ayla lustige Leute mögen.(END)
+
+[>Pointer 37<]
+Lucca: Es hat keinen Sinn...(END)
+
+[>Pointer 38<]
+Ayla: Kommt ins Dorf!(AÜ)
+Wir reden und essen.(AÜ)
+Tanzen! Essen!(AÜ)
+Spaß!!!(END)
+
+[>Pointer 39<]
+Marle: Danke, aber das geht nicht.(AÜ)
+Wir suchen einen Traumstein.(END)
+
+[>Pointer 40<]
+Lucca: Im Prinzip gerne, aber wir(AÜ)
+sind hier, um den Traumstein(AÜ)
+zu suchen.(END)
+
+[>Pointer 41<]
+Ayla: Stein?(AÜ)
+Viele Steine!(AÜ)
+Hier, dort, in Dorf.(AÜ)
+Ihr viele nehmen.(END)
+
+[>Pointer 42<]
+   Komm, Crono(2), Iokadorf hier(AÜ)
+entlang.(END)
+
+[>Pointer 43<]
+Ayla: Crono(2) zu langsam!(END)
+
+[>Pointer 44<]
+Springen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 45<]
+Chefhütte nördlich von Dorf.(END)
+
+[>Pointer 46<]
+Ihr seltsame Felle tragen.(END)
+
+[>Pointer 47<]
+Ihr Reptiten?(A)
+Ich euch schlagen!(END)
+
+[>Pointer 48<]
+Reptiten schuppig und haben(A)
+kaltes Blut. Schwer zu schlagen.(END)
+
+[>Pointer 49<]
+Schönen roten Stein sehen?(A)
+Chef hat ihn.(END)
+
+[>Pointer 50<]
+Von Berg gekommen?(A)
+Dort seltsame Dinge.(A)
+Daher Mystische Berge.(END)
+
+[>Pointer 51<]
+Auch Baby Kino schreiend auf(A)
+Berg gefunden. Chef ihn aufgezogen.(A)
+Jetzt rechte Hand von Chef.(END)
+
+[>Pointer 52<]
+Wir kämpfen Reptiten.(A)
+Laruba-Stamm nicht.(END)
+
+[>Pointer 53<]
+Laruba-Stamm in nördlichen Wäldern(A)
+versteckt. Immer rennen und(A)
+verstecken. Schwächlinge!(END)
+
+[>Pointer 54<]
+Süßes Wasser trinken?(A)
+Dadurch stark werden.(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 55<]
+Ausruhen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 56<]
+Kino: Woher ihr?(AÜ)
+Warum ihr hier?(KNÜ)
+Kino euch nicht mögen!(END)
+
+[>Pointer 57<]
+Ihr fremd!(A)
+Gute Sachen haben?(A)
+Chef nicht okay, nicht handeln!(END)
+
+[>Pointer 58<]
+Willkommen.(A)
+Was ihr haben?(END)
+
+[>Pointer 59<]
+           Transform!(END)
+
+[>Pointer 60<]
+Hier Tauschhaus.(A)
+Viele Dinge handeln.(END)
+
+[>Pointer 61<]
+Ayla: Alle zuhören!(AÜ)
+Neue Freunde hier!(END)
+
+[>Pointer 62<]
+   Starker Mann.(AÜ)
+Crono(2)!(END)
+
+[>Pointer 63<]
+   Freunde von Crono(2).(AÜ)
+Partymgl2, Partymgl3!(END)
+
+[>Pointer 64<]
+Alle: Unngaaa!(END)
+
+[>Pointer 65<]
+Ayla: Jetzt wir tanzen!(END)
+
+[>Pointer 66<]
+Oohga, bunga (Note)
+(A)
+Munga, Meute (Note)
+(A)
+Tanzt auch, Windleute (Note)
+(Note)
+(END)
+
+[>Pointer 67<]
+Oohga, bunga (Note)
+(A)
+Munga, Meute (Note)
+(A)
+Tanzt auch, Felsenleute (Note)
+(Note)
+(END)
+
+[>Pointer 68<]
+Oohga, bunga (Note)
+(A)
+Munga, Macht (Note)
+(A)
+Singt und tanzt ganze Nacht (Note)
+(Note)
+(END)
+
+[>Pointer 69<]
+Ayla: Crono(2), essen, singen,(AÜ)
+tanzen!(END)
+
+[>Pointer 70<]
+Marle: Los, Crono, feiern wir!(END)
+
+[>Pointer 71<]
+Lucca: Also gut, überredet!(END)
+
+[>Pointer 72<]
+[Robo]: Das ist keine Zeit zum(AÜ)
+Feiern!(END)
+
+[>Pointer 73<]
+Marle: Das ist phantastisch!(END)
+
+[>Pointer 74<]
+Marle: Ich will auch tanzen!(END)
+
+[>Pointer 75<]
+Marle: Das ist super!(AÜ)
+Los, Crono. Tanzen wir!(AÜ)
+   Klar.(AÜ)
+   Nööö...(END)
+
+[>Pointer 76<]
+Lucca: Hmmm.(AÜ)
+Crono, du mußt "Poi'' probieren!(AÜ)
+   Auslöffeln!(AÜ)
+   Nein danke.(END)
+
+[>Pointer 77<]
+Lucca: Sag bloß, du hast(AÜ)
+Schiß!? Los, auf ex!(END)
+
+[>Pointer 78<]
+Lucca: Rüülps!(END)
+
+[>Pointer 79<]
+Lucca: Hey? Du bist kein(AÜ)
+Schwächling, oder!? Iß schon auf!(AÜ)
+   Okay.(AÜ)
+   Nein.(END)
+
+[>Pointer 80<]
+[Robo]: Welch unangenehme(AÜ)
+Substanz. Und die vielen Käfer(AÜ)
+darin!(END)
+
+[>Pointer 81<]
+Kino: Ihr Fremde...(AÜ)
+Aber Ayla feiern.(AÜ)
+Warum?(END)
+
+[>Pointer 82<]
+Ayla: Crono(2) versuchen!?(AÜ)
+Spezial-Urzeit-Wildschwein-Suppe!(AÜ)
+Richtig lecker!!(END)
+
+[>Pointer 83<]
+Ayla: Ayla kämpft Reptiten.(AÜ)
+Ihr Chef Azala heißen.(AÜ)
+Sehr gerissen.(END)
+
+[>Pointer 84<]
+Ayla: Alle in Iokadorf kämpfen.(AÜ)
+Wer nicht, ins Larubadorf gehen.(AÜ)
+Nicht wissen, wo Dorf ist.(AÜ)
+Immer verstecken.(END)
+
+[>Pointer 85<]
+   Azala will zerstören Ioka(AÜ)
+UND Laruba.(END)
+
+[>Pointer 86<]
+   Aber Ayla nicht verlieren.(AÜ)
+Erst wenn Ayla tot, aufgeben!(END)
+
+[>Pointer 87<]
+Ayla: Genug.(END)
+
+[>Pointer 88<]
+   Crono(2) heute treffen.(AÜ)
+Guter Tag!(AÜ)
+Essen, feiern, singen, tanzen!(END)
+
+[>Pointer 89<]
+Ayla: Crono(2), du roten Stein(AÜ)
+suchen?(END)
+
+[>Pointer 90<]
+   Seltener roter Stein Kraftzeichen.(AÜ)
+Ayla am stärksten in Ioka.(AÜ)
+Also Ayla's Stein!(KNÜ)
+Du Ayla kämpfen!(AÜ)
+Wenn gewinnen, Ayla dir(AÜ)
+geben.(END)
+
+[>Pointer 91<]
+Ayla: Ayla herausfordern?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 92<]
+Ayla: Crono(2) Angst!?(AÜ)
+Crono(2) stark.(AÜ)
+Ayla stark.(AÜ)
+Wir kämpfen!(END)
+
+[>Pointer 93<]
+Ayla: Viel Suppe bringen!(END)
+
+[>Pointer 94<]
+Ayla: Jetzt feiern, also essen!(AÜ)
+Crono(2) und Ayla(AÜ)
+Suppenwettkampf machen!(END)
+
+[>Pointer 95<]
+Ayla: Wir anfangen.(AÜ)
+Oft A drücken!(END)
+
+[>Pointer 96<]
+Ayla: Rülps!(END)
+
+[>Pointer 97<]
+Ayla: Was!?(AÜ)
+Crono(2) aufgeben?(AÜ)
+   Ja.(AÜ)
+   Niemals!(END)
+
+[>Pointer 98<]
+Ayla: Crono(2) mehr essen?(AÜ)
+Ayla nicht mehr können...(END)
+
+[>Pointer 99<]
+Ayla: Schon aufhören?(AÜ)
+Du stark, aber nicht viel essen.(END)
+
+[>Pointer 100<]
+Ayla: Genug, Crono(2).(AÜ)
+Du gewinnen, ich Stein geben!(END)
+
+[>Pointer 101<]
+Ayla: Crono(2) viel gegessen.(AÜ)
+Letzten Topf für Gesundheit essen!(END)
+
+[>Pointer 102<]
+Ayla: Okay, essen.(END)
+
+[>Pointer 103<]
+Ayla: Vielleicht zuviel gegessen!(END)
+
+[>Pointer 104<]
+Gute Musik!(A)
+Wir Generationen weitergeben...!(END)
+
+[>Pointer 105<]
+Lucca: Rü...üülps!(END)
+
+[>Pointer 106<]
+Lucca: Kiahaha!(END)
+
+[>Pointer 107<]
+Marle: Morgen, Crono!(AÜ)
+War letzte Nacht nicht irre!?(END)
+
+[>Pointer 108<]
+Lucca: Puh...(KNÜ)
+Was? Lügner!(AÜ)
+Ich war eine richtige Dame gestern(AÜ)
+abend! Aber warum habe ich so(AÜ)
+Bauchweh...?(END)
+
+[>Pointer 109<]
+[Robo]: G...guten Morgen.(AÜ)
+Diese Suppe scheint Menschen zu(AÜ)
+beeinträchtigen.(END)
+
+[>Pointer 110<]
+Marle: W...wo kommen diese(AÜ)
+Fußspuren her?(END)
+
+[>Pointer 111<]
+Lucca: Hey!(AÜ)
+Wer hat diese Spuren gemacht!?(END)
+
+[>Pointer 112<]
+Marle: Er...er ist weg!(END)
+
+[>Pointer 113<]
+Lucca: Er ist weg!(END)
+
+[>Pointer 114<]
+Marle: Oh nein!(AÜ)
+Der Torschlüssel ist verschwunden!(END)
+
+[>Pointer 115<]
+Lucca: Der Torschlüssel wurde(AÜ)
+geklaut!(END)
+
+[>Pointer 116<]
+Lucca: Die Spuren stammen von(AÜ)
+dem Dieb!(END)
+
+[>Pointer 117<]
+[Robo]: Der Dieb muß die Spuren(AÜ)
+hinterlassen haben!(END)
+
+[>Pointer 118<]
+Lucca: Ohne ihn sitzen wir hier(AÜ)
+für immer fest!(END)
+
+[>Pointer 119<]
+[Robo]: Es ist zu riskant, das(AÜ)
+Tor ohne ihn zu benutzen!(END)
+
+[>Pointer 120<]
+Marle: Crono!(AÜ)
+Suchen wir Ayla!(END)
+
+[>Pointer 121<]
+Lucca: Das ist nicht lustig!(AÜ)
+Fragen wir Ayla!(END)
+
+[>Pointer 122<]
+Ayla: Schnorch...zzzz...zzzz...(END)
+
+[>Pointer 123<]
+Ayla: Hm...(AÜ)
+Crono(2), schon wach?(AÜ)
+Gääähn...(END)
+
+[>Pointer 124<]
+Ayla: Zu viel Suppe!(AÜ)
+Wie Stein geschlafen.(AÜ)
+Hick...(END)
+
+[>Pointer 125<]
+Lucca: Entschuldige, aber wir(AÜ)
+wurden bestohlen!(END)
+
+[>Pointer 126<]
+Marle: Wir wecken dich ungern,(AÜ)
+aber wir wurden beklaut!(END)
+
+[>Pointer 127<]
+Ayla: W...was?(AÜ)
+Bestimmt Reptiten gewesen!(END)
+
+[>Pointer 128<]
+Ayla: Crono(2), mitkommen!(AÜ)
+Mit Reptiten abrechnen!(END)
+
+[>Pointer 129<]
+Ayla: Wer noch mitkommen?(END)
+
+[>Pointer 130<]
+Ayla: Jemand von Dorf.(AÜ)
+Wir gehen fragen.(AÜ)
+Crono(2), los!(END)
+
+[>Pointer 131<]
+Wo Kino?(A)
+Ganzen Morgen nicht da.(END)
+
+[>Pointer 132<]
+Reptiten gesehen, von Treffpunkt(A)
+gekommen. Süden gegangen, Wald.(END)
+
+[>Pointer 133<]
+Waldlabyrinth unheimlich.(A)
+Viele Monster, noch mehr Irrwege.(A)
+Chef! Vorsichtig.(END)
+
+[>Pointer 134<]
+Reptiten stark.(A)
+Chef, das mitnehmen.(END)
+
+[>Pointer 135<]
+Hinterlassen Spuren, wenn rennen.(A)
+Spuren folgen, Versteck finden!(END)
+
+Ihr mutig!(END)
+
+[>Pointer 136<]
+Chef stark!(A)
+Du auch stark!(END)
+
+[>Pointer 137<]
+Du mutig!(END)
+
+[>Pointer 138<]
+Reptiten länger nicht gesehen.(END)
+
+[>Pointer 139<]
+Ayla: Gut, kommen, Crono(2).(AÜ)
+Bald Nacht und bereit für Feier.(AÜ)
+Los, Crono(2)!(END)
+
+[>Pointer 140<]
+Noch nicht fertig.(A)
+Warten.(END)
+
+[>Pointer 141<]
+Wo Azala hinrennen?(END)
+
+[>Pointer 142<]
+Crono(2) bewundern!(A)
+Stark!(END)
+
+[>Pointer 143<]
+Was ist das!?(A)
+Ob diese Affen etwas SO(A)
+Fortschrittliches gemacht haben?(END)
+
+[>Pointer 144<]
+Ayla: Azala!!!(END)
+
+[>Pointer 145<]
+Azala: Oh, die Affen sind da.(AÜ)
+Hm.(AÜ)
+Ihr seid nicht wie Ayla...(KNÜ)
+Sagt mir, was das ist, sofort!(END)
+
+[>Pointer 146<]
+Azala über den Schlüssel aufklären?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 147<]
+Azala: Lügner!(AÜ)
+Niemand würde so schnell reden.(AÜ)
+Hier, als kleine Ermunterung.(END)
+
+[>Pointer 148<]
+Azala: Da muß ich wohl ein wenig(AÜ)
+nachhelfen.(END)
+
+[>Pointer 149<]
+Azala: Los, Nizbel!(END)
+
+[>Pointer 150<]
+Azala: D...die Affen schlagen Nizbel!(END)
+
+[>Pointer 151<]
+Ayla: Gib Ding Crono(2) zurück!(AÜ)
+SOFORT!(END)
+
+[>Pointer 152<]
+Azala: Dennoch werden WIR einst(AÜ)
+die Welt beherrschen!(END)
+
+[>Pointer 153<]
+Azala: Eure Tage sind gezählt!(END)
+
+[>Pointer 154<]
+Marle: Ist der Torschlüssel okay?(END)
+
+[>Pointer 155<]
+Lucca: Ist der Torschlüssel okay?(END)
+
+[>Pointer 156<]
+Lucca: Ja, scheint so!(END)
+
+[>Pointer 157<]
+[Robo]: Kein Schaden festzustellen.(END)
+
+[>Pointer 158<]
+Marle: Gott sei Dank!(AÜ)
+Er sieht normal aus!(END)
+
+[>Pointer 159<]
+Ayla: Ich immer kämpfen, Azala,(AÜ)
+und nicht verlieren!(END)
+
+[>Pointer 160<]
+Ayla: Rrrülps!(END)
+
+[>Pointer 161<]
+Ayla: Du gehen, Crono(2)?(AÜ)
+Schade!(END)
+
+[>Pointer 162<]
+Marle: Ich werde dich nie(AÜ)
+vergessen! Danke!(END)
+
+[>Pointer 163<]
+Lucca: Danke, Ayla.(AÜ)
+Ich habe viel von dir gelernt.(END)
+
+[>Pointer 164<]
+Kino: Leid tun.(AÜ)
+Ich jetzt versuchen stark sein.(AÜ)
+Wie Crono(2)!(END)
+
+[>Pointer 165<]
+Ayla: Wiederkommen, Crono(2)!(AÜ)
+Feiern! Essen! Tanzen!(AÜ)
+Kämpfen!(AÜ)
+Spaß!(END)
+
+[>Pointer 166<]
+Ayla: Wiederkommen, Crono(2)!(AÜ)
+Partymgl2 und Partymgl3 auch!(END)
+
+[>Pointer 167<]
+Mit LRXYB tanzen!(A)
+Aufhören mit A.(END)
+
+[>Pointer 168<]
+Zahn, Rotblatt, Horn, Feder...(A)
+Je 3 von 2 verschiedenen bringen, und(A)
+ich 1 Waffe oder Objekt geben!(A)
+Was du geben?(END)
+
+[>Pointer 169<]
+      Rotblatt je   (VAR2)
+(AÜ)
+   Zahn je   (VAR2)
+(AÜ)
+   Horn je   (VAR2)
+(AÜ)
+   Feder je   (VAR2)
+(END)
+
+[>Pointer 170<]
+Was noch?(END)
+
+[>Pointer 171<]
+Dasselbe, nicht gehen!(A)
+Drei andere wählen!(END)
+
+[>Pointer 172<]
+Du nichts haben, also kein Handel!(END)
+
+[>Pointer 173<]
+Zahn, Rotblatt, Horn, Feder...(A)
+Je 3 von 2 verschiedenen geben, und(A)
+ich 1 Waffe oder Objekt geben!(END)
+
+[>Pointer 174<]
+Noch mehr Handel?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 175<]
+Gegen "Rubingewehr'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 176<]
+(AÜ)
+        Rubingewehr erhalten!(END)
+
+[>Pointer 177<]
+Gegen Bogen "Weisheit'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 178<]
+(AÜ)
+        Weisheit erhalten!(END)
+
+[>Pointer 179<]
+Gegen "Steinhand'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 180<]
+(AÜ)
+        Steinhand erhalten!(END)
+
+[>Pointer 181<]
+Gegen "Flintklinge" tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 182<]
+(AÜ)
+        Flintklinge erhalten!(END)
+
+[>Pointer 183<]
+Gegen "Rubinweste'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 184<]
+(AÜ)
+        Rubinweste erhalten!(END)
+
+[>Pointer 185<]
+Gegen "Felsenhelm'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 186<]
+(AÜ)
+        Felsenhelm erhalten!(END)
+
+[>Pointer 187<]
+Gegen "Ewigklinge'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 188<]
+(AÜ)
+        Ewigklinge erhalten!(END)
+
+[>Pointer 189<]
+Gegen "Magma-Hand'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 190<]
+(AÜ)
+        Magma-Hand erhalten!(END)
+
+[>Pointer 191<]
+Gegen "Traumbogen'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 192<]
+(AÜ)
+        Traumbogen erhalten!(END)
+
+[>Pointer 193<]
+Gegen "Traumgewehr'' tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 194<]
+(AÜ)
+        Traumgewehr erhalten!(END)
+
+[>Pointer 195<]
+Leuchtenden Stein tauschen!?(END)
+
+[>Pointer 196<]
+(AÜ)
+         Tonic erhalten.(END)
+
+[>Pointer 197<]
+Ich Rüstung aus vielen Rubinen haben.(A)
+Tauschen gegen je 10 mal Rotblatt,(A)
+Zahn, Horn, Feder?(END)
+
+[>Pointer 198<]
+Du Tausch wollen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 199<]
+Mehr wollen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 200<]
+(AÜ)
+      Rubin-Rüstung erhalten!(END)
+
+[>Pointer 201<]
+Ayla: Crono(2) wach!?(END)
+
+[>Pointer 202<]
+Marle: Ayla!(END)
+
+[>Pointer 203<]
+Lucca: Ayla!?(END)
+
+[>Pointer 204<]
+[Robo]: Fräulein Ayla!(AÜ)
+Das bedeutet, wir sind...(END)
+
+[>Pointer 205<]
+Ayla: Ayla seltsamen Traum(AÜ)
+gehabt. Zu Mystischen Bergen(AÜ)
+gegangen. Alle dort liegen,(AÜ)
+verletzt.(KNÜ)
+Ich zu Hütte getragen.(END)
+
+[>Pointer 206<]
+Frog: Magus!(END)
+
+[>Pointer 207<]
+Ayla: Frosch lecker!(AÜ)
+Ayla essen dürfen?(END)
+
+[>Pointer 208<]
+Frog: Gott bewahre, Mädel!(AÜ)
+Ach, äh...wo der Blauhaarige sein?(END)
+
+[>Pointer 209<]
+Ayla: Nur euch da gefunden.(AÜ)
+Blauhaariger vielleicht(AÜ)
+schmackhafter?(END)
+
+[>Pointer 210<]
+Frog: Er ist entkommen...(END)
+
+[>Pointer 211<]
+Ayla: Lavos?(AÜ)
+Keine Sorgen.(AÜ)
+Ihr ausruhen.(AÜ)
+Schwer verletzt.(END)
+
+[>Pointer 212<]
+Marle: Aber wenn nicht Magus(AÜ)
+Lavos geschaffen hat, wo...kam...(AÜ)
+...er...her?(END)
+
+[>Pointer 213<]
+[Robo]: Wenn Magus Lavos nicht(AÜ)
+geschaffen hat, in welcher Ära(AÜ)
+wurde er dann...geboren?(END)
+
+[>Pointer 214<]
+Lucca: Magus sagte, Lavos sei(AÜ)
+in grauer Vorzeit geboren worden...(END)
+
+[>Pointer 215<]
+Kino: Crono(2) okay?(AÜ)
+Ayla beschäftigt, Larubadorf(AÜ)
+suchen.(KNÜ)
+Zusammen Reptiten bekämpfen.(AÜ)
+Reptiten töten, oder wir sterben.(END)
+
+[>Pointer 216<]
+Kiiiiino!(END)
+
+[>Pointer 217<]
+Kino: Was los?(AÜ)
+Ruhe!(AÜ)
+Crono(2) ausruhen.(END)
+
+[>Pointer 218<]
+Norden, Wald brennen!!!(END)
+
+[>Pointer 219<]
+Chef in Wald nach Laruba-(A)
+Dörflern suchen!(A)
+Chef okay?(END)
+
+[>Pointer 220<]
+Roter Stern am Himmel.(A)
+Am Tag sehen!(END)
+
+[>Pointer 221<]
+Roter Stern stark!(A)
+Schlechtes Zeichen...(END)
+
+[>Pointer 222<]
+Reptiten Chef gefolgt!(A)
+Nordwald gegangen!(END)
+
+[>Pointer 223<]
+Schrei in Lava-Feld Osten gehört.(A)
+Noch nie zuvor.(END)
+
+[>Pointer 224<]
+Komisches Ding in Lava-Feld.(A)
+Muß Azala sein!(A)
+Aber fliegende Daktyl überall hingehen.(END)
+
+[>Pointer 225<]
+Händler neue Waffen!(A)
+Hingehen.(END)
+
+[>Pointer 226<]
+Laruba können Daktyl rufen.(A)
+Am Himmel fliegen!(A)
+Wir Daktyl nicht rufen können.(END)
+
+[>Pointer 227<]
+Rotblatt, Zahn, Horn und Feder in(A)
+Jagdrevier zu finden!(KN)
+Bei Regen neue Monster erscheinen!(END)
+
+[>Pointer 228<]
+Wer stark, wird Chef.(A)
+Mann, Frau, Kind, egal.(A)
+Chef von Ioka große Muskeln!(END)
+
+[>Pointer 229<]
+(AÜ)
+        LP/MP wiederhergestellt!(END)
+
+[>Pointer 230<]
+Gewitter schlecht für Saurier!(A)
+Du wissen?(END)
+
+[>Pointer 231<]
+Du wissen wollen, was tauschen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 232<]
+Rotblatt und Zahn = Rubingewehr(A)
+Rotblatt und Horn = Bogen Weisheit(A)
+Rotblatt und Feder = Steinhand(KN)
+Zahn und Horn = Flintklinge(A)
+Zahn und Feder = Rubinweste(A)
+Horn und Feder = Felsenhelm(A)
+zu tauschen.(KN)
+Ich dir Gutes sagen. "Rubinweste''(A)
+stark gegen Feuer. Nicht zu heiß, wenn(A)
+tragen!(END)
+
+[>Pointer 233<]
+Rotblatt und Zahn = Traumgewehr(A)
+Rotblatt und Horn = Traumbogen(A)
+Rotblatt und Feder = Magma-Hand(KN)
+Zahn und Horn = Ewigklinge(A)
+Zahn und Feder = Rubinweste(A)
+Horn und Feder = Felsenhelm(A)
+zu tauschen.(KN)
+Ich dir Gutes sagen. "Rubinweste''(A)
+stark gegen Feuer. Nicht verbrennen,(A)
+wenn tragen!(END)
+
+[>Pointer 234<]
+Reptiten fort!(A)
+Freude, Freude!(END)
+
+[>Pointer 235<]
+Alle erleichtert.(A)
+Frieden gut.(A)
+Alle glücklich.(END)
+
+[>Pointer 236<]
+Roter Stern gefallen...schlecht.(A)
+Aber Reptiten weg!(A)
+Froh!(END)
+
+[>Pointer 237<]
+Roter Stern!(A)
+Ich gesehen!(A)
+Großes Feuer, wo Lavos gefallen.(A)
+Angst!(END)
+
+[>Pointer 238<]
+Keine Reptiten mehr!(A)
+Froh, Freude, Glück.(END)
+
+[>Pointer 239<]
+Reptiten fort!(END)
+
+[>Pointer 240<]
+Starker Chef, und Crono(2), bewundern!(END)
+
+[>Pointer 241<]
+Kino: Gut gemacht!(AÜ)
+Zeit nehmen, ausruhen.(END)
+
+
+[>DUMP END<]----------------------------------------------------------

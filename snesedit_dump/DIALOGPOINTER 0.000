@@ -1,0 +1,378 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 0]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0018D29Ch]
+Size  [00000C8Ah][00001494h][2]
+pStart[0018D200h]
+pFirst[D09Ch-78]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Lena: Cyrus!(AÜ)
+Ihr brecht auf?(END)
+
+[>Pointer 2<]
+Cyrus: Ja, es wird Zeit, daß wir dem(AÜ)
+Froschkönig das Amulett abnehmen.(AÜ)
+Und ich möchte das mythische(AÜ)
+Schwert mit eigenen Augen sehen.(END)
+
+[>Pointer 3<]
+König Guardia: Aber Cyrus, dieses(AÜ)
+Reich braucht Euch!(KNÜ)
+Genau wie Lena und ich.(AÜ)
+Ihr müßt zurückkommen!(END)
+
+[>Pointer 4<]
+Cyrus: Solange Leben in diesen Knochen(AÜ)
+ist, werde ich es.(KNÜ)
+Meine Verehrung, Majestäten...(END)
+
+[>Pointer 5<]
+Soldat: Cyrus, Sir!(END)
+
+[>Pointer 6<]
+Soldat: Wir, die Ritter der Tafelecke,(AÜ)
+wünschen Euch eine sichere Reise!(END)
+
+[>Pointer 7<]
+Cyrus: Hört her, meine Freunde...(END)
+
+[>Pointer 8<]
+Cyrus: Ich betraue euch hiermit mit(AÜ)
+der Sicherheit des Königreiches!(END)
+
+[>Pointer 9<]
+Cyrus: Verzeih die Verspätung.(AÜ)
+Gehen wir?(END)
+
+[>Pointer 10<]
+Lena: Glenn, seid auch Ihr vorsichtig!(END)
+
+[>Pointer 11<]
+Glenn: Erfreut Euch bester(AÜ)
+Gesundheit, Eure Majestät!(END)
+
+[>Pointer 12<]
+Ihr wollt also das Amulett des(A)
+Mutes, lieber Ritter von Guardia?(A)
+Dann kommt und holt es Euch...(A)
+...wenn Ihr könnt! Quak!(END)
+
+[>Pointer 13<]
+Cyrus: Verlaß dich drauf!(AÜ)
+En guarde!(KNÜ)
+Nirwana-Stoß!(END)
+
+[>Pointer 14<]
+GRAAAACK...!(A)
+Du wagst es, eine hilflose Amphibie(A)
+zu quälen!(KN)
+Doofes Amulett!(A)
+Das vergeß ich nicht!(END)
+
+[>Pointer 15<]
+Kind: Ich bin der Wind!(AÜ)
+Wuuusch!(END)
+
+[>Pointer 16<]
+Kind: Halt!(END)
+
+[>Pointer 17<]
+Kind: Seid ihr wegen dem Masamune da?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 18<]
+Kind: Nicht?(AÜ)
+Dann geht schnell nach Hause.(END)
+
+[>Pointer 19<]
+Kind: Wußte ich's doch...(AÜ)
+Sekunde, ja?(END)
+
+[>Pointer 20<]
+Kind: Oh, großer Bruuuder...(AÜ)
+Wo bist du, Masa?(END)
+
+[>Pointer 21<]
+Masa: Was ist, Mune?(END)
+
+[>Pointer 22<]
+Masa: Nicht schon wieder...(END)
+
+[>Pointer 23<]
+Masa: Das Masamune soll euch also(AÜ)
+berühmt machen?(AÜ)
+Was für Schwachköpfe!(END)
+
+[>Pointer 24<]
+Mune: Menschen sind so...dumm!(AÜ)
+Wie ihr das Schwert benutzt, zählt...(AÜ)
+...und nicht, wer es besitzt!(END)
+
+[>Pointer 25<]
+Masa: Nicht einmal etwas so Einfaches(AÜ)
+versteht ihr.(AÜ)
+Deshalb seid ihr Menschen.(END)
+
+[>Pointer 26<]
+Mune: Was machen wir nun?(END)
+
+[>Pointer 27<]
+Masa: Wie üblich...wir testen sie.(AÜ)
+Das bringt uns ein wenig Ablenkung.(END)
+
+[>Pointer 28<]
+Mune: Alles klar!(AÜ)
+Los geht's!!!(AÜ)
+Wuuusch!(END)
+
+[>Pointer 29<]
+Mune: Hey, die sind ganz schön zäh!(END)
+
+[>Pointer 30<]
+Masa: Nur Cyrus ist bisher so weit(AÜ)
+gekommen.(END)
+
+[>Pointer 31<]
+Masa: Jetzt machen wir ernst!(END)
+
+[>Pointer 32<]
+Mune: Nun gut, also...(A)
+Masa: Jetzt werdet ihr euch wundern!(END)
+
+[>Pointer 33<]
+Mit Masas Tapferkeit und...(END)
+
+[>Pointer 34<]
+...Munes Wissen!(END)
+
+[>Pointer 35<]
+Masa & Mune: Zwei werden eins!(END)
+
+[>Pointer 36<]
+Mune: Das war's, großer Bruder...(END)
+
+[>Pointer 37<]
+Masa: Das war gut!(END)
+
+[>Pointer 38<]
+Mune: Werden sie uns neu schmieden?(KNÜ)
+Und einen würdigen Besitzer für(AÜ)
+uns finden?(END)
+
+[>Pointer 39<]
+Masa: Ja, ich denke schon.(END)
+
+[>Pointer 40<]
+Mune: Viel Glück!(END)
+
+[>Pointer 41<]
+Masa: Wenn es euch recht ist, tragen(AÜ)
+uns die Flügel des Windes zurück!(END)
+
+[>Pointer 42<]
+Lucca: Das ist also das Masamune...(KNÜ)
+Es scheint seit langem zerbrochen.(END)
+
+[>Pointer 43<]
+[Robo]: Aha!(AÜ)
+Das Masamune ist mehr als ein(AÜ)
+bloßer Mythos...(KNÜ)
+Aber es zerbrach vor langer Zeit.(END)
+
+[>Pointer 44<]
+(AÜ)
+  Zerbrochenes Masamune erhalten!(END)
+
+[>Pointer 45<]
+Den Wind reiten?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 46<]
+Frog: Ich bin gefeit, Freilanzer!(END)
+
+[>Pointer 47<]
+(AÜ)
+   In Frog's Hand beginnt(AÜ)
+   es zu glühen!(END)
+
+[>Pointer 48<]
+(AÜ)
+              Goldstein erhalten!(END)
+
+[>Pointer 49<]
+Frog: Itzo bin ich ein(AÜ)
+gewandelter Frosch!(END)
+
+[>Pointer 50<]
+I...Ihr seid Menschen!?(KN)
+Die Königin wird hinten(A)
+gefangengehalten. Bitte rettet sie!(END)
+
+[>Pointer 51<]
+Innerhalb dieses Gebäudes gibt es(A)
+einen Raum, der Magus gewidmet(A)
+ist.(A)
+Da soll es einen Schatz geben...(END)
+
+[>Pointer 52<]
+Das geheime Naga-ette-Bromid(A)
+gefunden!(END)
+
+[>Pointer 53<]
+He, Leute!(A)
+Menschen!(END)
+
+[>Pointer 54<]
+Sie haben's auf das Bromid(A)
+abgesehen!(END)
+
+[>Pointer 55<]
+Schnappt sie euch!(END)
+
+[>Pointer 56<]
+Rülps!(A)
+He, was soll die Verkleidung?(KN)
+Die ist hier überflüssig!(END)
+
+[>Pointer 57<]
+Fast meine Schicht...schon wieder(A)
+Mensch spielen...widerlich.(END)
+
+[>Pointer 58<]
+Vor meiner Schicht schau ich bei(A)
+Magus's Statue vorbei.(END)
+
+[>Pointer 59<]
+Rülps!(A)
+Die von neulich schmeckten gar nicht(A)
+schlecht. Und die beiden gefangenen(A)
+Soldaten sehen fett und saftig aus...(END)
+
+[>Pointer 60<]
+Yakra ist so klug!(A)
+Sein Plan, den Kanzler zu entführen(A)
+und zu ersetzen, hat geklappt!(KN)
+Jetzt ist die Königin unsere Gefangene(A)
+und das Schloß in Aufruhr.(A)
+Stark!(END)
+
+[>Pointer 61<]
+Wie schön, daß ihr da seid.(A)
+Auch Yakra wird das gefallen.(KN)
+Ruht euch aus, bis er Zeit für(A)
+euch hat!(END)
+
+[>Pointer 62<]
+Es war unnötig, zu kommen und mich(A)
+zu retten!(KN)
+Herr Yakra ist sehr freundlich!(A)
+Ich werde hierbleiben.(A)
+Auch ihr solltet euch hier ganz wie(A)
+zu Hause fühlen!(END)
+
+[>Pointer 63<]
+S...seid ihr hier, um Königin Lena(A)
+zu retten!?(KN)
+Oh, mir fällt ein Stein vom Herzen!(END)
+
+[>Pointer 64<]
+Nur keine Hektik...(A)
+Genießt es doch erstmal...hihihi.(END)
+
+[>Pointer 65<]
+Oh...größter Magus...(Note)
+(A)
+Deine blitzenden Augen...wie Sterne...(Note)
+(A)
+Dein fließendes Haar...Silberwellen...(Note)
+(KN)
+Kein trauriger Sonnentag, kein (Note)
+(A)
+schreckliches Licht kann uns (Note)
+(A)
+verblenden, solange du bei uns bist...(Note)
+(A)
+Wir fürchten nichts...(Note)
+(END)
+
+[>Pointer 66<]
+Chor: Magus, o Magus...(Note)
+(AÜ)
+Unser Held Magus...(Note)
+(END)
+
+[>Pointer 67<]
+Singt mit uns euren Grabgesang!(A)
+Gra...ha...ha!(END)
+
+[>Pointer 68<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 69<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 70<]
+Dalton: Ihr seid SO weit gekommen.(AÜ)
+Vielleicht habe ich euch unterschätzt...(END)
+
+[>Pointer 71<]
+Dalton: Aber dies ist das Ende!(AÜ)
+SIE werden sich um euch kümmern!(END)
+
+[>Pointer 72<]
+Dalton: Golem-Zwillinge, ich rufe(AÜ)
+euch!(END)
+
+[>Pointer 73<]
+Dalton: Sie haben die Golem-(AÜ)
+Zwillinge...!? Na gut, dann kommt(AÜ)
+jetzt halt der Chef-Golem.(END)
+
+[>Pointer 74<]
+Dalton: W...was ist das für eine Kraft?(KNÜ)
+Etwa...Lavos' Energie!?(END)
+
+[>Pointer 75<]
+Dalton: ...(AÜ)
+Ich habe kein gutes Gefühl bei(AÜ)
+der Sache...(KNÜ)
+Meine ganze Arbeit wäre umsonst,(AÜ)
+wenn ich sterbe, bevor ich unsterblich(AÜ)
+werde!(END)
+
+[>Pointer 76<]
+Dalton: Heute habt ihr nochmal Glück!(KNÜ)
+Ciao-Ciao!(END)
+
+[>Pointer 77<]
+Soll sich die Geschichte ändern...bitte!(A)
+Soll die Welt zerstört werden...bitte! 
+>H<0312
+(N)
+Ist es mein Schicksal, vernichtet zu(A)
+werden...(A)
+...muß ich schlichtweg lachen!!
+>H<03
+Marle
+>H<03
+(END)
+
+[>Pointer 78<]
+Ich komme, Lavos!
+>H<03
+(KNÜ)
+>H<03
+(END)
+
+
+[>DUMP END<]----------------------------------------------------------

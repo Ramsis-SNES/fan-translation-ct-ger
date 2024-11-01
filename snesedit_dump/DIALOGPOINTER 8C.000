@@ -1,0 +1,196 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 8C]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003F864Eh]
+Size  [000007AFh][00000C77h][2]
+pStart[003F8600h]
+pFirst[844Eh-39]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Angriffe können sich(A)
+unterschiedlich auswirken.(END)
+
+[>Pointer 2<]
+Du kannst mehr als nur einem(A)
+Gegner schaden.(END)
+
+[>Pointer 3<]
+Ziele auf dieses Viech...(END)
+
+[>Pointer 4<]
+...und du triffst ein weiteres(A)
+Monster in der Nähe.(END)
+
+[>Pointer 5<]
+Visierst du dieses an...(END)
+
+[>Pointer 6<]
+...so triffst du sogar alle drei.(A)
+Nutze dies aus, wenn möglich!(END)
+
+[>Pointer 7<]
+Außerdem kannst du Gegner in(A)
+direkter Sichtlinie treffen.(END)
+
+[>Pointer 8<]
+Es gibt zwei Angriffsmuster.(A)
+Das erste...(END)
+
+[>Pointer 9<]
+...läßt dich alle Gegner treffen,(A)
+die sich von dir aus gesehen auf(A)
+einer geraden Linie befinden.(END)
+
+[>Pointer 10<]
+Du kannst den Cursor auf(A)
+irgendeinen von ihnen setzen.(END)
+
+[>Pointer 11<]
+Das zweite Muster...(END)
+
+[>Pointer 12<]
+...läßt dich alle Gegner treffen,(A)
+die sich auf einer Linie zwischen dir(A)
+und dem Ziel befinden.(END)
+
+[>Pointer 13<]
+Wie im vorigen Beispiel werden(A)
+alle Gegner anvisiert, aber...(END)
+
+[>Pointer 14<]
+...wenn du diesen anwählst, wirkt(A)
+der Angriff auch nur bis hier!(END)
+
+[>Pointer 15<]
+Als nächstes kannst du einen Gegner(A)
+benutzen, um eine Linie zu schaffen.(A)
+Alle anderen darauf werden ebenfalls(A)
+getroffen.(END)
+
+[>Pointer 16<]
+Zum Beispiel horizontal...(END)
+
+[>Pointer 17<]
+Im letzten Beispiel bist du(A)
+Zentrum des Angriffs.(END)
+
+[>Pointer 18<]
+Das geht nicht, wenn die Gegner(A)
+außerhalb der Angriffszone sind.(END)
+
+[>Pointer 19<]
+Alle Gegner innerhalb der Zone(A)
+werden getroffen!(END)
+
+[>Pointer 20<]
+Es ist egal, welchen du anwählst.(END)
+
+[>Pointer 21<]
+Königin: Seht, meine Süßen!(AÜ)
+Schicksal, in seiner brutalsten Form.(KNÜ)
+All die Träume, die gewesen sein(AÜ)
+mögen. All das Glück und all(AÜ)
+der Kummer, den ihr erfahren habt.(KNÜ)
+Vorbei!!!(AÜ)
+Für euch gibt es kein Morgen!(END)
+
+[>Pointer 22<]
+Königin: Das Düsteromen überdauert(AÜ)
+Zeit und Raum und wartet auf(AÜ)
+Lavos' Erwachen.(KNÜ)
+Das Schicksal führte euch hierher,(AÜ)
+an eure letzte Ruhestätte...es(AÜ)
+sei denn, ihr besiegt mich und(AÜ)
+zerstört das Omen!(END)
+
+[>Pointer 23<]
+Königin: Kommt, liebe Freunde.(AÜ)
+Vielleicht ist Lavos dazu bereit,(AÜ)
+seine Träume mit euch zu teilen!(KNÜ)
+Sagte ich Träume?(AÜ)
+Ich meinte seinen ewigen Alptraum!(END)
+
+[>Pointer 24<]
+Königin: Argh!(AÜ)
+Meine Kräfte wirken hier(AÜ)
+scheinbar nicht!(KNÜ)
+Doch halt! Ich werfe euch einfach(AÜ)
+in die Mammon-Maschine!(KNÜ)
+Ihr werdet eins mit dem(AÜ)
+Omen, Lavos...und mir!(END)
+
+[>Pointer 25<]
+(AÜ)
+        Den Mondstein erhalten!(END)
+
+[>Pointer 26<]
+Lucca: Das ist der uralte(AÜ)
+Solstein? Er scheint kaum noch(AÜ)
+Energie zu haben.(END)
+
+[>Pointer 27<]
+   Vielleicht könnten wir ihn in(AÜ)
+der Sonne aufladen, aber das würde(AÜ)
+Äonen dauern.(END)
+
+[>Pointer 28<]
+[Robo]: Das ist der Solstein?(AÜ)
+Er muß mit den Jahren seinen(AÜ)
+Glanz verloren haben.(END)
+
+[>Pointer 29<]
+   Aber wenn wir ihn annähernd(AÜ)
+65.216.700 Jahre der Sonne(AÜ)
+aussetzen, könnten wir ihn(AÜ)
+wieder aufladen.(END)
+
+[>Pointer 30<]
+Magus: Also das ist der Solstein.(AÜ)
+Die Zeit hat seine Kraft verbraucht.(END)
+
+[>Pointer 31<]
+   Mit dem Licht der Sonne könnte(AÜ)
+er sie wiedererlangen.(KNÜ)
+Wenn wir die 65 Millionen Jahre(AÜ)
+warten wollen...(END)
+
+[>Pointer 32<]
+Marle: Ist das nicht der(AÜ)
+Solstein?(AÜ)
+Er leuchtet nicht mehr...(END)
+
+[>Pointer 33<]
+   Vielleicht könnte Sonnenlicht(AÜ)
+ihm wieder dazu verhelfen!(AÜ)
+Dauert allerdings wohl ein bißchen.(END)
+
+[>Pointer 34<]
+Frog: Der ehrwürdige Solstein.(AÜ)
+Aber wie verblichen ist sein Glanz!(END)
+
+[>Pointer 35<]
+   Vielleicht braucht er mehr Sonne!(AÜ)
+Und mich dünkt, für lange...!(END)
+
+[>Pointer 36<]
+Diese Göre Lucca sagt, sie hat(A)
+die Erfindung ihres Lebens gemacht.(END)
+
+[>Pointer 37<]
+Hehehe...man ist nie zu alt(A)
+zum Silberpunkte-Sammeln!(END)
+
+[>Pointer 38<]
+Hmm...(A)
+Das dauert ja ewig, bis die(A)
+Königsparade anfängt. Ob was(A)
+schiefgegangen ist?(END)
+
+[>Pointer 39<]
+Ich könnte schreien vor Glück!(END)
+
+
+[>DUMP END<]----------------------------------------------------------

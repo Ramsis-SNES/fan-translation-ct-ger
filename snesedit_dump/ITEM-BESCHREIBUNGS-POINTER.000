@@ -1,0 +1,620 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - ITEM-BESCHREIBUNGS-POINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [000C3295h]
+Size  [000006BEh][00000A32h][2]
+pStart[000C30B9h]
+pFirst[3095h-238]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(END)
+
+[>Pointer 2<]
+Magie +2(END)
+
+[>Pointer 3<]
+
+[>Pointer 4<]
+
+[>Pointer 5<]
+(END)
+
+[>Pointer 6<]
+1,5[mal] Eff. auf magische Gegner(END)
+
+[>Pointer 7<]
+
+[>Pointer 8<]
+
+[>Pointer 9<]
+
+[>Pointer 10<]
+(END)
+
+[>Pointer 11<]
+4[mal] Eff. bei kritischen Treffern(END)
+
+[>Pointer 12<]
+(END)
+
+[>Pointer 13<]
+GSW +2(END)
+
+[>Pointer 14<]
+
+[>Pointer 15<]
+
+[>Pointer 16<]
+
+[>Pointer 17<]
+
+[>Pointer 18<]
+
+[>Pointer 19<]
+
+[>Pointer 20<]
+(END)
+
+[>Pointer 21<]
+Bewirkt evtl. "Langsam''(END)
+
+[>Pointer 22<]
+(END)
+
+[>Pointer 23<]
+Bewirkt evtl. "Stop''(END)
+
+[>Pointer 24<]
+
+[>Pointer 25<]
+
+[>Pointer 26<]
+
+[>Pointer 27<]
+
+[>Pointer 28<]
+
+[>Pointer 29<]
+
+[>Pointer 30<]
+
+[>Pointer 31<]
+(END)
+
+[>Pointer 32<]
+Bewirkt evtl. "Stop'' bei Maschinen(END)
+
+[>Pointer 33<]
+
+[>Pointer 34<]
+
+[>Pointer 35<]
+(END)
+
+[>Pointer 36<]
+Bewirkt evtl. "Chaos''(END)
+
+[>Pointer 37<]
+Auswirkung variiert(END)
+
+[>Pointer 38<]
+Nimmt evtl. 50% Gegner-LP(END)
+
+[>Pointer 39<]
+
+[>Pointer 40<]
+
+[>Pointer 41<]
+
+[>Pointer 42<]
+
+[>Pointer 43<]
+
+[>Pointer 44<]
+
+[>Pointer 45<]
+
+[>Pointer 46<]
+
+[>Pointer 47<]
+
+[>Pointer 48<]
+
+[>Pointer 49<]
+
+[>Pointer 50<]
+
+[>Pointer 51<]
+
+[>Pointer 52<]
+
+[>Pointer 53<]
+(END)
+
+[>Pointer 54<]
+Angr. variiert je nach eig. LP-Zahl(END)
+
+[>Pointer 55<]
+
+[>Pointer 56<]
+
+[>Pointer 57<]
+
+[>Pointer 58<]
+
+[>Pointer 59<]
+(END)
+
+[>Pointer 60<]
+1,5[mal] Eff. auf mag. Gegner(END)
+
+[>Pointer 61<]
+Magie +4(END)
+
+[>Pointer 62<]
+
+[>Pointer 63<]
+
+[>Pointer 64<]
+2[mal] Eff. auf mag. Gegner(END)
+
+[>Pointer 65<]
+
+[>Pointer 66<]
+
+[>Pointer 67<]
+
+[>Pointer 68<]
+
+[>Pointer 69<]
+
+[>Pointer 70<]
+
+[>Pointer 71<]
+
+[>Pointer 72<]
+
+[>Pointer 73<]
+
+[>Pointer 74<]
+(END)
+
+[>Pointer 75<]
+Mehr ATK, wenn Freund fällt(END)
+
+[>Pointer 76<]
+
+[>Pointer 77<]
+
+[>Pointer 78<]
+
+[>Pointer 79<]
+(END)
+
+[>Pointer 80<]
+GSW +3(END)
+
+[>Pointer 81<]
+(END)
+
+[>Pointer 82<]
+70% Kritisch-Rate(END)
+
+[>Pointer 83<]
+
+[>Pointer 84<]
+
+[>Pointer 85<]
+
+[>Pointer 86<]
+(END)
+
+[>Pointer 87<]
+
+[>Pointer 88<]
+
+[>Pointer 89<]
+
+[>Pointer 90<]
+
+[>Pointer 91<]
+
+[>Pointer 92<]
+
+[>Pointer 93<]
+
+[>Pointer 94<]
+(END)
+
+[>Pointer 95<]
+Blockt 50% von Feuer(END)
+
+[>Pointer 96<]
+M VRT +5(END)
+
+[>Pointer 97<]
+
+[>Pointer 98<]
+(END)
+
+[>Pointer 99<]
+M VRT +5(END)
+
+[>Pointer 100<]
+
+[>Pointer 101<]
+
+[>Pointer 102<]
+(END)
+
+[>Pointer 103<]
+M VRT +10(END)
+
+[>Pointer 104<]
+Erhält Status(END)
+
+[>Pointer 105<]
+Blockt 33% magischer Angriffe(END)
+
+[>Pointer 106<]
+M VRT +10(END)
+
+[>Pointer 107<]
+Blockt 80% von Feuer(END)
+
+[>Pointer 108<]
+
+[>Pointer 109<]
+(END)
+
+[>Pointer 110<]
+Blockt Gewitter-Angriffe(END)
+
+[>Pointer 111<]
+Blockt Schatten-Angriffe(END)
+
+[>Pointer 112<]
+Blockt Wasser-Angriffe(END)
+
+[>Pointer 113<]
+Blockt Feuer-Angriffe(END)
+
+[>Pointer 114<]
+Blockt 50% von Gewitter(END)
+
+[>Pointer 115<]
+Blockt 50% von Schatten-Angr.(END)
+
+[>Pointer 116<]
+Blockt 50% von Wasser-Angr.(END)
+
+[>Pointer 117<]
+Blockt 50% von Feuer-Angr.(END)
+
+[>Pointer 118<]
+GSW +2 / Schutz gegen Feuer(END)
+
+[>Pointer 119<]
+GSW +3 / Schutz gegen Feuer(END)
+
+[>Pointer 120<]
+
+[>Pointer 121<]
+
+[>Pointer 122<]
+
+[>Pointer 123<]
+
+[>Pointer 124<]
+
+[>Pointer 125<]
+
+[>Pointer 126<]
+
+[>Pointer 127<]
+
+[>Pointer 128<]
+
+[>Pointer 129<]
+
+[>Pointer 130<]
+(END)
+
+[>Pointer 131<]
+M VRT +9 / Erhält Status(END)
+
+[>Pointer 132<]
+(END)
+
+[>Pointer 133<]
+Blockt 50% von Schatten-Angr.(END)
+
+[>Pointer 134<]
+Erhält Status(END)
+
+[>Pointer 135<]
+Blockt 33% physischer Angriffe(END)
+
+[>Pointer 136<]
+M VRT +10(END)
+
+[>Pointer 137<]
+Verhindert "Chaos''(END)
+
+[>Pointer 138<]
+Verhindert "Siegel''(END)
+
+[>Pointer 139<]
+Verhindert "Stop'', "Langsam''(END)
+
+[>Pointer 140<]
+Erhält Status(END)
+
+[>Pointer 141<]
+???(END)
+
+[>Pointer 142<]
+Halbiert Zeit zwischen Angriffen(END)
+
+[>Pointer 143<]
+Blockt 50% von Gewitter(END)
+
+[>Pointer 144<]
+Blockt 50% von Wasser-Angr.(END)
+
+[>Pointer 145<]
+(END)
+
+[>Pointer 146<]
+GSW +1(END)
+
+[>Pointer 147<]
+TRF +2(END)
+
+[>Pointer 148<]
+ATK +2(END)
+
+[>Pointer 149<]
+Ausdauer +2(END)
+
+[>Pointer 150<]
+Magie +2(END)
+
+[>Pointer 151<]
+Erhält Status(END)
+
+[>Pointer 152<]
+GSW +3(END)
+
+[>Pointer 153<]
+TRF +10(END)
+
+[>Pointer 154<]
+ATK +6(END)
+
+[>Pointer 155<]
+Magie +6(END)
+
+[>Pointer 156<]
+M VRT +10(END)
+
+[>Pointer 157<]
+25% mehr max. LP(END)
+
+[>Pointer 158<]
+50% mehr max. LP(END)
+
+[>Pointer 159<]
+50% weniger MP-Verbrauch(END)
+
+[>Pointer 160<]
+75% weniger MP-Verbrauch(END)
+
+[>Pointer 161<]
+Zeigt gegnerische LP(END)
+
+[>Pointer 162<]
+Macht "Falle'' stärker(END)
+
+[>Pointer 163<]
+50%-Chance auf Gegenangriff(END)
+
+[>Pointer 164<]
+80%-Chance auf Gegenangriff(END)
+
+[>Pointer 165<]
+2[mal] Ausw.(END)
+
+[>Pointer 166<]
+Erfahrung wird zu Geld(END)
+
+[>Pointer 167<]
+Bewirkt einmalige Wiederbelebung(END)
+
+[>Pointer 168<]
+Auto-Angr. / Mehr ATK & Vert.(END)
+
+[>Pointer 169<]
+ATK +4(END)
+
+[>Pointer 170<]
+GSW +2(END)
+
+[>Pointer 171<]
+Erm. Tripeltech "Ewig Dunkel''(END)
+
+[>Pointer 172<]
+Erm. Tripeltech "Omegafackel''(END)
+
+[>Pointer 173<]
+Erm. Tripeltech "Schlagtanz''(END)
+
+[>Pointer 174<]
+Erm. Tripeltech "Poyozo-Tanz''(END)
+
+[>Pointer 175<]
+Erm. Tripeltech "Riesentraum''(END)
+
+[>Pointer 176<]
+Erhöht Kritisch-Rate des Masamune(END)
+
+[>Pointer 177<]
+Ausdauer +6(END)
+
+[>Pointer 178<]
+M VRT +12(END)
+
+[>Pointer 179<]
+Magie & M VRT +5(END)
+
+[>Pointer 180<]
+ATK & Ausdauer +10(END)
+
+[>Pointer 181<]
+(END)
+
+[>Pointer 182<]
+(END)
+
+[>Pointer 183<]
+Erhöht Angriffskraft(END)
+
+[>Pointer 184<]
+Maximiert Angriffskraft(END)
+
+[>Pointer 185<]
+(END)
+
+[>Pointer 186<]
+Füllt 50 LP(END)
+
+[>Pointer 187<]
+Füllt 200 LP(END)
+
+[>Pointer 188<]
+Füllt 500 LP(END)
+
+[>Pointer 189<]
+Füllt 10 MP(END)
+
+[>Pointer 190<]
+Füllt 30 MP(END)
+
+[>Pointer 191<]
+Füllt 60 MP(END)
+
+[>Pointer 192<]
+Füllt LP/MP komplett(END)
+
+[>Pointer 193<]
+Füllt MP komplett(END)
+
+[>Pointer 194<]
+Füllt LP/MP (alle) komplett(END)
+
+[>Pointer 195<]
+Heilt Status(END)
+
+[>Pointer 196<]
+Hilft Kämpfern auf die Beine(END)
+
+[>Pointer 197<]
+Füllt LP/MP (alle) an Speicherstellen(END)
+
+[>Pointer 198<]
+Heilt ???(END)
+
+[>Pointer 199<]
+Füllt 200 LP (alle)(END)
+
+[>Pointer 200<]
+Blockt 33% magischer Angriffe(END)
+
+[>Pointer 201<]
+Blockt 33% physischer Angriffe(END)
+
+[>Pointer 202<]
+ATK +1(END)
+
+[>Pointer 203<]
+Magie +1(END)
+
+[>Pointer 204<]
+GSW +1(END)
+
+[>Pointer 205<]
+
+[>Pointer 206<]
+
+[>Pointer 207<]
+
+[>Pointer 208<]
+
+[>Pointer 209<]
+
+[>Pointer 210<]
+
+[>Pointer 211<]
+
+[>Pointer 212<]
+
+[>Pointer 213<]
+
+[>Pointer 214<]
+
+[>Pointer 215<]
+
+[>Pointer 216<]
+
+[>Pointer 217<]
+(END)
+
+[>Pointer 218<]
+Speichert Düsenrennen-Punktzahl(END)
+
+[>Pointer 219<]
+
+[>Pointer 220<]
+
+[>Pointer 221<]
+
+[>Pointer 222<]
+
+[>Pointer 223<]
+
+[>Pointer 224<]
+
+[>Pointer 225<]
+
+[>Pointer 226<]
+
+[>Pointer 227<]
+
+[>Pointer 228<]
+
+[>Pointer 229<]
+
+[>Pointer 230<]
+
+[>Pointer 231<]
+
+[>Pointer 232<]
+
+[>Pointer 233<]
+
+[>Pointer 234<]
+
+[>Pointer 235<]
+
+[>Pointer 236<]
+
+[>Pointer 237<]
+
+[>Pointer 238<]
+(END)
+
+
+[>DUMP END<]----------------------------------------------------------

@@ -1,0 +1,1799 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 7]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [003CBF1Eh]
+Size  [00003CB1h][0000663Fh][2]
+pStart[003CBC00h]
+pFirst[BD1Eh-399]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(A)
+1/11 1G version(END)
+
+[>Pointer 2<]
+(AÜ)
+   Durch ein Geheimnis versiegelt......(END)
+
+[>Pointer 3<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 4<]
+Prinzessin!(A)
+Haben wir uns wieder mal(A)
+verkleidet?(END)
+
+[>Pointer 5<]
+Eure Majestät, Ihr strahlt geradezu!(END)
+
+[>Pointer 6<]
+Prinzessin!(A)
+Endlich wieder normal gekleidet!(END)
+
+[>Pointer 7<]
+Marle: Etwas stimmt nicht...(END)
+
+[>Pointer 8<]
+Marle: Gehen wir ins Schloß!(END)
+
+[>Pointer 9<]
+Wahhh!(A)
+Wo ist meine Katze?(END)
+
+[>Pointer 10<]
+Meine Katze!(A)
+Dankiii!(END)
+
+[>Pointer 11<]
+Rate, wer gewinnen wird!(AÜ)
+   Gern!(AÜ)
+   Nö...(END)
+
+[>Pointer 12<]
+(AÜ)
+  Mampf!(AÜ)
+  Leckeres Hühnchen!(END)
+
+[>Pointer 13<]
+Diese Runde gewinnt: ...(KN)
+Stahlrenner!(END)
+
+[>Pointer 14<]
+Diese Runde gewinnt: ...(KN)
+Grünschnabel!(END)
+
+[>Pointer 15<]
+Diese Runde gewinnt: ...(KN)
+Catalack!(END)
+
+[>Pointer 16<]
+Diese Runde gewinnt: ...(KN)
+G. I. Jogger!(END)
+
+[>Pointer 17<]
+      A) Stahlrenner!(AÜ)
+   B) Grünschnabel!(AÜ)
+   C) Catalack!(AÜ)
+   D) G. I. Jogger!(END)
+
+[>Pointer 18<]
+Mehr Punkte kannst du nicht kriegen!(END)
+
+[>Pointer 19<]
+Der Startschuß ist gefallen.(A)
+Warte ab, wer das Rennen gewinnt!(END)
+
+[>Pointer 20<]
+Stahlrenner könnte es schaffen.(END)
+
+[>Pointer 21<]
+Grünschnabel - ich weiß es!(END)
+
+[>Pointer 22<]
+Ich setze auf Catalack!(END)
+
+[>Pointer 23<]
+G. I. Jogger ist unschlagbar!(END)
+
+[>Pointer 24<]
+Nicht schlecht!(A)
+5 Silberpunkte auf deine Karte!(END)
+
+[>Pointer 25<]
+Hervorragend!(A)
+Dafür setze ich 20 Silberpunkte(A)
+auf deine Karte!(END)
+
+[>Pointer 26<]
+Stell dich vor "Hau-den-Lukas'' und(A)
+drücke A. Nutze die größte Entfernung(A)
+und drücke nochmals A!(END)
+
+[>Pointer 27<]
+Erstaunlich!(A)
+Dafür gibt's einen ganzen(A)
+Silberpunkt!(END)
+
+[>Pointer 28<]
+Meiner Treu...!(A)
+Es ist das Amulett...!(KN)
+Äh, leider kann ich das nicht kaufen.(A)
+Es ist...zu besonders!(A)
+Paß gut darauf auf!(END)
+
+[>Pointer 29<]
+Melchior, dem Schwertschmied, etwas(A)
+abkaufen?(KNÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 30<]
+Hm...(KN)
+Ob du der jungen Dame wohl das(A)
+Amulett abluchsen kannst?(AÜ)
+   Vielleicht.(AÜ)
+   Nein.(END)
+
+[>Pointer 31<]
+Melchior: Ich lebe auf dem Kontinent(AÜ)
+im Osten. Komm mal vorbei...(END)
+
+[>Pointer 32<]
+Wie viele Dosen Limo schaffst du?(A)
+(Drücke A, so schnell du kannst!)(END)
+
+[>Pointer 33<]
+Achtung...(A)
+Fertig...(A)
+Los!(END)
+
+[>Pointer 34<]
+Nur (VAR2)
+ Dose(n)?(A)
+Du hast wohl keine Übung!(END)
+
+[>Pointer 35<]
+Ganz in Ordnung!(END)
+
+[>Pointer 36<]
+Du bist zum Schießen, Junge!(END)
+
+[>Pointer 37<]
+Mädchen: Hey!!(END)
+
+[>Pointer 38<]
+Mädchen: Au, das hat wehgetan!(END)
+
+[>Pointer 39<]
+Mädchen: Tut mir leid!(AÜ)
+Alles klar?(END)
+
+[>Pointer 40<]
+Mädchen: Oje...(AÜ)
+Mein Amulett!(END)
+
+[>Pointer 41<]
+Mädchen: Oh nein!(AÜ)
+Sag bloß, es ist weg!(END)
+
+[>Pointer 42<]
+Mädchen: Gott sei Dank!(AÜ)
+Mein Amulett!(AÜ)
+Es hat großen ideellen Wert...!(KNÜ)
+Darf ich es zurückhaben?(AÜ)
+   Klar.(AÜ)
+   Nein.(END)
+
+[>Pointer 43<]
+Marle: Es ist ein Familienerbstück.(AÜ)
+Gibst du es mir wieder?(END)
+
+[>Pointer 44<]
+   Ich bin wegen des Festes hier!(AÜ)
+Du wohnst im Dorf, oder?(AÜ)
+Ich fühle mich hier ein wenig(AÜ)
+fremd.(KNÜ)
+Macht es dir was aus, wenn ich(AÜ)
+dich eine Weile begleite?(AÜ)
+   Nein, gar nicht.(AÜ)
+   O ja.(END)
+
+[>Pointer 45<]
+Mädchen: Komm schon! Ich kenne hier(AÜ)
+doch niemanden. Bitte...!(AÜ)
+   Na gut.(AÜ)
+   Na und?(END)
+
+[>Pointer 46<]
+Mädchen: Danke, du Gentleman!(END)
+
+[>Pointer 47<]
+Mädchen: Ach ja, übrigens...(AÜ)
+Mein Name ist...äh...(END)
+
+[>Pointer 48<]
+Mädchen: ...ähm, Marle!(AÜ)
+Und wie heißt du?(END)
+
+[>Pointer 49<]
+Marle: Crono? Aha.(AÜ)
+Nett, dich kennenzulernen!(AÜ)
+Gehen wir!(END)
+
+[>Pointer 50<]
+Willkommen zur Jahrtausendfeier!(A)
+Viel Spaß!(END)
+
+[>Pointer 51<]
+Die Prinzessin soll mal wieder(A)
+ausgebüxt sein!(END)
+
+[>Pointer 52<]
+Dies ist das berühmte(A)
+"Horrorzelt''!(A)
+Leg deine (VAR2)
+ Silberpunkte hier an.(A)
+(Aber sag deinen Eltern nix!)(END)
+
+[>Pointer 53<]
+Ich kann jetzt nicht plaudern.(A)
+Mein Mittagessen wartet.(END)
+
+[>Pointer 54<]
+Die Läufer werden wohl kaum mit(A)
+dir reden.(END)
+
+[>Pointer 55<]
+Dieses Königreich hat viel(A)
+durchgemacht, wie den Krieg gegen(A)
+Magus vor 400 Jahren.(KN)
+Zum Glück ist jetzt alles so(A)
+friedlich.(END)
+
+[>Pointer 56<]
+Ich habe gehört, der Typ hier gibt(A)
+viel Geld für Talismane, Waffen,(A)
+Schmuck und anderen Kram aus.(END)
+
+[>Pointer 57<]
+Geh weiter, um dich Lucca's(A)
+Roboter für Kampftraining zu stellen!(A)
+Wer gewinnt, kriegt Silberpunkte!(END)
+
+[>Pointer 58<]
+Dies ist Lenas Platz. Wer Lenas(A)
+Glocke hört, wird ein spannendes und(A)
+glückliches Leben haben!(END)
+
+[>Pointer 59<]
+Was hier los ist?(A)
+Na, vor 400 Jahren haben wir den(A)
+Krieg gegen einen bösen Magier(A)
+gewonnen. Grund genug zu feiern!(END)
+
+[>Pointer 60<]
+Sie bauen gerade noch auf.(A)
+Komm später nochmal vorbei, ja?(END)
+
+[>Pointer 61<]
+Lucca und ihr Vater haben wieder(A)
+was Verrücktes erfunden.(KN)
+Hoffentlich fliegt's nicht in(A)
+die Luft, wie letztes Mal!(END)
+
+[>Pointer 62<]
+Sie sollten jetzt fertig sein.(A)
+Du findest sie im Norden des Platzes.(KN)
+Marle: Das wird sicher lustig!(AÜ)
+Los, Crono!(END)
+
+[>Pointer 63<]
+Lucca's Erfindung ist fertig.(A)
+Geh nach Norden, um sie zu sehen.(END)
+
+[>Pointer 64<]
+Marle: Warte mal kurz!(AÜ)
+Ich brauch schnell was Süßes.(END)
+
+[>Pointer 65<]
+Marle: Es dauert nur eine Sekunde!(END)
+
+[>Pointer 66<]
+Marle: Du brauchst mich nicht wie(AÜ)
+ein Kidnapper am Arm zu ziehen!(END)
+
+[>Pointer 67<]
+Marle: Hi!(AÜ)
+Ich möchte ein paar von denen da.(KN)
+Frau: Natürlich.(END)
+
+[>Pointer 68<]
+Marle: So, schon fertig!(END)
+
+[>Pointer 69<]
+Marle: Hihihi.(AÜ)
+Du bist ein Vielfraß, Crono!(END)
+
+[>Pointer 70<]
+Marle: Du bist so süß, Crono!(END)
+
+[>Pointer 71<]
+Marle: Du bist unheimlich(AÜ)
+ehrgeizig, oder, Crono?(END)
+
+[>Pointer 72<]
+Marle: Crono...(AÜ)
+Ich find's hier super!(END)
+
+[>Pointer 73<]
+Die Händler holen Nachschub an Waren(A)
+aus ihrem Lagerhaus.(END)
+
+[>Pointer 74<]
+Du hast (VAR2)
+ Silberpunkte.(A)
+10 Silberpunkte gegen 50G tauschen?(AÜ)
+   Ja, bitte.(AÜ)
+   Nein.(END)
+
+[>Pointer 75<]
+Du hast zu wenig Silberpunkte.(END)
+
+[>Pointer 76<]
+Danke sehr.(END)
+
+[>Pointer 77<]
+Ich liebe Feste!(A)
+Kennst du schon den neuesten Klatsch?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 78<]
+Dann hau ab!(END)
+
+[>Pointer 79<]
+Unter uns gesagt, der König ist in Sorge(A)
+über seinen Wildfang von Tochter.(KN)
+Ich würde ja gerne mal wissen, wie(A)
+ungezogen sie wirklich ist!(END)
+
+[>Pointer 80<]
+Taban: Tretet vor, wenn es Euch nicht(AÜ)
+an Zeit und Mut gebricht! Unser(AÜ)
+"Super Dimensions-Beamer'' ist die(AÜ)
+Erfindung des Jahrhunderts!(END)
+
+[>Pointer 81<]
+Taban: Es ist ganz einfach. Von dieser(AÜ)
+Plattform hier links...(END)
+
+[>Pointer 82<]
+Taban: ...wird man auf die rechte(AÜ)
+da drüben teleportiert! Meine Tochter(AÜ)
+Lucca hat dieses Meisterwerk(AÜ)
+konstruiert.(END)
+
+[>Pointer 83<]
+Taban: Willst du mal, Sohnemann?(AÜ)
+...Oh, du bist's, Crono!(END)
+
+[>Pointer 84<]
+Taban: Keine Angst, mit unseren Katzen(AÜ)
+hat's auch geklappt! Warum sollte es(AÜ)
+dann mit dir schiefgehen...? Hehe!(KNÜ)
+Also, auf geht's!(END)
+
+[>Pointer 85<]
+Taban: Es...FUNKTIONIERT!?(AÜ)
+UNGLAUBLICH!!!(KNÜ)
+Oh, äh, eine fesselnde Vorführung(AÜ)
+im Rahmen anschaulicher(AÜ)
+Wissenschaft, Leute!(END)
+
+[>Pointer 86<]
+Lucca: Crono!(END)
+
+[>Pointer 87<]
+Lucca: Da bist du ja endlich!(AÜ)
+Niemand will sich beamen lassen.(KNÜ)
+Wie wär's mit dir?(END)
+
+[>Pointer 88<]
+Lucca: Stell dich links drauf!(END)
+
+[>Pointer 89<]
+Lucca: Und, wie war's?(AÜ)
+Willst du gleich nochmal?(END)
+
+[>Pointer 90<]
+Marle: Das wird lustig!(AÜ)
+Ich werde zuschauen, während du(AÜ)
+dich auflöst!(END)
+
+[>Pointer 91<]
+Marle: Fetziges Teil, diese(AÜ)
+Maschine! Jetzt bin ich dran!(END)
+
+[>Pointer 92<]
+Lucca: Wie meinen?(END)
+
+[>Pointer 93<]
+Lucca: Hey, Crono, wo hast du(AÜ)
+denn dieses Püppchen aufgegabelt?(END)
+
+[>Pointer 94<]
+Marle: Du wirst sehen, Crono!(AÜ)
+Was du kannst, kann ich schon(AÜ)
+lange!(END)
+
+[>Pointer 95<]
+Taban: Augen auf, Leute! Diese(AÜ)
+reizende junge Dame hat den(AÜ)
+Mut, den Dimensions-Beamer zu(AÜ)
+besteigen!(END)
+
+[>Pointer 96<]
+Marle: Schön dableiben, ja?(AÜ)
+Ich bin gleich zurück!(END)
+
+[>Pointer 97<]
+Taban: Bist du auch ganz sicher...?(AÜ)
+Noch kannst du dich anders(AÜ)
+entscheiden!(END)
+
+[>Pointer 98<]
+Marle: Nix da!(AÜ)
+Werft den Schalter rum!(END)
+
+[>Pointer 99<]
+Taban: Okay, alle miteinander, sie(AÜ)
+kriegt nachher tosenden Applaus, ja?(END)
+
+[>Pointer 100<]
+Taban: Fluxkompensator aktiv!(END)
+
+[>Pointer 101<]
+Lucca: Energie-Transfer einleiten!(END)
+
+[>Pointer 102<]
+Marle: Was ist jetzt los?(AÜ)
+Mein Amulett...(END)
+
+[>Pointer 103<]
+Lucca: Sie kam mir gleich bekannt(AÜ)
+vor. Ich kenne sie irgendwoher...(END)
+
+[>Pointer 104<]
+Lucca: Häh?(END)
+
+[>Pointer 105<]
+Alle: Ooohhh!(AÜ)
+Das war SUPER!(END)
+
+[>Pointer 106<]
+Taban: Hmmmm......?(END)
+
+[>Pointer 107<]
+Taban: Lucca!(AÜ)
+Wo zum Geier ist sie!?(END)
+
+[>Pointer 108<]
+Lucca: ......(END)
+
+[>Pointer 109<]
+Taban: Ende der Vorstellung, Leute!(AÜ)
+Kommt gut nach Hause...!(END)
+
+[>Pointer 110<]
+Taban: Was ist los, Lucca?(AÜ)
+WO IST SIE!??(END)
+
+[>Pointer 111<]
+Lucca: Wie sie dematerialisiert(AÜ)
+wurde... Das kann nicht an unserem(AÜ)
+Beamer liegen!(KNÜ)
+Das Kraftfeld schien auf ihr(AÜ)
+Amulett zu reagieren...(END)
+
+[>Pointer 112<]
+Taban: Aber was machen wir jetzt(AÜ)
+bloß?(END)
+
+[>Pointer 113<]
+Lucca: Crono!(AÜ)
+Du hast ihr das eingebrockt.(AÜ)
+Bring sie wieder zurück!(END)
+
+[>Pointer 114<]
+Lucca: Crono!(END)
+
+[>Pointer 115<]
+Taban: ER will sie retten!?(AÜ)
+So ein tapferer Junge!(END)
+
+[>Pointer 116<]
+Lucca: Hör zu, ich weiß nicht, in(AÜ)
+welcher Dimension du landen wirst,(AÜ)
+aber wir haben wohl keine(AÜ)
+andere Wahl.(KN)
+Taban: Und wenn sie beide draufgehen?(KN)
+Lucca: Unsere einzige Hoffnung ist(AÜ)
+Crono. Das Amulett ist der(AÜ)
+Schlüssel! Häng es um, Crono,(AÜ)
+und halte dich bereit!(END)
+
+[>Pointer 117<]
+Lucca: Volle Kraft!(END)
+
+[>Pointer 118<]
+Taban: Roger!(END)
+
+[>Pointer 119<]
+Lucca: Mehr!(AÜ)
+Wir brauchen mehr Energie!(END)
+
+[>Pointer 120<]
+Lucca: Da!(AÜ)
+Wir haben es geschafft!(END)
+
+[>Pointer 121<]
+Lucca: Ich komme nach, sobald ich(AÜ)
+das Problem gelöst habe.(AÜ)
+Viel Glück, Crono...!(END)
+
+[>Pointer 122<]
+Marle: Puh!(AÜ)
+Wir sind zurück!(END)
+
+[>Pointer 123<]
+Marle: Crono, Lucca, habt(AÜ)
+ihr nicht Lust, mit mir ins Schloß(AÜ)
+zu kommen? Wir könnten zusammen(AÜ)
+zu Abend essen!(END)
+
+[>Pointer 124<]
+Lucca: Marle...(AÜ)
+Entschuldige all das hier...(END)
+
+[>Pointer 125<]
+Marle: Soll das ein Witz sein?(AÜ)
+Ich hab seit Monaten keinen(AÜ)
+solchen Spaß gehabt! Und auch(AÜ)
+keine Freunde...(END)
+
+[>Pointer 126<]
+Lucca: Crono, sei so nett und(AÜ)
+bring sie nach Hause.(KNÜ)
+Ich habe noch was zu tun.(END)
+
+[>Pointer 127<]
+Marle: Bis bald, Lucca!(END)
+
+[>Pointer 128<]
+Marle: Bringst du mich nach(AÜ)
+Hause, Crono?(END)
+
+[>Pointer 129<]
+Was das Mädchen für eine Brille(A)
+aufhat!(END)
+
+[>Pointer 130<]
+Sicher kann sie damit die(A)
+Rückseite des Mondes sehen.(END)
+
+[>Pointer 131<]
+Wow!(END)
+
+[>Pointer 132<]
+Die meisten von Lucca's Erfindungen(A)
+sind Müll.(END)
+
+[>Pointer 133<]
+Endlich funktioniert mal eine ihrer(A)
+Erfindungen.(END)
+
+[>Pointer 134<]
+Ich bin Anwalt Pierre.(END)
+
+[>Pointer 135<]
+Ich bin der Kanzler, der(A)
+Ankläger!(END)
+
+[>Pointer 136<]
+Kanzler: Hohes Gericht!(KNÜ)
+Der Angeklagte Crono wird nun(AÜ)
+vorgeführt. Ihm wird vorgeworfen,(AÜ)
+Prinzessin Nadia entführt zu(AÜ)
+haben.(END)
+
+[>Pointer 137<]
+Kanzler: Was machen wir mit ihm?(AÜ)
+Rösten?(KNÜ)
+Für ein paar Jahre mit dem(AÜ)
+Kopf nach unten aufhängen?(KNÜ)
+Oder...einfach köpfen?(END)
+
+[>Pointer 138<]
+Kanzler: Ihr, die Geschworenen,(AÜ)
+werdet über ihn richten.(AÜ)
+Fangen wir an!(END)
+
+[>Pointer 139<]
+Richter: Crono, dir wird hiermit(AÜ)
+befohlen, die Wahrheit zu(AÜ)
+sagen!(END)
+
+[>Pointer 140<]
+Pierre: Crono wird der(AÜ)
+"vorsätzlichen Entführung''(AÜ)
+Prinzessin Nadias beschuldigt.(KNÜ)
+Aber hat er dieses Verbrechen(AÜ)
+überhaupt begangen?(KNÜ)
+Nein.(AÜ)
+Es fand gar keine Entführung(AÜ)
+statt!(END)
+
+[>Pointer 141<]
+Pierre: Die beiden begegneten sich(AÜ)
+völlig zufällig. Tatsächlich BAT ihn(AÜ)
+die Prinzessin darum, ihn(AÜ)
+begleiten zu dürfen!(END)
+
+[>Pointer 142<]
+Kanzler: Tatsächlich?(KNÜ)
+Wer hat mit diesem Unsinn(AÜ)
+angefangen?(AÜ)
+   Ich war's.(AÜ)
+   Marle war's.(END)
+
+[>Pointer 143<]
+Kanzler: Wie ich es mir dachte!(AÜ)
+Der Angeklagte setzte alles daran,(AÜ)
+in die Nähe der Prinzessin zu(AÜ)
+kommen!(END)
+
+[>Pointer 144<]
+Kanzler: Ach ja?(AÜ)
+Zeugen berichten, daß DU es(AÜ)
+warst, der die Prinzessin zuerst(AÜ)
+angerempelt hat...!(END)
+
+[>Pointer 145<]
+Kanzler: Arglos folgte dir die(AÜ)
+Prinzessin zu Lucca's kleiner(AÜ)
+Vorstellung.(KNÜ)
+Und dann seid ihr beide(AÜ)
+verschwunden! Wenn DAS mal(AÜ)
+keine Entführung ist!(END)
+
+[>Pointer 146<]
+Kanzler: Und ich habe Fakten,(AÜ)
+die den Charakter des Angeklagten(AÜ)
+in Frage stellen!(END)
+
+[>Pointer 147<]
+Pierre: Einspruch!(KNÜ)
+Solche "Fakten'' haben nichts mit(AÜ)
+diesem Fall zu tun!(END)
+
+[>Pointer 148<]
+Richter: Was meint Ihr, Kanzler?(END)
+
+[>Pointer 149<]
+Kanzler: Crono's Charakter ist(AÜ)
+in diesem Fall des Pudels Kern!(KN)
+Pierre: Er hat nichts zu verbergen.(END)
+
+[>Pointer 150<]
+Pierre: Unsere Zeugin, bitte.(AÜ)
+Ein kleines Mädchen, das für den(AÜ)
+Charakter des Angeklagten(AÜ)
+sprechen wird.(END)
+
+[>Pointer 151<]
+Der nette Mann...(A)
+Hat mir meine Katze gefunden.(END)
+
+[>Pointer 152<]
+Danke schön!(END)
+
+[>Pointer 153<]
+Pierre: Das sagt doch alles!(AÜ)
+Dafür verdient Crono(AÜ)
+einen Orden!(END)
+
+[>Pointer 154<]
+Pierre: Puh...(AÜ)
+Scheinbar akzeptieren sie's.(END)
+
+[>Pointer 155<]
+Kanzler: Der Angeklagte ist von(AÜ)
+äußerst grausamer Gesinnung.(END)
+
+[>Pointer 156<]
+Kanzler: Erkennst du sie!?(AÜ)
+Die arme Kleine, die ihre Katze(AÜ)
+vermißte? Nicht einmal getröstet(AÜ)
+hast du sie!(END)
+
+[>Pointer 157<]
+Du böser Mann!(END)
+
+[>Pointer 158<]
+Kanzler: Arme Kleine!(AÜ)
+Danke dir.(END)
+
+[>Pointer 159<]
+Kanzler: Hier sind weitere(AÜ)
+Beweise wohl überflüssig.(END)
+
+[>Pointer 160<]
+Kanzler: Hast du jemals etwas(AÜ)
+gestohlen?(AÜ)
+   Äh...ja.(AÜ)
+   Nie! Ich bin kein Dieb.(END)
+
+[>Pointer 161<]
+Kanzler: Aha!(AÜ)
+Ihm fehlt es an Moral!(AÜ)
+Das sollte festgehalten(AÜ)
+werden.(KNÜ)
+Er schreit geradezu nach(AÜ)
+moralischer Hilfe!(END)
+
+[>Pointer 162<]
+Kanzler: Lüg doch nicht!(AÜ)
+Wir haben einen Zeugen.(END)
+
+[>Pointer 163<]
+Der da!(A)
+Hat mir mein Mittagessen(A)
+weggemampft!(END)
+
+[>Pointer 164<]
+Kanzler: Ich bitte zu Protokoll zu(AÜ)
+geben, daß Crono einen(AÜ)
+armen alten Mann bestohlen hat!(END)
+
+[>Pointer 165<]
+Pierre: Hier geht es ums Motiv.(AÜ)
+Hatte dieser integre Bürger Grund,(AÜ)
+Prinzessin Nadia zu entführen?(AÜ)
+Nein, hatte er nicht!(END)
+
+[>Pointer 166<]
+Kanzler: Ganz klar Erpressung!(KNÜ)
+Crono, ihr Vermögen hat dich(AÜ)
+gelockt...!(AÜ)
+   Nein.(AÜ)
+   Ja.(END)
+
+[>Pointer 167<]
+Kanzler: Du gibst es also zu!(END)
+
+[>Pointer 168<]
+Kanzler: Keine weiteren Fragen,(AÜ)
+Euer Ehren.(END)
+
+[>Pointer 169<]
+Kanzler: Bist du dir sicher?(AÜ)
+Keine Verlockung?(AÜ)
+   Kein bißchen.(AÜ)
+   Vielleicht doch...(END)
+
+[>Pointer 170<]
+Kanzler: Damit ist der Fall klar.(AÜ)
+Ich bin fertig.(KN)
+Pierre: Feststeht, daß mein Mandant(AÜ)
+ein ehrenwerter junger Mann ist!(AÜ)
+Euer Ehren, ich bin fertig.(END)
+
+[>Pointer 171<]
+Kanzler: Denkt daran, er hatte(AÜ)
+angeblich kein Interesse an ihrem(AÜ)
+Vermögen. Bitte die Zeugin...!(END)
+
+[>Pointer 172<]
+Oh, ja, ich hab alles genau gesehen!(A)
+Ich bin mir ganz sicher!(END)
+
+[>Pointer 173<]
+Oje!(A)
+Ich bin so nervös!(END)
+
+[>Pointer 174<]
+Dieser Kerl schnappte sich das(A)
+Amulett, ohne nach der Prinzessin(A)
+zu sehen!(END)
+
+[>Pointer 175<]
+Zurückgeben kam ihm gar nicht(A)
+erst in den Sinn.(END)
+
+[>Pointer 176<]
+Er wollte es an den Händler(A)
+Melchior verkaufen.(END)
+
+[>Pointer 177<]
+Kanzler: Was wir nun hören,(AÜ)
+wird den Fall abschließen!(END)
+
+[>Pointer 178<]
+Ich habe es ganz deutlich gehört...(A)
+...wie sie laut um Hilfe schrie!(END)
+
+[>Pointer 179<]
+War das alles?(A)
+Kann ich gehen!?(END)
+
+[>Pointer 180<]
+Richter: Geschworene...(AÜ)
+Wenn Ihr ihn für schuldig befindet,(AÜ)
+geht nach links.(AÜ)
+Wenn nicht, nach rechts.(END)
+
+[>Pointer 181<]
+Schuldig.(END)
+
+[>Pointer 182<]
+Nicht schuldig.(END)
+
+[>Pointer 183<]
+Ruhe im Saal!(END)
+
+[>Pointer 184<]
+Das Urteil ist gesprochen!(END)
+
+[>Pointer 185<]
+Wir haben eine Mehrheit!(END)
+
+[>Pointer 186<]
+Das Urteil lautet...schuldig!(A)
+Zur Strafe Einzelhaft und Exekution(A)
+binnen drei Tagen!(END)
+
+[>Pointer 187<]
+(A)
+Das Urteil lautet...nicht schuldig!(KN)
+Aber da er immerhin mit ihr(A)
+weggerannt ist, muß er zur Strafe(A)
+drei Tage Einzelhaft absitzen.(END)
+
+[>Pointer 188<]
+Kanzler: Bringt ihn weg!(END)
+
+[>Pointer 189<]
+Marle: Augenblick, verflixt...!(KN)
+Kanzler: Prinzessin!(END)
+
+[>Pointer 190<]
+König: Halt ein, mein liebes Kind!(END)
+
+[>Pointer 191<]
+Marle: Aber Vater...!(KN)
+König: Ich möchte doch nur, daß du(AÜ)
+dich einer Prinzessin gemäß(AÜ)
+benimmst. Du mußt die Regeln lernen.(KNÜ)
+Überlaß alles dem Kanzler und(AÜ)
+vergiß die Jahrtausendfeier.(END)
+
+[>Pointer 192<]
+König: Wir gehen!(END)
+
+[>Pointer 193<]
+Marle: Crono!!!(END)
+
+[>Pointer 194<]
+Aaahh!(END)
+
+[>Pointer 195<]
+Junge: W...was für ein furchtbarer(AÜ)
+Ort! Nichts wie weg von hier, solange(AÜ)
+es noch geht!(END)
+
+[>Pointer 196<]
+Das...Amulett.(A)
+Das Helden...amulett...(END)
+
+[>Pointer 197<]
+Frog: Gebt mir das Masamune!(END)
+
+[>Pointer 198<]
+Frog: Mein Name ist Glenn!(AÜ)
+Cyrus' Hoffnungen und Träume...(AÜ)
+Und jetzt das Masamune...(END)
+
+[>Pointer 199<]
+Frog: Umgehend werde ich(AÜ)
+Magus ehrenvoll besiegen!(END)
+
+[>Pointer 200<]
+(A)
+Notiz, mit Blut geschrieben!(KN)
+"Der Jongleur in Magus's Schloß...(A)
+Angriffe stärken seine Verteidigung!''(END)
+
+[>Pointer 201<]
+Frog: Benutzt ihr etwa(AÜ)
+Magie? Mich dünkt, nur(AÜ)
+Zauberer vermögen dies!(END)
+
+[>Pointer 202<]
+(Reise zum Zeitenende, damit(A)
+auch Frog Magie erlernen(A)
+kann!)(END)
+
+[>Pointer 203<]
+[Robo]: Besuche das(AÜ)
+Zeitenende, und auch du(AÜ)
+kannst Magie erlernen.(END)
+
+[>Pointer 204<]
+(AÜ)
+           Fest verschlossen.(END)
+
+[>Pointer 205<]
+(AÜ)
+       1[mal] (VAR1)
+ erhalten!(END)
+
+[>Pointer 206<]
+Lauft los, wenn der Wind abflaut,(A)
+und paßt auf, wenn er weht.(END)
+
+[>Pointer 207<]
+Seid vorsichtig!(A)
+Es ist rutschig.(A)
+Fallt, und ihr müßt von vorn(A)
+anfangen.(END)
+
+[>Pointer 208<]
+Verschiebt den Panzer...(A)
+Erklettert ihn...(END)
+
+[>Pointer 209<]
+So! Ihr wollt einen Crono-(A)
+Klon? Na gut, heute mache(A)
+ich eine Ausnahme.(KN)
+Fordert mich heraus, und Ihr bekommt(A)
+einen Klon. Je länger Ihr im Spiel(A)
+bleibt, desto günstiger wird er.(KNÜ)
+   Herausfordern!(AÜ)
+   Lieber nicht.(END)
+
+[>Pointer 210<]
+Ihr habt nicht genug Geld.(A)
+Spielt länger und spart!(END)
+
+[>Pointer 211<]
+Ich nehme 60000G.(END)
+
+[>Pointer 212<]
+Ich nehme 30000G.(END)
+
+[>Pointer 213<]
+Ich nehme 10000G.(END)
+
+[>Pointer 214<]
+Ich nehme 5000G.(END)
+
+[>Pointer 215<]
+Ich nehme 2000G.(END)
+
+[>Pointer 216<]
+Ich nehme 1000G.(END)
+
+[>Pointer 217<]
+Dumm: Den Chef juckt es, das Übel(AÜ)
+zu rächen, das die Familie über(AÜ)
+13 Generationen belastet hat!(AÜ)
+Gihihi!(KN)
+Dümmer: Er wird dem König was(AÜ)
+anhängen! Gahaha!(END)
+
+[>Pointer 218<]
+Marle: Eine Verschwörung!(AÜ)
+Beeilen wir uns!(END)
+
+[>Pointer 219<]
+Dies ist die Schatzkammer.(A)
+Kein Zutritt!(END)
+
+[>Pointer 220<]
+Autsch! Eine Ratte hat mich gebissen!(END)
+
+[>Pointer 221<]
+Kein Zutritt!(END)
+
+[>Pointer 222<]
+Der Kanzler war also ein Monster!(END)
+
+[>Pointer 223<]
+Marle: Laßt mich durch!!(END)
+
+[>Pointer 224<]
+Nicht einmal Ihr dürft hier rein,(A)
+Prinzessin.(END)
+
+[>Pointer 225<]
+Marle: Was soll das? Der(AÜ)
+Kanzler lügt! Es gibt kein(AÜ)
+Erbstück!(END)
+
+[>Pointer 226<]
+Marle: Stimmt!(AÜ)
+Die Muschel von vor 400 Jahren(AÜ)
+müßte noch da sein.(END)
+
+[>Pointer 227<]
+Marle: Sie ist sicher im Keller!(END)
+
+[>Pointer 228<]
+Lucca: Mit der Muschel können(AÜ)
+wir die Unschuld des Königs(AÜ)
+beweisen!(END)
+
+[>Pointer 229<]
+Lucca: Wir haben im Jahre 600 A.D.(AÜ)
+die Geschichte verändert, also sollte(AÜ)
+die Regenbogenmuschel noch im(AÜ)
+Schloß sein!(END)
+
+[>Pointer 230<]
+[Robo]: Die Regenbogenmuschel(AÜ)
+wird des Königs Unschuld beweisen.(END)
+
+[>Pointer 231<]
+[Robo]: Wir haben 600 A.D. die(AÜ)
+Geschichte verändert! Also sollte die(AÜ)
+Muschel hier im Schloß sein.(END)
+
+[>Pointer 232<]
+Frog: Mich deucht, die(AÜ)
+Regenbogenmuschel wird ihm(AÜ)
+helfen.(END)
+
+[>Pointer 233<]
+Frog: Weißt du nicht mehr?(AÜ)
+Die Geschichte wurde verändert, und(AÜ)
+die Muschel ist hier.(END)
+
+[>Pointer 234<]
+Ayla: Regenbogenmuschel!(AÜ)
+Marle's Papa retten!(END)
+
+[>Pointer 235<]
+Ayla: Du vergessen?(AÜ)
+Alter König Muschel bunkern!(AÜ)
+Regenbogending jetzt hier!(END)
+
+[>Pointer 236<]
+Magus: Zeigen wir ihnen die(AÜ)
+Regenbogenmuschel. Das wird(AÜ)
+dem Kanzler einheizen.(END)
+
+[>Pointer 237<]
+Magus: Idiot!(AÜ)
+Schon unseren Trip nach 600 A.D.(AÜ)
+vergessen?(END)
+
+[>Pointer 238<]
+Marle: Überleg's dir nochmal!(KN)
+Soldat: Nein, Prinzessin.(END)
+
+[>Pointer 239<]
+Marle: Es gibt einen Weg...(AÜ)
+...etwas holprig, aber mir nach!(END)
+
+[>Pointer 240<]
+Vor dem Gesetz sind alle gleich!(END)
+
+[>Pointer 241<]
+Pierre? Er ist in den Rittergemächern.(END)
+
+[>Pointer 242<]
+Marle: Die Regenbogenmuschel!!!(END)
+
+[>Pointer 243<]
+Lucca: Was ist das...ein Brief?(END)
+
+[>Pointer 244<]
+[Robo]: Ist das ein Brief?(END)
+
+[>Pointer 245<]
+Frog: Seht! Ein Brief!(END)
+
+[>Pointer 246<]
+Ayla: Hier! Papier, Papier!(END)
+
+[>Pointer 247<]
+Magus: Da ist ein Brief.(AÜ)
+Verbrennen wir ihn.(END)
+
+[>Pointer 248<]
+Marle: An Marle...?(KN)
+"Liebste Marle, ich weiß, zwischen(A)
+Dir und Deinem Vater herrscht Streit.(KN)
+Doch nichts vermag das Band des(A)
+Blutes zu zerreißen, weder Zorn(A)
+noch Distanz.(KN)
+Wenn Du eines Tages Kinder hast,(A)
+wirst Du verstehen.(KN)
+Dieses besondere Band ist Teil unseres(A)
+Stammbaums, der uns verbindet.(AÜ)
+       Königin Guardia XXI., Lena''(END)
+
+[>Pointer 249<]
+Lucca: Junge, das hat gesessen!(END)
+
+[>Pointer 250<]
+[Robo]: Obwohl ich keine Emotionen(AÜ)
+habe, ist an diesem Brief doch(AÜ)
+etwas Warmes und Freundliches.(END)
+
+[>Pointer 251<]
+Frog: Die gute Königin Lena...!(KNÜ)
+Laßt uns nun geschwind unsere(AÜ)
+Mission zu Ende bringen!(END)
+
+[>Pointer 252<]
+Ayla: Ayla wissen, wann(AÜ)
+Nest verlassen! Mit der Zeit groß(AÜ)
+werden und Nest verlassen!(KNÜ)
+Ayla Nest verlassen!(AÜ)
+Genau wie Daktyl.(AÜ)
+Genau wie Marle...?(AÜ)
+Großer Wandel!(END)
+
+[>Pointer 253<]
+Ayla: Verlassen Nest!(AÜ)
+Haben Baby!(AÜ)
+Baby groß werden!(AÜ)
+Auch Nest verlassen!(END)
+
+[>Pointer 254<]
+Ayla: Du bereit, Nest verlassen?(AÜ)
+Noch nicht groß genug.(END)
+
+[>Pointer 255<]
+Magus: Könnten wir das auf(AÜ)
+später verschieben...?(END)
+
+[>Pointer 256<]
+Marle: Vater!(AÜ)
+Halt aus, wir kommen!(END)
+
+[>Pointer 257<]
+(AÜ)
+  Regenbogenmuschel erhalten!(END)
+
+[>Pointer 258<]
+Melchior: Das ist etwas Besonderes!(AÜ)
+Eine Rüstung daraus wehrt Magie(AÜ)
+ab!(KNÜ)
+Ich kann entweder einen(AÜ)
+sehr starken Prisma-Anzug machen.(AÜ)
+Oder aber drei weniger starke(AÜ)
+Prismahelme.(KNÜ)
+Was möchtet ihr gerne?(AÜ)
+   Einen Prisma-Anzug(AÜ)
+   Drei Prismahelme(END)
+
+[>Pointer 259<]
+Melchior: Den Prisma-Anzug?(AÜ)
+Er ist nur für Damen...!(AÜ)
+   Ja, den will ich!(AÜ)
+   Ich hab's mir anders überlegt.(END)
+
+[>Pointer 260<]
+Melchior: Also Prismahelme?(AÜ)
+Ganz sicher?(AÜ)
+   Ja(AÜ)
+   Nein(END)
+
+[>Pointer 261<]
+Melchior: Gut, gut, einen Augenblick(AÜ)
+bitte!(END)
+
+[>Pointer 262<]
+Melchior: So, fertig!(AÜ)
+Auf Wiedersehen!(END)
+
+[>Pointer 263<]
+Melchior: Ich weiß endlich, daß ich(AÜ)
+etwas tue, das sich auszahlt!(END)
+
+[>Pointer 264<]
+Melchior: Interessante Substanz!(AÜ)
+Eine Legierung daraus ergäbe ein(AÜ)
+paar tolle Sachen!(END)
+
+[>Pointer 265<]
+Melchior: Ahh!(AÜ)
+Ein Solstein!(AÜ)
+Ich mache eine Legierung daraus!(END)
+
+[>Pointer 266<]
+Melchior: Hehehe!(AÜ)
+Glaubt nicht, daß meine Trickkiste(AÜ)
+damit leer ist!(END)
+
+[>Pointer 267<]
+Willkommen in Norstein Bekkler's(A)
+Labor. Die Schaudershow fängt(A)
+gleich an!(END)
+
+[>Pointer 268<]
+Wie viele Silberpunkte willst(A)
+du ausgeben?(KNÜ)
+   10(AÜ)
+   40(AÜ)
+   80(AÜ)
+   Abbrechen(END)
+
+[>Pointer 269<]
+Dieses Spiel mußt du mit Freunden(A)
+spielen. Geh und hole sie.(END)
+
+[>Pointer 270<]
+Nicht genug Punkte...(END)
+
+[>Pointer 271<]
+Katzenfutter...(A)
+Ich bringe es in Crono's Haus,(A)
+damit seine Katze nicht(A)
+wegrennt.(END)
+
+[>Pointer 272<]
+Ich bin Biggs.(END)
+
+[>Pointer 273<]
+Ich bin Wedge.(END)
+
+[>Pointer 274<]
+Ich bin Kain.(END)
+
+[>Pointer 275<]
+Wo ist Biggs?(END)
+
+[>Pointer 276<]
+Wo ist Wedge?(END)
+
+[>Pointer 277<]
+Wo ist Kain?(END)
+
+[>Pointer 278<]
+Ist das SO offensichtlich?(END)
+
+[>Pointer 279<]
+Eine Poyozo-Puppe.(A)
+Eine Zierde für dein Zimmer!(END)
+
+[>Pointer 280<]
+Mach alles nach!(A)
+L...Linker Arm   R...Rechter Arm(A)
+Y...Lachen(A)
+A...Überraschung!(END)
+
+[>Pointer 281<]
+Fang nach dem Signalton an.(KN)
+Und...los!(END)
+
+[>Pointer 282<]
+Ausgezeichnet!(END)
+
+[>Pointer 283<]
+Der Klon wird in Partymgl1's(A)
+Zuhause sein.(END)
+
+[>Pointer 284<]
+Der Klon wird in Crono's(A)
+Haus sein.(END)
+
+[>Pointer 285<]
+Monster brechen aus!(A)
+Bewirf sie mit Steinen, um sie(A)
+wieder in den Käfig zu treiben!(END)
+
+[>Pointer 286<]
+Gleichzeitig wird eine Geisel langsam(A)
+in die Flammen heruntergelassen.(A)
+Mit dem blauen Licht links kannst(A)
+du Zeit gewinnen.(KN)
+Besiege alle Monster, bevor die Geisel(A)
+eine heiße Erfahrung macht!(END)
+
+[>Pointer 287<]
+Gut gemacht!(A)
+Hier, eine Katze!(END)
+
+[>Pointer 288<]
+Wache: Die Affen!!!(END)
+
+[>Pointer 289<]
+Gefängniswärter: Ah, was für ein(AÜ)
+leckerer Hauptgang!(END)
+
+[>Pointer 290<]
+Kino: Ayla!(KN)
+Ayla: Kino weg!(AÜ)
+Ayla dich retten!(END)
+
+[>Pointer 291<]
+Marle: Wow!(END)
+
+[>Pointer 292<]
+Lucca: Was machst du da drin!?(END)
+
+[>Pointer 293<]
+[Robo]: Diese Methode scheint(AÜ)
+mir wenig rational.(END)
+
+[>Pointer 294<]
+Frog: Hmmmph.(END)
+
+[>Pointer 295<]
+Kino: Leid tun.(AÜ)
+Alles Kinos Schuld.(END)
+
+[>Pointer 296<]
+Ayla: Egal.(AÜ)
+Kino fliehen mit Laruba-(AÜ)
+Dörflern!(END)
+
+[>Pointer 297<]
+Kino: Was Ayla tun?(END)
+
+[>Pointer 298<]
+Ayla: Reptiten fertigmachen!(END)
+
+[>Pointer 299<]
+Kino: Kino mitkommen!(END)
+
+[>Pointer 300<]
+Ayla: Kino nicht gehen.(AÜ)
+Wenn Ayla tot, Kino neuer(AÜ)
+Chef von Ioka!(END)
+
+[>Pointer 301<]
+Kino: Ayla...(END)
+
+[>Pointer 302<]
+Ayla: Ayla stark.(AÜ)
+Nicht verlieren!(END)
+
+[>Pointer 303<]
+Kino: Kino verstehen.(AÜ)
+Und etwas zeigen!(END)
+
+[>Pointer 304<]
+Kino: Du stark, ich schwach.(AÜ)
+Ayla guter Chef!(END)
+
+[>Pointer 305<]
+Lucca: Also kam Lavos in(AÜ)
+dieser Ära hierher.(END)
+
+[>Pointer 306<]
+[Robo]: Also wurde Lavos hier(AÜ)
+"geboren''...(END)
+
+[>Pointer 307<]
+Marle: Aha!(AÜ)
+Lavos kam in dieser Ära hierher!(END)
+
+[>Pointer 308<]
+Frog: Nicht durch Magus's(AÜ)
+Schuld lebt Lavos!(AÜ)
+Mich dünkt, Lavos fiel in uralten(AÜ)
+Zeiten vom Himmel.(END)
+
+[>Pointer 309<]
+Ayla: Lavos riesig!(AÜ)
+Crono(2) dagegen kämpfen?(END)
+
+[>Pointer 310<]
+Ayla: Crono(2)!(AÜ)
+Wir gehen, wo Lavos fallen!(END)
+
+[>Pointer 311<]
+Lucca: Vielleicht können wir(AÜ)
+ihn in diesem Stadium noch(AÜ)
+aufhalten. Komm, Crono!(END)
+
+[>Pointer 312<]
+[Robo]: Lavos sollte jetzt(AÜ)
+noch relativ schwach sein. Ob wir(AÜ)
+ihn besiegen können!?(END)
+
+[>Pointer 313<]
+Marle: Er ist gerade gelandet,(AÜ)
+also können wir vielleicht etwas(AÜ)
+tun! Gehen wir!(END)
+
+[>Pointer 314<]
+Frog: Wird er nicht jetzt besiegt,(AÜ)
+so gräbt er sich tief in die(AÜ)
+Erde hinein. Gehen wir!(END)
+
+[>Pointer 315<]
+Marle: E...ein Tor!(END)
+
+[>Pointer 316<]
+Lucca: Warum ist hier ein(AÜ)
+Tor!?(END)
+
+[>Pointer 317<]
+[Robo]: Ein Tor ist entstanden!(END)
+
+[>Pointer 318<]
+Frog: Mich deucht, ein Tor!(END)
+
+[>Pointer 319<]
+Ayla: Lavos sehr schnell!(AÜ)
+Schon tief in Erde.(END)
+
+[>Pointer 320<]
+Marle: Lavos hat dieses Tor(AÜ)
+gemacht.(AÜ)
+Vielleicht ist er die Ursache(AÜ)
+aller Tore?(END)
+
+[>Pointer 321<]
+Lucca: Jetzt verstehe ich!(AÜ)
+Lavos' enormer Energieverlust(AÜ)
+verändert das Raum-Zeit-Kontinuum(AÜ)
+und läßt die Tore entstehen.(END)
+
+[>Pointer 322<]
+[Robo]: Es scheint, als schaffe(AÜ)
+Lavos' enorme energetische Strahlung(AÜ)
+durch Veränderungen der Zeitachse(AÜ)
+die Tore.(END)
+
+[>Pointer 323<]
+Frog: Mag Lavos seine(AÜ)
+Ursache sein...alldieweil das(AÜ)
+Tor in Magus's Schloß gewaltig(AÜ)
+war!?(END)
+
+[>Pointer 324<]
+Ayla: Was ist, Crono(2)?(AÜ)
+Lavos warten!(AÜ)
+Hier rein.(AÜ)
+Ja?(END)
+
+[>Pointer 325<]
+Marle: Junge, wie aufregend!(END)
+
+[>Pointer 326<]
+Lucca: Tja, dieses Tor ist Lavos(AÜ)
+am nächsten.(AÜ)
+Ich bin gespannt, wohin es uns(AÜ)
+wohl gebracht hat...(END)
+
+[>Pointer 327<]
+[Robo]: Der Zeitkompaß sagt...(AÜ)
+...was!?(AÜ)
+12000 Jahre v.C.!? Was für ein(AÜ)
+gewaltiger Sprung!(END)
+
+[>Pointer 328<]
+Frog: W...wo mögen wir sein?(AÜ)
+Wie seltsam...!(END)
+
+[>Pointer 329<]
+Ayla: Wo wir sein, Crono(2)!?(END)
+
+[>Pointer 330<]
+(AÜ)
+       Die Kraft ist versiegelt...(END)
+
+[>Pointer 331<]
+Prophet: Hmmm...so seid ihr also(AÜ)
+hergekommen.(END)
+
+[>Pointer 332<]
+Prophet: Nun, Schala!(AÜ)
+Nachdem ich sie hineingeworfen(AÜ)
+habe, versiegelt Ihr das Portal.(END)
+
+[>Pointer 333<]
+Schala: N...nein!(AÜ)
+Ihr könnt mich nicht zwingen!(END)
+
+[>Pointer 334<]
+Prophet: Gehorcht!(AÜ)
+Oder die Eindringlinge sterben!(END)
+
+[>Pointer 335<]
+Schala: Ich...oh...also gut...(END)
+
+[>Pointer 336<]
+Schala: Bitte vergebt mir...(END)
+
+[>Pointer 337<]
+Marle: Warum hat der Prophet(AÜ)
+uns gehen lassen?(END)
+
+[>Pointer 338<]
+Lucca: Der Prophet hätte uns(AÜ)
+auch einfach um die Ecke bringen(AÜ)
+können.(END)
+
+[>Pointer 339<]
+[Robo]: Warum hat er uns(AÜ)
+verschont?(END)
+
+[>Pointer 340<]
+Frog: Wahrlich, er schonte uns.(AÜ)
+Doch nicht aus Mitleid...(END)
+
+[>Pointer 341<]
+Lucca: Der Schlüssel zum Sieg(AÜ)
+über Lavos muß in dieser Ära zu(AÜ)
+finden sein.(END)
+
+[>Pointer 342<]
+[Robo]: Der Schlüssel zum Sieg(AÜ)
+über Lavos ist in dieser Ära zu(AÜ)
+finden...(END)
+
+[>Pointer 343<]
+Frog: Wohin ist Magus(AÜ)
+gegangen? Er darf nicht(AÜ)
+entkommen.(END)
+
+[>Pointer 344<]
+Ayla: Sie Energie von Lavos(AÜ)
+nehmen.(AÜ)
+Lavos schwach werden?(END)
+
+[>Pointer 345<]
+Marle: Aber wir können nicht(AÜ)
+in diese Zeit zurück.(AÜ)
+Was tun wir jetzt?(END)
+
+[>Pointer 346<]
+Lucca: Aber das Tor in diese(AÜ)
+Zeit ist versiegelt.(AÜ)
+Gibt es einen anderen Weg?(END)
+
+[>Pointer 347<]
+[Robo]: Aber das Tor ist(AÜ)
+versiegelt.(END)
+
+[>Pointer 348<]
+Frog: Doch Schala versiegelte(AÜ)
+das Tor. So ist die Rückkehr(AÜ)
+unmöglich.(END)
+
+[>Pointer 349<]
+Ayla: Tor kaputt. Kein Zurück.(END)
+
+[>Pointer 350<]
+Marle: Moment! Das Symbol(AÜ)
+auf der Tür, die dieses Amulett(AÜ)
+geöffnet hat, sagt mir was...(END)
+
+[>Pointer 351<]
+Lucca: Das Emblem auf dieser(AÜ)
+versiegelten Tür...(AÜ)
+Haben wir es nicht schon mal(AÜ)
+gesehen?(END)
+
+[>Pointer 352<]
+[Robo]: Halt. Das Emblem an der(AÜ)
+Tür, die das Amulett geöffnet hat...(AÜ)
+Ich kenne es aus meiner Zeit!(END)
+
+[>Pointer 353<]
+Frog: Mich deucht, ihr saht(AÜ)
+das Emblem auf der Tür, die das(AÜ)
+Amulett zu öffnen vermag, bereits(AÜ)
+zuvor!(END)
+
+[>Pointer 354<]
+Marle: Sehen wir nach,(AÜ)
+Crono!(END)
+
+[>Pointer 355<]
+Lucca: Gehen wir der Sache(AÜ)
+nach! Okay, Crono?(END)
+
+[>Pointer 356<]
+[Robo]: Kehren wir in meine Zeit(AÜ)
+zurück!(END)
+
+[>Pointer 357<]
+Frog: Zeit aufzubrechen, nicht,(AÜ)
+Crono?(END)
+
+[>Pointer 358<]
+Das also ist der Todesgipfel!(END)
+
+[>Pointer 359<]
+Marle: Alle, die die Nacht(AÜ)
+fürchten und sich der Dunkelheit(AÜ)
+widersetzen... Gebt uns Kraft!(END)
+
+[>Pointer 360<]
+Lucca: Ihr, die Ihr die Nacht(AÜ)
+fürchtet und der Dunkelheit(AÜ)
+entgegensteht... Gebt uns Kraft!(END)
+
+[>Pointer 361<]
+[Robo]: Wer Nacht und Dunkelheit(AÜ)
+entgegensteht, leihe uns Kraft.(END)
+
+[>Pointer 362<]
+Frog: Wir bitten um Eure Kraft...(AÜ)
+...die Ihr den Schatten fürchtet(AÜ)
+und Euch gegen Dunkelheit auflehnt.(END)
+
+[>Pointer 363<]
+Lucca: Crono!(END)
+
+[>Pointer 364<]
+[Robo]: Crono!(END)
+
+[>Pointer 365<]
+Frog: Crono!(END)
+
+[>Pointer 366<]
+Ayla: Crono(2)!(END)
+
+[>Pointer 367<]
+Das Amulett reagiert!(END)
+
+[>Pointer 368<]
+Das Zeit-Ei...ist zersprungen!(END)
+
+[>Pointer 369<]
+Marle: Aber wir sind so weit(AÜ)
+gekommen!(END)
+
+[>Pointer 370<]
+Marle: Bitte gib Antwort!(AÜ)
+Verlaß mich nicht!!!(END)
+
+[>Pointer 371<]
+(AÜ)
+              Crono--!!(END)
+
+[>Pointer 372<]
+Lucca: Das kann nicht sein!(AÜ)
+War alles umsonst!?(END)
+
+[>Pointer 373<]
+Lucca: Crono!(AÜ)
+Sag was!(AÜ)
+Bitte!(END)
+
+[>Pointer 374<]
+Frog: Schockschwerenot!(AÜ)
+War alles umsonst...?(END)
+
+[>Pointer 375<]
+Frog: Crono!(AÜ)
+Gib Laut!(END)
+
+[>Pointer 376<]
+[Robo]: Das kann nicht sein!(AÜ)
+Nicht nach all den Gefahren...(END)
+
+[>Pointer 377<]
+[Robo]: Crono!(AÜ)
+Bitte antworte uns!(END)
+
+[>Pointer 378<]
+Lucca: Sei nicht traurig.(AÜ)
+Es war naiv von uns zu glauben,(AÜ)
+ihn zurückbringen zu können...(END)
+
+[>Pointer 379<]
+[Robo]: Verzweifle nicht.(AÜ)
+Wir haben uns zuviel erhofft...(END)
+
+[>Pointer 380<]
+Frog: Verzweifle nicht...(AÜ)
+Das Schicksal ist unabwendbar.(END)
+
+[>Pointer 381<]
+Ayla: Nicht traurig!(AÜ)
+Auch Ayla einsam!(AÜ)
+Crono(2) fort. Traurig.(END)
+
+[>Pointer 382<]
+Marle: Crono!(AÜ)
+Du bist zurück!!(END)
+
+[>Pointer 383<]
+Lucca: Crono!(AÜ)
+Das wurde aber auch Zeit!(END)
+
+[>Pointer 384<]
+Frog: Crono!(AÜ)
+Es tut gut, dich zu sehen.(END)
+
+[>Pointer 385<]
+[Robo]: Crono!(AÜ)
+Willkommen zurück!(END)
+
+[>Pointer 386<]
+Lucca: Ich bin so froh, Crono!(END)
+
+[>Pointer 387<]
+Frog: Wie fühlst du dich,(AÜ)
+Crono?(END)
+
+[>Pointer 388<]
+[Robo]: Oh... Crono!(AÜ)
+Wie erleichternd, daß du wieder(AÜ)
+bei uns bist.(END)
+
+[>Pointer 389<]
+Ayla: Crono(2) zurück!!(AÜ)
+Crono(2) okay?(END)
+
+[>Pointer 390<]
+Marle: Wir...(KNÜ)
+Wir wußten, daß dieser Tag kommen(AÜ)
+würde.(END)
+
+[>Pointer 391<]
+Marle: Du darfst...(KNÜ)
+Du kannst das nie wieder tun!(END)
+
+[>Pointer 392<]
+Lucca: Du Hohlkopf!(KNÜ)
+Was wir alles für dich(AÜ)
+durchgestanden haben!(END)
+
+[>Pointer 393<]
+Lucca: Wenn du sowas nochmal(AÜ)
+hinkriegst...ist es uns egal!(END)
+
+[>Pointer 394<]
+Frog: Du Glückskind.(KNÜ)
+Du hast wahre und treue Freunde!(END)
+
+[>Pointer 395<]
+[Robo]: Wir haben alle auf dich(AÜ)
+gewartet!(KNÜ)
+Marle und Lucca und...(AÜ)
+Nun, jeder von uns!(END)
+
+[>Pointer 396<]
+Magus: Hmpf!(AÜ)
+Genug mit diesem Gesülze!(END)
+
+[>Pointer 397<]
+Marle: Während du weg warst...(AÜ)
+...sind viele Dinge passiert.(AÜ)
+Zuerst sind wir...und dann...(KNÜ)
+Und danach..., aber...(AÜ)
+Crono!(AÜ)
+Hörst du mir überhaupt zu!?(AÜ)
+Du mußt alles erfahren.(END)
+
+[>Pointer 398<]
+Lucca: Während du weg warst,(AÜ)
+war die Hölle los!(AÜ)
+Marle mußte......, und dann...(AÜ)
+Dann sind wir...und ich...(KNÜ)
+Hey!(AÜ)
+Hörst du zu, Crono?(AÜ)
+Manchmal rege ich mich über dich(AÜ)
+auf!(END)
+
+[>Pointer 399<]
+(AÜ)
+        3[mal] Prismahelm erhalten!(END)
+
+
+[>DUMP END<]----------------------------------------------------------

@@ -1,0 +1,664 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - DIALOGPOINTER 1A]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [001EE622h]
+Size  [0000154Bh][00002285h][2]
+pStart[001EE500h]
+pFirst[E422h-145]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(AÜ)
+       1[mal] (VAR1)
+ gefunden!(END)
+
+[>Pointer 2<]
+(Note)
+ Urzeit-Rhythmus (Note)
+(END)
+
+[>Pointer 3<]
+Ihr seid schwach (Note)
+(A)
+Und ich bin stark (Note)
+(A)
+Für euch war's sicher arg (Note)
+(A)
+Ich dagegen lach (Note)
+(END)
+
+[>Pointer 4<]
+Gato werd ich genannt (Note)
+(A)
+Hab Metallgelenke (Note)
+(A)
+Und 15 Silberpunkte schenke (Note)
+(A)
+Ich euch als Siegespfand (Note)
+(END)
+
+[>Pointer 5<]
+Verlorn hab ich (Note)
+(A)
+Gewonnen ihr (Note)
+(A)
+15 Punkte gibt's dafür (Note)
+(A)
+Spaßig war's für mich (Note)
+(END)
+
+[>Pointer 6<]
+Soldat: Da sind sie! Hinterher!(END)
+
+[>Pointer 7<]
+Marle: Eine Sackgasse!(END)
+
+[>Pointer 8<]
+Lucca: Ein Tor!(END)
+
+[>Pointer 9<]
+Marle: Los!(END)
+
+[>Pointer 10<]
+Lucca: Aber wohin führt es?(END)
+
+[>Pointer 11<]
+Marle: Ist doch egal!(AÜ)
+Nur weg hier!(END)
+
+[>Pointer 12<]
+Kanzler: Prinzessin Nadia!(END)
+
+[>Pointer 13<]
+Lucca: Das ist kompletter(AÜ)
+Wahnsinn.(END)
+
+[>Pointer 14<]
+Marle: Beeilung, Crono!(END)
+
+[>Pointer 15<]
+Kanzler: Sie...sind verschwunden!(END)
+
+[>Pointer 16<]
+Soldat: Es gibt kein Entkommen!(END)
+
+[>Pointer 17<]
+Soldat: Schweig!(END)
+
+[>Pointer 18<]
+Kanzler: Prinzessin, geht weg von(AÜ)
+diesem Ganoven!(END)
+
+[>Pointer 19<]
+20G im Voraus...(A)
+Nun?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 20<]
+Sehr gut!(END)
+
+[>Pointer 21<]
+Bis bald wieder.(END)
+
+[>Pointer 22<]
+Die einfache Fahrt kostet 10G.(A)
+Nun?(AÜ)
+   Mitfahren!(AÜ)
+   Nix für mich!(END)
+
+[>Pointer 23<]
+Bitte sehr. Schönen Tag!(END)
+
+[>Pointer 24<]
+Aber es lohnt sich!(A)
+Garantiert!(END)
+
+[>Pointer 25<]
+Du hast nicht genug Geld.(END)
+
+[>Pointer 26<]
+Ich fahre andauernd mit der Fähre!(END)
+
+[>Pointer 27<]
+Nichts geht über eine Bootsfahrt!(END)
+
+[>Pointer 28<]
+Gemeindevorsteher: Ha!(AÜ)
+Hier regiere ich!(AÜ)
+Ich bin so reich, daß ich gar(AÜ)
+nicht weiß, wohin mit dem Geld!(END)
+
+[>Pointer 29<]
+   10G für dich, wenn du gurrst wie(AÜ)
+eine Taube!(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 30<]
+Gemeindevorsteher: Langweilig!(END)
+
+[>Pointer 31<]
+Gemeindevorsteher: HAAAHAHA!(AÜ)
+Hier, bitte!(END)
+
+[>Pointer 32<]
+Teilen und den Bedürftigen helfen!(A)
+Das sollte ich zum Motto unseres(A)
+Dorfes machen.(END)
+
+[>Pointer 33<]
+Wen ich am meisten hasse?(A)
+Meinen Vater natürlich.(END)
+
+[>Pointer 34<]
+Wen ich am meisten liebe?(A)
+Meinen Papa natürlich!(END)
+
+[>Pointer 35<]
+Papa liebt sein Geld mehr(A)
+als mich...(END)
+
+[>Pointer 36<]
+Papa ist lieb!(END)
+
+[>Pointer 37<]
+Unsere Kinder entfremden sich von(A)
+uns. Wie traurig...(END)
+
+[>Pointer 38<]
+Ich wünschte, mein Mann wäre etwas(A)
+weniger freigiebig.(END)
+
+[>Pointer 39<]
+Alle behaupten, Papa wär' gierig.(A)
+Das stimmt nicht, oder?(END)
+
+[>Pointer 40<]
+Alle denken, Papa ist großzügig.(A)
+Heißt das, sie denken, er ist cool?(A)
+Wer weiß.(END)
+
+[>Pointer 41<]
+Die Großeltern sind zur(A)
+Jahrtausendfeier ins Friedensdorf(A)
+gefahren. Wir passen auf das(A)
+Haus auf!(END)
+
+[>Pointer 42<]
+Ich will auch zum Festival!(END)
+
+[>Pointer 43<]
+Manche Monster leben friedlich unter(A)
+Menschen. So der Klavierspieler.(END)
+
+[>Pointer 44<]
+Alle sind sie auf dem Festival.(A)
+Was für Spinner!(END)
+
+[>Pointer 45<]
+Vor 400 Jahren starb eine Frau namens(A)
+Fiona, die versuchte, den großen(A)
+Wald im Norden zu retten.(A)
+Wie traurig...(END)
+
+[>Pointer 46<]
+Vor 400 Jahren half eine seltsame(A)
+Maschine einer Frau namens Fiona bei(A)
+der Wiederaufforstung im Norden.(KN)
+Eine Waldkapelle erinnert daran.(END)
+
+[>Pointer 47<]
+Ein Klavier, ein Klavier! (Note)
+(AÜ)
+   Bluenotes, Joe...(AÜ)
+   Die Bude rocken!(END)
+
+[>Pointer 48<]
+Ich lege diese Rüstung an und kämpfe(A)
+gegen diesen dummen Magus!(END)
+
+[>Pointer 49<]
+Uuuups!(A)
+Ist die schwer!(END)
+
+[>Pointer 50<]
+Nicht übertreiben!(END)
+
+[>Pointer 51<]
+Magus hat den Wald im Norden(A)
+zerstört.(END)
+
+[>Pointer 52<]
+Bürgermeister: Die "Magische Höhle''(AÜ)
+liegt unter einem Berg östlich von(AÜ)
+Denadoro.(END)
+
+[>Pointer 53<]
+Du darfst den Inhalt der Schatztruhen(A)
+neben dem Bett behalten, wenn du(A)
+sie öffnen kannst.(END)
+
+[>Pointer 54<]
+Fiona liebt die Natur.(A)
+Sie hat ein gutes Herz.(A)
+Ich hoffe, sie erreicht ihre Ziele.(END)
+
+[>Pointer 55<]
+Tata bekam das Heldenamulett!(A)
+Ich dachte erst, es wäre gefälscht!(KN)
+Er muß sehr mutig gewesen sein!(A)
+Wahrscheinlich sucht er im Norden(A)
+nach dem legendären Schwert.(END)
+
+[>Pointer 56<]
+Oh, dieser Tata!(A)
+Er ist so liebenswert.(END)
+
+[>Pointer 57<]
+Ich werde Tata heiraten!(END)
+
+[>Pointer 58<]
+Verriegelungssystem "Zabie'' in Betrieb.(A)
+Paßwort eingeben.(END)
+
+[>Pointer 59<]
+Notfahrstuhl außer Betrieb.(END)
+
+[>Pointer 60<]
+[Robo]: Alarm!(AÜ)
+Das Sicherheitssystem spielt verrückt.(AÜ)
+Sofort evakuieren!(END)
+
+[>Pointer 61<]
+[Robo]: Beeilung!(AÜ)
+Los!(END)
+
+[>Pointer 62<]
+Nachdem ich hier und da rumgerannt(A)
+bin, war ich total fertig!(A)
+Aber dieser Tanz wirkt erfrischend!(END)
+
+[>Pointer 63<]
+Ein prähistorischer Tanz.(A)
+Wie bezaubernd!(END)
+
+[>Pointer 64<]
+Mitreißend, nicht?(A)
+Tanze mit den Knöpfen X, Y, L und R!(END)
+
+[>Pointer 65<]
+Ladidadida!(A)
+Hab ein bißchen Geld vom Ältesten(A)
+gekriegt!(END)
+
+[>Pointer 66<]
+Marle, d. h. Prinzessin Nadia,(A)
+ist eine Nachfahrin von Königin Lena!(END)
+
+[>Pointer 67<]
+Hier wurde Königin Lena entführt.(KN)
+Soweit ich weiß, soll sie jemand(A)
+gerettet haben. Aber durch uns(A)
+wurde die Geschichte verändert!(END)
+
+[>Pointer 68<]
+Marle sieht Lena so ähnlich, daß(A)
+sie ihre Suche aufgegeben haben, als(A)
+erstere hier auftauchte.(KN)
+Wenn aber die echte Königin jetzt(A)
+von den Entführern getötet wird...(END)
+
+[>Pointer 69<]
+...dann wird Marle einfach(A)
+verschwinden.(KN)
+Vielleicht ist aber noch nicht alles(A)
+verloren!(KN)
+Wenn WIR Lena retten, sollte(A)
+die Geschichte bleiben, wie wir sie(A)
+kennen!(END)
+
+[>Pointer 70<]
+Mein Sohn, der legendäre Held!(A)
+Muß am Haferschleim liegen!(A)
+Und daß ich sein Vater bin...!(END)
+
+[>Pointer 71<]
+Tata: Es...es tut mir leid.(AÜ)
+So ein Froschtyp hat das hier(AÜ)
+in einem Café verloren.(KNÜ)
+Ich wollte es verkaufen, aber als(AÜ)
+mich alle auf einmal einen "Helden''(AÜ)
+nannten, hatte ich dazu keine Lust(AÜ)
+mehr!(END)
+
+[>Pointer 72<]
+   Jetzt ist es also heraus...(AÜ)
+Ich bin kein Held! Leider...!(AÜ)
+Hier.(AÜ)
+Nehmt ihr das!(END)
+
+[>Pointer 73<]
+Tatas Vater: Du Bengel! Ich wußte doch,(AÜ)
+daß du nur so getan hast!(END)
+
+[>Pointer 74<]
+Wie konnte ich nur darauf hereinfallen?(A)
+Um des Andenkens an meine liebe(A)
+verstorbene Frau willen schwöre ich,(A)
+von nun an auf dem Boden zu bleiben!(END)
+
+[>Pointer 75<]
+Tata: Aber WER hat überall rumerzählt,(AÜ)
+er hätte einen Helden aufgezogen!(END)
+
+[>Pointer 76<]
+Mein Enkel ist ein mutiger Held!(A)
+Das hat er von mir!(A)
+Hihihi...(END)
+
+[>Pointer 77<]
+Oh, dieser Enkel!(KN)
+Er hat mir anvertraut, daß er als(A)
+nächstes das "Super-Legenden-(A)
+Raumschiff XR-RX'' steuern will!(A)
+Hahaha!!(END)
+
+[>Pointer 78<]
+
+[>Pointer 79<]
+(AÜ)
+            500G gestohlen! 
+>H<030403
+(END)
+
+[>Pointer 80<]
+(AÜ)
+          Ein Tonic gestohlen!
+>H<030403
+(END)
+
+[>Pointer 81<]
+Aaahhhh!(END)
+
+[>Pointer 82<]
+Heda-!(END)
+
+[>Pointer 83<]
+Es ist Cyrus!(A)
+Rennt um euer Leben!(END)
+
+[>Pointer 84<]
+Schnief...danke, Cyrus...hick...!(END)
+
+[>Pointer 85<]
+Cyrus: Glenn, manchmal müssen die(AÜ)
+Menschen einfach die Zähne(AÜ)
+zusammenbeißen!(END)
+
+[>Pointer 86<]
+Glenn: Aber...getroffen zu werden(AÜ)
+tut weh. Es...(END)
+
+[>Pointer 87<]
+Cyrus: Du bist ein Weichling, Glenn...(END)
+
+[>Pointer 88<]
+(AÜ)
+Nördlich des Waldes liegt(AÜ)
+Schloß Guardia.(END)
+
+[>Pointer 89<]
+(AÜ)
+Schloß Guardia.(AÜ)
+Betreten verboten.(END)
+
+[>Pointer 90<]
+(AÜ)
+Hier endet der Weg.(END)
+
+[>Pointer 91<]
+(AÜ)
+Am Ende des Pfades liegt ein(AÜ)
+alter Kampfplatz.(END)
+
+[>Pointer 92<]
+Zu viele Silberpunkte.(END)
+
+[>Pointer 93<]
+Der Klavierspieler ist begabt!(A)
+Sieh...es...dir mal an!(END)
+
+[>Pointer 94<]
+Ich habe Rauchfleisch, gebe es aber(A)
+nicht her.(END)
+
+[>Pointer 95<]
+Obwohl, für, sagen wir, 9900G...(A)
+Wie wär's?(AÜ)
+   Okay.(AÜ)
+   Nein.(END)
+
+[>Pointer 96<]
+Du hast aber Hunger!(A)
+Hier, hau rein!(END)
+
+[>Pointer 97<]
+Dachte ich mir...(END)
+
+[>Pointer 98<]
+Du stark!(A)
+Hier!(A)
+Nehmen!(END)
+
+[>Pointer 99<]
+Jeweils drei der folgenden erhalten:(A)
+Rotblatt, Zahn, Horn, Feder!(END)
+
+[>Pointer 100<]
+Du sehr stark!(A)
+Nehmen!(KN)
+(AÜ)
+       Ein "Dritt.Auge'' erhalten!(END)
+
+[>Pointer 101<]
+(AÜ)
+           Kraftring erhalten!(END)
+
+[>Pointer 102<]
+(AÜ)
+Durch geheimnisvolle Energie(AÜ)
+versiegelt...(END)
+
+[>Pointer 103<]
+Etwas darin reagiert auf das Amulett.(A)
+Herausnehmen?(AÜ)
+   Ja.(AÜ)
+   Nein.(END)
+
+[>Pointer 104<]
+(AÜ)
+        Schneeweste erhalten!(END)
+
+[>Pointer 105<]
+(AÜ)
+   Schneeweste wurde stärker!(AÜ)
+   Schneerüstung erhalten!(END)
+
+[>Pointer 106<]
+(AÜ)
+       Schwarze Weste erhalten!(END)
+
+[>Pointer 107<]
+(AÜ)
+   Schwarze Weste wurde stärker!(AÜ)
+   Schwarze Rüstung erhalten!(END)
+
+[>Pointer 108<]
+Hätte ich nur etwas Rauchfleisch...(A)
+Das gäbe ein tolles Essen...(END)
+
+[>Pointer 109<]
+Oh, du hast Rauchfleisch!(END)
+
+[>Pointer 110<]
+Verkaufst du es mir für 10000G?(AÜ)
+   Ja.(AÜ)
+   Ich schenke es dir.(AÜ)
+   Kein Interesse.(END)
+
+[>Pointer 111<]
+Sehr gut.(A)
+Hier deine 10000G!(END)
+
+[>Pointer 112<]
+Du schenkst es mir?(A)
+Daß es so liebe Leute wie dich(A)
+noch gibt! Vielen Dank!(KN)
+MEINE Kinder werden das Teilen lernen,(A)
+da kannst du sicher sein!(END)
+
+[>Pointer 113<]
+Hm, tja...(END)
+
+[>Pointer 114<]
+Also dann!(A)
+Kochen wir was Gutes!(END)
+
+[>Pointer 115<]
+Ihr habt Interesse am Mondstein?(A)
+Jemand hat ihn einfach hiergelassen.(KN)
+Euch scheint ja was daran zu liegen.(A)
+Nehmt ihn!(END)
+
+[>Pointer 116<]
+Mondstein?(A)
+Nie davon gehört!(END)
+
+[>Pointer 117<]
+Marle: Ist das etwa die(AÜ)
+Tyranohöhle?(END)
+
+[>Pointer 118<]
+Lucca: Ist das nicht die(AÜ)
+Tyranohöhle?(END)
+
+[>Pointer 119<]
+[Robo]: Das ist wohl die Burg(AÜ)
+der Reptiten.(END)
+
+[>Pointer 120<]
+Frog: Die Tyranohöhle!?(END)
+
+[>Pointer 121<]
+Ayla: Was!?(AÜ)
+Warum Reptitenburg hier?(END)
+
+[>Pointer 122<]
+Magus: Eine prähistorische Burg?(END)
+
+[>Pointer 123<]
+Marle: Sie muß unter die Erde(AÜ)
+gedrückt worden sein, als Lavos(AÜ)
+vom Himmel fiel.(END)
+
+[>Pointer 124<]
+Lucca: Als Lavos vom Himmel(AÜ)
+fiel, wurde sie wahrscheinlich(AÜ)
+unterirdisch begraben.(END)
+
+[>Pointer 125<]
+[Robo]: Sie muß unter die Erde(AÜ)
+gedrückt worden sein, als Lavos(AÜ)
+vom Himmel fiel.(END)
+
+[>Pointer 126<]
+Frog: Mich dünkt, als Lavos(AÜ)
+hierherkam, wurde dieser Ort(AÜ)
+begraben!(END)
+
+[>Pointer 127<]
+Ayla: Als Lavos fallen,(AÜ)
+Tyranohöhle für immer begraben(AÜ)
+worden!(END)
+
+[>Pointer 128<]
+Magus: Eine vor Urzeiten(AÜ)
+untergegangene Burg...(END)
+
+[>Pointer 129<]
+Marle: Geschafft! DAS ist die(AÜ)
+Regenbogenmuschel!(END)
+
+[>Pointer 130<]
+Lucca: Die Regenbogenmuschel!(END)
+
+[>Pointer 131<]
+[Robo]: Die Regenbogenmuschel.(END)
+
+[>Pointer 132<]
+Frog: Seht!(AÜ)
+Die Regenbogenmuschel!(END)
+
+[>Pointer 133<]
+Ayla: Schön!(AÜ)
+Groß!(AÜ)
+Regenbogenmuschel?(AÜ)
+Essen?(END)
+
+[>Pointer 134<]
+Magus: Wie stumpf sie ist...(END)
+
+[>Pointer 135<]
+Marle: Sie ist zu schwer zum(AÜ)
+Tragen. Holen wir am besten Hilfe(AÜ)
+aus dem Schloß!(END)
+
+[>Pointer 136<]
+Lucca: Sie ist zu schwer.(AÜ)
+Wir brauchen Hilfe aus Guardia.(END)
+
+[>Pointer 137<]
+[Robo]: Sie wiegt eine Tonne!(AÜ)
+Wir brauchen Hilfe aus Schloß(AÜ)
+Guardia.(END)
+
+[>Pointer 138<]
+Frog: Mich dünkt, sie ist(AÜ)
+schwer! Der König weiß sicher Rat!(END)
+
+[>Pointer 139<]
+Ayla: Schwer!(AÜ)
+Nicht tragen.(AÜ)
+Hilfe von Schloß?(END)
+
+[>Pointer 140<]
+Magus: Und wer trägt sie mal(AÜ)
+eben ins Schloß?(END)
+
+[>Pointer 141<]
+Soldat: Sie ist schwer...(AÜ)
+Aber wir schaffen es!(END)
+
+[>Pointer 142<]
+Hauptmann: Also, Leute!(AÜ)
+Anheben!!!(END)
+
+[>Pointer 143<]
+(AÜ)
+   Monster verlor "Unterkunft''!(END)
+
+[>Pointer 144<]
+(AÜ)
+             Hastpille erhalten!(END)
+
+[>Pointer 145<]
+Tomas zerknitterte Notiz:(A)
+"Diese Löcher! Wenn ich absichtlich(A)
+hineinspringe, muß ich wieder von(A)
+vorn anfangen, und...''(END)
+
+
+[>DUMP END<]----------------------------------------------------------

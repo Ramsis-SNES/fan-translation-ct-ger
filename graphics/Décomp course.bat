@@ -1,0 +1,1 @@
+decomp.exe Chrono.swc ctcourse.bin 3E1571 12 0

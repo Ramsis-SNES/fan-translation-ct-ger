@@ -1,0 +1,346 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - ORTSPOINTER]
+TBL   [1-C:\Spiele\Rom-Translation\Chrono Trigger\ctdtv20b.SE\Deutsch.tbl]
+Start [0006F201h]
+Size  [00000355h][000005ECh][2]
+pStart[0006F602h]
+pFirst[F001h-111]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Gutsherrenhaus(END)
+
+[>Pointer 2<]
+Wohnhaus(END)
+
+[>Pointer 3<]
+Crono's Haus(END)
+
+[>Pointer 4<]
+Lucca's Haus(END)
+
+[>Pointer 5<]
+Gobbs Haus(END)
+
+[>Pointer 6<]
+Friedensstube(END)
+
+[>Pointer 7<]
+Bootshaus(END)
+
+[>Pointer 8<]
+Ewige Ruhe(END)
+
+[>Pointer 9<]
+Wellenbrecher(END)
+
+[>Pointer 10<]
+Lenas Platz(END)
+
+[>Pointer 11<]
+Laden(END)
+
+[>Pointer 12<]
+Porrestube(END)
+
+[>Pointer 13<]
+Fahrkarten(END)
+
+[>Pointer 14<]
+Guardia-Wald(END)
+
+[>Pointer 15<]
+Schloß Guardia(END)
+
+[>Pointer 16<]
+Zenan-Brücke(END)
+
+[>Pointer 17<]
+Melchiors Hütte(END)
+
+[>Pointer 18<]
+Waldruinen(END)
+
+[>Pointer 19<]
+Heckran-Höhle(END)
+
+[>Pointer 20<]
+Fionas Kapelle(END)
+
+[>Pointer 21<]
+Westkap(END)
+
+[>Pointer 22<]
+Sonnendom(END)
+
+[>Pointer 23<]
+Heldengruft(END)
+
+[>Pointer 24<]
+Friedensschlucht(END)
+
+[>Pointer 25<]
+Kathedrale(END)
+
+[>Pointer 26<]
+Zauberwald(END)
+
+[>Pointer 27<]
+Denadoro-Berge(END)
+
+[>Pointer 28<]
+Tatas Haus(END)
+
+[>Pointer 29<]
+Fionas Villa(END)
+
+[>Pointer 30<]
+Sinkwüste(END)
+
+[>Pointer 31<]
+Magische Höhle(END)
+
+[>Pointer 32<]
+Magus's Schloß(END)
+
+[>Pointer 33<]
+Ozzies Fort(END)
+
+[>Pointer 34<]
+ (END)
+
+[>Pointer 35<]
+Ältestenhaus(END)
+
+[>Pointer 36<]
+Nordruinen(END)
+
+[>Pointer 37<]
+(END)
+
+[>Pointer 38<]
+Bangorkuppel(END)
+
+[>Pointer 39<]
+Trannkuppel(END)
+
+[>Pointer 40<]
+Lab 16(END)
+
+[>Pointer 41<]
+Arriskuppel(END)
+
+[>Pointer 42<]
+Lab 32(END)
+
+[>Pointer 43<]
+Protokuppel(END)
+
+[>Pointer 44<]
+Fabrik(END)
+
+[>Pointer 45<]
+Kanalisation(END)
+
+[>Pointer 46<]
+Hüterverlies(END)
+
+[>Pointer 47<]
+Todesgipfel(END)
+
+[>Pointer 48<]
+Genoanlage(END)
+
+[>Pointer 49<]
+Sonnenpalast(END)
+
+[>Pointer 50<]
+Roboterdorf(END)
+
+[>Pointer 51<]
+Mystische Berge(END)
+
+[>Pointer 52<]
+Iokahütte(END)
+
+[>Pointer 53<]
+Chefhütte(END)
+
+[>Pointer 54<]
+Treffpunkt(END)
+
+[>Pointer 55<]
+Wald(END)
+
+[>Pointer 56<]
+Reptitennest(END)
+
+[>Pointer 57<]
+Jagdrevier(END)
+
+[>Pointer 58<]
+Daktyl-Nest(END)
+
+[>Pointer 59<]
+Tyranohöhle(END)
+
+[>Pointer 60<]
+Singender Berg(END)
+
+[>Pointer 61<]
+Höhle(END)
+
+[>Pointer 62<]
+Enhasa(END)
+
+[>Pointer 63<]
+Kajar(END)
+
+[>Pointer 64<]
+Düstervogel(END)
+
+[>Pointer 65<]
+Nordhöhle(END)
+
+[>Pointer 66<]
+Terrahöhle(END)
+
+[>Pointer 67<]
+Königspalast(END)
+
+[>Pointer 68<]
+Seepalast(END)
+
+[>Pointer 69<]
+Zufluchtsort(END)
+
+[>Pointer 70<]
+Nordkap(END)
+
+[>Pointer 71<]
+Exoskelett(END)
+
+[>Pointer 72<]
+(END)
+
+[>Pointer 73<]
+(END)
+
+[>Pointer 74<]
+Café(END)
+
+[>Pointer 75<]
+Medinaplatz(END)
+
+[>Pointer 76<]
+Düsteromen(END)
+
+[>Pointer 77<]
+Wasserwirbel(END)
+
+[>Pointer 78<]
+Rampe(END)
+
+[>Pointer 79<]
+Landbrücke(END)
+
+[>Pointer 80<]
+Ayla's Zelt(END)
+
+[>Pointer 81<]
+Laruba-Ruinen(END)
+
+[>Pointer 82<]
+Höhlenruinen(END)
+
+[>Pointer 83<]
+Gemeinde(END)
+
+[>Pointer 84<]
+Medinastube(END)
+
+[>Pointer 85<]
+Chorasstube(END)
+
+[>Pointer 86<]
+Friedensstube(END)
+
+[>Pointer 87<]
+Dorinostube(END)
+
+[>Pointer 88<]
+Porrestube(END)
+
+[>Pointer 89<]
+Chorasstube(END)
+
+[>Pointer 90<]
+Riesenklaue(END)
+
+[>Pointer 91<]
+(END)
+
+[>Pointer 92<]
+(END)
+
+[>Pointer 93<]
+(END)
+
+[>Pointer 94<]
+(END)
+
+[>Pointer 95<]
+(END)
+
+[>Pointer 96<]
+(END)
+
+[>Pointer 97<]
+(END)
+
+[>Pointer 98<]
+(END)
+
+[>Pointer 99<]
+(END)
+
+[>Pointer 100<]
+(END)
+
+[>Pointer 101<]
+(END)
+
+[>Pointer 102<]
+(END)
+
+[>Pointer 103<]
+(END)
+
+[>Pointer 104<]
+(END)
+
+[>Pointer 105<]
+(END)
+
+[>Pointer 106<]
+1000 A.D.(END)
+
+[>Pointer 107<]
+600 A.D.(END)
+
+[>Pointer 108<]
+2300 A.D.(END)
+
+[>Pointer 109<]
+65 Mio. v.C.(END)
+
+[>Pointer 110<]
+12000 v.C.(END)
+
+[>Pointer 111<]
+??????(END)
+
+
+[>DUMP END<]----------------------------------------------------------
